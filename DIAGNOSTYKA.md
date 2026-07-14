@@ -1,8 +1,8 @@
-# IronRoot — diagnostyka — 2026-07-14 11:58 UTC
+# IronRoot — diagnostyka — 2026-07-14 18:37 UTC
 
 ## Wersja reguł
 ```
-sha256(rules.yaml) : f88122bc03aed418
+sha256(rules.yaml) : 663fefa307b4747f
 reguł              : 32
 wykluczeń          : 14
 id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, formy-ochrony, info-publiczna, kontrola, krajowy, lasy-prywatne, obrot-ziemia, plan-postepowan, powierzchnie-referencyjne, przetargi-lesne, pul-aneks, pul-decyzja, pul-dokument, pul-kzp, pul-material, pul-ntg, pul-projekt, rdos-inwestycje, rdos-las, rdos-nierozpoznane, rdos-ochrona-przyrody, strefy, tlo-finanse, tlo-obsluga-przetargow, tlo-srodki-zewnetrzne, wykaz-srodowiskowy, zarzadzenia-jednostki, zmiana-strony-krytycznej, zmiana-strony-pozostale
@@ -13,16 +13,16 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        4065
-  artykul         1583
+  dokument        4044
+  artykul         1565
 
 ── wg szczebla ──
-  nadlesnictwo      4490
-  rdos               578
+  nadlesnictwo      4467
+  rdos               563
   rdlp               500
   ministerstwo        31
   dglp                27
-  gdos                22
+  gdos                21
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
@@ -36,12 +36,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Brzeg] Ogłoszenie
       17×  zdjecie
           [Nadleśnictwo Orneta] Zdjęcie 1
-      16×  ochrona gatunkowa roslin,
-          [Generalna Dyrekcja Ochrony Środowiska] Ochrona gatunkowa roślin, zwierząt i grzybów
       16×  plan dzialalnosci bydgoszczy
           [RDOŚ Bydgoszcz] Plan działalności Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy na 202
-      16×  zasady nabywania gruntow
-          [Nadleśnictwo Człopa] Zasady nabywania gruntów leśnych lub przeznaczonych do zalesienia
       15×  przyroda roznorodnosc biologiczna
           [Generalna Dyrekcja Ochrony Środowiska] Przyroda i różnorodność biologiczna
       15×  inwazyjne gatunki obce
@@ -166,6 +162,10 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Wrocław] odpowiedź na petycję 1
        8×  ogloszenie naborze staz
           [RDLP Białymstoku] Ogłoszenie o naborze na staż 2026 Ogłoszenie_o_naborze_na_staż
+       8×  ogloszenie zamiarze sprzedazy
+          [RDLP Szczecinku] OGŁOSZENIE O ZAMIARZE SPRZEDAŻY PUSTOSTANU - LOKAL MIESZKALNY W SZCZECINKU
+       8×  zalaczniki
+          [RDLP Wrocławiu] Załączniki 1-4
 
 ```
 

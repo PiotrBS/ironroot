@@ -1,83 +1,35 @@
-# IronRoot — diagnostyka — 2026-07-14 11:49 UTC
+# IronRoot — diagnostyka — 2026-07-14 11:58 UTC
+
+## Wersja reguł
+```
+sha256(rules.yaml) : f88122bc03aed418
+reguł              : 32
+wykluczeń          : 14
+id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, formy-ochrony, info-publiczna, kontrola, krajowy, lasy-prywatne, obrot-ziemia, plan-postepowan, powierzchnie-referencyjne, przetargi-lesne, pul-aneks, pul-decyzja, pul-dokument, pul-kzp, pul-material, pul-ntg, pul-projekt, rdos-inwestycje, rdos-las, rdos-nierozpoznane, rdos-ochrona-przyrody, strefy, tlo-finanse, tlo-obsluga-przetargow, tlo-srodki-zewnetrzne, wykaz-srodowiskowy, zarzadzenia-jednostki, zmiana-strony-krytycznej, zmiana-strony-pozostale
+```
 
 ## Kubelek NIEZNANE - wzorce do nowych regul
 
 ```
 
 ── wg rodzaju ──
-  dokument        5528
-  artykul         1911
+  dokument        4065
+  artykul         1583
 
 ── wg szczebla ──
-  nadlesnictwo      5895
-  rdos               836
-  rdlp               602
-  gdos                46
-  ministerstwo        33
+  nadlesnictwo      4490
+  rdos               578
+  rdlp               500
+  ministerstwo        31
   dglp                27
+  gdos                22
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     351×  wniosek udostepnienie informacji
-          [RDLP Gdańsku] Wniosek o udostępnienie informacji (.pdf)
-      37×  pozycja tabeli oddzial
-          [Nadleśnictwo Giżycko] Pozycja nr 1 w Tabeli Nr 1 oddział 14 bx
-      30×  zestawienie wykorzystanych srodkow
-          [Nadleśnictwo Czarna Białostocka] Zestawienie_wykorzystanych_środków_zewnętrznych_w_roku_2021
-      30×  informacja wykonaniu zakupu
-          [Nadleśnictwo Węgierska Górka] Informacja_o_wykonaniu_zakupu_z_dnia_19_03_2026_(dz_3490_19-Juszc
-      29×  zawiadomienie uniewaznieniu postepowania
-          [Nadleśnictwo Andrychów] Zawiadomienie o unieważnieniu postepowania dla Pakietu nr IV
-      28×  projektowane powierzchnie referencyjne
-          [RDLP Pile] Projektowane powierzchnie referencyjne w Nadleśnictwie Złotów
-      28×  klauzula informacyjna rodo
-          [RDLP Zielonej Górze] Klauzula informacyjna RODO
-      27×  zestawienie roczne dotacji
-          [RDLP Katowicach] Zestawienie roczne dotacji z podziałem na zadania - 2009 rok
-      27×  wzor oferty
-          [Nadleśnictwo Ełk] Zalacznik nr 3 - wzór oferty
-      26×  informacja antykorupcyjna
-          [RDLP Poznaniu] Informacja antykorupcyjna
-      26×  dotacje zewnetrzne
-          [Nadleśnictwo Radzyń Podlaski] Dotacje_zewnętrzne__2023
-      25×  obszary chronionego krajobrazu
-          [Nadleśnictwo Gołdap] Obszary chronionego krajobrazu
-      24×  zbiorcza informacja petycjach
-          [Generalna Dyrekcja Ochrony Środowiska] Zbiorcza informacja o petycjach 2020 r.
-      24×  informacja kwocie jaka
-          [RDLP Toruniu] Informacja o kwocie jaką Zamawiający zamierza przeznaczyć na zadanie
-      22×  sprawozdanie lpir-4
-          [Nadleśnictwo Kołaczyce] Sprawozdanie LPIR-4 za rok 2023
-      21×  wykorzystanie publicznych srodkow
-          [Nadleśnictwo Krynki] Wykorzystanie publicznych środków zewnętrznych przez Nadleśnictwo Krynki w
-      20×  zawiadomienie generalnego grudnia
-          [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z
-      20×  darowizny udzielone przez
-          [Nadleśnictwo Pińczów] Darowizny udzielone przez Nadleśnictwo Pińczów w miesiącu kwietniu 2024r.
       20×  organizacja ruchu droga
           [Nadleśnictwo Karwin] Organizacja ruchu droga nr 1
       19×  oswiadczenie
           [RDLP Toruniu] oświadczenie zał nr 2
-      19×  klauzula informacyjna
-          [Nadleśnictwo Browsk] Klauzula informacyjna
-      19×  mapa przedmiotu dzierzawy
-          [Nadleśnictwo Gryfice] Załącznik nr 2 Mapa przedmiotu dzierżawy ZG.2217.1.59.2026
-      18×  zawiadomienie wyborze oferty
-          [RDLP Toruniu] Zawiadomienie o wyborze oferty komputery
-      18×  wykorzystanie srodkow zewnetrznych
-          [Nadleśnictwo Bielsk] Wykorzystanie środków zewnętrznych 2022-2025
-      17×  zawiadomienie generalnego lipca
-          [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z
-      17×  oswiadczenie stanie kontroli
-          [RDOŚ Bydgoszcz] Oświadczenie o stanie kontroli zarządczej za rok 2025
-      17×  obwieszczenie gorzowie wielkopolskim
-          [RDOŚ Gorzów Wlkp.] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopol
-      17×  opis przedmiotu zamowienia
-          [RDLP Warszawie] Opis przedmiotu zamówienia audyt certyfikujący FSC
-      17×  protokol otwarcia ofert
-          [Nadleśnictwo Augustów] Protokół z otwarcia ofert w sprawie zamówienia pn. „Rozbiórka budynku go
-      17×  zewnetrzne srodki finansowe
-          [Nadleśnictwo Maskulińskie] Zewnętrzne środki finansowe 2019
       17×  zaproszenie zlozenia oferty
           [Nadleśnictwo Choczewo] Zaproszenie do złożenia oferty na budowę przydomowej oczyszczalni ściekó
       17×  ogloszenie
@@ -88,20 +40,8 @@
           [Generalna Dyrekcja Ochrony Środowiska] Ochrona gatunkowa roślin, zwierząt i grzybów
       16×  plan dzialalnosci bydgoszczy
           [RDOŚ Bydgoszcz] Plan działalności Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy na 202
-      16×  zawiadomienie gdansku znak
-          [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO
-      16×  ogloszenie wyniku przetargu
-          [Nadleśnictwo Pomorze] Ogłoszenie o wyniku przetargu
-      16×  ogloszenie wynikow przetargu
-          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
-      16×  klauzula informacyjna przetwarzaniu
-          [Nadleśnictwo Lubliniec] KLAUZULA INFORMACYJNA O PRZETWARZANIU DANYCH OSOBOWYCH I PRAWACH Z TYM 
-      16×  olesno dotacje doplaty
-          [Nadleśnictwo Olesno] Nadleśnictwo Olesno - dotacje i dopłaty 2025 r.
       16×  zasady nabywania gruntow
           [Nadleśnictwo Człopa] Zasady nabywania gruntów leśnych lub przeznaczonych do zalesienia
-      16×  dzierzawa gruntu rolnego
-          [Nadleśnictwo Polanów] Dzierżawa gruntu rolnego dz. 26-10 (Borkowo 0004)
       15×  przyroda roznorodnosc biologiczna
           [Generalna Dyrekcja Ochrony Środowiska] Przyroda i różnorodność biologiczna
       15×  inwazyjne gatunki obce
@@ -114,8 +54,8 @@
           [Nadleśnictwo Pomorze] Informacja o unieważnieniu postępowania
       15×  srodki zewnetrzne
           [Nadleśnictwo Supraśl] Środki zewnętrzne za 2024 rok
-      15×  wykaz umow darowizny
-          [Nadleśnictwo Barycz] Wykaz umów darowizny zawartych przez Nadleśnictwo Barycz w miesiącu kwietn
+      15×  ogloszenie wynikow przetargu
+          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       15×  srodki zewnetrzne wykorzystane
           [Nadleśnictwo Miastko] Środki zewnętrzne wykorzystane w 2011 roku
       15×  otrzymane srodki publiczne
@@ -128,10 +68,10 @@
           [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       14×  kwestionariusz osobowy kandydata
           [RDLP Warszawie] załącznik nr 1 - Kwestionariusz osobowy kandydata na pracownika LP referent / s
+      14×  ogloszenie wyniku przetargu
+          [Nadleśnictwo Pomorze] Ogłoszenie o wyniku przetargu
       14×  zg.0172.05.2024
           [Nadleśnictwo Starogard] ZG.0172.05.2024 - załącznik 1
-      14×  darowizny
-          [Nadleśnictwo Gostynin] Darowizny_05_2026
       13×  gatunki niebezpieczne
           [RDOŚ Białystok] Gatunki niebezpieczne
       13×  monitoring dane przyrodnicze
@@ -158,6 +98,74 @@
           [Nadleśnictwo Pińczów] Zapytanie sondaż rynku
       11×  ogrody botaniczne zoologiczne
           [Generalna Dyrekcja Ochrony Środowiska] Ogrody botaniczne i zoologiczne
+      11×  informacja zbiorcza petycjach
+          [RDOŚ Białystok] Informacja zbiorcza o petycjach rozpatrzonych w 2025 roku
+      11×  informacja rozpatrzonych petycjach
+          [RDOŚ Gorzów Wlkp.] Informacja o rozpatrzonych petycjach w 2025 roku
+      11×  ogloszenie przetargu nieograniczonym
+          [Nadleśnictwo Nurzec] Ogłoszenie III o przetargu nieograniczonym na sprzedaż przyczepy asenizacy
+      11×  sprzedaz tusz zwierzyny
+          [Nadleśnictwo Olecko] Sprzedaż tusz zwierzyny łownej pozyskanej w OHZ w sezonie łowieckim 2026/2
+      11×  kosztorys ofertowy
+          [Nadleśnictwo Choczewo] Załącznik nr 3 - kosztorys ofertowy
+      11×  informacja rodo
+          [Nadleśnictwo Kobiór] Informacja RODO
+      11×  wniosek udostepnienie
+          [Nadleśnictwo Wisła] Wniosek o udostępnienie
+      11×  regulaminu zfss
+          [Nadleśnictwo Kaczory] Załącznik nr 1 do Regulaminu ZFŚS str 1
+      11×  otrzymane srodki zewnetrzne
+          [Nadleśnictwo Osusznica] Otrzymane środki zewnętrzne w 2021 r.
+      10×  zbiorcza informacja rozpatrzonych
+          [Ministerstwo Klimatu i Środowiska] Zbiorcza informacja o rozpatrzonych petycjach
+      10×  projekt umowy
+          [RDLP Warszawie] BSP - Projekt umowy
+      10×  informacja wyborze oferty
+          [RDLP Warszawie] Informacja o wyborze oferty - Bitdefender
+      10×  grunty skarbu panstwa
+          [RDLP Zielonej Górze] Grunty Skarbu Państwa w zarządzie LP - RDLP Zielona Góra - 2025
+      10×  przetarg nieograniczony sprzedaz
+          [Nadleśnictwo Łomża] Przetarg nieograniczony na sprzedaż siatki z demontażu grodzeń (materiał uż
+      10×  przetarg pisemny nieograniczony
+          [Nadleśnictwo Rajgród] Przetarg pisemny nieograniczony na sprzedaż tusz zwierzyny łownej.
+      10×  cennik detaliczny drewna
+          [Nadleśnictwo Supraśl] Cennik detaliczny drewna
+      10×  zestawienie publicznych zewnetrznych
+          [Nadleśnictwo Żednia] Zestawienie publicznych zewnętrznych środków finansowych wykorzystanych w 
+      10×  informacja zamiarze transakcji
+          [Nadleśnictwo Choczewo] Załącznik_nr_1-_Informacja_o_zamiarze_transakcji_zamiany
+      10×  protokol wyboru najkorzystniejszej
+          [Nadleśnictwo Lipusz] Protokół z wyboru najkorzystniejszej ofert na sprzedaż sprzętu elektronicz
+      10×  zakup energii elektrycznej
+          [Nadleśnictwo Gidle] Zakup energii elektrycznej na potrzeby obiektów Nadleśnictwa Gidle
+      10×  wykonanie dokumentacji projektowej
+          [Nadleśnictwo Kędzierzyn] Wykonanie dokumentacji projektowej remontu dostrzegalni przeciwpożarow
+      10×  wstepne ogloszenie informacyjne
+          [Nadleśnictwo Dynów] Wstępne ogłoszenie informacyjne 2024 2
+      10×  sprzedaz srodkow trwalych
+          [Nadleśnictwo Mircze] Sprzedaż środków trwałych
+      10×  budowa dojazdu pozarowego
+          [Nadleśnictwo Radzyń Podlaski] Budowa dojazdu pożarowego nr 29 o długości 1480 mb w leśnictwie T
+       9×  petycja zajecie stanowiska
+          [RDOŚ Łódź] Petycja o zajęcie stanowiska w sprawie budowy 13 budynków mieszkalnych wielorodzinny
+       9×  objasnienia numeracji (kodow)
+          [RDLP Warszawie] Objaśnienia numeracji (kodów) HCV
+       9×  druk oferty
+          [Nadleśnictwo Nurzec] Druk oferty
+       9×  cennik detaliczny drewno
+          [Nadleśnictwo Lębork] Cennik detaliczny na drewno i stroisz - Załącznik nr 1 do Decyzji 21
+       9×  zamowienia poza ustawa
+          [Nadleśnictwo Kobiór] Zamówienia poza ustawą Prawo Zamówień Publicznych
+       8×  wyszukiwarka zamowien publicznych
+          [RDOŚ Białystok] Wyszukiwarka zamówień publicznych
+       8×  kontrola zarzadcza
+          [RDOŚ Gdańsk] Kontrola zarządcza
+       8×  plan kontroli rdos
+          [RDOŚ Gdańsk] Plan kontroli RDOŚ w 2026 roku
+       8×  odpowiedz petycje
+          [RDOŚ Wrocław] odpowiedź na petycję 1
+       8×  ogloszenie naborze staz
+          [RDLP Białymstoku] Ogłoszenie o naborze na staż 2026 Ogłoszenie_o_naborze_na_staż
 
 ```
 

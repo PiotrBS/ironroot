@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-14 18:37 UTC
+# IronRoot — diagnostyka — 2026-07-15 07:53 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        4044
-  artykul         1565
+  dokument        4059
+  artykul         1566
 
 ── wg szczebla ──
-  nadlesnictwo      4467
+  nadlesnictwo      4483
   rdos               563
   rdlp               500
   ministerstwo        31
@@ -30,7 +30,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Karwin] Organizacja ruchu droga nr 1
       19×  oswiadczenie
           [RDLP Toruniu] oświadczenie zał nr 2
-      17×  zaproszenie zlozenia oferty
+      18×  zaproszenie zlozenia oferty
           [Nadleśnictwo Choczewo] Zaproszenie do złożenia oferty na budowę przydomowej oczyszczalni ściekó
       17×  ogloszenie
           [Nadleśnictwo Brzeg] Ogłoszenie
@@ -64,6 +64,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       14×  kwestionariusz osobowy kandydata
           [RDLP Warszawie] załącznik nr 1 - Kwestionariusz osobowy kandydata na pracownika LP referent / s
+      14×  parki krajobrazowe
+          [Nadleśnictwo Gołdap] Parki Krajobrazowe
       14×  ogloszenie wyniku przetargu
           [Nadleśnictwo Pomorze] Ogłoszenie o wyniku przetargu
       14×  zg.0172.05.2024
@@ -74,8 +76,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Białystok] Monitoring i dane przyrodnicze
       13×  mapa obszaru zakwalifikowanego
           [RDLP Zielonej Górze] Mapa obszaru zakwalifikowanego do zabiegu - Nadleśnictwo Gubin
-      13×  parki krajobrazowe
-          [Nadleśnictwo Gołdap] Parki Krajobrazowe
       13×  rejestr nieruchomosci
           [Nadleśnictwo Szczebra] Rejestr nieruchomości
       13×  informacja udzieleniu zamowienia
@@ -86,6 +86,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Białystok] Edukacja przyrodnicza
       12×  wniosek udzielenie informacji
           [RDLP Lublinie] Wniosek o udzielenie informacji
+      12×  ogloszenie przetargu nieograniczonym
+          [Nadleśnictwo Nurzec] Ogłoszenie III o przetargu nieograniczonym na sprzedaż przyczepy asenizacy
       12×  ogloszenie sprzedazy pustostanu
           [Nadleśnictwo Lipusz] Ogłoszenie o sprzedaży pustostanu
       12×  ogloszenia
@@ -98,8 +100,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Białystok] Informacja zbiorcza o petycjach rozpatrzonych w 2025 roku
       11×  informacja rozpatrzonych petycjach
           [RDOŚ Gorzów Wlkp.] Informacja o rozpatrzonych petycjach w 2025 roku
-      11×  ogloszenie przetargu nieograniczonym
-          [Nadleśnictwo Nurzec] Ogłoszenie III o przetargu nieograniczonym na sprzedaż przyczepy asenizacy
       11×  sprzedaz tusz zwierzyny
           [Nadleśnictwo Olecko] Sprzedaż tusz zwierzyny łownej pozyskanej w OHZ w sezonie łowieckim 2026/2
       11×  kosztorys ofertowy
@@ -173,26 +173,26 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 34591 wierszy z 463 źródeł
+Korpus: 34721 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-     746  RDOŚ Kraków
-     741  Dyrekcja Generalna LP
+     756  RDOŚ Kraków
+     743  Dyrekcja Generalna LP
      698  RDLP Toruniu
      449  Nadleśnictwo Trzcianka
-     376  Nadleśnictwo Jamy
+     377  Nadleśnictwo Jamy
      363  Nadleśnictwo Miastko
      332  RDLP Warszawie
-     317  Nadleśnictwo Pińczów
+     319  Nadleśnictwo Pińczów
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     28884
-  rdlp              2742
-  rdos              2040
-  dglp               741
+  nadlesnictwo     28979
+  rdlp              2752
+  rdos              2063
+  dglp               743
   gdos               137
   ministerstwo        47
 

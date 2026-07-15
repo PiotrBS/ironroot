@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-15 07:53 UTC
+# IronRoot — diagnostyka — 2026-07-15 16:18 UTC
 
 ## Wersja reguł
 ```
@@ -14,12 +14,12 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ── wg rodzaju ──
   dokument        4059
-  artykul         1566
+  artykul         1570
 
 ── wg szczebla ──
-  nadlesnictwo      4483
-  rdos               563
-  rdlp               500
+  nadlesnictwo      4485
+  rdos               564
+  rdlp               501
   ministerstwo        31
   dglp                27
   gdos                21
@@ -68,6 +68,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Gołdap] Parki Krajobrazowe
       14×  ogloszenie wyniku przetargu
           [Nadleśnictwo Pomorze] Ogłoszenie o wyniku przetargu
+      14×  rejestr nieruchomosci
+          [Nadleśnictwo Szczebra] Rejestr nieruchomości
       14×  zg.0172.05.2024
           [Nadleśnictwo Starogard] ZG.0172.05.2024 - załącznik 1
       13×  gatunki niebezpieczne
@@ -76,8 +78,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Białystok] Monitoring i dane przyrodnicze
       13×  mapa obszaru zakwalifikowanego
           [RDLP Zielonej Górze] Mapa obszaru zakwalifikowanego do zabiegu - Nadleśnictwo Gubin
-      13×  rejestr nieruchomosci
-          [Nadleśnictwo Szczebra] Rejestr nieruchomości
       13×  informacja udzieleniu zamowienia
           [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
       13×  korzystanie srodkow zewnetrznych
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 34721 wierszy z 463 źródeł
+Korpus: 34818 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-     756  RDOŚ Kraków
+     760  RDOŚ Kraków
      743  Dyrekcja Generalna LP
      698  RDLP Toruniu
-     449  Nadleśnictwo Trzcianka
-     377  Nadleśnictwo Jamy
+     451  Nadleśnictwo Trzcianka
+     378  Nadleśnictwo Jamy
      363  Nadleśnictwo Miastko
      332  RDLP Warszawie
      319  Nadleśnictwo Pińczów
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     28979
-  rdlp              2752
-  rdos              2063
+  nadlesnictwo     29038
+  rdlp              2764
+  rdos              2083
   dglp               743
-  gdos               137
-  ministerstwo        47
+  gdos               139
+  ministerstwo        51
 
 ```

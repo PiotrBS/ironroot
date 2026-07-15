@@ -4,7 +4,7 @@ description: >
   Składa dzienny raport IronRoot w PDF z komentarzem analitycznym i dostarcza go
   użytkownikowi. Użyj, gdy użytkownik prosi o „raport", „PDF", „dzisiejszy raport",
   „złóż raport", „komentarz do raportu" w kontekście monitoringu IronRoot (BIP Lasów
-  Państwowych / RDOŚ / ministerstwo). Czyta gotowe dane z reports/<data>.json,
+  Państwowych / RDOŚ / ministerstwo). Czyta gotowe dane z pliku reports/RRRR-MM-DD.json,
   pisze komentarz wg stałej formy, renderuje PDF przez tools/render_pdf.py i wysyła
   plik. NIE commituje do repo (sesja jest read-only) — dostarczenie PDF jest wynikiem.
 ---
@@ -13,7 +13,7 @@ description: >
 
 Twoja rola: dołożyć **komentarz analityczny** do gotowych danych i złożyć z tego
 czytelny PDF, po czym **dostarczyć go użytkownikowi**. Danych nie generujesz —
-robi to automat (07:15) i zapisuje w `reports/<data>.json`. Wyglądu nie projektujesz
+robi to automat (07:15) i zapisuje w `reports/RRRR-MM-DD.json`. Wyglądu nie projektujesz
 — jest w `templates/raport.html`. Ty dajesz ocenę i uruchamiasz renderer.
 
 ## Zasady nadrzędne
@@ -29,17 +29,17 @@ robi to automat (07:15) i zapisuje w `reports/<data>.json`. Wyglądu nie projekt
 ## Kroki
 
 1. **Ustal datę.** Domyślnie dziś (UTC). Jeśli użytkownik podał inną — użyj jej.
-   Znajdź `reports/<data>.json`. Jeśli nie ma:
+   Znajdź `reports/RRRR-MM-DD.json`. Jeśli nie ma:
    - sprawdź najświeższy `reports/*.json`;
    - jeśli w ogóle brak plików `.json` → powiedz użytkownikowi, że automat nie
      wygenerował jeszcze danych strukturalnych (wymaga wdrożonego `report.json`
      w `ironroot.py`) i zaproponuj datę, dla której dane są.
 
-2. **Wczytaj dane.** Przeczytaj `reports/<data>.json`. Zwróć uwagę na:
+2. **Wczytaj dane.** Przeczytaj `reports/RRRR-MM-DD.json`. Zwróć uwagę na:
    `sekcje.obszary_szczegolne`, `sekcje.p1` (zegar tyka), `zdrowie` (kanarki, błędy),
    oraz pole `bdl` przy sprawach.
 
-3. **Napisz komentarz** do `komentarz/<data>.md` wg stałej formy (`INSTRUKCJE-RAPORT.md` §3):
+3. **Napisz komentarz** do `komentarz/RRRR-MM-DD.md` wg stałej formy (`INSTRUKCJE-RAPORT.md` §3):
    - `**Jednym zdaniem:**` — wniosek, także gdy brzmi „nic pilnego".
    - `### Wymaga decyzji` — dla spraw ⭐/P1: FAKT · ZNACZENIE (wpleć dane BDL!) ·
      ZEGAR · OPCJE · **NIE WIEM** (obowiązkowe) · DOWÓD (hash z JSON-a).
@@ -60,12 +60,12 @@ robi to automat (07:15) i zapisuje w `reports/<data>.json`. Wyglądu nie projekt
 
 5. **Złóż PDF:**
    ```
-   python tools/render_pdf.py --data <data>
+   python tools/render_pdf.py --data RRRR-MM-DD
    ```
-   Powstanie `raporty-pdf/<data>.pdf`. Sprawdź, że plik istnieje i ma rozsądny rozmiar.
+   Powstanie `raporty-pdf/RRRR-MM-DD.pdf`. Sprawdź, że plik istnieje i ma rozsądny rozmiar.
 
 6. **Dostarcz PDF użytkownikowi** — to jest wynik skilla. Przekaż plik
-   `raporty-pdf/<data>.pdf` mechanizmem dostarczania plików (nie wklejaj treści PDF do czatu).
+   `raporty-pdf/RRRR-MM-DD.pdf` mechanizmem dostarczania plików (nie wklejaj treści PDF do czatu).
 
 7. **Krótkie podsumowanie w czacie:** jedno zdanie + liczby (ile ⭐/P1, ile spraw z danymi BDL,
    czy kanarki zdrowe). Bez powtarzania całego komentarza — on jest w PDF.

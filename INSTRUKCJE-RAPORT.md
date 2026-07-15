@@ -48,11 +48,18 @@ Trzymaj się dokładnie tej struktury — bez niej po miesiącu nikt tego nie cz
 Jest zgodna z `PROTOKOL.md` §4 w repo prywatnym. Pisz **markdownem**; renderer
 sam usunie ewentualne emoji (w PDF się nie renderują — znaczenie ma tekst).
 
+> ⚠ **Zawsze zostawiaj pustą linię przed listą punktowaną.** Renderer
+> (`markdown` + rozszerzenie `nl2br`) bez pustej linii między poprzednim akapitem
+> a `- pierwszym punktem` NIE rozpozna listy — w PDF wyjdzie płaski tekst z
+> myślnikami zamiast punktorów. Widać to dokładnie we wzorcu niżej: pusta linia
+> jest MIĘDZY `**[Jednostka] — [sprawa]**` a `- **FAKT**`, nie od razu po niej.
+
 ```markdown
 **Jednym zdaniem:** [wniosek — także gdy brzmi „nic pilnego"]
 
 ### Wymaga decyzji
 **[Jednostka] — [sprawa]**
+
 - **FAKT** — co dokładnie opublikowano i kiedy (data z metryki BIP)
 - **ZNACZENIE** — co to zmienia; TU wpleć dane BDL, jeśli są (gatunek, wiek,
   powierzchnia, ochronność) — to one odróżniają 148-letni dąb od sosny z lat 70.

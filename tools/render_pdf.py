@@ -33,9 +33,12 @@ TEMPLATES = ROOT / "templates"
 
 # Kolorowe emoji do usunięcia z komentarza — WeasyPrint renderuje je jako puste
 # kwadraty. Celowo NIE ruszamy ★ (U+2605), ⚠ (U+26A0) ani → (U+2192) — te
-# renderują się poprawnie i bywają w danych. Bierzemy blok emoji + kilka
-# pojedynczych (✅ ⬆ ☑) i selektory wariantu (️).
-EMOJI_RE = re.compile("[\U0001F000-\U0001FAFF✅✔☑⬆⬇️]+")
+# renderują się poprawnie i bywają w danych. Bierzemy:
+#   · blok emoji U+1F000–1FAFF (🔴 🟠 📈 💬 🌳 …),
+#   · blok symboli/strzałek U+2B00–2BFF (⭐ ⬆ ⬇ ⬛ ⬜) — TU była dziura: ⭐
+#     (U+2B50) przeciekała jako pusty kwadrat,
+#   · pojedyncze ✅ ✔ ☑ i selektory wariantu (️).
+EMOJI_RE = re.compile("[\U0001F000-\U0001FAFF\U00002B00-\U00002BFF✅✔☑️]+")
 REPORTS = ROOT / "reports"
 KOMENTARZ = ROOT / "komentarz"
 OUT_DIR = ROOT / "raporty-pdf"
@@ -95,10 +98,29 @@ def przygotuj(i: dict) -> dict:
     return i
 
 
+def _ma_sygnal(i: dict) -> bool:
+    """Czy pozycja P3 niesie realny sygnał, czy to proceduralny szum.
+
+    Sygnał = ma dane BDL (konkretne wydzielenie), albo termin, albo nazwany
+    obszar chroniony / eskalację przyrodniczą. Reszta (masowe 'Zmiana w BIP:
+    Zarządzenia i decyzje', obwieszczenia RDOŚ bez tematu) to ogon, który w
+    druku zwijamy do licznika — pełna lista i tak jest w reports/<data>.md.
+    """
+    k = i.get("kontekst") or {}
+    return (bool(i.get("bdl_disp")) or bool(i.get("termin"))
+            or bool(k.get("obszary")) or (k.get("waga", 0) >= 1))
+
+
 def render(data: dict, komentarz_md: str | None, out: Path) -> None:
     for sekcja in data.get("sekcje", {}).values():
         for i in sekcja:
             przygotuj(i)
+
+    # P3 — tylko sygnały niosące treść trafiają do tabeli; proceduralny ogon
+    # zwijamy do jednej linijki z licznikiem (pełna lista w repo, w .md).
+    p3 = data.get("sekcje", {}).get("p3", [])
+    p3_sygnaly = [i for i in p3 if _ma_sygnal(i)]
+    p3_reszta = len(p3) - len(p3_sygnaly)
 
     # rozkład — procenty do słupków
     rozklad = data.get("rozklad", [])
@@ -122,7 +144,8 @@ def render(data: dict, komentarz_md: str | None, out: Path) -> None:
     html = tpl.render(
         meta=data.get("meta", {}), zdrowie=data.get("zdrowie") or {},
         liczby=data.get("liczby", {}), rozklad=rozklad,
-        sekcje=data.get("sekcje", {}), komentarz_html=komentarz_html)
+        sekcje=data.get("sekcje", {}), komentarz_html=komentarz_html,
+        p3_sygnaly=p3_sygnaly, p3_reszta=p3_reszta)
 
     out.parent.mkdir(parents=True, exist_ok=True)
     HTML(string=html, base_url=str(ROOT)).write_pdf(str(out))

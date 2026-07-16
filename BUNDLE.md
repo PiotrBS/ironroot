@@ -1,6 +1,6 @@
-# IronRoot — wyciąg do analizy — 2026-07-15
+# IronRoot — wyciąg do analizy — 2026-07-16
 
-Okno 7 dni · pozycji 223 · obszary szczególne 3 · nieznanych 20
+Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -88,6 +88,10 @@ Okno 7 dni · pozycji 223 · obszary szczególne 3 · nieznanych 20
   https://www.gov.pl/web/nadlesnictwo-glusko/informacja-o-kontrolach  (BIP: 2026-07-15 14:28)
 -  [Nadleśnictwo Milicz] Zmiana w BIP: Plan urządzenia lasu
   https://www.gov.pl/web/nadlesnictwo-milicz/plan-urzadzenia-lasu  (BIP: 2026-07-15 13:15)
+-  [Nadleśnictwo Waliły] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-walily/informacja-o-kontrolach  (BIP: 2026-07-16 08:28)
+-  [Nadleśnictwo Gdańsk] Publiczny pisemny nieograniczony przetarg na dzierżawę
+  https://www.gov.pl/web/nadlesnictwo-gdansk/publiczny-pisemny-nieograniczony-przetarg-na-dzierzawe3  (BIP: 2025-10-22 09:29)
 
 ## P3 — sygnały
 
@@ -414,6 +418,37 @@ Okno 7 dni · pozycji 223 · obszary szczególne 3 · nieznanych 20
 -  [Nadleśnictwo Wolsztyn] Decyzja nr 15 Nadleśniczego Nadleśnictwa Wolsztyn z dnia 15 lipca 2026 r. w sprawie ustalenia cennika sprzedaży detalicznej na drewno
   https://www.gov.pl/attachment/00fbffd4-c104-48d9-98c4-5574d3c99ae9  (BIP: 2026-07-15 14:40)
   📍 Nadl. Wolsztyn → leśn. Wolsztyn
+-  [RDOŚ Gorzów Wlkp.] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-gorzow-wielkopolski/rok-20220  (BIP: ?)
+-  [RDOŚ Gorzów Wlkp.] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopolskim z 14 lipca 2026 roku, znak: WOOŚ.420.41.2026.DM
+  https://www.gov.pl/web/rdos-gorzow-wielkopolski/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gorzowie-wielkopolskim-z-14-lipca-2026-roku-znak-woos420412026dm  (BIP: 2026-07-14 00:00)
+-  [RDOŚ Katowice] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-katowice/rok2026  (BIP: ?)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-15 r. znak WOOŚ.4235.10.2016.KC.126
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos4235102016kc126  (BIP: 2026-07-15 00:00)
+-  [RDOŚ Łódź] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-lodz/rok-20225  (BIP: ?)
+-  [RDOŚ Łódź] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚI.4221.1.2026.PS.9
+  https://www.gov.pl/web/rdos-lodz/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsi422112026ps9  (BIP: 2026-07-15 00:00)
+-  [RDOŚ Warszawa] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026  (BIP: ?)
+-  [Nadleśnictwo Jarosław] Zmiana w BIP: Zarzadzenia i Decyzje
+  https://www.gov.pl/web/nadlesnictwo-jaroslaw/zarzadzenia-i-decyzje  (BIP: 2026-07-16 09:27)
+-  [Nadleśnictwo Jarosław] wykaz obowiązujących zarządzeń i decyzji, stan na dzień 10.07.2026r.
+  https://www.gov.pl/attachment/7cc21943-03f1-4610-aac0-6b0f442bf84c  (BIP: 2026-07-16 09:27)
+-  [Nadleśnictwo Oleszyce] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-oleszyce/zarzadzenia-i-decyzje  (BIP: 2026-07-16 09:25)
+-  [Nadleśnictwo Oleszyce] ZARZĄDZENIA Nadleśniczego - stan na 16.07.2026r. ZARZĄDZENIA Nadleśniczego - stan na
+  https://www.gov.pl/attachment/91593939-bb77-4f60-adc8-3778b97ba724  (BIP: 2026-07-16 09:25)
+-  [Nadleśnictwo Piotrków] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-piotrkow/wystapienia-komunikaty-i-ogloszenia2  (BIP: 2026-07-16 07:50)
+-  [Nadleśnictwo Krzyż] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-krzyz/zarzadzenia-i-decyzje  (BIP: 2026-07-16 08:18)
+-  [Nadleśnictwo Potrzebowice] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-potrzebowice/zarzadzenia-i-decyzje  (BIP: 2026-07-16 09:14)
+-  [Nadleśnictwo Potrzebowice] Zarządzenie Nadleśniczego Nadleśnictwa Potrzebowice wydane w 2026 roku
+  https://www.gov.pl/attachment/259d72ba-3e01-46af-9981-d9c5b60d699f  (BIP: 2026-07-16 09:14)
+  📍 Nadl. Potrzebowice → leśn. Potrzebowice
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 

@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-15 16:18 UTC
+# IronRoot — diagnostyka — 2026-07-16 08:02 UTC
 
 ## Wersja reguł
 ```
@@ -173,13 +173,13 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 34818 wierszy z 463 źródeł
+Korpus: 34837 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-     760  RDOŚ Kraków
+     762  RDOŚ Kraków
      743  Dyrekcja Generalna LP
      698  RDLP Toruniu
      451  Nadleśnictwo Trzcianka
@@ -189,9 +189,9 @@ Korpus: 34818 wierszy z 463 źródeł
      319  Nadleśnictwo Pińczów
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     29038
+  nadlesnictwo     29048
   rdlp              2764
-  rdos              2083
+  rdos              2092
   dglp               743
   gdos               139
   ministerstwo        51

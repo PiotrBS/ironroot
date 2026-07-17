@@ -1,6 +1,6 @@
-# IronRoot — wyciąg do analizy — 2026-07-16
+# IronRoot — wyciąg do analizy — 2026-07-17
 
-Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
+Okno 7 dni · pozycji 345 · obszary szczególne 3 · nieznanych 31
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -59,6 +59,8 @@ Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
 - ★ [Nadleśnictwo Gdańsk] Pomniki przyrody
   https://www.gov.pl/attachment/d6b0fced-3d93-40e5-9774-e5b197e92eb6  (BIP: 2026-07-14 14:08)
   🌲 forma ochrony przyrody
+-  [Nadleśnictwo Gdańsk] Parki krajobrazowe
+  https://www.gov.pl/attachment/051dcc97-3f7a-4a43-8725-0c7e5d302804  (BIP: 2026-07-14 14:08)
 -  [Nadleśnictwo Gdańsk] Obszary Natura 2000
   https://www.gov.pl/attachment/6a88b660-3e30-4a83-a1da-debac493e231  (BIP: 2026-07-14 14:08)
 - ★ [Nadleśnictwo Gdańsk] Obszary chronionego krajobrazu
@@ -92,6 +94,36 @@ Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
   https://www.gov.pl/web/nadlesnictwo-walily/informacja-o-kontrolach  (BIP: 2026-07-16 08:28)
 -  [Nadleśnictwo Gdańsk] Publiczny pisemny nieograniczony przetarg na dzierżawę
   https://www.gov.pl/web/nadlesnictwo-gdansk/publiczny-pisemny-nieograniczony-przetarg-na-dzierzawe3  (BIP: 2025-10-22 09:29)
+-  [Nadleśnictwo Knyszyn] Zmiana w BIP: Ochrona przyrody
+  https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody  (BIP: 2026-07-16 12:58)
+-  [Nadleśnictwo Kwidzyn] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach  (BIP: 2026-07-16 11:30)
+-  [Nadleśnictwo Dąbrowa Tarnowska] Ogłoszenie o przetargu_dzierżawa_postępowanie II
+  https://www.gov.pl/attachment/6e6a0994-676d-4892-b0f7-48fbc60ce1e0  (BIP: 2026-07-16 12:18)
+-  [Nadleśnictwo Świdnik] Informacja o zamiarze przeprowadzenia transakcji zamiany nieruchomości 16072026
+  https://www.gov.pl/attachment/83c6e309-2a80-40e4-9366-6bab20d2e219  (BIP: 2026-07-16 14:46)
+-  [Nadleśnictwo Łąck] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-lack/informacja-o-kontrolach  (BIP: 2026-07-16 10:17)
+-  [Nadleśnictwo Łąck] Wykaz kontroli zewnętrznych
+  https://www.gov.pl/attachment/b2852508-5d93-4dcf-8a61-409de8a336a7  (BIP: 2026-07-16 10:17)
+-  [Nadleśnictwo Zdrojowa Góra] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/informacja-o-kontrolach  (BIP: 2026-07-16 12:22)
+-  [Nadleśnictwo Czerniejewo] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-czerniejewo/informacja-o-kontrolach  (BIP: 2026-07-16 14:37)
+-  [Nadleśnictwo Czerniejewo] Wykaz kontroli wewnętrznych w 2025 r.
+  https://www.gov.pl/attachment/e7b1e309-db82-4fae-afd4-e46325a93be2  (BIP: 2026-07-16 14:37)
+-  [Nadleśnictwo Czerniejewo] Wykaz kontroli zewnętrznych w 2025 r.
+  https://www.gov.pl/attachment/556f54d1-7b60-4863-9848-121ba18fd6e1  (BIP: 2026-07-16 14:37)
+-  [Nadleśnictwo Łopuchówko] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-lopuchowko/informacja-o-kontrolach3  (BIP: 2026-07-16 10:18)
+-  [Nadleśnictwo Oborniki] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-oborniki/informacja-o-kontrolach  (BIP: 2026-07-17 09:40)
+-  [Nadleśnictwo Oborniki] Wykaz_kontroli_zewnętrznych_-_stan_na_dzień_22.06.2026
+  https://www.gov.pl/attachment/a5d39df1-3acb-404d-a952-45daee8cdf31  (BIP: 2026-07-17 09:40)
+-  [Nadleśnictwo Sokołów] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-sokolow/informacja-o-kontrolach  (BIP: 2026-07-16 12:51)
+-  [Nadleśnictwo Sokołów] Informacja o kontrolach przeprowadzonych w Nadleśnictwie Sokołów w 2026 roku
+  https://www.gov.pl/attachment/59cce9a8-aee9-494d-85c2-539678d09733  (BIP: 2026-07-16 12:51)
 
 ## P3 — sygnały
 
@@ -170,6 +202,10 @@ Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
   https://www.gov.pl/attachment/1b7fc35d-a53b-4048-bed8-a5f0d09812ac  (BIP: 2026-07-14 14:12)
 -  [Nadleśnictwo Kaliska] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
   https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-14 10:27)
+-  [Nadleśnictwo Kaliska] Zaproszenie do złożenia oferty (WYCINKA DRZEW) Zaproszenie do złożenia oferty (WYCINKA
+  https://www.gov.pl/attachment/5a84e9b7-a66d-4443-a5a7-ebf778f6c8a6  (BIP: 2026-07-14 10:27)
+-  [Nadleśnictwo Kaliska] Formularz oferty (WYCINKA DRZEW) Formularz oferty (WYCINKA
+  https://www.gov.pl/attachment/ee5d0a2f-8c4e-45d1-915b-46304dbee5e0  (BIP: 2026-07-14 10:27)
 -  [Nadleśnictwo Jeleśnia] Zmiana w BIP: Zarządzenia i decyzje
   https://www.gov.pl/web/nadlesnictwo-jelesnia/zarzadzenia-i-decyzje1  (BIP: 2026-07-14 13:37)
 -  [Nadleśnictwo Nowa Dęba] Zmiana w BIP: Zarządzenia i decyzje
@@ -263,8 +299,6 @@ Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
   https://www.gov.pl/web/nadlesnictwo-wymiarki/zarzadzenia-i-decyzje  (BIP: 2026-07-14 10:32)
 -  [Nadleśnictwo Wymiarki] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
   https://www.gov.pl/web/nadlesnictwo-wymiarki/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-14 10:32)
--  [Nadleśnictwo Wymiarki] Zarządzenie 30 2026 w sprawie wprowadzenia cennika na drewno użytkowe i opałowe w obrocie detalicznym na 2026 rok
-  https://www.gov.pl/attachment/26f14052-3adf-4789-a8d8-b05dfa513e62  (BIP: 2026-07-14 10:32)
 -  [Nadleśnictwo Wymiarki] załącznik do zarządzenia 30/2026
   https://www.gov.pl/attachment/4ce76b43-298a-4ffc-91fc-2c99f2b4fff3  (BIP: 2026-07-14 10:32)
 -  [Ministerstwo Klimatu i Środowiska] Zmiana w BIP: Zamówienia publiczne
@@ -449,18 +483,166 @@ Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
 -  [Nadleśnictwo Potrzebowice] Zarządzenie Nadleśniczego Nadleśnictwa Potrzebowice wydane w 2026 roku
   https://www.gov.pl/attachment/259d72ba-3e01-46af-9981-d9c5b60d699f  (BIP: 2026-07-16 09:14)
   📍 Nadl. Potrzebowice → leśn. Potrzebowice
+-  [Generalna Dyrekcja Ochrony Środowiska] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/gdos/rok-20216  (BIP: ?)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42022026afi15  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.8.2026.AFI.10
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42082026afi10  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.3.2026.AFI.14
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42032026afi14  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.4711.1.2022.MKW.12 (stary znak: DOA-WSzOP.4711.4.2022.MBA)
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii471112022mkw12-stary-znak-doa-wszop471142022mba  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsiii42032026mk3  (BIP: 2026-07-15 00:00)
+-  [RDOŚ Bydgoszcz] Zmiana w BIP: Obwieszczenia i zawiadomienia
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia  (BIP: ?)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.5,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj5  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.4,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj4  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.3,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj3  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.2,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj2  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.1,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj1  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.2,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj2  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.1,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj1  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.2,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj2  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.1,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj1  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Gdańsk] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenia-2026  (BIP: ?)
+-  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 8 maja 2026 roku
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-8-maja-2026-roku  (BIP: 2026-05-08 00:00)
+-  [RDOŚ Katowice] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-katowice/rok2026  (BIP: ?)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-doos-wdsii42082026afl10  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Katowice] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.3.2026.AFl.14
+  https://www.gov.pl/web/rdos-katowice/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-2026-07-16-r-znak-doos-wdsii42032026afl14  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Kielce] Zmiana w BIP: 2026 rok
+  https://www.gov.pl/web/rdos-kielce/2026-rok  (BIP: ?)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.17.2024.PJ/SK.41
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Skargi i wnioski
+  https://www.gov.pl/web/rdos-olsztyn/skargi-i-wnioski  (BIP: 2026-07-16 11:30)
+-  [RDOŚ Wrocław] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-wroclaw/rok-20214  (BIP: ?)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2023.WM.57
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292023wm57  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., WOOŚ.420.63.2024.JS.34
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-woos420632024js34  (BIP: 2026-07-16 00:00)
+-  [RDLP Gdańsku] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-gdansku/zarzadzenia-i-decyzje  (BIP: 2026-07-16 14:29)
+-  [RDLP Szczecinie] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-szczecinie/zarzadzenia-i-decyzje  (BIP: 2026-07-17 06:51)
+-  [Nadleśnictwo Bielsk] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-bielsk/zarzadzenia-i-dezyzje  (BIP: 2026-07-16 14:31)
+-  [Nadleśnictwo Bielsk] Zmiana w BIP: Finanse i majątek
+  https://www.gov.pl/web/nadlesnictwo-bielsk/finanse-i-majatek  (BIP: 2026-07-16 11:36)
+-  [Nadleśnictwo Krynki] Zmiana w BIP: Zamówienia publiczne
+  https://www.gov.pl/web/nadlesnictwo-krynki/zamowienia-publiczne4  (BIP: 2026-07-16 09:20)
+-  [Nadleśnictwo Maskulińskie] Zmiana w BIP: Plany zamówień publicznych
+  https://www.gov.pl/web/nadlesnictwo-maskulinskie/plany-zamowien-publicznych  (BIP: 2026-07-16 10:20)
+-  [Nadleśnictwo Maskulińskie] Plan zamówień publicznych na 2022 rok
+  https://www.gov.pl/attachment/cb1e03e8-7f44-40f0-8928-26e0f86e6e47  (BIP: 2026-07-16 10:20)
+-  [Nadleśnictwo Szczebra] Zmiana w BIP: Zamówienia do 170 000 zł
+  https://www.gov.pl/web/nadlesnictwo-szczebra/zamowienia-do-130-000-zl  (BIP: 2026-07-16 15:22)
+-  [Nadleśnictwo Prószków] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 14:41)
+-  [Nadleśnictwo Dąbrowa Tarnowska] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 12:18)
+-  [Nadleśnictwo Kołaczyce] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-kolaczyce/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-17 08:01)
+-  [Nadleśnictwo Biała Podlaska] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-biala-podlaska/zarzadzenia-i-decyzje  (BIP: 2026-07-16 15:07)
+-  [Nadleśnictwo Strzelce] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-strzelce/zarzadzenia-i-decyzje  (BIP: 2026-07-16 12:09)
+-  [Nadleśnictwo Świdnik] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-swidnik/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 14:46)
+-  [Nadleśnictwo Świdnik] Zmiana w BIP: Zarządzenia
+  https://www.gov.pl/web/nadlesnictwo-swidnik/zarzadzenia  (BIP: 2026-07-16 11:56)
+-  [Nadleśnictwo Świdnik] Zmiana w BIP: Decyzje
+  https://www.gov.pl/web/nadlesnictwo-swidnik/decyzje  (BIP: 2026-07-17 07:54)
+-  [Nadleśnictwo Stare Jabłonki] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-stare-jablonki/zarzadzenia-i-decyzje  (BIP: 2026-07-17 08:01)
+-  [Nadleśnictwo Kalisz Pomorski] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/wystapienia-komunikaty-i-ogloszenia2  (BIP: 2026-07-16 11:34)
+-  [Nadleśnictwo Zdrojowa Góra] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/zarzadzenia-i-decyzje  (BIP: 2026-07-16 14:58)
+-  [Nadleśnictwo Czerniejewo] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-czerniejewo/zarzadzenia-i-decyzje  (BIP: 2026-07-16 14:41)
+-  [Nadleśnictwo Konin] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-konin/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 15:00)
+-  [Nadleśnictwo Konstantynowo] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-konstantynowo/zarzadzenia-i-decyzje  (BIP: 2026-07-16 10:22)
+-  [Nadleśnictwo Taczanów] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-taczanow/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 14:49)
+-  [Nadleśnictwo Pińczów] Zmiana w BIP: Plany zamówień publicznych
+  https://www.gov.pl/web/nadlesnictwo-pinczow/plany-zamowien-publicznych  (BIP: 2026-07-16 12:16)
+-  [Nadleśnictwo Pińczów] Plan postępowań na rok 2026 wersja 4
+  https://www.gov.pl/attachment/58520384-77bd-4881-87e5-decdb508fb56  (BIP: 2026-07-16 12:16)
+-  [Nadleśnictwo Ruda Maleniecka] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-radoszyce/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 15:24)
+-  [Nadleśnictwo Starachowice] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-starachowice/zarzadzenia-i-decyzje  (BIP: 2026-07-16 10:11)
+-  [Nadleśnictwo Drawno] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-drawno/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 12:29)
+-  [Nadleśnictwo Goleniów] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-goleniow/zarzadzenia-i-decyzje2  (BIP: 2026-07-16 13:56)
+-  [Nadleśnictwo Goleniów] Wykaz obowiązujących Zarządzeń i Decyzji. 14.07.2026
+  https://www.gov.pl/attachment/1bd3e53b-f193-49ce-ae12-4bfaf9988aa8  (BIP: 2026-07-16 13:56)
+-  [Nadleśnictwo Gryfice] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-gryfice/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-16 12:31)
+-  [Nadleśnictwo Smolarz] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-smolarz/zarzadzenia-i-decyzje2  (BIP: 2026-07-17 07:03)
+-  [Nadleśnictwo Czarnobór] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-czarnobor/zarzadzenia-i-decyzje  (BIP: 2026-07-16 10:37)
+-  [Nadleśnictwo Czarnobór] Wykaz obowiązujących Zarządzeń 16.07.2026
+  https://www.gov.pl/attachment/c3897ebc-8d29-4dc3-a6ec-cd49a1d095b7  (BIP: 2026-07-16 10:37)
+-  [Nadleśnictwo Damnica] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-damnica/zarzadzenia-i-decyzje  (BIP: 2026-07-16 11:09)
+-  [Nadleśnictwo Damnica] Wykaz zarządzeń Nadleśniczego Nadleśnictwa Damnica od 1.01.2026r. do 13.07.2026r
+  https://www.gov.pl/attachment/5a76e07f-2169-4a37-8ff9-76c8114d2bcd  (BIP: 2026-07-16 11:09)
+  📍 Nadl. Damnica → leśn. Damnica
+-  [Nadleśnictwo Gościno] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-goscino/zarzadzenia-i-decyzje  (BIP: 2026-07-17 08:18)
+-  [Nadleśnictwo Gościno] Wykaz obowiązujących zarządzeń
+  https://www.gov.pl/attachment/b6404228-7b1e-460a-8efa-c306aac71cf3  (BIP: 2026-07-17 08:18)
+-  [Nadleśnictwo Gościno] Wykaz obowiązujących decyzji
+  https://www.gov.pl/attachment/9a3de399-32c5-42f3-90e9-1dda09cdc4d0  (BIP: 2026-07-17 08:18)
+-  [Nadleśnictwo Jamy] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-jamy/zarzadzenia-i-decyzje2  (BIP: 2026-07-17 07:08)
+-  [Nadleśnictwo Przymuszewo] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-przymuszewo/zarzadzenia-i-decyzje  (BIP: 2026-07-17 09:08)
+-  [Nadleśnictwo Sokołów] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-sokolow/zarzadzenia-i-decyzje  (BIP: 2026-07-16 12:51)
+-  [Nadleśnictwo Sokołów] Wykaz zarządzeń Nadleśniczego Nadleśnictwa Sokołów w 2026 roku
+  https://www.gov.pl/attachment/8ba9b683-67f8-462c-87ae-31f99d3f718b  (BIP: 2026-07-16 12:51)
+  📍 Nadl. Sokołów → leśn. Sokołów
+-  [Nadleśnictwo Sokołów] Wykaz decyzji Nadleśniczego Nadleśnictwa Sokołów w 2026 roku
+  https://www.gov.pl/attachment/8e01fdbf-64e0-4cd5-989f-b6451767618a  (BIP: 2026-07-16 12:51)
+  📍 Nadl. Sokołów → leśn. Sokołów
+-  [Nadleśnictwo Sława Śląska] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-slawa-slaska/zarzadzenia-i-decyzje  (BIP: 2026-07-17 07:41)
+-  [Nadleśnictwo Wymiarki] Zmiana w BIP: Plany zamówienień publicznych
+  https://www.gov.pl/web/nadlesnictwo-wymiarki/plany-zamowienien-publicznych  (BIP: 2026-07-17 07:36)
+-  [Nadleśnictwo Wymiarki] Plan zamówien na 2026 rok - wersja 3
+  https://www.gov.pl/attachment/96b3659a-40af-4cef-a8a1-aedef66f3df7  (BIP: 2026-07-17 07:36)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
 - [Nadleśnictwo Gdańsk] Zespoły przyrodniczo-krajobrazowe
-- [Nadleśnictwo Gdańsk] Parki krajobrazowe
-- [Nadleśnictwo Kaliska] Zaproszenie do złożenia oferty (WYCINKA DRZEW) Zaproszenie do złożenia oferty (WYCINKA
 - [Nadleśnictwo Kaliska] Oświadczenie_o_braku_podstaw_wykluczenia_-_przeciwdziałanie_wspieraniu_agresji_na_Ukrainę
 - [Nadleśnictwo Kaliska] Wydzielenia_objęte_Zadaniem_wraz_z_powierzchnią_oraz_szacunkową_masą_pozyskania
 - [Nadleśnictwo Stare Jabłonki] Mapa dróg udostępnionych
 - [Nadleśnictwo Podanin] Zarządzenie_w_sprawie_zmiany_zarządzenia-cennik_sadzonki
 - [Nadleśnictwo Podanin] Załącznik_nr_3_-_zarządzenie_cennik_sadzonek
-- [Nadleśnictwo Podanin] Zarządzenie w sprawie wprowadzenia zasad i cennika na sadzonki
 - [Nadleśnictwo Podanin] Załącznik_nr_1
 - [Nadleśnictwo Podanin] Załącznik_nr_2
 - [Nadleśnictwo Podanin] Załącznik_nr_3
@@ -472,3 +654,17 @@ Okno 7 dni · pozycji 242 · obszary szczególne 3 · nieznanych 20
 - [RDLP Krakowie] Jeden las, cztery funkcje
 - [Nadleśnictwo Czerwony Dwór] Rejestr nieruchomości
 - [Nadleśnictwo Przemków] Dostawa kruszywa
+- [Nadleśnictwo Bielsk] Środki zewnetrzne na lata 2022-2025
+- [Nadleśnictwo Knyszyn] Otuliny parkow narodowych i
+- [Nadleśnictwo Krynki] Informacja o wyniku postępowania SA.20.2.2026
+- [Nadleśnictwo Prószków] Załącznik nr 2 - Oświadczenie – wymagania niezbędne
+- [Nadleśnictwo Prószków] Załącznik nr 3 - Kwestionariusz osobowy kandydata na pracownika Lasów Państwowych
+- [Nadleśnictwo Prószków] Załącznik nr 5 -Oświadczenie - dodatkowe kwalifikacje
+- [Nadleśnictwo Prószków] Załącznik nr 6 - Zgoda na przetwarzanie danych osobowych szczególnej kategorii
+- [Nadleśnictwo Dąbrowa Tarnowska] zał 1. Wykaz gruntów
+- [Nadleśnictwo Dąbrowa Tarnowska] zał 3. Mapa poglądowa
+- [Nadleśnictwo Konin] Ogłoszenie_o_III_przetargu_publicznym_na_sprzedaż_zbędnych_środków_trwałych_i_niskocennych_składników_majątku_Nadleśnictwa_Konin
+- [Nadleśnictwo Konin] Wykaz zbędnych środków trwałych i nietrwałych przeznaczonych do sprzedaży III
+- [Nadleśnictwo Taczanów] II Ogłoszenie o sprzedaży nieruchomości osada Nowy Staw
+- [Nadleśnictwo Ruda Maleniecka] Informacja_o_Zespole_Lokalnej_Współpracy_w_Nadleśnictwie_Radoszyce
+- [Nadleśnictwo Gościno] Zarządzenia 2026r. wszystkie

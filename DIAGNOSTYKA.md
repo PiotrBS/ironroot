@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-17 07:58 UTC
+# IronRoot — diagnostyka — 2026-07-18 07:40 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        3785
+  dokument        3798
   artykul         1373
 
 ── wg szczebla ──
-  nadlesnictwo      4079
+  nadlesnictwo      4092
   rdos               516
   rdlp               485
   ministerstwo        31
@@ -74,6 +74,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Białystok] Edukacja przyrodnicza
       12×  wniosek udzielenie informacji
           [RDLP Lublinie] Wniosek o udzielenie informacji
+      12×  zestawienie publicznych srodkow
+          [Nadleśnictwo Knyszyn] Zestawienie publicznych środków zewnętrznych wykorzystanych przez Nadleśn
       12×  ogloszenia
           [Nadleśnictwo Rudziniec] Załacznik Nr 1 do ogłoszenia
       12×  zapytanie sondaz rynku
@@ -140,8 +142,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDLP Białymstoku] Ogłoszenie o naborze na staż 2026 Ogłoszenie_o_naborze_na_staż
        8×  zalaczniki
           [RDLP Wrocławiu] Załączniki 1-4
-       8×  zestawienie publicznych srodkow
-          [Nadleśnictwo Knyszyn] Zestawienie publicznych środków zewnętrznych wykorzystanych przez Nadleśn
        8×  informacja zlozonych ofertach
           [Nadleśnictwo Nurzec] Informacja o złożonych ofertach i wyniku przetargu
        8×  wybor najkorzystniejszej oferty
@@ -173,13 +173,13 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 34946 wierszy z 463 źródeł
+Korpus: 35025 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-     762  RDOŚ Kraków
+     763  RDOŚ Kraków
      743  Dyrekcja Generalna LP
      698  RDLP Toruniu
      451  Nadleśnictwo Trzcianka
@@ -189,9 +189,9 @@ Korpus: 34946 wierszy z 463 źródeł
      321  Nadleśnictwo Pińczów
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     29128
-  rdlp              2766
-  rdos              2113
+  nadlesnictwo     29195
+  rdlp              2767
+  rdos              2124
   dglp               743
   gdos               145
   ministerstwo        51

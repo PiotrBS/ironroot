@@ -1,6 +1,6 @@
-# IronRoot — wyciąg do analizy — 2026-07-17
+# IronRoot — wyciąg do analizy — 2026-07-18
 
-Okno 7 dni · pozycji 345 · obszary szczególne 3 · nieznanych 31
+Okno 7 dni · pozycji 420 · obszary szczególne 3 · nieznanych 44
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -124,6 +124,23 @@ Okno 7 dni · pozycji 345 · obszary szczególne 3 · nieznanych 31
   https://www.gov.pl/web/nadlesnictwo-sokolow/informacja-o-kontrolach  (BIP: 2026-07-16 12:51)
 -  [Nadleśnictwo Sokołów] Informacja o kontrolach przeprowadzonych w Nadleśnictwie Sokołów w 2026 roku
   https://www.gov.pl/attachment/59cce9a8-aee9-494d-85c2-539678d09733  (BIP: 2026-07-16 12:51)
+-  [Nadleśnictwo Giżycko] Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025 rok. Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025
+  https://www.gov.pl/attachment/e7cee372-a840-41d0-8f81-782761492e20  (BIP: 2026-07-17 13:40)
+-  [Nadleśnictwo Olecko] Rejestr nieruchomości leśnych Nadleśnictwa Olecko – rok 2025
+  https://www.gov.pl/attachment/f5039f6b-69d8-437a-909f-1bd99518a49b  (BIP: 2026-07-17 11:57)
+  📍 Nadl. Olecko → leśn. Olecko
+-  [Nadleśnictwo Suwałki] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2  (BIP: 2026-07-17 13:48)
+-  [Nadleśnictwo Suwałki] Kontrole zewnętrzne przeprowadzone w 2026 roku w Nadleśnictwie Suwałki
+  https://www.gov.pl/attachment/9645f115-2ab1-4715-a7df-b290622eb01e  (BIP: 2026-07-17 13:48)
+-  [Nadleśnictwo Suwałki] Kontrole zewnętrzne przeprowadzone w 2025 roku w Nadleśnictwie Suwałki
+  https://www.gov.pl/attachment/235d82b7-4214-4134-894e-dfa1cf73a5fa  (BIP: 2026-07-17 13:48)
+-  [Nadleśnictwo Suwałki] Kontrole zewnętrzne przeprowadzone w 2024 roku w Nadleśnictwie Suwałki
+  https://www.gov.pl/attachment/9bbdaa90-abed-417b-ae90-3361745b8f06  (BIP: 2026-07-17 13:48)
+-  [Nadleśnictwo Ustka] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-ustka/informacja-o-kontrolach  (BIP: 2026-07-17 10:36)
+-  [Nadleśnictwo Ustka] Wykaz kontroli zewnętrznych 2026
+  https://www.gov.pl/attachment/ab97f9e5-ba82-47f2-96f7-5d8b2f204dca  (BIP: 2026-07-17 10:36)
 
 ## P3 — sygnały
 
@@ -634,6 +651,106 @@ Okno 7 dni · pozycji 345 · obszary szczególne 3 · nieznanych 31
   https://www.gov.pl/web/nadlesnictwo-wymiarki/plany-zamowienien-publicznych  (BIP: 2026-07-17 07:36)
 -  [Nadleśnictwo Wymiarki] Plan zamówien na 2026 rok - wersja 3
   https://www.gov.pl/attachment/96b3659a-40af-4cef-a8a1-aedef66f3df7  (BIP: 2026-07-17 07:36)
+-  [RDOŚ Gdańsk] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026  (BIP: ?)
+-  [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.74.2025.IBA.10 z dnia 17.07.2026 r.
+  https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420742025iba10-z-dnia-17072026-r  (BIP: 2026-07-17 00:00)
+-  [RDOŚ Katowice] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-katowice/rok2026  (BIP: ?)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.10.2025.JŻ.26
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420102025jz26  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.28.2026.JKS.3
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420282026jks3  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Kraków] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3 - Budowa nowej drogi startowej na lotnisku Kraków - Balice
+  https://www.gov.pl/web/rdos-krakow/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026r-znak-doos-wdsiii42032026mk3---budowa-nowej-drogi-startowej-na-lotnisku-krakow---balice  (BIP: 2026-07-15 00:00)
+-  [RDOŚ Wrocław] Zmiana w BIP: Rok 2026
+  https://www.gov.pl/web/rdos-wroclaw/rok-20214  (BIP: ?)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2026.WM.2
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292026wm2  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.30.2026.WM.2
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420302026wm2  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak: WOOŚ.420.35.2026.PK.1
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-woos420352026pk1  (BIP: 2026-07-17 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak pisma: WOOŚ.420.64.2025.CC.13
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-pisma-woos420642025cc13  (BIP: 2026-07-17 00:00)
+-  [RDLP Szczecinie] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-szczecinie/zarzadzenia-i-decyzje  (BIP: 2026-07-17 14:21)
+-  [Nadleśnictwo Bielsk] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-bielsk/zarzadzenia-i-dezyzje  (BIP: 2026-07-17 15:00)
+-  [Nadleśnictwo Browsk] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-browsk-w-gruszkach/zarzadzenia-i-decyzje2  (BIP: 2026-07-17 14:08)
+-  [Nadleśnictwo Giżycko] Zmiana w BIP: Finanse i majątek
+  https://www.gov.pl/web/nadlesnictwo-gizycko/finanse-i-majatek  (BIP: 2026-07-17 13:40)
+-  [Nadleśnictwo Gołdap] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-goldap/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-17 14:07)
+-  [Nadleśnictwo Olecko] Zmiana w BIP: Finanse i majątek
+  https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek  (BIP: 2026-07-17 11:57)
+-  [Nadleśnictwo Waliły] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-walily/zarzadzenia-i-decyzje  (BIP: 2026-07-17 14:38)
+-  [Nadleśnictwo Kartuzy] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-kartuzy/zarzadzenia-i-decyzje  (BIP: 2026-07-17 13:40)
+-  [Nadleśnictwo Strzebielino] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-strzebielino/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-17 12:50)
+-  [Nadleśnictwo Siewierz] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-siewierz/zarzadzenia-i-decyzje  (BIP: 2026-07-17 14:26)
+-  [Nadleśnictwo Siewierz] Rejestr_Zarządzeń_Nadleśniczego_wg_stanu_na_dzień_17072026
+  https://www.gov.pl/attachment/f003c183-39ec-4017-ba98-48acf7b4b41b  (BIP: 2026-07-17 14:26)
+-  [Nadleśnictwo Siewierz] Rejestr_decyzji_Nadleśniczego_Nadleśnictwa_Siewierz_wg_stanu_na_17072026_r
+  https://www.gov.pl/attachment/cfb2ca75-33c9-41eb-8ed7-11523393afba  (BIP: 2026-07-17 14:26)
+-  [Nadleśnictwo Brzesko] Zmiana w BIP: Wystąpienia, komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-brzesko/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-17 21:47)
+-  [Nadleśnictwo Niepołomice] Zmiana w BIP: Finanse i majątek
+  https://www.gov.pl/web/nadlesnictwo-niepolomice/finanse-i-majatek  (BIP: 2026-07-17 13:42)
+-  [Nadleśnictwo Sobibór] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-sobibor/zarzadzenia-i-decyzje  (BIP: 2026-07-17 12:29)
+-  [Nadleśnictwo Sobibór] Decyzje Nadleśniczego Nadleśnictwa Sobibór II aktualizacja lipiec 2026
+  https://www.gov.pl/attachment/2a050fba-c328-47ce-8a65-82e42e465760  (BIP: 2026-07-17 12:29)
+  📍 Nadl. Sobibór → leśn. Sobibór
+-  [Nadleśnictwo Sobibór] Zarządzenia Nadleśniczego Nadleśnictwa Sobibór II aktualizacja lipiec 2026
+  https://www.gov.pl/attachment/21736a3e-a043-49e4-bc04-4ba700d88d44  (BIP: 2026-07-17 12:29)
+  📍 Nadl. Sobibór → leśn. Sobibór
+-  [Nadleśnictwo Jedwabno] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-jedwabno/zarzadzenia-i-decyzje2  (BIP: 2026-07-17 09:40)
+-  [Nadleśnictwo Orneta] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-orneta/zarzadzenia-i-decyzje  (BIP: 2026-07-17 15:23)
+-  [Nadleśnictwo Kalisz Pomorski] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/zarzadzenia-i-decyzje  (BIP: 2026-07-17 12:43)
+-  [Nadleśnictwo Kalisz Pomorski] Wykaz_Decyzji_Nadleśniczego_Nadleśnictwa_Kalisz_Pomorski_wydanych_w_2026_r
+  https://www.gov.pl/attachment/0053537b-6c04-4df7-bde7-05329a175661  (BIP: 2026-07-17 12:43)
+-  [Nadleśnictwo Kalisz Pomorski] Wykaz_Zarządzeń__Nadleśniczego_Nadleśnictwa_Kalisz_Pomorski_wydanych_2026_r
+  https://www.gov.pl/attachment/4b5ef138-280b-478e-8016-59c8d82ecbcb  (BIP: 2026-07-17 12:43)
+-  [Nadleśnictwo Kalisz Pomorski] Zmiana w BIP: Rozpatrywanie spraw
+  https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/rozpatrywanie-spraw  (BIP: 2026-07-17 12:34)
+-  [Nadleśnictwo Czerniejewo] Zmiana w BIP: Rozpatrywanie spraw
+  https://www.gov.pl/web/nadlesnictwo-czerniejewo/rozpatrywanie-spraw  (BIP: 2026-07-17 10:06)
+-  [Nadleśnictwo Nowogard] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-nowogard/zarzadzenia-i-decyzje  (BIP: 2026-07-17 14:52)
+-  [Nadleśnictwo Rokita] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-rokita/zarzadzenia-i-decyzje  (BIP: 2026-07-17 13:41)
+-  [Nadleśnictwo Czaplinek] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-czaplinek/zarzadzenia-i-decyzje  (BIP: 2026-07-17 11:13)
+-  [Nadleśnictwo Czaplinek] Aktualne zarządzenia i decyzje Nadleśniczego Nadleśnictwa Czaplinek - stan na dzień 17.07.2026 roku
+  https://www.gov.pl/attachment/402d8f97-e4b6-4f5f-a9e0-32deab480bcc  (BIP: 2026-07-17 11:13)
+  📍 Nadl. Czaplinek → leśn. Czaplinek
+-  [Nadleśnictwo Czaplinek] Decyzja nr 37 Nadleśniczego Nadleśnictwa Czaplinek w sprawie ustalenia cen detalicznych na drewno
+  https://www.gov.pl/attachment/51150324-6de5-4dd6-ab02-9b8c4edc6b86  (BIP: 2026-07-17 11:13)
+  📍 Nadl. Czaplinek → leśn. Czaplinek
+-  [Nadleśnictwo Łupawa] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-lupawa/zarzadzenia-i-decyzje-  (BIP: 2026-07-17 14:59)
+-  [Nadleśnictwo Łupawa] Wykaz zarządzeń i decyzji wydanych w 2026 z 17.07.2026
+  https://www.gov.pl/attachment/608c3d73-0483-40e1-a9cd-02e179dd39e1  (BIP: 2026-07-17 14:59)
+-  [Nadleśnictwo Łupawa] Wykaz zarządzeń i decyzji obowiązujacych na dzień 17.07.2026
+  https://www.gov.pl/attachment/9e420550-512b-4688-aa3d-e85f61c6af50  (BIP: 2026-07-17 14:59)
+-  [Nadleśnictwo Bydgoszcz] Zmiana w BIP: Zarządzenia i decyzje
+  https://www.gov.pl/web/nadlesnictwo-bydgoszcz/zarzadzenia-i-decyzje  (BIP: 2026-07-17 13:32)
+-  [Nadleśnictwo Legnica] Zmiana w BIP: Wystąpienia komunikaty i ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia  (BIP: 2026-07-17 13:44)
+-  [Nadleśnictwo Międzylesie] Zmiana w BIP: Plany zamówień publicznych
+  https://www.gov.pl/web/nadlesnictwo-miedzylesie/plany-zamowien-publicznych2  (BIP: 2026-07-17 11:52)
+-  [Nadleśnictwo Międzylesie] Plan_postepowan_na_2026_ver_2
+  https://www.gov.pl/attachment/69f7cfce-5844-4e22-a1a0-1aeed8d83e2d  (BIP: 2026-07-17 11:52)
+-  [Nadleśnictwo Krosno] Zmiana w BIP: Wystąpienia komunikaty ogłoszenia
+  https://www.gov.pl/web/nadlesnictwo-krosno/wystapienia-komunikaty-ogloszenia  (BIP: 2026-07-17 10:36)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
@@ -668,3 +785,12 @@ Okno 7 dni · pozycji 345 · obszary szczególne 3 · nieznanych 31
 - [Nadleśnictwo Taczanów] II Ogłoszenie o sprzedaży nieruchomości osada Nowy Staw
 - [Nadleśnictwo Ruda Maleniecka] Informacja_o_Zespole_Lokalnej_Współpracy_w_Nadleśnictwie_Radoszyce
 - [Nadleśnictwo Gościno] Zarządzenia 2026r. wszystkie
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2025 r.
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2024 r.
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2023 r.
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2022 r.
+- [Nadleśnictwo Kalisz Pomorski] Rozpatrywanie_spraw
+- [Nadleśnictwo Kalisz Pomorski] Rozpatrywanie_spraw
+- [Nadleśnictwo Legnica] SA.270.14.2026 Zaproszenie do składania
+- [Nadleśnictwo Legnica] Załącznik nr 1 - Opis przedmiotu
+- [Nadleśnictwo Legnica] Załącznik nr 2 - Formularz

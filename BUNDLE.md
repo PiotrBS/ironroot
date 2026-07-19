@@ -1,6 +1,6 @@
-# IronRoot — wyciąg do analizy — 2026-07-19
+# IRoot 0.82 beta — 2026-07-19
 
-Okno 7 dni · spraw 76 · publikacji 126 · obszary szczególne 3 · nieznanych 0
+Okno 7 dni · spraw 140 · publikacji 234 · obszary szczególne 3 · nieznanych 27
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -73,6 +73,34 @@ Okno 7 dni · spraw 76 · publikacji 126 · obszary szczególne 3 · nieznanych 
   https://www.gov.pl/web/nadlesnictwo-walily/informacja-o-kontrolach  (BIP: 2026-07-16 08:28)
 -  [Nadleśnictwo Gdańsk] Publiczny pisemny nieograniczony przetarg na dzierżawę
   https://www.gov.pl/web/nadlesnictwo-gdansk/publiczny-pisemny-nieograniczony-przetarg-na-dzierzawe3  (BIP: 2025-10-22 09:29)
+-  [Nadleśnictwo Knyszyn] Zmiana w BIP: Ochrona przyrody
+  https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody  (BIP: 2026-07-16 12:58)
+-  [Nadleśnictwo Kwidzyn] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach  (BIP: 2026-07-16 11:30)
+-  [Nadleśnictwo Dąbrowa Tarnowska] Ogłoszenie o przetargu_dzierżawa_postępowanie II
+  https://www.gov.pl/attachment/6e6a0994-676d-4892-b0f7-48fbc60ce1e0  (BIP: 2026-07-16 12:18)
+-  [Nadleśnictwo Świdnik] Informacja o zamiarze przeprowadzenia transakcji zamiany nieruchomości 16072026
+  https://www.gov.pl/attachment/83c6e309-2a80-40e4-9366-6bab20d2e219  (BIP: 2026-07-16 14:46)
+-  [Nadleśnictwo Łąck] Wykaz kontroli zewnętrznych
+  https://www.gov.pl/attachment/b2852508-5d93-4dcf-8a61-409de8a336a7  (BIP: 2026-07-16 10:17)
+-  [Nadleśnictwo Zdrojowa Góra] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/informacja-o-kontrolach  (BIP: 2026-07-16 12:22)
+-  [Nadleśnictwo Czerniejewo] Wykaz kontroli wewnętrznych w 2025 r.
+  https://www.gov.pl/attachment/e7b1e309-db82-4fae-afd4-e46325a93be2  (BIP: 2026-07-16 14:37)
+-  [Nadleśnictwo Łopuchówko] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-lopuchowko/informacja-o-kontrolach3  (BIP: 2026-07-16 10:18)
+-  [Nadleśnictwo Oborniki] Wykaz_kontroli_zewnętrznych_-_stan_na_dzień_22.06.2026
+  https://www.gov.pl/attachment/a5d39df1-3acb-404d-a952-45daee8cdf31  (BIP: 2026-07-17 09:40)
+-  [Nadleśnictwo Sokołów] Informacja o kontrolach przeprowadzonych w Nadleśnictwie Sokołów w 2026 roku
+  https://www.gov.pl/attachment/59cce9a8-aee9-494d-85c2-539678d09733  (BIP: 2026-07-16 12:51)
+-  [Nadleśnictwo Giżycko] Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025 rok. Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025
+  https://www.gov.pl/attachment/e7cee372-a840-41d0-8f81-782761492e20  (BIP: 2026-07-17 13:40)
+-  [Nadleśnictwo Olecko] Rejestr nieruchomości leśnych Nadleśnictwa Olecko – rok 2025
+  https://www.gov.pl/attachment/f5039f6b-69d8-437a-909f-1bd99518a49b  (BIP: 2026-07-17 11:57)
+-  [Nadleśnictwo Suwałki] Kontrole zewnętrzne przeprowadzone w 2024 roku w Nadleśnictwie Suwałki
+  https://www.gov.pl/attachment/9bbdaa90-abed-417b-ae90-3361745b8f06  (BIP: 2026-07-17 13:48)
+-  [Nadleśnictwo Ustka] Wykaz kontroli zewnętrznych 2026
+  https://www.gov.pl/attachment/ab97f9e5-ba82-47f2-96f7-5d8b2f204dca  (BIP: 2026-07-17 10:36)
 
 ## P3 — sygnały
 
@@ -153,3 +181,69 @@ Okno 7 dni · spraw 76 · publikacji 126 · obszary szczególne 3 · nieznanych 
   https://www.gov.pl/attachment/91593939-bb77-4f60-adc8-3778b97ba724  (BIP: 2026-07-16 09:25)
 -  [Nadleśnictwo Potrzebowice] Zarządzenie Nadleśniczego Nadleśnictwa Potrzebowice wydane w 2026 roku
   https://www.gov.pl/attachment/259d72ba-3e01-46af-9981-d9c5b60d699f  (BIP: 2026-07-16 09:14)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.1,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj1  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 8 maja 2026 roku
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-8-maja-2026-roku  (BIP: 2026-05-08 00:00)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.17.2024.PJ/SK.41
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41  (BIP: 2026-07-16 00:00)
+-  [Nadleśnictwo Maskulińskie] Plan zamówień publicznych na 2022 rok
+  https://www.gov.pl/attachment/cb1e03e8-7f44-40f0-8928-26e0f86e6e47  (BIP: 2026-07-16 10:20)
+-  [Nadleśnictwo Pińczów] Plan postępowań na rok 2026 wersja 4
+  https://www.gov.pl/attachment/58520384-77bd-4881-87e5-decdb508fb56  (BIP: 2026-07-16 12:16)
+-  [Nadleśnictwo Goleniów] Wykaz obowiązujących Zarządzeń i Decyzji. 14.07.2026
+  https://www.gov.pl/attachment/1bd3e53b-f193-49ce-ae12-4bfaf9988aa8  (BIP: 2026-07-16 13:56)
+-  [Nadleśnictwo Czarnobór] Wykaz obowiązujących Zarządzeń 16.07.2026
+  https://www.gov.pl/attachment/c3897ebc-8d29-4dc3-a6ec-cd49a1d095b7  (BIP: 2026-07-16 10:37)
+-  [Nadleśnictwo Damnica] Wykaz zarządzeń Nadleśniczego Nadleśnictwa Damnica od 1.01.2026r. do 13.07.2026r
+  https://www.gov.pl/attachment/5a76e07f-2169-4a37-8ff9-76c8114d2bcd  (BIP: 2026-07-16 11:09)
+-  [Nadleśnictwo Gościno] Wykaz obowiązujących decyzji
+  https://www.gov.pl/attachment/9a3de399-32c5-42f3-90e9-1dda09cdc4d0  (BIP: 2026-07-17 08:18)
+-  [Nadleśnictwo Sokołów] Wykaz decyzji Nadleśniczego Nadleśnictwa Sokołów w 2026 roku
+  https://www.gov.pl/attachment/8e01fdbf-64e0-4cd5-989f-b6451767618a  (BIP: 2026-07-16 12:51)
+-  [Nadleśnictwo Wymiarki] Plan zamówien na 2026 rok - wersja 3
+  https://www.gov.pl/attachment/96b3659a-40af-4cef-a8a1-aedef66f3df7  (BIP: 2026-07-17 07:36)
+-  [RDOŚ Kraków] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3 - Budowa nowej drogi startowej na lotnisku Kraków - Balice
+  https://www.gov.pl/web/rdos-krakow/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026r-znak-doos-wdsiii42032026mk3---budowa-nowej-drogi-startowej-na-lotnisku-krakow---balice  (BIP: 2026-07-15 00:00)
+-  [Nadleśnictwo Siewierz] Rejestr_Zarządzeń_Nadleśniczego_wg_stanu_na_dzień_17072026
+  https://www.gov.pl/attachment/f003c183-39ec-4017-ba98-48acf7b4b41b  (BIP: 2026-07-17 14:26)
+-  [Nadleśnictwo Sobibór] Decyzje Nadleśniczego Nadleśnictwa Sobibór II aktualizacja lipiec 2026
+  https://www.gov.pl/attachment/2a050fba-c328-47ce-8a65-82e42e465760  (BIP: 2026-07-17 12:29)
+-  [Nadleśnictwo Kalisz Pomorski] Wykaz_Decyzji_Nadleśniczego_Nadleśnictwa_Kalisz_Pomorski_wydanych_w_2026_r
+  https://www.gov.pl/attachment/0053537b-6c04-4df7-bde7-05329a175661  (BIP: 2026-07-17 12:43)
+-  [Nadleśnictwo Czaplinek] Aktualne zarządzenia i decyzje Nadleśniczego Nadleśnictwa Czaplinek - stan na dzień 17.07.2026 roku
+  https://www.gov.pl/attachment/402d8f97-e4b6-4f5f-a9e0-32deab480bcc  (BIP: 2026-07-17 11:13)
+-  [Nadleśnictwo Łupawa] Wykaz zarządzeń i decyzji obowiązujacych na dzień 17.07.2026
+  https://www.gov.pl/attachment/9e420550-512b-4688-aa3d-e85f61c6af50  (BIP: 2026-07-17 14:59)
+-  [Nadleśnictwo Międzylesie] Plan_postepowan_na_2026_ver_2
+  https://www.gov.pl/attachment/69f7cfce-5844-4e22-a1a0-1aeed8d83e2d  (BIP: 2026-07-17 11:52)
+
+## Niesklasyfikowane — czy któreś powinno mieć regułę?
+
+- [Nadleśnictwo Bielsk] Środki zewnetrzne na lata 2022-2025
+- [Nadleśnictwo Knyszyn] Otuliny parkow narodowych i
+- [Nadleśnictwo Krynki] Informacja o wyniku postępowania SA.20.2.2026
+- [Nadleśnictwo Prószków] Załącznik nr 2 - Oświadczenie – wymagania niezbędne
+- [Nadleśnictwo Prószków] Załącznik nr 3 - Kwestionariusz osobowy kandydata na pracownika Lasów Państwowych
+- [Nadleśnictwo Prószków] Załącznik nr 5 -Oświadczenie - dodatkowe kwalifikacje
+- [Nadleśnictwo Prószków] Załącznik nr 6 - Zgoda na przetwarzanie danych osobowych szczególnej kategorii
+- [Nadleśnictwo Dąbrowa Tarnowska] zał 1. Wykaz gruntów
+- [Nadleśnictwo Dąbrowa Tarnowska] zał 3. Mapa poglądowa
+- [Nadleśnictwo Konin] Ogłoszenie_o_III_przetargu_publicznym_na_sprzedaż_zbędnych_środków_trwałych_i_niskocennych_składników_majątku_Nadleśnictwa_Konin
+- [Nadleśnictwo Konin] Wykaz zbędnych środków trwałych i nietrwałych przeznaczonych do sprzedaży III
+- [Nadleśnictwo Taczanów] II Ogłoszenie o sprzedaży nieruchomości osada Nowy Staw
+- [Nadleśnictwo Ruda Maleniecka] Informacja_o_Zespole_Lokalnej_Współpracy_w_Nadleśnictwie_Radoszyce
+- [Nadleśnictwo Gościno] Zarządzenia 2026r. wszystkie
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2025 r.
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2024 r.
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2023 r.
+- [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2022 r.
+- [Nadleśnictwo Kalisz Pomorski] Rozpatrywanie_spraw
+- [Nadleśnictwo Kalisz Pomorski] Rozpatrywanie_spraw
+- [Nadleśnictwo Legnica] SA.270.14.2026 Zaproszenie do składania
+- [Nadleśnictwo Legnica] Załącznik nr 1 - Opis przedmiotu
+- [Nadleśnictwo Legnica] Załącznik nr 2 - Formularz
+- [Nadleśnictwo Legnica] Załącznik nr 3 - Wzór
+- [Nadleśnictwo Legnica] Załącznik nr 5 - Protokół z przeprowadzonej wizji
+- [Nadleśnictwo Legnica] SA.270.11.2026 Informacja o unieważnieniu
+- [Nadleśnictwo Krosno] Ogłoszenie_o_II_przetargu_nieograniczonym-sig_

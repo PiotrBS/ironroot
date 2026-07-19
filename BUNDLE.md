@@ -1,6 +1,6 @@
-# IRoot 0.82 beta — 2026-07-19
+# IRoot 0.83 beta — 2026-07-19
 
-Okno 7 dni · spraw 140 · publikacji 234 · obszary szczególne 3 · nieznanych 27
+Okno 7 dni · spraw 140 · publikacji 468 · obszary szczególne 3 · nieznanych 27
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 

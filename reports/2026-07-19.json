@@ -1,11 +1,11 @@
 {
  "meta": {
   "data": "2026-07-19",
-  "wersja": "IRoot 0.82 beta",
-  "wygenerowano_utc": "2026-07-19T17:53:02.637459+00:00",
+  "wersja": "IRoot 0.83 beta",
+  "wygenerowano_utc": "2026-07-19T18:09:33.621367+00:00",
   "okno_dni": 7,
-  "korpus": 57869,
-  "pozycji": 234,
+  "korpus": 115738,
+  "pozycji": 468,
   "spraw": 140
  },
  "zdrowie": {
@@ -82,7 +82,7 @@
    {
     "sprawa_id": "957e97293f908b59",
     "sprawa_key": "obszar|rezerwat wawoz homole",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Kraków",
     "tier": "rdos",
@@ -122,13 +122,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
       "snapshot_sha256": null
+     },
+     {
+      "key": "2c2e92d96ddd02e3",
+      "kind": "artykul",
+      "title": "Zmiana granic rezerwatu przyrody \"Wąwóz Homole\"",
+      "url": "https://www.gov.pl/web/rdos-krakow/zmiana-granic-rezerwatu-przyrody-wawoz-homole",
+      "published": null,
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d266b3a40f40f963",
     "sprawa_key": "obszar|natura 2000 babia gora plb120011",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Kraków",
     "tier": "rdos",
@@ -168,13 +180,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
       "snapshot_sha256": null
+     },
+     {
+      "key": "4deb9923e4505db0",
+      "kind": "artykul",
+      "title": "Zmiana planu zadań ochronnych dla obszaru Natura 2000 Babia Góra PLB120011",
+      "url": "https://www.gov.pl/web/rdos-krakow/zmiana-planu-zadan-ochronnych-dla-obszaru-natura-2000-babia-gora-plb120011",
+      "published": null,
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "2869ab062d801b36",
     "sprawa_key": "obszar|rezerwat wodospad wilczki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Wrocław",
     "tier": "rdos",
@@ -214,6 +238,18 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20215",
       "snapshot_sha256": "bde138ed278b5ba4426c504b55f72a513df2b4d46447ce694ac909a27fa0359a"
+     },
+     {
+      "key": "5c2770286b163970",
+      "kind": "artykul",
+      "title": "Zarządzenie nr 21.2026 Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 15 lipca 2026 r. w sprawie ustanowienia zadań ochronnych dla rezerwatu przyrody „Wodospad Wilczki”",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/zarzadzenie-nr-212026-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-15-lipca-2026-r-w-sprawie-ustanowienia-zadan-ochronnych-dla-rezerwatu-przyrody-wodospad-wilczki",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20215",
+      "snapshot_sha256": "bde138ed278b5ba4426c504b55f72a513df2b4d46447ce694ac909a27fa0359a"
      }
     ]
    }
@@ -222,7 +258,7 @@
    {
     "sprawa_id": "410ab45f09621b17",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-krakow/rok-20213|decyzja-srodowiskowa",
-    "n_zdarzen": 5,
+    "n_zdarzen": 10,
     "podmiot": null,
     "source_name": "RDOŚ Kraków",
     "tier": "rdos",
@@ -255,6 +291,18 @@
     },
     "bdl": null,
     "zdarzenia": [
+     {
+      "key": "ca484c7ebf38681c",
+      "kind": "artykul",
+      "title": "Obwieszczenie z 14 lipca 2026r., znak: OO.4220.248.2026.TP - Budowa pięciu budynków mieszkalnych jednorodzinnych w m. Poręba Wielka, gmina Oświęcim",
+      "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-14-lipca-2026r-znak-oo42202482026tp---budowa-pieciu-budynkow-mieszklanych-jednorodzinnych-w-m-poreba-wielka-gmina-oswiecim",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
+      "snapshot_sha256": null
+     },
      {
       "key": "ca484c7ebf38681c",
       "kind": "artykul",
@@ -314,13 +362,61 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
       "snapshot_sha256": null
+     },
+     {
+      "key": "f06d8dc39e617ae1",
+      "kind": "artykul",
+      "title": "Zawiadomienie z 15 lipca 2026r., znak: OO.4220.233.2026.DS - Rozbudowa drogi wojewódzkiej nr 969 w m. Tylmanowa, gm. Ochotnica Dolna",
+      "url": "https://www.gov.pl/web/rdos-krakow/zawiadomienie-z-15-lipca-2026r-znak-oo42202332026ds---rozbudowa-drogi-wojewodzkiej-nr-969-w-m-tylmanowa-gm-ochotnica-dolna",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "2c80ecdf2c99e301",
+      "kind": "artykul",
+      "title": "Obwieszczenie z 15 lipca 2026r., znak: OO.4220.254.2026.TP - Zespół zabudowy mieszkalnej wielorodzinnej oraz zabudowy mieszkalnej jednorodzinnej w rejonie ul. Albatrosów w Krakowie",
+      "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-oo42202542026tp---zespol-zabudowy-mieszkalnej-wielorodzinnej-oraz-zabudowy-mieszkalnej-jednorodzinnej-w-rejonie-ul-albatrosow-w-krakowie",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "65f201bb8fac9f2c",
+      "kind": "artykul",
+      "title": "Obwieszczenie z 15 lipca 2026r., znak: 00.4220.249.2026.TP - Budowa zespołu przemysłowo-magazynowo-usługowego z segmentami socjalno- biurowymi - obręb Wężerów, gm. Słomniki",
+      "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-0042202492026tp---budowa-zespolu-przemyslowo-magazynowo-uslugowego-z-segmentami-socjalno--biurowymi---obreb-wezerow-gm-slomniki",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "4d23f1a3db6592fd",
+      "kind": "artykul",
+      "title": "Obwieszczenie z 15 lipca 2026r., znak: OO.4221.27.2026.EB - Rozbudowa gospodarstwa, obręb Głuchowice, Rzozów, gm. Skawina",
+      "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-oo4221272026eb---rozbudowa-gospodarstwa-obreb-gluchowice-rzozow-gm-skawina",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "1749fe26a85931ed",
     "sprawa_key": "pul|piensk",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Pieńsk",
     "source_name": "RDLP Wrocławiu",
     "tier": "rdlp",
@@ -361,13 +457,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": "7c0b63bd0b64b85f563fee4f9a55fe71c0cf3bf4709478d3f54160261ca33e56"
+     },
+     {
+      "key": "14062690ef3000d7",
+      "kind": "artykul",
+      "title": "Informacja o zatwierdzeniu Planu urządzenia lasu dla Nadleśnictwa Pieńsk",
+      "url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/informacja-o-zatwierdzeniu-planu-urzadzenia-lasu-dla-nadlesnictwa-piensk",
+      "published": "2026-07-14 11:43",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": "7c0b63bd0b64b85f563fee4f9a55fe71c0cf3bf4709478d3f54160261ca33e56"
      }
     ]
    },
    {
     "sprawa_id": "e40e78d0783b23ed",
     "sprawa_key": "pul|lubin",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Lubin",
     "source_name": "RDLP Wrocławiu",
     "tier": "rdlp",
@@ -408,13 +516,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "37de160bf1f05d51",
+      "kind": "artykul",
+      "title": "Informacja o zatwierdzeniu Planu urządzenia lasu dla Nadleśnictwa Lubin",
+      "url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/informacja-o-zatwierdzeniu-planu-urzadzenia-lasu-dla-nadlesnictwa-lubin2",
+      "published": "2026-07-14 11:43",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "6072a89a416ec51c",
     "sprawa_key": "pul|milicz",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Milicz",
     "source_name": "RDLP Wrocławiu",
     "tier": "rdlp",
@@ -457,6 +577,30 @@
       "snapshot_sha256": "4448ef1bd3c7a6abda6ccbce7cdfbb7cc9eb7aa70fbaef3cd94fd2ca37682e22"
      },
      {
+      "key": "b0dd45c755d92788",
+      "kind": "artykul",
+      "title": "Informacja o zatwierdzeniu Planu urządzenia lasu dla Nadleśnictwa Milicz",
+      "url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/informacja-o-zatwierdzeniu-planu-urzadzenia-lasu-dla-nadlesnictwa-milicz",
+      "published": "2026-07-14 11:43",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": "4448ef1bd3c7a6abda6ccbce7cdfbb7cc9eb7aa70fbaef3cd94fd2ca37682e22"
+     },
+     {
+      "key": "660df2f9-9591-4daa-9bb5-bd30f2ff8b77",
+      "kind": "dokument",
+      "title": "Zatwierdzenie Planu Urządzenia Lasu",
+      "url": "https://www.gov.pl/attachment/660df2f9-9591-4daa-9bb5-bd30f2ff8b77",
+      "published": "2026-07-15 13:15",
+      "source_id": "nadl-nadlesnictwo-milicz",
+      "source_name": "Nadleśnictwo Milicz",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-milicz/plan-urzadzenia-lasu",
+      "snapshot_sha256": "7f1479a8a2c8853fafb159b8c9f8bdae33563717906497512139887c8460fc1a"
+     },
+     {
       "key": "660df2f9-9591-4daa-9bb5-bd30f2ff8b77",
       "kind": "dokument",
       "title": "Zatwierdzenie Planu Urządzenia Lasu",
@@ -475,7 +619,7 @@
    {
     "sprawa_id": "0fcd4fea6f23fe23",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody|formy-ochrony",
-    "n_zdarzen": 7,
+    "n_zdarzen": 14,
     "podmiot": "Gdańsk",
     "source_name": "Nadleśnictwo Gdańsk",
     "tier": "nadlesnictwo",
@@ -587,13 +731,97 @@
       "page_title": "Ochrona przyrody",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
       "snapshot_sha256": null
+     },
+     {
+      "key": "b4ebd06b-f81d-4118-b618-cf921a66ce29",
+      "kind": "dokument",
+      "title": "Zespoły przyrodniczo-krajobrazowe",
+      "url": "https://www.gov.pl/attachment/b4ebd06b-f81d-4118-b618-cf921a66ce29",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "6d0c8627-a2c3-43a3-9d8b-03dd1231789c",
+      "kind": "dokument",
+      "title": "Użytki ekologiczne",
+      "url": "https://www.gov.pl/attachment/6d0c8627-a2c3-43a3-9d8b-03dd1231789c",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "8a0c860e-f1ce-4441-80d1-a58247b92853",
+      "kind": "dokument",
+      "title": "Rezerwaty przyrody",
+      "url": "https://www.gov.pl/attachment/8a0c860e-f1ce-4441-80d1-a58247b92853",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "d6b0fced-3d93-40e5-9774-e5b197e92eb6",
+      "kind": "dokument",
+      "title": "Pomniki przyrody",
+      "url": "https://www.gov.pl/attachment/d6b0fced-3d93-40e5-9774-e5b197e92eb6",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "051dcc97-3f7a-4a43-8725-0c7e5d302804",
+      "kind": "dokument",
+      "title": "Parki krajobrazowe",
+      "url": "https://www.gov.pl/attachment/051dcc97-3f7a-4a43-8725-0c7e5d302804",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "6a88b660-3e30-4a83-a1da-debac493e231",
+      "kind": "dokument",
+      "title": "Obszary Natura 2000",
+      "url": "https://www.gov.pl/attachment/6a88b660-3e30-4a83-a1da-debac493e231",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "5167e53c-eb3d-4e1a-9f73-9ec854a9285d",
+      "kind": "dokument",
+      "title": "Obszary chronionego krajobrazu",
+      "url": "https://www.gov.pl/attachment/5167e53c-eb3d-4e1a-9f73-9ec854a9285d",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "723e158894bf7782",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-krakow/rok-20214|formy-ochrony",
-    "n_zdarzen": 3,
+    "n_zdarzen": 6,
     "podmiot": null,
     "source_name": "RDOŚ Kraków",
     "tier": "rdos",
@@ -633,6 +861,30 @@
       "snapshot_sha256": null
      },
      {
+      "key": "6ede28837d241f9f",
+      "kind": "artykul",
+      "title": "Uznanie za rezerwat przyrody o nazwie \"Lubogoszcz\"",
+      "url": "https://www.gov.pl/web/rdos-krakow/uznanie-za-rezerwat-przyrody-o-nazwie-lubogoszcz",
+      "published": null,
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "b74f20ea9d21fdfc",
+      "kind": "artykul",
+      "title": "Uznanie za rezerwat przyrody o nazwie \"Wilczy Grunt\"",
+      "url": "https://www.gov.pl/web/rdos-krakow/uznanie-za-rezerwat-przyrody-o-nazwie-wilczy-grunt",
+      "published": null,
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
       "key": "b74f20ea9d21fdfc",
       "kind": "artykul",
       "title": "Uznanie za rezerwat przyrody o nazwie \"Wilczy Grunt\"",
@@ -655,13 +907,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
       "snapshot_sha256": "f18fb9c791f0f6f9bb2c74bd83e69ce540396488252423263e52752267dbae16"
+     },
+     {
+      "key": "053be9dc68c4c01d",
+      "kind": "artykul",
+      "title": "Uznanie za rezerwat przyrody o nazwie \"Źródliska Wisłoki\"",
+      "url": "https://www.gov.pl/web/rdos-krakow/uznanie-za-rezerwat-przyrody-o-nazwie-zrodliska-wisloki",
+      "published": null,
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20214",
+      "snapshot_sha256": "f18fb9c791f0f6f9bb2c74bd83e69ce540396488252423263e52752267dbae16"
      }
     ]
    },
    {
     "sprawa_id": "70e988464a57d2ba",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-bialowieza/plan-urzadzenia-lasu|pul-dokument",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Białowieża",
     "source_name": "Nadleśnictwo Białowieża",
     "tier": "nadlesnictwo",
@@ -699,13 +963,25 @@
       "page_title": "Plan urządzenia lasu",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-bialowieza/plan-urzadzenia-lasu",
       "snapshot_sha256": "3e68589381775084a0dc8575d264c6057062d18c2fe34d0c9b93c5215ea895e6"
+     },
+     {
+      "key": "392c860beff35d8c",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Plan urządzenia lasu",
+      "url": "https://www.gov.pl/web/nadlesnictwo-bialowieza/plan-urzadzenia-lasu",
+      "published": "2026-07-14 12:05",
+      "source_id": "nadl-nadlesnictwo-bialowieza",
+      "source_name": "Nadleśnictwo Białowieża",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-bialowieza/plan-urzadzenia-lasu",
+      "snapshot_sha256": "3e68589381775084a0dc8575d264c6057062d18c2fe34d0c9b93c5215ea895e6"
      }
     ]
    },
    {
     "sprawa_id": "bccbcf041e47afe2",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-bialowieza/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Białowieża",
     "source_name": "Nadleśnictwo Białowieża",
     "tier": "nadlesnictwo",
@@ -743,13 +1019,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-bialowieza/informacja-o-kontrolach",
       "snapshot_sha256": "586883cb07604e371755fb07f7d419ce5317aa053a3571d579d24eb09680b382"
+     },
+     {
+      "key": "7b8656fd4ce17a00",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-bialowieza/informacja-o-kontrolach",
+      "published": "2026-07-14 12:07",
+      "source_id": "nadl-nadlesnictwo-bialowieza",
+      "source_name": "Nadleśnictwo Białowieża",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-bialowieza/informacja-o-kontrolach",
+      "snapshot_sha256": "586883cb07604e371755fb07f7d419ce5317aa053a3571d579d24eb09680b382"
      }
     ]
    },
    {
     "sprawa_id": "6a37ffad9eedc408",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-bielsk/zarzadzenia-i-dezyzje|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Bielsk",
     "source_name": "Nadleśnictwo Bielsk",
     "tier": "nadlesnictwo",
@@ -787,13 +1075,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-bielsk/zarzadzenia-i-dezyzje",
       "snapshot_sha256": "70921c8bfb4f17303b5f9860f28615744c1ec118853ea8990c7481a6de10baa9"
+     },
+     {
+      "key": "6efdad8e8bc79e85",
+      "kind": "artykul",
+      "title": "Informacje o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-bielsk/informacje-o-kontrolach",
+      "published": "2026-07-06 10:39",
+      "source_id": "nadl-nadlesnictwo-bielsk",
+      "source_name": "Nadleśnictwo Bielsk",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-bielsk/zarzadzenia-i-dezyzje",
+      "snapshot_sha256": "70921c8bfb4f17303b5f9860f28615744c1ec118853ea8990c7481a6de10baa9"
      }
     ]
    },
    {
     "sprawa_id": "6ae4838325cecf83",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-plaska/ochrona-przyrody|zmiana-strony-krytycznej",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Płaska",
     "source_name": "Nadleśnictwo Płaska",
     "tier": "nadlesnictwo",
@@ -831,13 +1131,25 @@
       "page_title": "Ochrona przyrody",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-plaska/ochrona-przyrody",
       "snapshot_sha256": "2db808f07ddcd390e1c839350570d3d06ff9aa0409c9d828fe46a74b02f86bbc"
+     },
+     {
+      "key": "2aa46bb66a5607ad",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Ochrona przyrody",
+      "url": "https://www.gov.pl/web/nadlesnictwo-plaska/ochrona-przyrody",
+      "published": "2026-07-14 10:04",
+      "source_id": "nadl-nadlesnictwo-plaska",
+      "source_name": "Nadleśnictwo Płaska",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-plaska/ochrona-przyrody",
+      "snapshot_sha256": "2db808f07ddcd390e1c839350570d3d06ff9aa0409c9d828fe46a74b02f86bbc"
      }
     ]
    },
    {
     "sprawa_id": "94611a60eb6bb20a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-plaska/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku|zmiana-strony-krytycznej",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Płaska",
     "source_name": "Nadleśnictwo Płaska",
     "tier": "nadlesnictwo",
@@ -875,13 +1187,25 @@
       "page_title": "Wykaz dokumentów zawierających informacje o środowisku",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-plaska/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku",
       "snapshot_sha256": "8da9b5f6ac68ef8d6fe71310235faaec477e0855401ee1601b631a3aa35b8afb"
+     },
+     {
+      "key": "f1bb81c6617626c1",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Wykaz dokumentów zawierających informacje o środowisku",
+      "url": "https://www.gov.pl/web/nadlesnictwo-plaska/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku",
+      "published": "2026-07-14 10:08",
+      "source_id": "nadl-nadlesnictwo-plaska",
+      "source_name": "Nadleśnictwo Płaska",
+      "page_title": "Wykaz dokumentów zawierających informacje o środowisku",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-plaska/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku",
+      "snapshot_sha256": "8da9b5f6ac68ef8d6fe71310235faaec477e0855401ee1601b631a3aa35b8afb"
      }
     ]
    },
    {
     "sprawa_id": "18a9f689fc8302f5",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody|zmiana-strony-krytycznej",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Gdańsk",
     "source_name": "Nadleśnictwo Gdańsk",
     "tier": "nadlesnictwo",
@@ -919,13 +1243,25 @@
       "page_title": "Ochrona przyrody",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
       "snapshot_sha256": "9ee0fe27b1d62f0eb818b658851ae7f07a797388fc9f786d7ba3ebe5d7b8d7b8"
+     },
+     {
+      "key": "8382066badeba6a8",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Ochrona przyrody",
+      "url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "published": "2026-07-14 14:08",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/ochrona-przyrody",
+      "snapshot_sha256": "9ee0fe27b1d62f0eb818b658851ae7f07a797388fc9f786d7ba3ebe5d7b8d7b8"
      }
     ]
    },
    {
     "sprawa_id": "deaade628508301a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-brzeziny/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Brzeziny",
     "source_name": "Nadleśnictwo Brzeziny",
     "tier": "nadlesnictwo",
@@ -963,13 +1299,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-brzeziny/informacja-o-kontrolach",
       "snapshot_sha256": "3ef9ee246a5cd1b7282117e59aa295886fba0cd0a8a626499a947946e3030108"
+     },
+     {
+      "key": "59df8fb201e0aa5b",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-brzeziny/informacja-o-kontrolach",
+      "published": "2026-07-14 11:56",
+      "source_id": "nadl-nadlesnictwo-brzeziny",
+      "source_name": "Nadleśnictwo Brzeziny",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-brzeziny/informacja-o-kontrolach",
+      "snapshot_sha256": "3ef9ee246a5cd1b7282117e59aa295886fba0cd0a8a626499a947946e3030108"
      }
     ]
    },
    {
     "sprawa_id": "ad234e5f1e6b27b5",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-milicz/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Milicz",
     "source_name": "Nadleśnictwo Milicz",
     "tier": "nadlesnictwo",
@@ -1007,13 +1355,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-milicz/informacja-o-kontrolach",
       "snapshot_sha256": "2ab327da9504a02fce922477497311fbd5ac2f548d8b6c89f0b117c8ed501813"
+     },
+     {
+      "key": "807966c193095172",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-milicz/informacja-o-kontrolach",
+      "published": "2026-07-14 22:11",
+      "source_id": "nadl-nadlesnictwo-milicz",
+      "source_name": "Nadleśnictwo Milicz",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-milicz/informacja-o-kontrolach",
+      "snapshot_sha256": "2ab327da9504a02fce922477497311fbd5ac2f548d8b6c89f0b117c8ed501813"
      }
     ]
    },
    {
     "sprawa_id": "5ca5a8142d679220",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/ochrona-przyrody|zmiana-strony-krytycznej",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDLP Krakowie",
     "tier": "rdlp",
@@ -1051,13 +1411,25 @@
       "page_title": "Ochrona Przyrody",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/ochrona-przyrody",
       "snapshot_sha256": "dc542295668310cc660d5b58eb973c98e67cdcb220dd1af5be9422bd3c4a376d"
+     },
+     {
+      "key": "5bbe0c5747de1213",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Ochrona Przyrody",
+      "url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/ochrona-przyrody",
+      "published": null,
+      "source_id": "rdlp-w-krakowie",
+      "source_name": "RDLP Krakowie",
+      "page_title": "Ochrona Przyrody",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/ochrona-przyrody",
+      "snapshot_sha256": "dc542295668310cc660d5b58eb973c98e67cdcb220dd1af5be9422bd3c4a376d"
      }
     ]
    },
    {
     "sprawa_id": "499ca8cbb868274c",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/plan-urzadzenia-lasu|pul-dokument",
-    "n_zdarzen": 4,
+    "n_zdarzen": 8,
     "podmiot": null,
     "source_name": "RDLP Wrocławiu",
     "tier": "rdlp",
@@ -1131,13 +1503,61 @@
       "page_title": "Plan urządzenia lasu",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/plan-urzadzenia-lasu",
       "snapshot_sha256": null
+     },
+     {
+      "key": "dea38ae161c2bf05",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Plan urządzenia lasu",
+      "url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/plan-urzadzenia-lasu",
+      "published": "2026-07-15 12:17",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/plan-urzadzenia-lasu",
+      "snapshot_sha256": "8705fb6820f06f1bb8b2df29b7da0798ae83b571d0d882ef4d03bd6211c4c602"
+     },
+     {
+      "key": "a028f1b6-2ebd-4b54-8c99-9b8436d4d9df",
+      "kind": "dokument",
+      "title": "Lubin_2026-2035",
+      "url": "https://www.gov.pl/attachment/a028f1b6-2ebd-4b54-8c99-9b8436d4d9df",
+      "published": "2026-07-15 12:17",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/plan-urzadzenia-lasu",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "0e697807-0e8f-4d6f-9dc2-ebf89fe933fa",
+      "kind": "dokument",
+      "title": "Milicz_2026-2035",
+      "url": "https://www.gov.pl/attachment/0e697807-0e8f-4d6f-9dc2-ebf89fe933fa",
+      "published": "2026-07-15 12:17",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/plan-urzadzenia-lasu",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "9030329b-1cc5-4939-b7de-71de0ef37dbd",
+      "kind": "dokument",
+      "title": "Pieńsk_2026-2035",
+      "url": "https://www.gov.pl/attachment/9030329b-1cc5-4939-b7de-71de0ef37dbd",
+      "published": "2026-07-15 12:17",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/plan-urzadzenia-lasu",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "afbc7cdda25ed8b6",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku2|zmiana-strony-krytycznej",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDLP Wrocławiu",
     "tier": "rdlp",
@@ -1175,13 +1595,25 @@
       "page_title": "Wykaz dokumentow zawierających informacje o środowisku",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku2",
       "snapshot_sha256": "6d8548e1054a9f97e03a0371439f9b126e8d601da059cdf05b0cfd133c2e7d08"
+     },
+     {
+      "key": "3d38e0ad898ab254",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Wykaz dokumentow zawierających informacje o środowisku",
+      "url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku2",
+      "published": "2026-07-15 12:18",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Wykaz dokumentow zawierających informacje o środowisku",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku2",
+      "snapshot_sha256": "6d8548e1054a9f97e03a0371439f9b126e8d601da059cdf05b0cfd133c2e7d08"
      }
     ]
    },
    {
     "sprawa_id": "e7ac93bf154607eb",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku2|pul-dokument",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDLP Wrocławiu",
     "tier": "rdlp",
@@ -1219,13 +1651,25 @@
       "page_title": "Wykaz dokumentow zawierających informacje o środowisku",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku2",
       "snapshot_sha256": null
+     },
+     {
+      "key": "ea72008f-7329-4f2a-be58-5698b87dbbd6",
+      "kind": "dokument",
+      "title": "Karty_informacyjne_planów_urządzenia_lasu_nadleśnictw_RDLP_we_Wrocławiu_(stan_na_rok_2026)",
+      "url": "https://www.gov.pl/attachment/ea72008f-7329-4f2a-be58-5698b87dbbd6",
+      "published": "2026-07-15 12:18",
+      "source_id": "rdlp-we-wroclawiu",
+      "source_name": "RDLP Wrocławiu",
+      "page_title": "Wykaz dokumentow zawierających informacje o środowisku",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku2",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "ee2b52fff586414b",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-borki/ochrona-przyrody|zmiana-strony-krytycznej",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Borki",
     "source_name": "Nadleśnictwo Borki",
     "tier": "nadlesnictwo",
@@ -1263,13 +1707,25 @@
       "page_title": "Ochrona przyrody",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-borki/ochrona-przyrody",
       "snapshot_sha256": "ddab3e23ba82850799a099318a086aa8ecc67c69fd8bcc680809d348bfcf58f7"
+     },
+     {
+      "key": "11375372e6a0a854",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Ochrona przyrody",
+      "url": "https://www.gov.pl/web/nadlesnictwo-borki/ochrona-przyrody",
+      "published": "2026-07-15 10:37",
+      "source_id": "nadl-nadlesnictwo-borki",
+      "source_name": "Nadleśnictwo Borki",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-borki/ochrona-przyrody",
+      "snapshot_sha256": "ddab3e23ba82850799a099318a086aa8ecc67c69fd8bcc680809d348bfcf58f7"
      }
     ]
    },
    {
     "sprawa_id": "780b0839cd0a4d1b",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-czerwony-dwor/finanse-i-majatek|obrot-ziemia",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Czerwony Dwór",
     "source_name": "Nadleśnictwo Czerwony Dwór",
     "tier": "nadlesnictwo",
@@ -1307,13 +1763,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-czerwony-dwor/finanse-i-majatek",
       "snapshot_sha256": null
+     },
+     {
+      "key": "402c886fd7096751",
+      "kind": "artykul",
+      "title": "Rejestr nieruchomości",
+      "url": "https://www.gov.pl/web/nadlesnictwo-czerwony-dwor/rejestr-nieruchomosci",
+      "published": "2026-07-15 13:50",
+      "source_id": "nadl-nadlesnictwo-czerwony-dwor",
+      "source_name": "Nadleśnictwo Czerwony Dwór",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czerwony-dwor/finanse-i-majatek",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "08499278d1ac1cf3",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-mlynary/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Młynary",
     "source_name": "Nadleśnictwo Młynary",
     "tier": "nadlesnictwo",
@@ -1351,13 +1819,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-mlynary/informacja-o-kontrolach",
       "snapshot_sha256": "4a07b80de2dcf94cf3a3b5980b96150f71002ec4ec1a8b73041d6607a6c1a31f"
+     },
+     {
+      "key": "ff46befec752bf2c",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-mlynary/informacja-o-kontrolach",
+      "published": "2026-07-15 14:01",
+      "source_id": "nadl-nadlesnictwo-mlynary",
+      "source_name": "Nadleśnictwo Młynary",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-mlynary/informacja-o-kontrolach",
+      "snapshot_sha256": "4a07b80de2dcf94cf3a3b5980b96150f71002ec4ec1a8b73041d6607a6c1a31f"
      }
     ]
    },
    {
     "sprawa_id": "817700ba02b34abd",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Nowe Ramuki",
     "source_name": "Nadleśnictwo Nowe Ramuki",
     "tier": "nadlesnictwo",
@@ -1407,13 +1887,37 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/informacja-o-kontrolach",
       "snapshot_sha256": null
+     },
+     {
+      "key": "7faee720b8c6164e",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/informacja-o-kontrolach",
+      "published": "2026-07-15 11:15",
+      "source_id": "nadl-nadlesnictwo-nowe-ramuki",
+      "source_name": "Nadleśnictwo Nowe Ramuki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/informacja-o-kontrolach",
+      "snapshot_sha256": "102fec7c22a6de68db163274c7254525c9cdb13a9ffc003f6978dc30f0a36953"
+     },
+     {
+      "key": "5cdb23fb-48d9-4cb7-9096-8be60e79697d",
+      "kind": "dokument",
+      "title": "Informacja o kontrolach w latach 2015-2026",
+      "url": "https://www.gov.pl/attachment/5cdb23fb-48d9-4cb7-9096-8be60e79697d",
+      "published": "2026-07-15 11:15",
+      "source_id": "nadl-nadlesnictwo-nowe-ramuki",
+      "source_name": "Nadleśnictwo Nowe Ramuki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/informacja-o-kontrolach",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "420cbe2fdbd7fce4",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-glusko/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Głusko",
     "source_name": "Nadleśnictwo Głusko",
     "tier": "nadlesnictwo",
@@ -1463,13 +1967,37 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-glusko/informacja-o-kontrolach",
       "snapshot_sha256": null
+     },
+     {
+      "key": "c7309d217d338508",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-glusko/informacja-o-kontrolach",
+      "published": "2026-07-15 14:28",
+      "source_id": "nadl-nadlesnictwo-glusko",
+      "source_name": "Nadleśnictwo Głusko",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-glusko/informacja-o-kontrolach",
+      "snapshot_sha256": "f9f6cdda8079a972918665abb87099fbd2a1e88620951d39090a09c7bfbf7b55"
+     },
+     {
+      "key": "6dbfe655-9ad4-4117-bd9e-4628f5826057",
+      "kind": "dokument",
+      "title": "WYLAZ KONTROLI 2026 AKTUALIZACJA",
+      "url": "https://www.gov.pl/attachment/6dbfe655-9ad4-4117-bd9e-4628f5826057",
+      "published": "2026-07-15 14:28",
+      "source_id": "nadl-nadlesnictwo-glusko",
+      "source_name": "Nadleśnictwo Głusko",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-glusko/informacja-o-kontrolach",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "76108ed0d9ed5039",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-milicz/plan-urzadzenia-lasu|pul-dokument",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Milicz",
     "source_name": "Nadleśnictwo Milicz",
     "tier": "nadlesnictwo",
@@ -1519,13 +2047,37 @@
       "page_title": "Plan urządzenia lasu",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-milicz/plan-urzadzenia-lasu",
       "snapshot_sha256": null
+     },
+     {
+      "key": "dc6e8d9151893450",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Plan urządzenia lasu",
+      "url": "https://www.gov.pl/web/nadlesnictwo-milicz/plan-urzadzenia-lasu",
+      "published": "2026-07-15 13:15",
+      "source_id": "nadl-nadlesnictwo-milicz",
+      "source_name": "Nadleśnictwo Milicz",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-milicz/plan-urzadzenia-lasu",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "30d86a02-35e8-4b07-b1cf-623690de5496",
+      "kind": "dokument",
+      "title": "Podsumowanie z uzasadnieniem",
+      "url": "https://www.gov.pl/attachment/30d86a02-35e8-4b07-b1cf-623690de5496",
+      "published": "2026-07-15 13:15",
+      "source_id": "nadl-nadlesnictwo-milicz",
+      "source_name": "Nadleśnictwo Milicz",
+      "page_title": "Plan urządzenia lasu",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-milicz/plan-urzadzenia-lasu",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "ec1cd6ebb838d5c5",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-walily/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Waliły",
     "source_name": "Nadleśnictwo Waliły",
     "tier": "nadlesnictwo",
@@ -1563,13 +2115,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-walily/informacja-o-kontrolach",
       "snapshot_sha256": "e0ffe74fa6bd0b40ee5e596bd289a072c89878bf2f5dec18530fbfa40ec9595d"
+     },
+     {
+      "key": "0a982358f19958a3",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-walily/informacja-o-kontrolach",
+      "published": "2026-07-16 08:28",
+      "source_id": "nadl-nadlesnictwo-walily",
+      "source_name": "Nadleśnictwo Waliły",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-walily/informacja-o-kontrolach",
+      "snapshot_sha256": "e0ffe74fa6bd0b40ee5e596bd289a072c89878bf2f5dec18530fbfa40ec9595d"
      }
     ]
    },
    {
     "sprawa_id": "6b8e5e38568755f9",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-gdansk/wystapienia-komunikaty-i-ogloszenia|obrot-ziemia",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Gdańsk",
     "source_name": "Nadleśnictwo Gdańsk",
     "tier": "nadlesnictwo",
@@ -1607,13 +2171,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": "780c18a19971cb3f016c4c98b2664deaf069b3b3bd6cf4bd72dacd5b21436177"
+     },
+     {
+      "key": "82d5dad5909c0955",
+      "kind": "artykul",
+      "title": "Publiczny pisemny nieograniczony przetarg na dzierżawę",
+      "url": "https://www.gov.pl/web/nadlesnictwo-gdansk/publiczny-pisemny-nieograniczony-przetarg-na-dzierzawe3",
+      "published": "2025-10-22 09:29",
+      "source_id": "nadl-nadlesnictwo-gdansk",
+      "source_name": "Nadleśnictwo Gdańsk",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gdansk/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": "780c18a19971cb3f016c4c98b2664deaf069b3b3bd6cf4bd72dacd5b21436177"
      }
     ]
    },
    {
     "sprawa_id": "5a3250772c57439a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody|zmiana-strony-krytycznej",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Knyszyn",
     "source_name": "Nadleśnictwo Knyszyn",
     "tier": "nadlesnictwo",
@@ -1651,13 +2227,25 @@
       "page_title": "Ochrona przyrody",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody",
       "snapshot_sha256": "77bca4d1adedfe986cc50afc515ac4f2d219b96f947d89bb32606c9b95ac757a"
+     },
+     {
+      "key": "1dfc8fd579be5a89",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Ochrona przyrody",
+      "url": "https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody",
+      "published": "2026-07-16 12:58",
+      "source_id": "nadl-nadlesnictwo-knyszyn",
+      "source_name": "Nadleśnictwo Knyszyn",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody",
+      "snapshot_sha256": "77bca4d1adedfe986cc50afc515ac4f2d219b96f947d89bb32606c9b95ac757a"
      }
     ]
    },
    {
     "sprawa_id": "6c20009d1c4ac032",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Kwidzyn",
     "source_name": "Nadleśnictwo Kwidzyn",
     "tier": "nadlesnictwo",
@@ -1695,13 +2283,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach",
       "snapshot_sha256": "c44aabd948fc8b174c5de10f4eb9f0b63ba64c721501d6edf83320347891fb2c"
+     },
+     {
+      "key": "14f9f976f41b6d55",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach",
+      "published": "2026-07-16 11:30",
+      "source_id": "nadl-nadlesnictwo-kwidzyn",
+      "source_name": "Nadleśnictwo Kwidzyn",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach",
+      "snapshot_sha256": "c44aabd948fc8b174c5de10f4eb9f0b63ba64c721501d6edf83320347891fb2c"
      }
     ]
    },
    {
     "sprawa_id": "a663994014b4ab00",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia|obrot-ziemia",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Dąbrowa Tarnowska",
     "source_name": "Nadleśnictwo Dąbrowa Tarnowska",
     "tier": "nadlesnictwo",
@@ -1739,13 +2339,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": "f9d8e47a10b09087adafc9c1f5dfcaa7524b1021bbad5e1988405785b705b74b"
+     },
+     {
+      "key": "6e6a0994-676d-4892-b0f7-48fbc60ce1e0",
+      "kind": "dokument",
+      "title": "Ogłoszenie o przetargu_dzierżawa_postępowanie II",
+      "url": "https://www.gov.pl/attachment/6e6a0994-676d-4892-b0f7-48fbc60ce1e0",
+      "published": "2026-07-16 12:18",
+      "source_id": "nadl-nadlesnictwo-dabrowa-tarnowska",
+      "source_name": "Nadleśnictwo Dąbrowa Tarnowska",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": "f9d8e47a10b09087adafc9c1f5dfcaa7524b1021bbad5e1988405785b705b74b"
      }
     ]
    },
    {
     "sprawa_id": "d80f90398067855d",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-swidnik/wystapienia-komunikaty-i-ogloszenia|obrot-ziemia",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Świdnik",
     "source_name": "Nadleśnictwo Świdnik",
     "tier": "nadlesnictwo",
@@ -1783,13 +2395,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-swidnik/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": "7b46ec964283ae316a40f408bbe6fb296017fb5aa5e5fbd8645573991fd84b03"
+     },
+     {
+      "key": "83c6e309-2a80-40e4-9366-6bab20d2e219",
+      "kind": "dokument",
+      "title": "Informacja o zamiarze przeprowadzenia transakcji zamiany nieruchomości 16072026",
+      "url": "https://www.gov.pl/attachment/83c6e309-2a80-40e4-9366-6bab20d2e219",
+      "published": "2026-07-16 14:46",
+      "source_id": "nadl-nadlesnictwo-swidnik",
+      "source_name": "Nadleśnictwo Świdnik",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-swidnik/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": "7b46ec964283ae316a40f408bbe6fb296017fb5aa5e5fbd8645573991fd84b03"
      }
     ]
    },
    {
     "sprawa_id": "785925a3f4ff3e72",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-lack/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Łąck",
     "source_name": "Nadleśnictwo Łąck",
     "tier": "nadlesnictwo",
@@ -1839,13 +2463,37 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-lack/informacja-o-kontrolach",
       "snapshot_sha256": null
+     },
+     {
+      "key": "f18b88b6c3fd13f8",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-lack/informacja-o-kontrolach",
+      "published": "2026-07-16 10:17",
+      "source_id": "nadl-nadlesnictwo-lack",
+      "source_name": "Nadleśnictwo Łąck",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-lack/informacja-o-kontrolach",
+      "snapshot_sha256": "66788c344f794179eb7de70e1c696332c27632f83fd85c696ce7d5e1b3bb2225"
+     },
+     {
+      "key": "b2852508-5d93-4dcf-8a61-409de8a336a7",
+      "kind": "dokument",
+      "title": "Wykaz kontroli zewnętrznych",
+      "url": "https://www.gov.pl/attachment/b2852508-5d93-4dcf-8a61-409de8a336a7",
+      "published": "2026-07-16 10:17",
+      "source_id": "nadl-nadlesnictwo-lack",
+      "source_name": "Nadleśnictwo Łąck",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-lack/informacja-o-kontrolach",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "bd75d113eb45dd5a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Zdrojowa Góra",
     "source_name": "Nadleśnictwo Zdrojowa Góra",
     "tier": "nadlesnictwo",
@@ -1883,13 +2531,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/informacja-o-kontrolach",
       "snapshot_sha256": "8d46fb1f78163e13a9614b106476d33f08e4429c4f22bf04f4263525254ba178"
+     },
+     {
+      "key": "5ed6c5a0a1e91a94",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/informacja-o-kontrolach",
+      "published": "2026-07-16 12:22",
+      "source_id": "nadl-nadlesnictwo-zdrojowa-gora",
+      "source_name": "Nadleśnictwo Zdrojowa Góra",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/informacja-o-kontrolach",
+      "snapshot_sha256": "8d46fb1f78163e13a9614b106476d33f08e4429c4f22bf04f4263525254ba178"
      }
     ]
    },
    {
     "sprawa_id": "d7fbc40ec1299574",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-czerniejewo/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 3,
+    "n_zdarzen": 6,
     "podmiot": "Czerniejewo",
     "source_name": "Nadleśnictwo Czerniejewo",
     "tier": "nadlesnictwo",
@@ -1951,13 +2611,49 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-czerniejewo/informacja-o-kontrolach",
       "snapshot_sha256": null
+     },
+     {
+      "key": "241264c491da6f56",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-czerniejewo/informacja-o-kontrolach",
+      "published": "2026-07-16 14:37",
+      "source_id": "nadl-nadlesnictwo-czerniejewo",
+      "source_name": "Nadleśnictwo Czerniejewo",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czerniejewo/informacja-o-kontrolach",
+      "snapshot_sha256": "e49f107b790410cb2ae079a880ae503ca3d24694557d131105fb118a274c599c"
+     },
+     {
+      "key": "e7b1e309-db82-4fae-afd4-e46325a93be2",
+      "kind": "dokument",
+      "title": "Wykaz kontroli wewnętrznych w 2025 r.",
+      "url": "https://www.gov.pl/attachment/e7b1e309-db82-4fae-afd4-e46325a93be2",
+      "published": "2026-07-16 14:37",
+      "source_id": "nadl-nadlesnictwo-czerniejewo",
+      "source_name": "Nadleśnictwo Czerniejewo",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czerniejewo/informacja-o-kontrolach",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "556f54d1-7b60-4863-9848-121ba18fd6e1",
+      "kind": "dokument",
+      "title": "Wykaz kontroli zewnętrznych w 2025 r.",
+      "url": "https://www.gov.pl/attachment/556f54d1-7b60-4863-9848-121ba18fd6e1",
+      "published": "2026-07-16 14:37",
+      "source_id": "nadl-nadlesnictwo-czerniejewo",
+      "source_name": "Nadleśnictwo Czerniejewo",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czerniejewo/informacja-o-kontrolach",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "c2c5bf5f3fd4d8ca",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-lopuchowko/informacja-o-kontrolach3|kontrola",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Łopuchówko",
     "source_name": "Nadleśnictwo Łopuchówko",
     "tier": "nadlesnictwo",
@@ -1995,13 +2691,25 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-lopuchowko/informacja-o-kontrolach3",
       "snapshot_sha256": "9f0b38f11df675d729b012065dcc112b9888f744584cdc5a4bbe105a7f606701"
+     },
+     {
+      "key": "1449e70b989d02cc",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-lopuchowko/informacja-o-kontrolach3",
+      "published": "2026-07-16 10:18",
+      "source_id": "nadl-nadlesnictwo-lopuchowko",
+      "source_name": "Nadleśnictwo Łopuchówko",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-lopuchowko/informacja-o-kontrolach3",
+      "snapshot_sha256": "9f0b38f11df675d729b012065dcc112b9888f744584cdc5a4bbe105a7f606701"
      }
     ]
    },
    {
     "sprawa_id": "5dda9bbdf70ec424",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-oborniki/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Oborniki",
     "source_name": "Nadleśnictwo Oborniki",
     "tier": "nadlesnictwo",
@@ -2051,13 +2759,37 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-oborniki/informacja-o-kontrolach",
       "snapshot_sha256": null
+     },
+     {
+      "key": "833f7da8e0209df1",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-oborniki/informacja-o-kontrolach",
+      "published": "2026-07-17 09:40",
+      "source_id": "nadl-nadlesnictwo-oborniki",
+      "source_name": "Nadleśnictwo Oborniki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-oborniki/informacja-o-kontrolach",
+      "snapshot_sha256": "5cbbd09a341b1eaa162ab18f5cd324c84d7fe849e954b6e3e37217d71aaec1e2"
+     },
+     {
+      "key": "a5d39df1-3acb-404d-a952-45daee8cdf31",
+      "kind": "dokument",
+      "title": "Wykaz_kontroli_zewnętrznych_-_stan_na_dzień_22.06.2026",
+      "url": "https://www.gov.pl/attachment/a5d39df1-3acb-404d-a952-45daee8cdf31",
+      "published": "2026-07-17 09:40",
+      "source_id": "nadl-nadlesnictwo-oborniki",
+      "source_name": "Nadleśnictwo Oborniki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-oborniki/informacja-o-kontrolach",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d44128bda220d2ca",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-sokolow/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Sokołów",
     "source_name": "Nadleśnictwo Sokołów",
     "tier": "nadlesnictwo",
@@ -2107,13 +2839,37 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-sokolow/informacja-o-kontrolach",
       "snapshot_sha256": null
+     },
+     {
+      "key": "8109e7d2faf02ed8",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-sokolow/informacja-o-kontrolach",
+      "published": "2026-07-16 12:51",
+      "source_id": "nadl-nadlesnictwo-sokolow",
+      "source_name": "Nadleśnictwo Sokołów",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-sokolow/informacja-o-kontrolach",
+      "snapshot_sha256": "7bdc6558f984ca308509b02f3c3cf8cab873fbbb920e69057eb6d84636e88337"
+     },
+     {
+      "key": "59cce9a8-aee9-494d-85c2-539678d09733",
+      "kind": "dokument",
+      "title": "Informacja o kontrolach przeprowadzonych w Nadleśnictwie Sokołów w 2026 roku",
+      "url": "https://www.gov.pl/attachment/59cce9a8-aee9-494d-85c2-539678d09733",
+      "published": "2026-07-16 12:51",
+      "source_id": "nadl-nadlesnictwo-sokolow",
+      "source_name": "Nadleśnictwo Sokołów",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-sokolow/informacja-o-kontrolach",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "4613eae739892a2a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-gizycko/finanse-i-majatek|obrot-ziemia",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Giżycko",
     "source_name": "Nadleśnictwo Giżycko",
     "tier": "nadlesnictwo",
@@ -2151,13 +2907,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-gizycko/finanse-i-majatek",
       "snapshot_sha256": "b8f5152fe8368822a4dc16a135a70791554d09e877c9d002bcc26dffdf923281"
+     },
+     {
+      "key": "e7cee372-a840-41d0-8f81-782761492e20",
+      "kind": "dokument",
+      "title": "Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025 rok. Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025",
+      "url": "https://www.gov.pl/attachment/e7cee372-a840-41d0-8f81-782761492e20",
+      "published": "2026-07-17 13:40",
+      "source_id": "nadl-nadlesnictwo-gizycko",
+      "source_name": "Nadleśnictwo Giżycko",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gizycko/finanse-i-majatek",
+      "snapshot_sha256": "b8f5152fe8368822a4dc16a135a70791554d09e877c9d002bcc26dffdf923281"
      }
     ]
    },
    {
     "sprawa_id": "03f59d4c231736cb",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek|obrot-ziemia",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Olecko",
     "source_name": "Nadleśnictwo Olecko",
     "tier": "nadlesnictwo",
@@ -2195,13 +2963,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
       "snapshot_sha256": "e5c20cd7891da3901a7204eb8330e09d949e8d7ea026bac05e1473f966a36817"
+     },
+     {
+      "key": "f5039f6b-69d8-437a-909f-1bd99518a49b",
+      "kind": "dokument",
+      "title": "Rejestr nieruchomości leśnych Nadleśnictwa Olecko – rok 2025",
+      "url": "https://www.gov.pl/attachment/f5039f6b-69d8-437a-909f-1bd99518a49b",
+      "published": "2026-07-17 11:57",
+      "source_id": "nadl-nadlesnictwo-olecko",
+      "source_name": "Nadleśnictwo Olecko",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
+      "snapshot_sha256": "e5c20cd7891da3901a7204eb8330e09d949e8d7ea026bac05e1473f966a36817"
      }
     ]
    },
    {
     "sprawa_id": "c735a86f9024b981",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2|kontrola",
-    "n_zdarzen": 4,
+    "n_zdarzen": 8,
     "podmiot": "Suwałki",
     "source_name": "Nadleśnictwo Suwałki",
     "tier": "nadlesnictwo",
@@ -2275,13 +3055,61 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2",
       "snapshot_sha256": null
+     },
+     {
+      "key": "b8be79d838d4bf34",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2",
+      "published": "2026-07-17 13:48",
+      "source_id": "nadl-nadlesnictwo-suwalki",
+      "source_name": "Nadleśnictwo Suwałki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2",
+      "snapshot_sha256": "7e60b4f41f1ace9013b42bcfbf9bd2448a1559719f4e268bae026116fd3d8abd"
+     },
+     {
+      "key": "9645f115-2ab1-4715-a7df-b290622eb01e",
+      "kind": "dokument",
+      "title": "Kontrole zewnętrzne przeprowadzone w 2026 roku w Nadleśnictwie Suwałki",
+      "url": "https://www.gov.pl/attachment/9645f115-2ab1-4715-a7df-b290622eb01e",
+      "published": "2026-07-17 13:48",
+      "source_id": "nadl-nadlesnictwo-suwalki",
+      "source_name": "Nadleśnictwo Suwałki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "235d82b7-4214-4134-894e-dfa1cf73a5fa",
+      "kind": "dokument",
+      "title": "Kontrole zewnętrzne przeprowadzone w 2025 roku w Nadleśnictwie Suwałki",
+      "url": "https://www.gov.pl/attachment/235d82b7-4214-4134-894e-dfa1cf73a5fa",
+      "published": "2026-07-17 13:48",
+      "source_id": "nadl-nadlesnictwo-suwalki",
+      "source_name": "Nadleśnictwo Suwałki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "9bbdaa90-abed-417b-ae90-3361745b8f06",
+      "kind": "dokument",
+      "title": "Kontrole zewnętrzne przeprowadzone w 2024 roku w Nadleśnictwie Suwałki",
+      "url": "https://www.gov.pl/attachment/9bbdaa90-abed-417b-ae90-3361745b8f06",
+      "published": "2026-07-17 13:48",
+      "source_id": "nadl-nadlesnictwo-suwalki",
+      "source_name": "Nadleśnictwo Suwałki",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-suwalki/informacja-o-kontrolach2",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "baad18c3c0e7b2ad",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-ustka/informacja-o-kontrolach|kontrola",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Ustka",
     "source_name": "Nadleśnictwo Ustka",
     "tier": "nadlesnictwo",
@@ -2331,6 +3159,30 @@
       "page_title": "Informacja o kontrolach",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-ustka/informacja-o-kontrolach",
       "snapshot_sha256": null
+     },
+     {
+      "key": "d4c4b4174b41be82",
+      "kind": "zmiana",
+      "title": "Zmiana w BIP: Informacja o kontrolach",
+      "url": "https://www.gov.pl/web/nadlesnictwo-ustka/informacja-o-kontrolach",
+      "published": "2026-07-17 10:36",
+      "source_id": "nadl-nadlesnictwo-ustka",
+      "source_name": "Nadleśnictwo Ustka",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-ustka/informacja-o-kontrolach",
+      "snapshot_sha256": "20abd1aae58eb3c84c0fc09f876e945c0dbd6ef61564f779394449ee759bbae8"
+     },
+     {
+      "key": "ab97f9e5-ba82-47f2-96f7-5d8b2f204dca",
+      "kind": "dokument",
+      "title": "Wykaz kontroli zewnętrznych 2026",
+      "url": "https://www.gov.pl/attachment/ab97f9e5-ba82-47f2-96f7-5d8b2f204dca",
+      "published": "2026-07-17 10:36",
+      "source_id": "nadl-nadlesnictwo-ustka",
+      "source_name": "Nadleśnictwo Ustka",
+      "page_title": "Informacja o kontrolach",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-ustka/informacja-o-kontrolach",
+      "snapshot_sha256": null
      }
     ]
    }
@@ -2339,7 +3191,7 @@
    {
     "sprawa_id": "c0b10eb33ebc9fa5",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026|rdos-nierozpoznane",
-    "n_zdarzen": 5,
+    "n_zdarzen": 10,
     "podmiot": null,
     "source_name": "RDOŚ Gdańsk",
     "tier": "rdos",
@@ -2391,6 +3243,54 @@
       "snapshot_sha256": null
      },
      {
+      "key": "0ab5f2482caef99d",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12.06.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12062026-r",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "602d3d792b78a921",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12.06.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12062026-r2",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "36a5b63f3cdab889",
+      "kind": "artykul",
+      "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.23.2024.MR.14 z dnia 14.07.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420232024mr14-z-dnia-14072026-r",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "9f9d95dd0c5d1b69",
+      "kind": "artykul",
+      "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.92.2025.AM.12 z dnia 14.07.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420922025am12-z-dnia-14072026-r",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
+     },
+     {
       "key": "36a5b63f3cdab889",
       "kind": "artykul",
       "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.23.2024.MR.14 z dnia 14.07.2026 r.",
@@ -2425,13 +3325,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
       "snapshot_sha256": null
+     },
+     {
+      "key": "8207d23b54de78ef",
+      "kind": "artykul",
+      "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.74.2025.IBA.10 z dnia 17.07.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420742025iba10-z-dnia-17072026-r",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "5d56e59aa86aaac3",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-katowice/rok2026|rdos-nierozpoznane",
-    "n_zdarzen": 10,
+    "n_zdarzen": 20,
     "podmiot": null,
     "source_name": "RDOŚ Katowice",
     "tier": "rdos",
@@ -2464,6 +3376,66 @@
       "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-13 r. znak WPN.6320.1.2026.JH",
       "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-13-r-znak-wpn632012026jh",
       "published": "2026-07-13 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "b7edd498a23ce295",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-13 r. znak WPN.6320.1.2026.JH",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-13-r-znak-wpn632012026jh",
+      "published": "2026-07-13 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "1d5e9d69f7f7e3df",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.49.2021.MP1.52",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-14-r-znak-woos420492021mp152",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "a1175de94956a97e",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.16",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-14-r-znak-woos42082026am16",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "7648a45458d67b3f",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.17",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos42082026am17",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "755f9412d2ea94c1",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.18",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos42082026am18",
+      "published": "2026-07-14 00:00",
       "source_id": "rdos-katowice",
       "source_name": "RDOŚ Katowice",
       "page_title": "Rok 2026",
@@ -2531,6 +3503,66 @@
       "snapshot_sha256": null
      },
      {
+      "key": "fc920045b1ba04d7",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-15 r. znak WOOŚ.4235.10.2016.KC.126",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos4235102016kc126",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "454a98d9e7c4b72f",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-doos-wdsii42082026afl10",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "fcbedd472b0285c4",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.3.2026.AFl.14",
+      "url": "https://www.gov.pl/web/rdos-katowice/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-2026-07-16-r-znak-doos-wdsii42032026afl14",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "e9008b73835f1b03",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.10.2025.JŻ.26",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420102025jz26",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "b90f2c7405f7627b",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.28.2026.JKS.3",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420282026jks3",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     },
+     {
       "key": "454a98d9e7c4b72f",
       "kind": "artykul",
       "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10",
@@ -2583,7 +3615,7 @@
    {
     "sprawa_id": "96255f554a9f996f",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026|rdos-nierozpoznane",
-    "n_zdarzen": 9,
+    "n_zdarzen": 18,
     "podmiot": null,
     "source_name": "RDOŚ Warszawa",
     "tier": "rdos",
@@ -2616,6 +3648,102 @@
       "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 8 lipca 2026 r., znak: WOOŚ-I.420.61.2026.SK.9",
       "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-8-lipca-2026-r-znak-woos-i420612026sk9",
       "published": "2026-07-08 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "9af4644f04131a9f",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 8 lipca 2026 r., znak: WOOŚ-I.420.61.2026.SK.9",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-8-lipca-2026-r-znak-woos-i420612026sk9",
+      "published": "2026-07-08 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "8e1da56cd60d7336",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.17.2026.KR.12",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420172026kr12",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "3e8dc5a9b4f847e7",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.45.2026.MP.19",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420452026mp19",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "f714b4731dc7ad4f",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.62.2026.SK.10",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420622026sk10",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "d1f4af820bb6ed93",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-II.420.43.2022.DF.35",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-ii420432022df35",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "2039c2f516fc9cfd",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.86.2026.SK.2",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420862026sk2",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "05de47bc965bcfb0",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-II.420.14.2025.OŁN/KR.17",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-ii420142025olnkr17",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "35327442191601e2",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.48.2026.CS.11",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420482026cs11",
+      "published": "2026-07-14 00:00",
       "source_id": "rdos-warszawa",
       "source_name": "RDOŚ Warszawa",
       "page_title": "Rok 2026",
@@ -2717,13 +3845,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
       "snapshot_sha256": null
+     },
+     {
+      "key": "c60e29277b2d6642",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 15 lipca 2026 r., znak: WOOŚ-I.420.73.2026.AGO.7",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-15-lipca-2026-r-znak-woos-i420732026ago7",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "733bbfe7b030a3a1",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-bialymstoku/plany-zamowien-publicznych|plan-postepowan",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDLP Białymstoku",
     "tier": "rdlp",
@@ -2761,13 +3901,25 @@
       "page_title": "Plan postępowań o udzielenie zamówień",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-bialymstoku/plany-zamowien-publicznych",
       "snapshot_sha256": null
+     },
+     {
+      "key": "e1b68bc1-6586-4d7d-a5bf-fa89b7368776",
+      "kind": "dokument",
+      "title": "Plan postępowań na 2026 r - aktualizacja 1 Plan_postępowań_2026_02.pdf 0.05MB Data dodania załącznika: 2026-07-14",
+      "url": "https://www.gov.pl/attachment/e1b68bc1-6586-4d7d-a5bf-fa89b7368776",
+      "published": "2026-07-14 13:14",
+      "source_id": "rdlp-w-bialymstoku",
+      "source_name": "RDLP Białymstoku",
+      "page_title": "Plan postępowań o udzielenie zamówień",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-bialymstoku/plany-zamowien-publicznych",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "9af3cc8d3c2847fc",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krosnie/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDLP Krośnie",
     "tier": "rdlp",
@@ -2805,13 +3957,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krosnie/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "64107c06-1c1b-4a20-94ac-83ff590d0f8b",
+      "kind": "dokument",
+      "title": "Obowiązujące Decyzje Dyrektora RDLP w Krośnie - 14.07.2026 r.",
+      "url": "https://www.gov.pl/attachment/64107c06-1c1b-4a20-94ac-83ff590d0f8b",
+      "published": "2026-07-14 10:32",
+      "source_id": "rdlp-w-krosnie",
+      "source_name": "RDLP Krośnie",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krosnie/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "03d34352176da2b8",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-radomiu/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": null,
     "source_name": "RDLP Radomiu",
     "tier": "rdlp",
@@ -2861,13 +4025,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-radomiu/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "e4c51292-fb96-4f32-b423-c49cff94fd29",
+      "kind": "dokument",
+      "title": "Wykaz Decyzji Dyrektora RDLP w Radomiu w 2026 r. v.1",
+      "url": "https://www.gov.pl/attachment/e4c51292-fb96-4f32-b423-c49cff94fd29",
+      "published": "2026-07-14 09:58",
+      "source_id": "rdlp-w-radomiu",
+      "source_name": "RDLP Radomiu",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-radomiu/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "aaa40b43-98b9-46fb-a624-079aca5760fc",
+      "kind": "dokument",
+      "title": "Wykaz Zarządzeń Dyrektora RDLP w Radomiu w 2026 r. v.1",
+      "url": "https://www.gov.pl/attachment/aaa40b43-98b9-46fb-a624-079aca5760fc",
+      "published": "2026-07-14 09:58",
+      "source_id": "rdlp-w-radomiu",
+      "source_name": "RDLP Radomiu",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-radomiu/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "a0565c857788ce00",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-lomza/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Łomża",
     "source_name": "Nadleśnictwo Łomża",
     "tier": "nadlesnictwo",
@@ -2907,6 +4095,30 @@
       "snapshot_sha256": null
      },
      {
+      "key": "e1e80c33-01ee-45e9-bbc2-2de36667ff0b",
+      "kind": "dokument",
+      "title": "Zarządzenia i decyzje Nadleśniczego Nadleśnictwa Łomża - stan na 10.07.2026",
+      "url": "https://www.gov.pl/attachment/e1e80c33-01ee-45e9-bbc2-2de36667ff0b",
+      "published": "2026-07-14 13:34",
+      "source_id": "nadl-nadlesnictwo-lomza",
+      "source_name": "Nadleśnictwo Łomża",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-lomza/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "ca58b613-7c6c-4123-be5a-b439eeb24b93",
+      "kind": "dokument",
+      "title": "Zarządzenia i decyzje Nadleśniczego Nadleśnictwa Łomża - stan na 13.07.2026",
+      "url": "https://www.gov.pl/attachment/ca58b613-7c6c-4123-be5a-b439eeb24b93",
+      "published": "2026-07-15 15:01",
+      "source_id": "nadl-nadlesnictwo-lomza",
+      "source_name": "Nadleśnictwo Łomża",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-lomza/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
       "key": "ca58b613-7c6c-4123-be5a-b439eeb24b93",
       "kind": "dokument",
       "title": "Zarządzenia i decyzje Nadleśniczego Nadleśnictwa Łomża - stan na 13.07.2026",
@@ -2923,7 +4135,7 @@
    {
     "sprawa_id": "7902dcd18cfda143",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-pomorze/zarzadzenia-i-decyzje|przetargi-lesne",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Pomorze",
     "source_name": "Nadleśnictwo Pomorze",
     "tier": "nadlesnictwo",
@@ -2961,13 +4173,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-pomorze/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "1b7fc35d-a53b-4048-bed8-a5f0d09812ac",
+      "kind": "dokument",
+      "title": "Zarządzenie_56_ w sprawie wprowadzenia w Nadleśnictwie Pomorze cennika detalicznego na sprzedaż drewna w 2026 roku oraz zasad sprzedaży tego drewna",
+      "url": "https://www.gov.pl/attachment/1b7fc35d-a53b-4048-bed8-a5f0d09812ac",
+      "published": "2026-07-14 14:12",
+      "source_id": "nadl-nadlesnictwo-pomorze",
+      "source_name": "Nadleśnictwo Pomorze",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-pomorze/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "ba00127585c5104b",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia|usuwanie-drzew",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Kaliska",
     "source_name": "Nadleśnictwo Kaliska",
     "tier": "nadlesnictwo",
@@ -3017,13 +4241,37 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "5a84e9b7-a66d-4443-a5a7-ebf778f6c8a6",
+      "kind": "dokument",
+      "title": "Zaproszenie do złożenia oferty (WYCINKA DRZEW) Zaproszenie do złożenia oferty (WYCINKA",
+      "url": "https://www.gov.pl/attachment/5a84e9b7-a66d-4443-a5a7-ebf778f6c8a6",
+      "published": "2026-07-14 10:27",
+      "source_id": "nadl-nadlesnictwo-kaliska",
+      "source_name": "Nadleśnictwo Kaliska",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "ee5d0a2f-8c4e-45d1-915b-46304dbee5e0",
+      "kind": "dokument",
+      "title": "Formularz oferty (WYCINKA DRZEW) Formularz oferty (WYCINKA",
+      "url": "https://www.gov.pl/attachment/ee5d0a2f-8c4e-45d1-915b-46304dbee5e0",
+      "published": "2026-07-14 10:27",
+      "source_id": "nadl-nadlesnictwo-kaliska",
+      "source_name": "Nadleśnictwo Kaliska",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "22434d225e58da3c",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia|przetargi-lesne",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Kaliska",
     "source_name": "Nadleśnictwo Kaliska",
     "tier": "nadlesnictwo",
@@ -3061,13 +4309,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "c0bf418c-752d-46cc-9e79-6d96d052bc67",
+      "kind": "dokument",
+      "title": "Wydzielenia_objęte_Zadaniem_wraz_z_powierzchnią_oraz_szacunkową_masą_pozyskania",
+      "url": "https://www.gov.pl/attachment/c0bf418c-752d-46cc-9e79-6d96d052bc67",
+      "published": "2026-07-14 10:27",
+      "source_id": "nadl-nadlesnictwo-kaliska",
+      "source_name": "Nadleśnictwo Kaliska",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kaliska/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "e09441eb2863916e",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-nowa-deba/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Nowa Dęba",
     "source_name": "Nadleśnictwo Nowa Dęba",
     "tier": "nadlesnictwo",
@@ -3105,13 +4365,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-nowa-deba/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "b973b285-1244-4d9b-bcac-984c26da863c",
+      "kind": "dokument",
+      "title": "Zarządzenia Nadleśniczego Nadleśnictwa Nowa Dęba _wydane na dzień 15_07_2026 r.",
+      "url": "https://www.gov.pl/attachment/b973b285-1244-4d9b-bcac-984c26da863c",
+      "published": "2026-07-15 08:38",
+      "source_id": "nadl-nadlesnictwo-nowa-deba",
+      "source_name": "Nadleśnictwo Nowa Dęba",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nowa-deba/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "ae1d592e25c06f62",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-nowa-deba/zamowienia-publiczne3|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Nowa Dęba zaprasza",
     "source_name": "Nadleśnictwo Nowa Dęba",
     "tier": "nadlesnictwo",
@@ -3149,13 +4421,25 @@
       "page_title": "Zamówienia publiczne",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-nowa-deba/zamowienia-publiczne3",
       "snapshot_sha256": null
+     },
+     {
+      "key": "22f4a0e482edcb5f",
+      "kind": "artykul",
+      "title": "Nadleśnictwo Nowa Dęba zaprasza do złożenia oferty na wykonanie zamówienia publicznego pn. Wykonanie dokumentacji projektowo-kosztorysowej na przebudowę drogi leśnej Kopana nr inw. 220/318, w postaci modernizacji przepustu na cieku wodnym Dobrawa wraz z wymaganymi uzgodnieniami i pozwoleniami-II postępowanie",
+      "url": "https://www.gov.pl/web/nadlesnictwo-nowa-deba/nadlesnictwo-nowa-deba-zaprasza-do-zlozenia-oferty-na-wykonanie-zamowienia-publicznego-pn-wykonanie-dokumentacji-projektowo-kosztorysowej-na-przebudowe-drogi-lesnej-kopana-nr-inw-220318-w-postaci-modernizacji-przepustu-na-cieku-wodnym-dobrawa-wraz-z-wymaganymi-uzgodnieniami-i-pozwoleniami-ii-postepowanie",
+      "published": "2026-03-05 09:48",
+      "source_id": "nadl-nadlesnictwo-nowa-deba",
+      "source_name": "Nadleśnictwo Nowa Dęba",
+      "page_title": "Zamówienia publiczne",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nowa-deba/zamowienia-publiczne3",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "4cd6df3d0c92f854",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 6,
+    "n_zdarzen": 12,
     "podmiot": "Tomaszów w",
     "source_name": "Nadleśnictwo Tomaszów",
     "tier": "nadlesnictwo",
@@ -3253,13 +4537,85 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "dc85af30-3e2b-4493-9eed-ff004a84eb96",
+      "kind": "dokument",
+      "title": "Rejestr zarządzeń Nadleśniczego Nadleśnictwa Tomaszów w 2026 roku",
+      "url": "https://www.gov.pl/attachment/dc85af30-3e2b-4493-9eed-ff004a84eb96",
+      "published": "2026-07-14 11:46",
+      "source_id": "nadl-nadlesnictwo-tomaszow",
+      "source_name": "Nadleśnictwo Tomaszów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "94864ea8-ab09-438b-bbb2-251d141bb8eb",
+      "kind": "dokument",
+      "title": "Rejestr zarządzeń Nadleśniczego Nadleśnictwa Tomaszów w 2025 roku",
+      "url": "https://www.gov.pl/attachment/94864ea8-ab09-438b-bbb2-251d141bb8eb",
+      "published": "2026-07-14 11:46",
+      "source_id": "nadl-nadlesnictwo-tomaszow",
+      "source_name": "Nadleśnictwo Tomaszów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "dac64343-f29f-424a-a61b-847c18b58ffa",
+      "kind": "dokument",
+      "title": "Rejestr zarządzeń Nadleśniczego Nadleśnictwa Tomaszów w latach 2004 - 2024",
+      "url": "https://www.gov.pl/attachment/dac64343-f29f-424a-a61b-847c18b58ffa",
+      "published": "2026-07-14 11:46",
+      "source_id": "nadl-nadlesnictwo-tomaszow",
+      "source_name": "Nadleśnictwo Tomaszów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "3383d103-4c8e-48a7-971a-78d1fa5b8c97",
+      "kind": "dokument",
+      "title": "Rejestr decyzji Nadleśniczego Nadleśnictwa Tomaszów w 2026 roku",
+      "url": "https://www.gov.pl/attachment/3383d103-4c8e-48a7-971a-78d1fa5b8c97",
+      "published": "2026-07-14 11:46",
+      "source_id": "nadl-nadlesnictwo-tomaszow",
+      "source_name": "Nadleśnictwo Tomaszów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "e0110320-1752-4f5a-bb2f-d18a56de7a58",
+      "kind": "dokument",
+      "title": "Rejestr decyzji Nadleśniczego Nadleśnictwa Tomaszów w 2025 roku",
+      "url": "https://www.gov.pl/attachment/e0110320-1752-4f5a-bb2f-d18a56de7a58",
+      "published": "2026-07-14 11:46",
+      "source_id": "nadl-nadlesnictwo-tomaszow",
+      "source_name": "Nadleśnictwo Tomaszów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "008a9a2c-ef8e-43bb-8301-e4737f87d804",
+      "kind": "dokument",
+      "title": "Rejestr decyzji Nadleśniczego Nadleśnictwa Tomaszów w latach 2004 - 2024",
+      "url": "https://www.gov.pl/attachment/008a9a2c-ef8e-43bb-8301-e4737f87d804",
+      "published": "2026-07-14 11:46",
+      "source_id": "nadl-nadlesnictwo-tomaszow",
+      "source_name": "Nadleśnictwo Tomaszów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-tomaszow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "71b0cc0faee00721",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-radziwillow/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Radziwiłłów",
     "source_name": "Nadleśnictwo Radziwiłłów",
     "tier": "nadlesnictwo",
@@ -3297,13 +4653,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-radziwillow/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "4ed5a19c-69c2-474c-87bf-e2885ab21f7e",
+      "kind": "dokument",
+      "title": "Zarządzenia 2026",
+      "url": "https://www.gov.pl/attachment/4ed5a19c-69c2-474c-87bf-e2885ab21f7e",
+      "published": "2026-07-14 14:50",
+      "source_id": "nadl-nadlesnictwo-radziwillow",
+      "source_name": "Nadleśnictwo Radziwiłłów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-radziwillow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "571e987e4c78a06c",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-nidzica/plany-zamowien-publicznych|plan-postepowan",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Nidzica",
     "source_name": "Nadleśnictwo Nidzica",
     "tier": "nadlesnictwo",
@@ -3341,13 +4709,25 @@
       "page_title": "Plany zamówień publicznych",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-nidzica/plany-zamowien-publicznych",
       "snapshot_sha256": null
+     },
+     {
+      "key": "bfe0441a-037c-4a59-8c49-4eb51f0e6fd4",
+      "kind": "dokument",
+      "title": "Plan postępowań o udzielenie zamówień na 2026 - wersja 4",
+      "url": "https://www.gov.pl/attachment/bfe0441a-037c-4a59-8c49-4eb51f0e6fd4",
+      "published": "2026-07-14 14:05",
+      "source_id": "nadl-nadlesnictwo-nidzica",
+      "source_name": "Nadleśnictwo Nidzica",
+      "page_title": "Plany zamówień publicznych",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nidzica/plany-zamowien-publicznych",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "e438e9fc81d5a28b",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-podanin/wystapienia-komunikaty-i-ogloszenia|przetargi-lesne",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Podanin",
     "source_name": "Nadleśnictwo Podanin",
     "tier": "nadlesnictwo",
@@ -3385,13 +4765,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-podanin/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "6a905771-084b-4990-a811-d08faf46525d",
+      "kind": "dokument",
+      "title": "Informacja_o_unieważnieniu_przetargu_ustnego_nieograniczonego",
+      "url": "https://www.gov.pl/attachment/6a905771-084b-4990-a811-d08faf46525d",
+      "published": "2026-07-15 08:05",
+      "source_id": "nadl-nadlesnictwo-podanin",
+      "source_name": "Nadleśnictwo Podanin",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-podanin/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "2318c0e37298dd9a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-nowogard/wystapnienia-komunikaty-i-ogloszenia|przetargi-lesne",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Nowogard",
     "source_name": "Nadleśnictwo Nowogard",
     "tier": "nadlesnictwo",
@@ -3429,13 +4821,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-nowogard/wystapnienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "e93f986a-d800-4764-bd9f-f47e2caac137",
+      "kind": "dokument",
+      "title": "Informacja dotycząca przetargu z dn 08.07.2026",
+      "url": "https://www.gov.pl/attachment/e93f986a-d800-4764-bd9f-f47e2caac137",
+      "published": "2026-07-14 11:43",
+      "source_id": "nadl-nadlesnictwo-nowogard",
+      "source_name": "Nadleśnictwo Nowogard",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nowogard/wystapnienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "3f6fa0154b25b4cd",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-osno-lubuskie/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Ośno Lubuskie",
     "source_name": "Nadleśnictwo Ośno Lubuskie",
     "tier": "nadlesnictwo",
@@ -3473,13 +4877,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-osno-lubuskie/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "a6ffacbc-31d1-4404-9f2c-5c0e2fcdac7d",
+      "kind": "dokument",
+      "title": "Decyzje 2026 rok",
+      "url": "https://www.gov.pl/attachment/a6ffacbc-31d1-4404-9f2c-5c0e2fcdac7d",
+      "published": "2026-07-14 10:04",
+      "source_id": "nadl-nadlesnictwo-osno-lubuskie",
+      "source_name": "Nadleśnictwo Ośno Lubuskie",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-osno-lubuskie/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "88fe23ec31174333",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-czarne-czluchowskie/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Czarne Człuchowskie lata",
     "source_name": "Nadleśnictwo Czarne Człuchowskie",
     "tier": "nadlesnictwo",
@@ -3517,13 +4933,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-czarne-czluchowskie/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "3604fb32-dd64-4af2-be30-768600748ec9",
+      "kind": "dokument",
+      "title": "Rejestr decyzji Nadleśniczego Nadleśnictwa Czarne Człuchowskie lata 2014-2026 14.07.026 Rejestr decyzji Nadleśniczego Nadleśnictwa Czarne Człuchowskie lata 2014-2026",
+      "url": "https://www.gov.pl/attachment/3604fb32-dd64-4af2-be30-768600748ec9",
+      "published": "2026-07-14 12:49",
+      "source_id": "nadl-nadlesnictwo-czarne-czluchowskie",
+      "source_name": "Nadleśnictwo Czarne Człuchowskie",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czarne-czluchowskie/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "7077ef2791cbfb79",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-wymiarki/wystapienia-komunikaty-i-ogloszenia|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Wymiarki",
     "source_name": "Nadleśnictwo Wymiarki",
     "tier": "nadlesnictwo",
@@ -3561,13 +4989,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-wymiarki/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "4ce76b43-298a-4ffc-91fc-2c99f2b4fff3",
+      "kind": "dokument",
+      "title": "załącznik do zarządzenia 30/2026",
+      "url": "https://www.gov.pl/attachment/4ce76b43-298a-4ffc-91fc-2c99f2b4fff3",
+      "published": "2026-07-14 10:32",
+      "source_id": "nadl-nadlesnictwo-wymiarki",
+      "source_name": "Nadleśnictwo Wymiarki",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-wymiarki/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "5b9558ce62f14e86",
     "sprawa_key": "page|https://www.gov.pl/web/gdos/rok-20216|rdos-nierozpoznane",
-    "n_zdarzen": 6,
+    "n_zdarzen": 12,
     "podmiot": null,
     "source_name": "Generalna Dyrekcja Ochrony Środowiska",
     "tier": "gdos",
@@ -3594,6 +5034,30 @@
     "termin": null,
     "bdl": null,
     "zdarzenia": [
+     {
+      "key": "166dee109d0bf300",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚI.4221.1.2026.PS.9",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsi422112026ps9",
+      "published": "2026-07-15 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "3d2a4bbee2e47974",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsiii42032026mk3",
+      "published": "2026-07-15 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     },
      {
       "key": "166dee109d0bf300",
       "kind": "artykul",
@@ -3665,13 +5129,61 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/gdos/rok-20216",
       "snapshot_sha256": null
+     },
+     {
+      "key": "a084fd9864991fe7",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42022026afi15",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "13eb0fcd0fb94fce",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.8.2026.AFI.10",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42082026afi10",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "05fc40e555c67d16",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.3.2026.AFI.14",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42032026afi14",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "2438658746307ecc",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.4711.1.2022.MKW.12 (stary znak: DOA-WSzOP.4711.4.2022.MBA)",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii471112022mkw12-stary-znak-doa-wszop471142022mba",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "a0d2722217a061f9",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-wroclaw/rok-20215|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Wrocław",
     "tier": "rdos",
@@ -3709,13 +5221,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20215",
       "snapshot_sha256": null
+     },
+     {
+      "key": "f449a3b977a405cd",
+      "kind": "artykul",
+      "title": "Zarządzenie nr 20.2026 Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 15 lipca 2026 r. w sprawie wyznaczenia szlaków turystycznych w rezerwacie przyrody „Wodospad Wilczki”",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/zarzadzenie-nr-202026-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-15-lipca-2026-r-w-sprawie-wyznaczenia-szlakow-turystycznych-w-rezerwacie-przyrody-wodospad-wilczki",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20215",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "82f981c185eb6de6",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-wroclaw/rok-20214|rdos-nierozpoznane",
-    "n_zdarzen": 7,
+    "n_zdarzen": 14,
     "podmiot": null,
     "source_name": "RDOŚ Wrocław",
     "tier": "rdos",
@@ -3748,6 +5272,66 @@
       "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 14 lipca 2026 r., znak: WOOŚ.420.47.2024.MSA.50",
       "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-14-lipca-2026-r-znak-woos420472024msa50",
       "published": "2026-07-14 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "2ff277abe0b14172",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 14 lipca 2026 r., znak: WOOŚ.420.47.2024.MSA.50",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-14-lipca-2026-r-znak-woos420472024msa50",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "e48d9a0692c8318c",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2023.WM.57",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292023wm57",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "958484a0533c368c",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., WOOŚ.420.63.2024.JS.34",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-woos420632024js34",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "86b829004996f104",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2026.WM.2",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292026wm2",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "6539ead246145330",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.30.2026.WM.2",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420302026wm2",
+      "published": "2026-07-16 00:00",
       "source_id": "rdos-wroclaw",
       "source_name": "RDOŚ Wrocław",
       "page_title": "Rok 2026",
@@ -3825,13 +5409,37 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
       "snapshot_sha256": null
+     },
+     {
+      "key": "277766956df6a2af",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak: WOOŚ.420.35.2026.PK.1",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-woos420352026pk1",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "f0bb8f65d89b514e",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak pisma: WOOŚ.420.64.2025.CC.13",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-pisma-woos420642025cc13",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d27dc8f903ad9fb8",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/zarzadzenia-i-decyzje2|przetargi-lesne",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDLP Krakowie",
     "tier": "rdlp",
@@ -3869,13 +5477,25 @@
       "page_title": "Zarządzenia i Decyzje",
       "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/zarzadzenia-i-decyzje2",
       "snapshot_sha256": null
+     },
+     {
+      "key": "cba22808b5daa35f",
+      "kind": "artykul",
+      "title": "Sprzedaż drewna, choinek, sadzonek",
+      "url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/sprzedaz-drewna-choinek-sadzonek",
+      "published": "2026-06-11 08:58",
+      "source_id": "rdlp-w-krakowie",
+      "source_name": "RDLP Krakowie",
+      "page_title": "Zarządzenia i Decyzje",
+      "page_url": "https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/zarzadzenia-i-decyzje2",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "30d57cfc87726c14",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-poddebice/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Poddębice",
     "source_name": "Nadleśnictwo Poddębice",
     "tier": "nadlesnictwo",
@@ -3913,13 +5533,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-poddebice/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "93dfd916-2c54-4357-b972-f70bc0c92064",
+      "kind": "dokument",
+      "title": "Wykaz zarządzeń i decyzji (stan na dzień 15.07.2026)",
+      "url": "https://www.gov.pl/attachment/93dfd916-2c54-4357-b972-f70bc0c92064",
+      "published": "2026-07-15 13:28",
+      "source_id": "nadl-nadlesnictwo-poddebice",
+      "source_name": "Nadleśnictwo Poddębice",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-poddebice/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d1bd3141fbabe4e9",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/zarzadzenia-i-decyzje2|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Nowe Ramuki",
     "source_name": "Nadleśnictwo Nowe Ramuki",
     "tier": "nadlesnictwo",
@@ -3969,13 +5601,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/zarzadzenia-i-decyzje2",
       "snapshot_sha256": null
+     },
+     {
+      "key": "61afca60-a69f-4ad2-9939-6bb4a6ba0ac8",
+      "kind": "dokument",
+      "title": "Zarządzenia Nadleśniczego Nadleśnictwa Nowe Ramuki 2026",
+      "url": "https://www.gov.pl/attachment/61afca60-a69f-4ad2-9939-6bb4a6ba0ac8",
+      "published": "2026-07-15 11:18",
+      "source_id": "nadl-nadlesnictwo-nowe-ramuki",
+      "source_name": "Nadleśnictwo Nowe Ramuki",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/zarzadzenia-i-decyzje2",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "a7b78279-e6f1-4a65-926d-b99eecd081b7",
+      "kind": "dokument",
+      "title": "Decyzje Nadleśniczego Nadleśnictwa Nowe Ramuki 2026",
+      "url": "https://www.gov.pl/attachment/a7b78279-e6f1-4a65-926d-b99eecd081b7",
+      "published": "2026-07-15 11:18",
+      "source_id": "nadl-nadlesnictwo-nowe-ramuki",
+      "source_name": "Nadleśnictwo Nowe Ramuki",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-nowe-ramuki/zarzadzenia-i-decyzje2",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "17432bfcbdbe07ce",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-krucz/wystapienia-komunikaty-i-ogloszenia|zarzadzenia-jednostki",
-    "n_zdarzen": 3,
+    "n_zdarzen": 6,
     "podmiot": "Krucz",
     "source_name": "Nadleśnictwo Krucz",
     "tier": "nadlesnictwo",
@@ -4037,13 +5693,49 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-krucz/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "0b42648b-473e-4884-b9a5-a76ec43f5a5e",
+      "kind": "dokument",
+      "title": "Zarządzenie nr 47/2026 Nadleśniczego Nadleśnictwa Krucz z dnia 10 lipca 2026 r.",
+      "url": "https://www.gov.pl/attachment/0b42648b-473e-4884-b9a5-a76ec43f5a5e",
+      "published": "2026-07-15 12:18",
+      "source_id": "nadl-nadlesnictwo-krucz",
+      "source_name": "Nadleśnictwo Krucz",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-krucz/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "26cf39ad-0e79-4cee-9792-8c03fc77508c",
+      "kind": "dokument",
+      "title": "Zał.nr 1 do Zarządzenia nr 47/2026 - Cennik cen detalicznych na przedaż drewna, choinek i stroiszu w Nadleśnictwie Krucz",
+      "url": "https://www.gov.pl/attachment/26cf39ad-0e79-4cee-9792-8c03fc77508c",
+      "published": "2026-07-15 12:18",
+      "source_id": "nadl-nadlesnictwo-krucz",
+      "source_name": "Nadleśnictwo Krucz",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-krucz/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "f62a115a-fc0d-4d9d-94f2-646402c00b7a",
+      "kind": "dokument",
+      "title": "Zał. nr 2 do Zarządzenia nr 47/2026 - Regulamin sprzedaży detalicznej drewna, choinek i stroiszu w Nadleśnictwie Krucz",
+      "url": "https://www.gov.pl/attachment/f62a115a-fc0d-4d9d-94f2-646402c00b7a",
+      "published": "2026-07-15 12:18",
+      "source_id": "nadl-nadlesnictwo-krucz",
+      "source_name": "Nadleśnictwo Krucz",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-krucz/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "0651cbfbf7da3de1",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-trzcianka/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Trzcianka",
     "source_name": "Nadleśnictwo Trzcianka",
     "tier": "nadlesnictwo",
@@ -4081,13 +5773,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-trzcianka/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "61ef6f79-7465-4635-af3c-35cb1e2aa68c",
+      "kind": "dokument",
+      "title": "Zarządzenie Nr 30/2026 Nadleśniczego Nadleśnictwa Trzcianka z dnia 14 lipca 2026 roku w sprawie zmiany załącznika nr 6 do Zarządzenia nr 27/2026 dotyczącego systemu elektronicznego zarządzania dokumentacją (EZD), dokumentującego przebieg załatwiania i rozstrzygania spraw w Nadleśnictwie Trzcianka (K.0210.6.2026)",
+      "url": "https://www.gov.pl/attachment/61ef6f79-7465-4635-af3c-35cb1e2aa68c",
+      "published": "2026-07-15 13:13",
+      "source_id": "nadl-nadlesnictwo-trzcianka",
+      "source_name": "Nadleśnictwo Trzcianka",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-trzcianka/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "b94882639bd8669f",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-gniezno/zamowienia-publiczne|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Gniezno",
     "source_name": "Nadleśnictwo Gniezno",
     "tier": "nadlesnictwo",
@@ -4127,13 +5831,25 @@
       "page_title": "Zamówienia publiczne",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-gniezno/zamowienia-publiczne",
       "snapshot_sha256": null
+     },
+     {
+      "key": "331fb7abaf2ebe42",
+      "kind": "artykul",
+      "title": "Konserwacja drogi leśnej pożarowej nr 19 w Leśnictwie Hutka Nadleśnictwo Gniezno 2026 r.",
+      "url": "https://www.gov.pl/web/nadlesnictwo-gniezno/konserwacja-drogi-lesnej-pozarowej-nr-19-w-lesnictwie-hutka-nadlesnictwo-gniezno-2026-r2",
+      "published": null,
+      "source_id": "nadl-nadlesnictwo-gniezno",
+      "source_name": "Nadleśnictwo Gniezno",
+      "page_title": "Zamówienia publiczne",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-gniezno/zamowienia-publiczne",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d409df03b4d83c2d",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-konin/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Konin",
     "source_name": "Nadleśnictwo Konin",
     "tier": "nadlesnictwo",
@@ -4171,13 +5887,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-konin/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "e9d5ed6b-f94a-4c09-bd28-2aa002a70962",
+      "kind": "dokument",
+      "title": "Wykaz zarządzeń",
+      "url": "https://www.gov.pl/attachment/e9d5ed6b-f94a-4c09-bd28-2aa002a70962",
+      "published": "2026-07-15 11:42",
+      "source_id": "nadl-nadlesnictwo-konin",
+      "source_name": "Nadleśnictwo Konin",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-konin/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d2405cb851f27333",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-dretyn/wystapienia-komunikaty-i-ogloszenia|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Dretyń",
     "source_name": "Nadleśnictwo Dretyń",
     "tier": "nadlesnictwo",
@@ -4215,13 +5943,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-dretyn/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "f730670f-52c7-4e30-ae53-5a29060844be",
+      "kind": "dokument",
+      "title": "Zarządzenie nr 44 z dnia 14 lipca 2026 w sprawie ustalenia ceny na drewno",
+      "url": "https://www.gov.pl/attachment/f730670f-52c7-4e30-ae53-5a29060844be",
+      "published": "2026-07-15 13:19",
+      "source_id": "nadl-nadlesnictwo-dretyn",
+      "source_name": "Nadleśnictwo Dretyń",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-dretyn/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "e9e99ac9d8cc7615",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-boleslawiec/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Bolesławiec",
     "source_name": "Nadleśnictwo Bolesławiec",
     "tier": "nadlesnictwo",
@@ -4271,13 +6011,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-boleslawiec/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "ce3696f0-d9fa-45e7-b875-1721eab16068",
+      "kind": "dokument",
+      "title": "Wykaz zarządzeń Nadleśniczego Nadleśnictwa Bolesławiec - rok 2026",
+      "url": "https://www.gov.pl/attachment/ce3696f0-d9fa-45e7-b875-1721eab16068",
+      "published": "2026-07-15 13:24",
+      "source_id": "nadl-nadlesnictwo-boleslawiec",
+      "source_name": "Nadleśnictwo Bolesławiec",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-boleslawiec/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "7bb54c1f-81b8-4bde-bb84-203f3334c7d3",
+      "kind": "dokument",
+      "title": "Wykaz decyzji Nadleśniczego Nadleśnictwa Bolesławiec - rok 2026",
+      "url": "https://www.gov.pl/attachment/7bb54c1f-81b8-4bde-bb84-203f3334c7d3",
+      "published": "2026-07-15 13:24",
+      "source_id": "nadl-nadlesnictwo-boleslawiec",
+      "source_name": "Nadleśnictwo Bolesławiec",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-boleslawiec/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "c3edf8e8a452fa67",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-wolsztyn/wystapienia-komunikaty-i-ogloszenia|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Wolsztyn",
     "source_name": "Nadleśnictwo Wolsztyn",
     "tier": "nadlesnictwo",
@@ -4315,13 +6079,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-wolsztyn/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "00fbffd4-c104-48d9-98c4-5574d3c99ae9",
+      "kind": "dokument",
+      "title": "Decyzja nr 15 Nadleśniczego Nadleśnictwa Wolsztyn z dnia 15 lipca 2026 r. w sprawie ustalenia cennika sprzedaży detalicznej na drewno",
+      "url": "https://www.gov.pl/attachment/00fbffd4-c104-48d9-98c4-5574d3c99ae9",
+      "published": "2026-07-15 14:40",
+      "source_id": "nadl-nadlesnictwo-wolsztyn",
+      "source_name": "Nadleśnictwo Wolsztyn",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-wolsztyn/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "413d9436fb1a6e43",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-gorzow-wielkopolski/rok-20220|rdos-nierozpoznane",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Gorzów Wlkp.",
     "tier": "rdos",
@@ -4359,13 +6135,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-gorzow-wielkopolski/rok-20220",
       "snapshot_sha256": null
+     },
+     {
+      "key": "99c10bf8c76f2937",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopolskim z 14 lipca 2026 roku, znak: WOOŚ.420.41.2026.DM",
+      "url": "https://www.gov.pl/web/rdos-gorzow-wielkopolski/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gorzowie-wielkopolskim-z-14-lipca-2026-roku-znak-woos420412026dm",
+      "published": "2026-07-14 00:00",
+      "source_id": "rdos-gorzow-wielkopolski",
+      "source_name": "RDOŚ Gorzów Wlkp.",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gorzow-wielkopolski/rok-20220",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "3f8fa7e4510b2e6b",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-lodz/rok-20225|rdos-nierozpoznane",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Łódź",
     "tier": "rdos",
@@ -4403,13 +6191,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-lodz/rok-20225",
       "snapshot_sha256": null
+     },
+     {
+      "key": "df2ca64acecc2038",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚI.4221.1.2026.PS.9",
+      "url": "https://www.gov.pl/web/rdos-lodz/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsi422112026ps9",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-lodz",
+      "source_name": "RDOŚ Łódź",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-lodz/rok-20225",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "a1e97483c7c1245b",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-jaroslaw/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Jarosław",
     "source_name": "Nadleśnictwo Jarosław",
     "tier": "nadlesnictwo",
@@ -4447,13 +6247,25 @@
       "page_title": "Zarzadzenia i Decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-jaroslaw/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "7cc21943-03f1-4610-aac0-6b0f442bf84c",
+      "kind": "dokument",
+      "title": "wykaz obowiązujących zarządzeń i decyzji, stan na dzień 10.07.2026r.",
+      "url": "https://www.gov.pl/attachment/7cc21943-03f1-4610-aac0-6b0f442bf84c",
+      "published": "2026-07-16 09:27",
+      "source_id": "nadl-nadlesnictwo-jaroslaw",
+      "source_name": "Nadleśnictwo Jarosław",
+      "page_title": "Zarzadzenia i Decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-jaroslaw/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "e77dc0aea6b8b52a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-oleszyce/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Oleszyce",
     "source_name": "Nadleśnictwo Oleszyce",
     "tier": "nadlesnictwo",
@@ -4491,13 +6303,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-oleszyce/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "91593939-bb77-4f60-adc8-3778b97ba724",
+      "kind": "dokument",
+      "title": "ZARZĄDZENIA Nadleśniczego - stan na 16.07.2026r. ZARZĄDZENIA Nadleśniczego - stan na",
+      "url": "https://www.gov.pl/attachment/91593939-bb77-4f60-adc8-3778b97ba724",
+      "published": "2026-07-16 09:25",
+      "source_id": "nadl-nadlesnictwo-oleszyce",
+      "source_name": "Nadleśnictwo Oleszyce",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-oleszyce/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "b5adaa7307187666",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-potrzebowice/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Potrzebowice wydane w",
     "source_name": "Nadleśnictwo Potrzebowice",
     "tier": "nadlesnictwo",
@@ -4535,13 +6359,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-potrzebowice/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "259d72ba-3e01-46af-9981-d9c5b60d699f",
+      "kind": "dokument",
+      "title": "Zarządzenie Nadleśniczego Nadleśnictwa Potrzebowice wydane w 2026 roku",
+      "url": "https://www.gov.pl/attachment/259d72ba-3e01-46af-9981-d9c5b60d699f",
+      "published": "2026-07-16 09:14",
+      "source_id": "nadl-nadlesnictwo-potrzebowice",
+      "source_name": "Nadleśnictwo Potrzebowice",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-potrzebowice/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "26f5c70097d12fa2",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia|rdos-nierozpoznane",
-    "n_zdarzen": 9,
+    "n_zdarzen": 18,
     "podmiot": null,
     "source_name": "RDOŚ Bydgoszcz",
     "tier": "rdos",
@@ -4675,13 +6511,121 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "61802a3b158f081c",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.5,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj5",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "4a70a0e3b457a631",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.4,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj4",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "13efe9e133e761fe",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.3,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj3",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "b472a5bcd9818dfe",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.2,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj2",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "7e2aaa2d077c66d4",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.1,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj1",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "523c0125b68a2d16",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.2,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj2",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "911b752d208e7b7d",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.1,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj1",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "6581377f658e71ad",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.2,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj2",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "5373f5a747d7ce24",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.1,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj1",
+      "published": "2026-06-12 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "b675af543ddbb75b",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-gdansk/zarzadzenia-2026|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Gdańsk",
     "tier": "rdos",
@@ -4719,13 +6663,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-gdansk/zarzadzenia-2026",
       "snapshot_sha256": null
+     },
+     {
+      "key": "0ecdef4bf490fb81",
+      "kind": "artykul",
+      "title": "Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 8 maja 2026 roku",
+      "url": "https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-8-maja-2026-roku",
+      "published": "2026-05-08 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/zarzadzenia-2026",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "a664c5ddccfa6c94",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-kielce/2026-rok|rdos-nierozpoznane",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Kielce",
     "tier": "rdos",
@@ -4763,13 +6719,25 @@
       "page_title": "2026 rok",
       "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
       "snapshot_sha256": null
+     },
+     {
+      "key": "7ea483967941426f",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.17.2024.PJ/SK.41",
+      "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-kielce",
+      "source_name": "RDOŚ Kielce",
+      "page_title": "2026 rok",
+      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "0474ca1cc2c3968a",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-maskulinskie/plany-zamowien-publicznych|plan-postepowan",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Maskulińskie",
     "source_name": "Nadleśnictwo Maskulińskie",
     "tier": "nadlesnictwo",
@@ -4807,13 +6775,25 @@
       "page_title": "Plany zamówień publicznych",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-maskulinskie/plany-zamowien-publicznych",
       "snapshot_sha256": null
+     },
+     {
+      "key": "cb1e03e8-7f44-40f0-8928-26e0f86e6e47",
+      "kind": "dokument",
+      "title": "Plan zamówień publicznych na 2022 rok",
+      "url": "https://www.gov.pl/attachment/cb1e03e8-7f44-40f0-8928-26e0f86e6e47",
+      "published": "2026-07-16 10:20",
+      "source_id": "nadl-nadlesnictwo-maskulinskie",
+      "source_name": "Nadleśnictwo Maskulińskie",
+      "page_title": "Plany zamówień publicznych",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-maskulinskie/plany-zamowien-publicznych",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "4371fd406ac733e1",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-pinczow/plany-zamowien-publicznych|plan-postepowan",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Pińczów",
     "source_name": "Nadleśnictwo Pińczów",
     "tier": "nadlesnictwo",
@@ -4851,13 +6831,25 @@
       "page_title": "Plany zamówień publicznych",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-pinczow/plany-zamowien-publicznych",
       "snapshot_sha256": null
+     },
+     {
+      "key": "58520384-77bd-4881-87e5-decdb508fb56",
+      "kind": "dokument",
+      "title": "Plan postępowań na rok 2026 wersja 4",
+      "url": "https://www.gov.pl/attachment/58520384-77bd-4881-87e5-decdb508fb56",
+      "published": "2026-07-16 12:16",
+      "source_id": "nadl-nadlesnictwo-pinczow",
+      "source_name": "Nadleśnictwo Pińczów",
+      "page_title": "Plany zamówień publicznych",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-pinczow/plany-zamowien-publicznych",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "7ec8f9e2eee4d348",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-goleniow/zarzadzenia-i-decyzje2|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Goleniów",
     "source_name": "Nadleśnictwo Goleniów",
     "tier": "nadlesnictwo",
@@ -4895,13 +6887,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-goleniow/zarzadzenia-i-decyzje2",
       "snapshot_sha256": null
+     },
+     {
+      "key": "1bd3e53b-f193-49ce-ae12-4bfaf9988aa8",
+      "kind": "dokument",
+      "title": "Wykaz obowiązujących Zarządzeń i Decyzji. 14.07.2026",
+      "url": "https://www.gov.pl/attachment/1bd3e53b-f193-49ce-ae12-4bfaf9988aa8",
+      "published": "2026-07-16 13:56",
+      "source_id": "nadl-nadlesnictwo-goleniow",
+      "source_name": "Nadleśnictwo Goleniów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-goleniow/zarzadzenia-i-decyzje2",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "0a21dae4ce550f38",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-czarnobor/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Czarnobór",
     "source_name": "Nadleśnictwo Czarnobór",
     "tier": "nadlesnictwo",
@@ -4939,13 +6943,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-czarnobor/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "c3897ebc-8d29-4dc3-a6ec-cd49a1d095b7",
+      "kind": "dokument",
+      "title": "Wykaz obowiązujących Zarządzeń 16.07.2026",
+      "url": "https://www.gov.pl/attachment/c3897ebc-8d29-4dc3-a6ec-cd49a1d095b7",
+      "published": "2026-07-16 10:37",
+      "source_id": "nadl-nadlesnictwo-czarnobor",
+      "source_name": "Nadleśnictwo Czarnobór",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czarnobor/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "005f39de67d08929",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-damnica/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Damnica od",
     "source_name": "Nadleśnictwo Damnica",
     "tier": "nadlesnictwo",
@@ -4983,13 +6999,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-damnica/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "5a76e07f-2169-4a37-8ff9-76c8114d2bcd",
+      "kind": "dokument",
+      "title": "Wykaz zarządzeń Nadleśniczego Nadleśnictwa Damnica od 1.01.2026r. do 13.07.2026r",
+      "url": "https://www.gov.pl/attachment/5a76e07f-2169-4a37-8ff9-76c8114d2bcd",
+      "published": "2026-07-16 11:09",
+      "source_id": "nadl-nadlesnictwo-damnica",
+      "source_name": "Nadleśnictwo Damnica",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-damnica/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "f25eb43a38717dde",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-goscino/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Gościno",
     "source_name": "Nadleśnictwo Gościno",
     "tier": "nadlesnictwo",
@@ -5039,13 +7067,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-goscino/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "b6404228-7b1e-460a-8efa-c306aac71cf3",
+      "kind": "dokument",
+      "title": "Wykaz obowiązujących zarządzeń",
+      "url": "https://www.gov.pl/attachment/b6404228-7b1e-460a-8efa-c306aac71cf3",
+      "published": "2026-07-17 08:18",
+      "source_id": "nadl-nadlesnictwo-goscino",
+      "source_name": "Nadleśnictwo Gościno",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-goscino/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "9a3de399-32c5-42f3-90e9-1dda09cdc4d0",
+      "kind": "dokument",
+      "title": "Wykaz obowiązujących decyzji",
+      "url": "https://www.gov.pl/attachment/9a3de399-32c5-42f3-90e9-1dda09cdc4d0",
+      "published": "2026-07-17 08:18",
+      "source_id": "nadl-nadlesnictwo-goscino",
+      "source_name": "Nadleśnictwo Gościno",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-goscino/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "41ab92f0f98c0ede",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-sokolow/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Sokołów w",
     "source_name": "Nadleśnictwo Sokołów",
     "tier": "nadlesnictwo",
@@ -5095,13 +7147,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-sokolow/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "8ba9b683-67f8-462c-87ae-31f99d3f718b",
+      "kind": "dokument",
+      "title": "Wykaz zarządzeń Nadleśniczego Nadleśnictwa Sokołów w 2026 roku",
+      "url": "https://www.gov.pl/attachment/8ba9b683-67f8-462c-87ae-31f99d3f718b",
+      "published": "2026-07-16 12:51",
+      "source_id": "nadl-nadlesnictwo-sokolow",
+      "source_name": "Nadleśnictwo Sokołów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-sokolow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "8e01fdbf-64e0-4cd5-989f-b6451767618a",
+      "kind": "dokument",
+      "title": "Wykaz decyzji Nadleśniczego Nadleśnictwa Sokołów w 2026 roku",
+      "url": "https://www.gov.pl/attachment/8e01fdbf-64e0-4cd5-989f-b6451767618a",
+      "published": "2026-07-16 12:51",
+      "source_id": "nadl-nadlesnictwo-sokolow",
+      "source_name": "Nadleśnictwo Sokołów",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-sokolow/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d5b7090c6b4d81e7",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-wymiarki/plany-zamowienien-publicznych|plan-postepowan",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Wymiarki",
     "source_name": "Nadleśnictwo Wymiarki",
     "tier": "nadlesnictwo",
@@ -5139,13 +7215,25 @@
       "page_title": "Plany zamówienień publicznych",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-wymiarki/plany-zamowienien-publicznych",
       "snapshot_sha256": null
+     },
+     {
+      "key": "96b3659a-40af-4cef-a8a1-aedef66f3df7",
+      "kind": "dokument",
+      "title": "Plan zamówien na 2026 rok - wersja 3",
+      "url": "https://www.gov.pl/attachment/96b3659a-40af-4cef-a8a1-aedef66f3df7",
+      "published": "2026-07-17 07:36",
+      "source_id": "nadl-nadlesnictwo-wymiarki",
+      "source_name": "Nadleśnictwo Wymiarki",
+      "page_title": "Plany zamówienień publicznych",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-wymiarki/plany-zamowienien-publicznych",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "ada53d875b4f6f7c",
     "sprawa_key": "page|https://www.gov.pl/web/rdos-krakow/rok-20213|rdos-nierozpoznane",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": null,
     "source_name": "RDOŚ Kraków",
     "tier": "rdos",
@@ -5183,13 +7271,25 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
       "snapshot_sha256": null
+     },
+     {
+      "key": "3caee17bdf1d4bb1",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3 - Budowa nowej drogi startowej na lotnisku Kraków - Balice",
+      "url": "https://www.gov.pl/web/rdos-krakow/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026r-znak-doos-wdsiii42032026mk3---budowa-nowej-drogi-startowej-na-lotnisku-krakow---balice",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-krakow",
+      "source_name": "RDOŚ Kraków",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "ba6a5db0fa361cfc",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-siewierz/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Siewierz",
     "source_name": "Nadleśnictwo Siewierz",
     "tier": "nadlesnictwo",
@@ -5239,13 +7339,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-siewierz/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "f003c183-39ec-4017-ba98-48acf7b4b41b",
+      "kind": "dokument",
+      "title": "Rejestr_Zarządzeń_Nadleśniczego_wg_stanu_na_dzień_17072026",
+      "url": "https://www.gov.pl/attachment/f003c183-39ec-4017-ba98-48acf7b4b41b",
+      "published": "2026-07-17 14:26",
+      "source_id": "nadl-nadlesnictwo-siewierz",
+      "source_name": "Nadleśnictwo Siewierz",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-siewierz/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "cfb2ca75-33c9-41eb-8ed7-11523393afba",
+      "kind": "dokument",
+      "title": "Rejestr_decyzji_Nadleśniczego_Nadleśnictwa_Siewierz_wg_stanu_na_17072026_r",
+      "url": "https://www.gov.pl/attachment/cfb2ca75-33c9-41eb-8ed7-11523393afba",
+      "published": "2026-07-17 14:26",
+      "source_id": "nadl-nadlesnictwo-siewierz",
+      "source_name": "Nadleśnictwo Siewierz",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-siewierz/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "89655b1ce5faba64",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-sobibor/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Sobibór II aktualizacja",
     "source_name": "Nadleśnictwo Sobibór",
     "tier": "nadlesnictwo",
@@ -5295,13 +7419,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-sobibor/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "2a050fba-c328-47ce-8a65-82e42e465760",
+      "kind": "dokument",
+      "title": "Decyzje Nadleśniczego Nadleśnictwa Sobibór II aktualizacja lipiec 2026",
+      "url": "https://www.gov.pl/attachment/2a050fba-c328-47ce-8a65-82e42e465760",
+      "published": "2026-07-17 12:29",
+      "source_id": "nadl-nadlesnictwo-sobibor",
+      "source_name": "Nadleśnictwo Sobibór",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-sobibor/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "21736a3e-a043-49e4-bc04-4ba700d88d44",
+      "kind": "dokument",
+      "title": "Zarządzenia Nadleśniczego Nadleśnictwa Sobibór II aktualizacja lipiec 2026",
+      "url": "https://www.gov.pl/attachment/21736a3e-a043-49e4-bc04-4ba700d88d44",
+      "published": "2026-07-17 12:29",
+      "source_id": "nadl-nadlesnictwo-sobibor",
+      "source_name": "Nadleśnictwo Sobibór",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-sobibor/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "e022d29bf84aca7f",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Kalisz Pomorski",
     "source_name": "Nadleśnictwo Kalisz Pomorski",
     "tier": "nadlesnictwo",
@@ -5351,13 +7499,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "0053537b-6c04-4df7-bde7-05329a175661",
+      "kind": "dokument",
+      "title": "Wykaz_Decyzji_Nadleśniczego_Nadleśnictwa_Kalisz_Pomorski_wydanych_w_2026_r",
+      "url": "https://www.gov.pl/attachment/0053537b-6c04-4df7-bde7-05329a175661",
+      "published": "2026-07-17 12:43",
+      "source_id": "nadl-nadlesnictwo-kalisz-pomorski",
+      "source_name": "Nadleśnictwo Kalisz Pomorski",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "4b5ef138-280b-478e-8016-59c8d82ecbcb",
+      "kind": "dokument",
+      "title": "Wykaz_Zarządzeń__Nadleśniczego_Nadleśnictwa_Kalisz_Pomorski_wydanych_2026_r",
+      "url": "https://www.gov.pl/attachment/4b5ef138-280b-478e-8016-59c8d82ecbcb",
+      "published": "2026-07-17 12:43",
+      "source_id": "nadl-nadlesnictwo-kalisz-pomorski",
+      "source_name": "Nadleśnictwo Kalisz Pomorski",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "a06c475602c9ba6b",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-czaplinek/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Czaplinek",
     "source_name": "Nadleśnictwo Czaplinek",
     "tier": "nadlesnictwo",
@@ -5407,13 +7579,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-czaplinek/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "402d8f97-e4b6-4f5f-a9e0-32deab480bcc",
+      "kind": "dokument",
+      "title": "Aktualne zarządzenia i decyzje Nadleśniczego Nadleśnictwa Czaplinek - stan na dzień 17.07.2026 roku",
+      "url": "https://www.gov.pl/attachment/402d8f97-e4b6-4f5f-a9e0-32deab480bcc",
+      "published": "2026-07-17 11:13",
+      "source_id": "nadl-nadlesnictwo-czaplinek",
+      "source_name": "Nadleśnictwo Czaplinek",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czaplinek/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "51150324-6de5-4dd6-ab02-9b8c4edc6b86",
+      "kind": "dokument",
+      "title": "Decyzja nr 37 Nadleśniczego Nadleśnictwa Czaplinek w sprawie ustalenia cen detalicznych na drewno",
+      "url": "https://www.gov.pl/attachment/51150324-6de5-4dd6-ab02-9b8c4edc6b86",
+      "published": "2026-07-17 11:13",
+      "source_id": "nadl-nadlesnictwo-czaplinek",
+      "source_name": "Nadleśnictwo Czaplinek",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-czaplinek/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "4c8e3df15c0c5989",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-lupawa/zarzadzenia-i-decyzje-|zarzadzenia-jednostki",
-    "n_zdarzen": 2,
+    "n_zdarzen": 4,
     "podmiot": "Łupawa",
     "source_name": "Nadleśnictwo Łupawa",
     "tier": "nadlesnictwo",
@@ -5463,13 +7659,37 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-lupawa/zarzadzenia-i-decyzje-",
       "snapshot_sha256": null
+     },
+     {
+      "key": "608c3d73-0483-40e1-a9cd-02e179dd39e1",
+      "kind": "dokument",
+      "title": "Wykaz zarządzeń i decyzji wydanych w 2026 z 17.07.2026",
+      "url": "https://www.gov.pl/attachment/608c3d73-0483-40e1-a9cd-02e179dd39e1",
+      "published": "2026-07-17 14:59",
+      "source_id": "nadl-nadlesnictwo-lupawa",
+      "source_name": "Nadleśnictwo Łupawa",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-lupawa/zarzadzenia-i-decyzje-",
+      "snapshot_sha256": null
+     },
+     {
+      "key": "9e420550-512b-4688-aa3d-e85f61c6af50",
+      "kind": "dokument",
+      "title": "Wykaz zarządzeń i decyzji obowiązujacych na dzień 17.07.2026",
+      "url": "https://www.gov.pl/attachment/9e420550-512b-4688-aa3d-e85f61c6af50",
+      "published": "2026-07-17 14:59",
+      "source_id": "nadl-nadlesnictwo-lupawa",
+      "source_name": "Nadleśnictwo Łupawa",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-lupawa/zarzadzenia-i-decyzje-",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "946d022523a7f9ab",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-miedzylesie/plany-zamowien-publicznych2|plan-postepowan",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Międzylesie",
     "source_name": "Nadleśnictwo Międzylesie",
     "tier": "nadlesnictwo",
@@ -5507,6 +7727,18 @@
       "page_title": "Plany zamówień publicznych",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-miedzylesie/plany-zamowien-publicznych2",
       "snapshot_sha256": null
+     },
+     {
+      "key": "69f7cfce-5844-4e22-a1a0-1aeed8d83e2d",
+      "kind": "dokument",
+      "title": "Plan_postepowan_na_2026_ver_2",
+      "url": "https://www.gov.pl/attachment/69f7cfce-5844-4e22-a1a0-1aeed8d83e2d",
+      "published": "2026-07-17 11:52",
+      "source_id": "nadl-nadlesnictwo-miedzylesie",
+      "source_name": "Nadleśnictwo Międzylesie",
+      "page_title": "Plany zamówień publicznych",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-miedzylesie/plany-zamowien-publicznych2",
+      "snapshot_sha256": null
      }
     ]
    }
@@ -5515,7 +7747,7 @@
    {
     "sprawa_id": "3ef058385d1f0b93",
     "sprawa_key": "item|68df6486-fd97-4e9f-8f18-6ba25aa5f785",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Bielsk",
     "source_name": "Nadleśnictwo Bielsk",
     "tier": "nadlesnictwo",
@@ -5553,13 +7785,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-bielsk/finanse-i-majatek",
       "snapshot_sha256": null
+     },
+     {
+      "key": "68df6486-fd97-4e9f-8f18-6ba25aa5f785",
+      "kind": "dokument",
+      "title": "Środki zewnetrzne na lata 2022-2025",
+      "url": "https://www.gov.pl/attachment/68df6486-fd97-4e9f-8f18-6ba25aa5f785",
+      "published": "2026-07-16 11:36",
+      "source_id": "nadl-nadlesnictwo-bielsk",
+      "source_name": "Nadleśnictwo Bielsk",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-bielsk/finanse-i-majatek",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "6aed280bb7d46e4c",
     "sprawa_key": "item|bac4957d-7c69-4c32-9ec7-a17ffae7dc84",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Knyszyn",
     "source_name": "Nadleśnictwo Knyszyn",
     "tier": "nadlesnictwo",
@@ -5597,13 +7841,25 @@
       "page_title": "Ochrona przyrody",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody",
       "snapshot_sha256": null
+     },
+     {
+      "key": "bac4957d-7c69-4c32-9ec7-a17ffae7dc84",
+      "kind": "dokument",
+      "title": "Otuliny parkow narodowych i",
+      "url": "https://www.gov.pl/attachment/bac4957d-7c69-4c32-9ec7-a17ffae7dc84",
+      "published": "2026-07-16 12:58",
+      "source_id": "nadl-nadlesnictwo-knyszyn",
+      "source_name": "Nadleśnictwo Knyszyn",
+      "page_title": "Ochrona przyrody",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d94c1206cb6698b6",
     "sprawa_key": "item|084b56b5-6056-4765-a880-caa94d66d943",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Krynki",
     "source_name": "Nadleśnictwo Krynki",
     "tier": "nadlesnictwo",
@@ -5641,13 +7897,25 @@
       "page_title": "Zamówienia publiczne",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-krynki/zamowienia-publiczne4",
       "snapshot_sha256": null
+     },
+     {
+      "key": "084b56b5-6056-4765-a880-caa94d66d943",
+      "kind": "dokument",
+      "title": "Informacja o wyniku postępowania SA.20.2.2026",
+      "url": "https://www.gov.pl/attachment/084b56b5-6056-4765-a880-caa94d66d943",
+      "published": "2026-07-16 09:20",
+      "source_id": "nadl-nadlesnictwo-krynki",
+      "source_name": "Nadleśnictwo Krynki",
+      "page_title": "Zamówienia publiczne",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-krynki/zamowienia-publiczne4",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "03c838d8d3da4e6d",
     "sprawa_key": "item|4c884844-a931-4468-8147-2e4caccfd12a",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Prószków",
     "source_name": "Nadleśnictwo Prószków",
     "tier": "nadlesnictwo",
@@ -5685,13 +7953,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "4c884844-a931-4468-8147-2e4caccfd12a",
+      "kind": "dokument",
+      "title": "Załącznik nr 2 - Oświadczenie – wymagania niezbędne",
+      "url": "https://www.gov.pl/attachment/4c884844-a931-4468-8147-2e4caccfd12a",
+      "published": "2026-07-16 14:41",
+      "source_id": "nadl-nadlesnictwo-proszkow",
+      "source_name": "Nadleśnictwo Prószków",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "b802d55fe560cdec",
     "sprawa_key": "item|e05511a8-5d95-4917-99a7-c68a78d8a249",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Prószków",
     "source_name": "Nadleśnictwo Prószków",
     "tier": "nadlesnictwo",
@@ -5729,13 +8009,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "e05511a8-5d95-4917-99a7-c68a78d8a249",
+      "kind": "dokument",
+      "title": "Załącznik nr 3 - Kwestionariusz osobowy kandydata na pracownika Lasów Państwowych",
+      "url": "https://www.gov.pl/attachment/e05511a8-5d95-4917-99a7-c68a78d8a249",
+      "published": "2026-07-16 14:41",
+      "source_id": "nadl-nadlesnictwo-proszkow",
+      "source_name": "Nadleśnictwo Prószków",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "b9741944bce31714",
     "sprawa_key": "item|2fc26a1c-a784-4916-8287-8d995a04b827",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Prószków",
     "source_name": "Nadleśnictwo Prószków",
     "tier": "nadlesnictwo",
@@ -5773,13 +8065,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "2fc26a1c-a784-4916-8287-8d995a04b827",
+      "kind": "dokument",
+      "title": "Załącznik nr 5 -Oświadczenie - dodatkowe kwalifikacje",
+      "url": "https://www.gov.pl/attachment/2fc26a1c-a784-4916-8287-8d995a04b827",
+      "published": "2026-07-16 14:41",
+      "source_id": "nadl-nadlesnictwo-proszkow",
+      "source_name": "Nadleśnictwo Prószków",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "479dbacbda273f1a",
     "sprawa_key": "item|e521674c-3e9a-4889-979b-9789dce888aa",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Prószków",
     "source_name": "Nadleśnictwo Prószków",
     "tier": "nadlesnictwo",
@@ -5817,13 +8121,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "e521674c-3e9a-4889-979b-9789dce888aa",
+      "kind": "dokument",
+      "title": "Załącznik nr 6 - Zgoda na przetwarzanie danych osobowych szczególnej kategorii",
+      "url": "https://www.gov.pl/attachment/e521674c-3e9a-4889-979b-9789dce888aa",
+      "published": "2026-07-16 14:41",
+      "source_id": "nadl-nadlesnictwo-proszkow",
+      "source_name": "Nadleśnictwo Prószków",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-proszkow/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "bfc77143897b3e1f",
     "sprawa_key": "item|df31e6c1-b43f-46c9-90f7-20dd8e6780f6",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Dąbrowa Tarnowska",
     "source_name": "Nadleśnictwo Dąbrowa Tarnowska",
     "tier": "nadlesnictwo",
@@ -5861,13 +8177,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "df31e6c1-b43f-46c9-90f7-20dd8e6780f6",
+      "kind": "dokument",
+      "title": "zał 1. Wykaz gruntów",
+      "url": "https://www.gov.pl/attachment/df31e6c1-b43f-46c9-90f7-20dd8e6780f6",
+      "published": "2026-07-16 12:18",
+      "source_id": "nadl-nadlesnictwo-dabrowa-tarnowska",
+      "source_name": "Nadleśnictwo Dąbrowa Tarnowska",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "71a085302fd49a55",
     "sprawa_key": "item|c6d6f167-2d2c-4aa2-add7-9f1e7b853685",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Dąbrowa Tarnowska",
     "source_name": "Nadleśnictwo Dąbrowa Tarnowska",
     "tier": "nadlesnictwo",
@@ -5905,13 +8233,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "c6d6f167-2d2c-4aa2-add7-9f1e7b853685",
+      "kind": "dokument",
+      "title": "zał 3. Mapa poglądowa",
+      "url": "https://www.gov.pl/attachment/c6d6f167-2d2c-4aa2-add7-9f1e7b853685",
+      "published": "2026-07-16 12:18",
+      "source_id": "nadl-nadlesnictwo-dabrowa-tarnowska",
+      "source_name": "Nadleśnictwo Dąbrowa Tarnowska",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-dabrowa-tarnowska/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "51b46ffc2285ff42",
     "sprawa_key": "item|97729876-e56f-4bdf-a256-5dc8cbab980c",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Konin",
     "source_name": "Nadleśnictwo Konin",
     "tier": "nadlesnictwo",
@@ -5949,13 +8289,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-konin/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "97729876-e56f-4bdf-a256-5dc8cbab980c",
+      "kind": "dokument",
+      "title": "Ogłoszenie_o_III_przetargu_publicznym_na_sprzedaż_zbędnych_środków_trwałych_i_niskocennych_składników_majątku_Nadleśnictwa_Konin",
+      "url": "https://www.gov.pl/attachment/97729876-e56f-4bdf-a256-5dc8cbab980c",
+      "published": "2026-07-16 15:00",
+      "source_id": "nadl-nadlesnictwo-konin",
+      "source_name": "Nadleśnictwo Konin",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-konin/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "2a5f043b07543eb7",
     "sprawa_key": "item|99475f12-ad8d-41d3-8852-db98a0bc7e1a",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Konin",
     "source_name": "Nadleśnictwo Konin",
     "tier": "nadlesnictwo",
@@ -5993,13 +8345,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-konin/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "99475f12-ad8d-41d3-8852-db98a0bc7e1a",
+      "kind": "dokument",
+      "title": "Wykaz zbędnych środków trwałych i nietrwałych przeznaczonych do sprzedaży III",
+      "url": "https://www.gov.pl/attachment/99475f12-ad8d-41d3-8852-db98a0bc7e1a",
+      "published": "2026-07-16 15:00",
+      "source_id": "nadl-nadlesnictwo-konin",
+      "source_name": "Nadleśnictwo Konin",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-konin/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "592c1bd262c254bb",
     "sprawa_key": "item|9af3cf9e-59ed-40ff-99ea-d808f684aa2f",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Taczanów",
     "source_name": "Nadleśnictwo Taczanów",
     "tier": "nadlesnictwo",
@@ -6037,13 +8401,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-taczanow/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "9af3cf9e-59ed-40ff-99ea-d808f684aa2f",
+      "kind": "dokument",
+      "title": "II Ogłoszenie o sprzedaży nieruchomości osada Nowy Staw",
+      "url": "https://www.gov.pl/attachment/9af3cf9e-59ed-40ff-99ea-d808f684aa2f",
+      "published": "2026-07-16 14:49",
+      "source_id": "nadl-nadlesnictwo-taczanow",
+      "source_name": "Nadleśnictwo Taczanów",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-taczanow/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "a76a0316505c510a",
     "sprawa_key": "item|7efcc41f-7fc1-4f12-9311-cae64c22179f",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Ruda Maleniecka",
     "source_name": "Nadleśnictwo Ruda Maleniecka",
     "tier": "nadlesnictwo",
@@ -6081,13 +8457,25 @@
       "page_title": "Wystąpienia, komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-radoszyce/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "7efcc41f-7fc1-4f12-9311-cae64c22179f",
+      "kind": "dokument",
+      "title": "Informacja_o_Zespole_Lokalnej_Współpracy_w_Nadleśnictwie_Radoszyce",
+      "url": "https://www.gov.pl/attachment/7efcc41f-7fc1-4f12-9311-cae64c22179f",
+      "published": "2026-07-16 15:24",
+      "source_id": "nadl-nadlesnictwo-radoszyce",
+      "source_name": "Nadleśnictwo Ruda Maleniecka",
+      "page_title": "Wystąpienia, komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-radoszyce/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "e9d1fef105546d65",
     "sprawa_key": "item|c718c7ac-ca00-4a8f-b774-2e2b6d98b68a",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Gościno",
     "source_name": "Nadleśnictwo Gościno",
     "tier": "nadlesnictwo",
@@ -6125,13 +8513,25 @@
       "page_title": "Zarządzenia i decyzje",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-goscino/zarzadzenia-i-decyzje",
       "snapshot_sha256": null
+     },
+     {
+      "key": "c718c7ac-ca00-4a8f-b774-2e2b6d98b68a",
+      "kind": "dokument",
+      "title": "Zarządzenia 2026r. wszystkie",
+      "url": "https://www.gov.pl/attachment/c718c7ac-ca00-4a8f-b774-2e2b6d98b68a",
+      "published": "2026-07-17 08:18",
+      "source_id": "nadl-nadlesnictwo-goscino",
+      "source_name": "Nadleśnictwo Gościno",
+      "page_title": "Zarządzenia i decyzje",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-goscino/zarzadzenia-i-decyzje",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "f59c5db809e8221e",
     "sprawa_key": "item|d6f289ff-ef71-48f8-b253-34076f1b8fdb",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Olecko w",
     "source_name": "Nadleśnictwo Olecko",
     "tier": "nadlesnictwo",
@@ -6169,13 +8569,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
       "snapshot_sha256": null
+     },
+     {
+      "key": "d6f289ff-ef71-48f8-b253-34076f1b8fdb",
+      "kind": "dokument",
+      "title": "Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2025 r.",
+      "url": "https://www.gov.pl/attachment/d6f289ff-ef71-48f8-b253-34076f1b8fdb",
+      "published": "2026-07-17 11:57",
+      "source_id": "nadl-nadlesnictwo-olecko",
+      "source_name": "Nadleśnictwo Olecko",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "2bc9579262df7dbd",
     "sprawa_key": "item|69f0f527-eb63-46f2-9393-61e549006c12",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Olecko w",
     "source_name": "Nadleśnictwo Olecko",
     "tier": "nadlesnictwo",
@@ -6213,13 +8625,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
       "snapshot_sha256": null
+     },
+     {
+      "key": "69f0f527-eb63-46f2-9393-61e549006c12",
+      "kind": "dokument",
+      "title": "Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2024 r.",
+      "url": "https://www.gov.pl/attachment/69f0f527-eb63-46f2-9393-61e549006c12",
+      "published": "2026-07-17 11:57",
+      "source_id": "nadl-nadlesnictwo-olecko",
+      "source_name": "Nadleśnictwo Olecko",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "76a06ab757cc8279",
     "sprawa_key": "item|bdebf820-ade2-4c46-aed6-60fc011d50ee",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Olecko w",
     "source_name": "Nadleśnictwo Olecko",
     "tier": "nadlesnictwo",
@@ -6257,13 +8681,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
       "snapshot_sha256": null
+     },
+     {
+      "key": "bdebf820-ade2-4c46-aed6-60fc011d50ee",
+      "kind": "dokument",
+      "title": "Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2023 r.",
+      "url": "https://www.gov.pl/attachment/bdebf820-ade2-4c46-aed6-60fc011d50ee",
+      "published": "2026-07-17 11:57",
+      "source_id": "nadl-nadlesnictwo-olecko",
+      "source_name": "Nadleśnictwo Olecko",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "d7acddba7b7c816e",
     "sprawa_key": "item|16c8f680-24a8-4364-8f40-fab8f92946cc",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Olecko w",
     "source_name": "Nadleśnictwo Olecko",
     "tier": "nadlesnictwo",
@@ -6301,13 +8737,25 @@
       "page_title": "Finanse i majątek",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
       "snapshot_sha256": null
+     },
+     {
+      "key": "16c8f680-24a8-4364-8f40-fab8f92946cc",
+      "kind": "dokument",
+      "title": "Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2022 r.",
+      "url": "https://www.gov.pl/attachment/16c8f680-24a8-4364-8f40-fab8f92946cc",
+      "published": "2026-07-17 11:57",
+      "source_id": "nadl-nadlesnictwo-olecko",
+      "source_name": "Nadleśnictwo Olecko",
+      "page_title": "Finanse i majątek",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-olecko/finanse-i-majatek",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "81bae5c5b12ea163",
     "sprawa_key": "item|6367a015-c817-47c7-8a4f-2e97ee5a576b",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Kalisz Pomorski",
     "source_name": "Nadleśnictwo Kalisz Pomorski",
     "tier": "nadlesnictwo",
@@ -6345,13 +8793,25 @@
       "page_title": "Rozpatrywanie spraw",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/rozpatrywanie-spraw",
       "snapshot_sha256": null
+     },
+     {
+      "key": "6367a015-c817-47c7-8a4f-2e97ee5a576b",
+      "kind": "dokument",
+      "title": "Rozpatrywanie_spraw",
+      "url": "https://www.gov.pl/attachment/6367a015-c817-47c7-8a4f-2e97ee5a576b",
+      "published": "2026-07-17 12:34",
+      "source_id": "nadl-nadlesnictwo-kalisz-pomorski",
+      "source_name": "Nadleśnictwo Kalisz Pomorski",
+      "page_title": "Rozpatrywanie spraw",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/rozpatrywanie-spraw",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "dac0e6712f33c619",
     "sprawa_key": "item|5ccb82eb-5352-4006-97d0-bee3a61e044c",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Kalisz Pomorski",
     "source_name": "Nadleśnictwo Kalisz Pomorski",
     "tier": "nadlesnictwo",
@@ -6389,13 +8849,25 @@
       "page_title": "Rozpatrywanie spraw",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/rozpatrywanie-spraw",
       "snapshot_sha256": null
+     },
+     {
+      "key": "5ccb82eb-5352-4006-97d0-bee3a61e044c",
+      "kind": "dokument",
+      "title": "Rozpatrywanie_spraw",
+      "url": "https://www.gov.pl/attachment/5ccb82eb-5352-4006-97d0-bee3a61e044c",
+      "published": "2026-07-17 12:34",
+      "source_id": "nadl-nadlesnictwo-kalisz-pomorski",
+      "source_name": "Nadleśnictwo Kalisz Pomorski",
+      "page_title": "Rozpatrywanie spraw",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-kalisz-pomorski/rozpatrywanie-spraw",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "65fdad70b7470d73",
     "sprawa_key": "item|174f906b-b58c-4d60-ac8b-c9e9b3e6a580",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Legnica",
     "source_name": "Nadleśnictwo Legnica",
     "tier": "nadlesnictwo",
@@ -6433,13 +8905,25 @@
       "page_title": "Wystąpienia komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "174f906b-b58c-4d60-ac8b-c9e9b3e6a580",
+      "kind": "dokument",
+      "title": "SA.270.14.2026 Zaproszenie do składania",
+      "url": "https://www.gov.pl/attachment/174f906b-b58c-4d60-ac8b-c9e9b3e6a580",
+      "published": "2026-07-17 13:44",
+      "source_id": "nadl-nadlesnictwo-legnica",
+      "source_name": "Nadleśnictwo Legnica",
+      "page_title": "Wystąpienia komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "be65a1f37d36b34c",
     "sprawa_key": "item|f2ef0cfb-5a0a-4287-89c3-04e43bf7173a",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Legnica",
     "source_name": "Nadleśnictwo Legnica",
     "tier": "nadlesnictwo",
@@ -6477,13 +8961,25 @@
       "page_title": "Wystąpienia komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "f2ef0cfb-5a0a-4287-89c3-04e43bf7173a",
+      "kind": "dokument",
+      "title": "Załącznik nr 1 - Opis przedmiotu",
+      "url": "https://www.gov.pl/attachment/f2ef0cfb-5a0a-4287-89c3-04e43bf7173a",
+      "published": "2026-07-17 13:44",
+      "source_id": "nadl-nadlesnictwo-legnica",
+      "source_name": "Nadleśnictwo Legnica",
+      "page_title": "Wystąpienia komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "19e731997b946550",
     "sprawa_key": "item|f888beb1-b30e-4f35-91ca-2eae02559faf",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Legnica",
     "source_name": "Nadleśnictwo Legnica",
     "tier": "nadlesnictwo",
@@ -6521,13 +9017,25 @@
       "page_title": "Wystąpienia komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "f888beb1-b30e-4f35-91ca-2eae02559faf",
+      "kind": "dokument",
+      "title": "Załącznik nr 2 - Formularz",
+      "url": "https://www.gov.pl/attachment/f888beb1-b30e-4f35-91ca-2eae02559faf",
+      "published": "2026-07-17 13:44",
+      "source_id": "nadl-nadlesnictwo-legnica",
+      "source_name": "Nadleśnictwo Legnica",
+      "page_title": "Wystąpienia komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "2ad91f384435422f",
     "sprawa_key": "item|80a53db5-4b57-438b-99e4-a78bc6140ae7",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Legnica",
     "source_name": "Nadleśnictwo Legnica",
     "tier": "nadlesnictwo",
@@ -6565,13 +9073,25 @@
       "page_title": "Wystąpienia komunikaty i ogłoszenia",
       "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
       "snapshot_sha256": null
+     },
+     {
+      "key": "80a53db5-4b57-438b-99e4-a78bc6140ae7",
+      "kind": "dokument",
+      "title": "Załącznik nr 3 - Wzór",
+      "url": "https://www.gov.pl/attachment/80a53db5-4b57-438b-99e4-a78bc6140ae7",
+      "published": "2026-07-17 13:44",
+      "source_id": "nadl-nadlesnictwo-legnica",
+      "source_name": "Nadleśnictwo Legnica",
+      "page_title": "Wystąpienia komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
      }
     ]
    },
    {
     "sprawa_id": "50dd50c294ee232c",
     "sprawa_key": "item|e945195f-e107-4e39-9094-a34689328d16",
-    "n_zdarzen": 1,
+    "n_zdarzen": 2,
     "podmiot": "Legnica",
     "source_name": "Nadleśnictwo Legnica",
     "tier": "nadlesnictwo",
@@ -6598,6 +9118,18 @@
     "termin": null,
     "bdl": null,
     "zdarzenia": [
+     {
+      "key": "e945195f-e107-4e39-9094-a34689328d16",
+      "kind": "dokument",
+      "title": "Załącznik nr 5 - Protokół z przeprowadzonej wizji",
+      "url": "https://www.gov.pl/attachment/e945195f-e107-4e39-9094-a34689328d16",
+      "published": "2026-07-17 13:44",
+      "source_id": "nadl-nadlesnictwo-legnica",
+      "source_name": "Nadleśnictwo Legnica",
+      "page_title": "Wystąpienia komunikaty i ogłoszenia",
+      "page_url": "https://www.gov.pl/web/nadlesnictwo-legnica/wystapienia-komunikaty-i-ogloszenia",
+      "snapshot_sha256": null
+     },
      {
       "key": "e945195f-e107-4e39-9094-a34689328d16",
       "kind": "dokument",

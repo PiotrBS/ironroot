@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-18 07:40 UTC
+# IronRoot — diagnostyka — 2026-07-19 08:55 UTC
 
 ## Wersja reguł
 ```
@@ -13,47 +13,111 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        3798
-  artykul         1373
+  dokument        7474
+  artykul         3963
 
 ── wg szczebla ──
-  nadlesnictwo      4092
-  rdos               516
-  rdlp               485
-  ministerstwo        31
-  dglp                26
-  gdos                21
+  nadlesnictwo      8642
+  rdos              1617
+  rdlp               668
+  ministerstwo       348
+  gdos               111
+  dglp                51
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-      19×  oswiadczenie
+     487×  wydatkowanie srodkow cele
+          [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
+     411×  elektroniczna skrzynka podawcza
+          [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
+     393×  dane teleadresowe
+          [RDOŚ Opole] Dane teleadresowe
+     333×  dostepnosc raport
+          [Dyrekcja Generalna LP] Dostępność raport
+     306×  statut panstwowego gospodarstwa
+          [Dyrekcja Generalna LP] Statut Państwowego Gospodarstwa Leśnego Lasy Państwowe
+     212×  ustawa lasach
+          [RDLP Białymstoku] Ustawa o lasach
+      77×  wydatkowane srodki cele
+          [Nadleśnictwo Radomsko] Wydatkowane środki na cele społecznie użyteczne w kwietniu 2024r.
+      74×  statut
+          [RDLP Gdańsku] Statut PGL LP
+      71×  regulamin organizacyjny
+          [Nadleśnictwo Ełk] Regulamin Organizacyjny Nadleśnictwa Ełk
+      70×  schemat organizacyjny
+          [RDLP Olsztynie] Załącznik nr 1 - Schemat Organizacyjny
+      45×  skrzynka e-doreczen
+          [RDLP Szczecinie] Skrzynka e-Doręczeń
+      45×  aneks regulaminu organizacyjnego
+          [Nadleśnictwo Starogard] Aneks nr 1 do regulaminu organizacyjnego Nadleśnictwa Starogard
+      44×  raport stanie zapewnienia
+          [Nadleśnictwo Cewice] Raport o stanie zapewnienia dostępności podmiotu publicznego.
+      44×  schemat organizacyjny rdlp
+          [RDLP Katowicach] Schemat organizacyjny RDLP w Katowicach - jednostki organizacyjne
+      38×  sprawozdanie wykonania planu
+          [RDOŚ Bydgoszcz] Sprawozdanie z wykonania planu działalności Regionalnego Dyrektora Ochrony Środ
+      37×  dostepnosc-raport
+          [RDLP Katowicach] Dostępność-Raport
+      36×  informacja dokonanym wyborze
+          [Nadleśnictwo Piwniczna] Informacja o dokonanym wyborze na wolne stanowisko pracy w Nadleśnictwi
+      35×  plan dzialalnosci regionalnej
+          [RDOŚ Gorzów Wlkp.] Plan działalności Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkop
+      30×  srodki przekazane cele
+          [Nadleśnictwo Lidzbark] Środki przekazane na cele społecznie użyteczne - rok 2024
+      29×  wykaz lesnictw
+          [Nadleśnictwo Krynki] Wykaz Leśnictw
+      28×  zobacz szczegoly
+          [Ministerstwo Klimatu i Środowiska] Zobacz szczegóły
+      26×  ochrona danych osobowych
+          [Nadleśnictwo Iława] Ochrona danych osobowych
+      23×  zestawienie udzielonego wsparcia
+          [Nadleśnictwo Sokołów] Zestawienie udzielonego wsparcia finansowego w 07.2024
+      22×  oswiadczenie
           [RDLP Toruniu] oświadczenie zał nr 2
+      20×  kwestionariusz osobowy kandydata
+          [RDLP Warszawie] załącznik nr 1 - Kwestionariusz osobowy kandydata na pracownika LP referent / s
+      19×  zestawienie
+          [Nadleśnictwo Łopuchówko] Załącznik nr 1 - zestawienie
+      18×  zobacz wszystkie
+          [Ministerstwo Klimatu i Środowiska] zobacz wszystkie
+      18×  raport stanie zapewniania
+          [RDOŚ Bydgoszcz] Raport o stanie zapewniania dostępności podmiotu publicznego
       17×  ogloszenie
           [Nadleśnictwo Brzeg] Ogłoszenie
+      17×  informacja udzieleniu zamowienia
+          [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
       17×  zdjecie
           [Nadleśnictwo Orneta] Zdjęcie 1
+      17×  regulaminu organizacyjnego
+          [Nadleśnictwo Gidle] Załącznik nr 2 do regulaminu organizacyjnego
+      17×  zmiana regulaminu organizacyjnego
+          [Nadleśnictwo Miechów] Zmiana Regulaminu Organizacyjnego Nadleśnictwa Miechów
       16×  plan dzialalnosci bydgoszczy
           [RDOŚ Bydgoszcz] Plan działalności Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy na 202
+      16×  wniosek udzielenie informacji
+          [RDLP Lublinie] Wniosek o udzielenie informacji
       15×  przyroda roznorodnosc biologiczna
           [Generalna Dyrekcja Ochrony Środowiska] Przyroda i różnorodność biologiczna
       15×  informacja petycjach
           [RDOŚ Warszawa] Informacja o petycjach w 2025 roku
       15×  warunki dostepu sieci
           [RDLP Białymstoku] Warunki dostępu do sieci telekomunikacyjnych
-      15×  kwestionariusz osobowy kandydata
-          [RDLP Warszawie] załącznik nr 1 - Kwestionariusz osobowy kandydata na pracownika LP referent / s
       15×  informacja uniewaznieniu postepowania
           [Nadleśnictwo Pomorze] Informacja o unieważnieniu postępowania
       15×  srodki zewnetrzne
           [Nadleśnictwo Supraśl] Środki zewnętrzne za 2024 rok
+      15×  ogloszenie wynikow przetargu
+          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       15×  srodki zewnetrzne wykorzystane
           [Nadleśnictwo Miastko] Środki zewnętrzne wykorzystane w 2011 roku
       15×  otrzymane srodki publiczne
           [Nadleśnictwo Jamy] Otrzymane_środki_publiczne_w_2020
       14×  osrodki rehabilitacji zwierzat
           [Generalna Dyrekcja Ochrony Środowiska] Ośrodki rehabilitacji zwierząt
-      14×  sprawozdanie wykonania planu
-          [RDOŚ Bydgoszcz] Sprawozdanie z wykonania planu działalności Regionalnego Dyrektora Ochrony Środ
+      14×  zarzadzanie informacja srodowisku.
+          [RDOŚ Gdańsk] Zarządzanie informacją o środowisku. Przewodnik
+      14×  zamowienia publiczne
+          [RDOŚ Olsztyn] Zamówienia publiczne
       14×  ogloszenie pisemnym przetargu
           [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       14×  ogloszenie wyniku przetargu
@@ -62,110 +126,46 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Szczebra] Rejestr nieruchomości
       14×  zg.0172.05.2024
           [Nadleśnictwo Starogard] ZG.0172.05.2024 - załącznik 1
-      14×  ogloszenie wynikow przetargu
-          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
+      14×  wniosek udostepnienie
+          [Nadleśnictwo Wisła] Wniosek o udostępnienie
+      14×  plan urzadzania lasu
+          [Nadleśnictwo Zdroje] Plan urządzania lasu
+      14×  staze praktyki
+          [RDOŚ Białystok] Staże i praktyki
+      14×  strategiczna
+          [RDOŚ Białystok] Strategiczna OOŚ
+      14×  schemat organizacyjny regionalnej
+          [RDOŚ Bydgoszcz] Schemat organizacyjny Regionalnej Dyrekcji Ochrony Środowiska w Bydgoszczy
+      14×  zestawienie wyplat srodkow
+          [Nadleśnictwo Łochów] Zestawienie wypłat środków finansowych na cele społecznie użyteczne I.2024
       13×  gatunki niebezpieczne
           [RDOŚ Białystok] Gatunki niebezpieczne
-      13×  informacja udzieleniu zamowienia
-          [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
       13×  korzystanie srodkow zewnetrznych
           [Nadleśnictwo Gorlice] Korzystanie ze środków zewnętrznych w 2025 roku
+      13×  wydatkowanie cele spolecznie
+          [Nadleśnictwo Augustów] Wydatkowanie na cele społecznie użyteczne w styczniu 2025 r.
+      13×  szczegolowy schemat organizacyjny
+          [Nadleśnictwo Elbląg] Szczegółowy schemat organizacyjny Nadleśnictwa Elbląg
+      13×  zestawienie wydatkow cele
+          [Nadleśnictwo Kędzierzyn] zestawienie wydatków na cele publiczne maj 2024
+      13×  dostepnosc- raport
+          [Nadleśnictwo Węgierska Górka] Dostępność- Raport
+      13×  wykaz umow zawartych
+          [Nadleśnictwo Nawojowa] Wykaz umów zawartych w PAŹDZIERNIKU 2025
       12×  edukacja przyrodnicza
           [RDOŚ Białystok] Edukacja przyrodnicza
-      12×  wniosek udzielenie informacji
-          [RDLP Lublinie] Wniosek o udzielenie informacji
       12×  zestawienie publicznych srodkow
           [Nadleśnictwo Knyszyn] Zestawienie publicznych środków zewnętrznych wykorzystanych przez Nadleśn
+      12×  raport stanie dostepnosci
+          [Nadleśnictwo Lębork] Raport_o_stanie_dostępności_podmiotu_publicznego
+      12×  informacja rodo
+          [Nadleśnictwo Kobiór] Informacja RODO
       12×  ogloszenia
           [Nadleśnictwo Rudziniec] Załacznik Nr 1 do ogłoszenia
       12×  zapytanie sondaz rynku
           [Nadleśnictwo Pińczów] Zapytanie sondaż rynku
-      11×  ogrody botaniczne zoologiczne
-          [Generalna Dyrekcja Ochrony Środowiska] Ogrody botaniczne i zoologiczne
-      11×  informacja zbiorcza petycjach
-          [RDOŚ Białystok] Informacja zbiorcza o petycjach rozpatrzonych w 2025 roku
-      11×  informacja rozpatrzonych petycjach
-          [RDOŚ Gorzów Wlkp.] Informacja o rozpatrzonych petycjach w 2025 roku
-      11×  ogloszenie przetargu nieograniczonym
-          [Nadleśnictwo Nurzec] Ogłoszenie III o przetargu nieograniczonym na sprzedaż przyczepy asenizacy
-      11×  kosztorys ofertowy
-          [Nadleśnictwo Choczewo] Załącznik nr 3 - kosztorys ofertowy
-      11×  informacja rodo
-          [Nadleśnictwo Kobiór] Informacja RODO
-      11×  wniosek udostepnienie
-          [Nadleśnictwo Wisła] Wniosek o udostępnienie
-      11×  regulaminu zfss
-          [Nadleśnictwo Kaczory] Załącznik nr 1 do Regulaminu ZFŚS str 1
-      11×  otrzymane srodki zewnetrzne
-          [Nadleśnictwo Osusznica] Otrzymane środki zewnętrzne w 2021 r.
-      10×  zbiorcza informacja rozpatrzonych
-          [Ministerstwo Klimatu i Środowiska] Zbiorcza informacja o rozpatrzonych petycjach
-      10×  projekt umowy
-          [RDLP Warszawie] BSP - Projekt umowy
-      10×  grunty skarbu panstwa
-          [RDLP Zielonej Górze] Grunty Skarbu Państwa w zarządzie LP - RDLP Zielona Góra - 2025
-      10×  zestawienie publicznych zewnetrznych
-          [Nadleśnictwo Żednia] Zestawienie publicznych zewnętrznych środków finansowych wykorzystanych w 
-      10×  informacja zamiarze transakcji
-          [Nadleśnictwo Choczewo] Załącznik_nr_1-_Informacja_o_zamiarze_transakcji_zamiany
-      10×  protokol wyboru najkorzystniejszej
-          [Nadleśnictwo Lipusz] Protokół z wyboru najkorzystniejszej ofert na sprzedaż sprzętu elektronicz
-      10×  zakup energii elektrycznej
-          [Nadleśnictwo Gidle] Zakup energii elektrycznej na potrzeby obiektów Nadleśnictwa Gidle
-      10×  wstepne ogloszenie informacyjne
-          [Nadleśnictwo Dynów] Wstępne ogłoszenie informacyjne 2024 2
-      10×  sprzedaz srodkow trwalych
-          [Nadleśnictwo Mircze] Sprzedaż środków trwałych
-      10×  budowa dojazdu pozarowego
-          [Nadleśnictwo Radzyń Podlaski] Budowa dojazdu pożarowego nr 29 o długości 1480 mb w leśnictwie T
-       9×  objasnienia numeracji (kodow)
-          [RDLP Warszawie] Objaśnienia numeracji (kodów) HCV
-       9×  informacja wyborze oferty
-          [RDLP Warszawie] Informacja o wyborze oferty - Bitdefender
-       9×  przetarg nieograniczony sprzedaz
-          [Nadleśnictwo Łomża] Przetarg nieograniczony na sprzedaż telefonów komórkowych
-       9×  druk oferty
-          [Nadleśnictwo Nurzec] Druk oferty
-       9×  zamowienia poza ustawa
-          [Nadleśnictwo Kobiór] Zamówienia poza ustawą Prawo Zamówień Publicznych
-       8×  wyszukiwarka zamowien publicznych
-          [RDOŚ Białystok] Wyszukiwarka zamówień publicznych
-       8×  kontrola zarzadcza
-          [RDOŚ Gdańsk] Kontrola zarządcza
-       8×  plan kontroli rdos
-          [RDOŚ Gdańsk] Plan kontroli RDOŚ w 2026 roku
-       8×  petycja zajecie stanowiska
-          [RDOŚ Łódź] Petycja o zajęcie stanowiska w sprawie budowy 13 budynków mieszkalnych wielorodzinny
-       8×  odpowiedz petycje
-          [RDOŚ Wrocław] odpowiedź na petycję 1
-       8×  ogloszenie naborze staz
-          [RDLP Białymstoku] Ogłoszenie o naborze na staż 2026 Ogłoszenie_o_naborze_na_staż
-       8×  zalaczniki
-          [RDLP Wrocławiu] Załączniki 1-4
-       8×  informacja zlozonych ofertach
-          [Nadleśnictwo Nurzec] Informacja o złożonych ofertach i wyniku przetargu
-       8×  wybor najkorzystniejszej oferty
-          [Nadleśnictwo Płaska] Wybór najkorzystniejszej oferty - II przetarg
-       8×  ogloszenie sprzedazy nieruchomosci
-          [Nadleśnictwo Nowa Dęba] Ogłoszenie o sprzedaży nieruchomości w trybie art. 40a ustawy o lasach
-       8×  przetarg pisemny nieograniczony
-          [Nadleśnictwo Radzyń Podlaski] II Przetarg pisemny nieograniczony na sprzedaż samochodu Mitsubis
-       8×  wycena gruntow
-          [Nadleśnictwo Kalisz Pomorski] Wycena_gruntów_za_rok_2025
-       8×  ogloszenie wynikach przetargu
-          [Nadleśnictwo Wałcz] 20. Ogłoszenie o wynikach przetargu
-       8×  ogloszenie przetarg nieograniczony
-          [Nadleśnictwo Barycz] Ogłoszenie - przetarg nieograniczony na wyprzedaż wyposażenia n-ctwa
-       8×  postepowanie trybie pisemnego
-          [Nadleśnictwo Dretyń] Postępowanie w trybie pisemnego ofertowego przetargu nieograniczonego na s
-       7×  petycje
-          [Ministerstwo Klimatu i Środowiska] Petycje z 2025 roku
-       7×  rozeznanie rynku
-          [RDOŚ Bydgoszcz] Rozeznanie rynku
-       7×  zamowienia publiczne
-          [RDOŚ Olsztyn] Zamówienia publiczne
-       7×  ogloszenie uniewaznieniu postepowania
-          [Nadleśnictwo Nurzec] Ogłoszenie o unieważnieniu postępowania - Przeklasyfikowanie użytków grunt
+      12×  wzory oswiadczen
+          [Generalna Dyrekcja Ochrony Środowiska] Wzory oświadczeń
 
 ```
 
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 35025 wierszy z 463 źródeł
+Korpus: 57869 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-     763  RDOŚ Kraków
-     743  Dyrekcja Generalna LP
-     698  RDLP Toruniu
-     451  Nadleśnictwo Trzcianka
-     379  Nadleśnictwo Jamy
-     363  Nadleśnictwo Miastko
-     332  RDLP Warszawie
-     321  Nadleśnictwo Pińczów
+    1915  Dyrekcja Generalna LP
+    1834  RDOŚ Kraków
+     727  RDLP Toruniu
+     669  RDOŚ Gorzów Wlkp.
+     480  Nadleśnictwo Trzcianka
+     457  Ministerstwo Klimatu i Środowiska
+     453  RDOŚ Olsztyn
+     440  Generalna Dyrekcja Ochrony Środowiska
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     29195
-  rdlp              2767
-  rdos              2124
-  dglp               743
-  gdos               145
-  ministerstwo        51
+  nadlesnictwo     45408
+  rdos              6209
+  rdlp              3440
+  dglp              1915
+  ministerstwo       457
+  gdos               440
 
 ```

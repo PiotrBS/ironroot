@@ -1,4 +1,4 @@
-# IronRoot — wyciąg do analizy — 2026-07-18
+# IronRoot — wyciąg do analizy — 2026-07-19
 
 Okno 7 dni · pozycji 420 · obszary szczególne 3 · nieznanych 44
 

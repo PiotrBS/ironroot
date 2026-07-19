@@ -1,11 +1,16 @@
-# IronRoot — raporty publiczne
+# IronRoot — raporty publiczne (`ironroot-grok`)
 
-Monitoring obywatelski BIP Lasów Państwowych, regionalnych dyrekcji ochrony środowiska i ministerstwa.
+Monitoring obywatelski BIP Lasów Państwowych, RDOŚ i ministerstwa.
+
+**Fork Grok** kopii repo publicznego `ironroot/`. Silnik: `../ironroot-core-grok/` (**IRoot 0.82 beta**).
 
 - `reports/` — raporty
 - `sprawy/` — sprawy w toku
-- `MANIFEST.jsonl` — hashe SHA-256 zarchiwizowanych stron BIP wraz z czasem pobrania i datą publikacji podaną przez BIP. Dowód, że dokument o danej treści był opublikowany w danym dniu.
+- `MANIFEST.jsonl` — hashe SHA-256 zarchiwizowanych stron BIP
+- `tools/render_pdf.py` — skład PDF
 
-**Surowe kopie stron nie są publikowane** — zawierają nazwiska urzędników. Publikujemy hashe; oryginały udostępniamy uprawnionym podmiotom na żądanie.
+**Surowe kopie stron nie są publikowane** — zawierają nazwiska urzędników.
 
-Dane pochodzą z informacji publicznej. Monitoring respektuje robots.txt i przedstawia się podpisanym User-Agentem.
+## Wersja danych
+
+Raporty: silnik **IRoot 0.82 beta** (`../ironroot-core-grok/CHANGELOG.md`).

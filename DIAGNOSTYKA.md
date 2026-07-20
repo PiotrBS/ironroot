@@ -1,10 +1,10 @@
-# IronRoot — diagnostyka — 2026-07-19 08:55 UTC
+# IronRoot — diagnostyka — 2026-07-20 09:18 UTC
 
 ## Wersja reguł
 ```
-sha256(rules.yaml) : f2f06d6e11b5d480
+sha256(rules.yaml) : 032cda3b68e039df
 reguł              : 39
-wykluczeń          : 20
+wykluczeń          : 26
 id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, formy-ochrony, gatunki-inwazyjne, gospodarka-lowiecka, info-publiczna, kontrola, krajowy, lasy-prywatne, monitoring-przyrodniczy, obrot-ziemia, obszar-zabieg, plan-postepowan, powierzchnie-referencyjne, przetargi-lesne, pul-aneks, pul-decyzja, pul-dokument, pul-kzp, pul-material, pul-ntg, pul-projekt, rdos-inwestycje, rdos-las, rdos-nierozpoznane, rdos-ochrona-przyrody, retencja-renaturyzacja, strefy, tlo-finanse, tlo-obsluga-przetargow, tlo-srodki-zewnetrzne, usuwanie-drzew, wykaz-srodowiskowy, zalesienia-odnowienia, zarzadzenia-jednostki, zmiana-strony-krytycznej, zmiana-strony-pozostale
 ```
 
@@ -13,13 +13,13 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7474
-  artykul         3963
+  dokument        7308
+  artykul         3946
 
 ── wg szczebla ──
-  nadlesnictwo      8642
-  rdos              1617
-  rdlp               668
+  nadlesnictwo      8463
+  rdos              1616
+  rdlp               665
   ministerstwo       348
   gdos               111
   dglp                51
@@ -86,8 +86,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Brzeg] Ogłoszenie
       17×  informacja udzieleniu zamowienia
           [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
-      17×  zdjecie
-          [Nadleśnictwo Orneta] Zdjęcie 1
       17×  regulaminu organizacyjnego
           [Nadleśnictwo Gidle] Załącznik nr 2 do regulaminu organizacyjnego
       17×  zmiana regulaminu organizacyjnego
@@ -122,8 +120,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       14×  ogloszenie wyniku przetargu
           [Nadleśnictwo Pomorze] Ogłoszenie o wyniku przetargu
-      14×  rejestr nieruchomosci
-          [Nadleśnictwo Szczebra] Rejestr nieruchomości
       14×  zg.0172.05.2024
           [Nadleśnictwo Starogard] ZG.0172.05.2024 - załącznik 1
       14×  wniosek udostepnienie
@@ -166,6 +162,10 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Pińczów] Zapytanie sondaż rynku
       12×  wzory oswiadczen
           [Generalna Dyrekcja Ochrony Środowiska] Wzory oświadczeń
+      12×  wykaz jednostek nadzorowanych
+          [RDLP Radomiu] Wykaz jednostek nadzorowanych przez RDLP w Radomiu
+      12×  wykaz osob uprawnionych
+          [Nadleśnictwo Rajgród] Wykaz osób uprawnionych do używania funkcji GLOBAL w SILP
 
 ```
 
@@ -173,14 +173,14 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 57869 wierszy z 463 źródeł
+Korpus: 57904 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1915  Dyrekcja Generalna LP
-    1834  RDOŚ Kraków
+    1835  RDOŚ Kraków
      727  RDLP Toruniu
      669  RDOŚ Gorzów Wlkp.
      480  Nadleśnictwo Trzcianka
@@ -189,9 +189,9 @@ Korpus: 57869 wierszy z 463 źródeł
      440  Generalna Dyrekcja Ochrony Środowiska
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     45408
-  rdos              6209
-  rdlp              3440
+  nadlesnictwo     45429
+  rdos              6222
+  rdlp              3441
   dglp              1915
   ministerstwo       457
   gdos               440

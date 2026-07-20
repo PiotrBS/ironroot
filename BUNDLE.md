@@ -1,6 +1,6 @@
-# IRoot 0.83 beta — 2026-07-19
+# IRoot 0.83 beta — 2026-07-20
 
-Okno 7 dni · spraw 140 · publikacji 468 · obszary szczególne 3 · nieznanych 27
+Okno 7 dni · spraw 146 · publikacji 251 · obszary szczególne 3 · nieznanych 29
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -217,6 +217,14 @@ Okno 7 dni · spraw 140 · publikacji 468 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/9e420550-512b-4688-aa3d-e85f61c6af50  (BIP: 2026-07-17 14:59)
 -  [Nadleśnictwo Międzylesie] Plan_postepowan_na_2026_ver_2
   https://www.gov.pl/attachment/69f7cfce-5844-4e22-a1a0-1aeed8d83e2d  (BIP: 2026-07-17 11:52)
+-  [Nadleśnictwo Rudziniec] Wykaz Zarządzeń Nadleśniczego Nadleśnictwa Rudziniec od 01.01.2026r.
+  https://www.gov.pl/attachment/66c4ea9d-14e1-4c1c-92a3-765ea876ab43  (BIP: 2026-07-20 09:05)
+-  [Nadleśnictwo Mielec] Uregulowania wewnętrzne 2026 r. - Decyzje
+  https://www.gov.pl/attachment/bd71cccd-5222-4918-9cca-6ef9a7f9d42e  (BIP: 2026-07-20 07:02)
+-  [Nadleśnictwo Warcino] Wykaz obowiązujących Zarządzeń i Decyzji Nadleśniczego Nadleśnictwa Warcino - 20.07.2026 r.
+  https://www.gov.pl/attachment/54a8fb70-9901-48a6-8f40-e53cf521f5c5  (BIP: 2026-07-20 08:22)
+-  [Nadleśnictwo Szprotawa] Decyzje Nadleśniczego Nadleśnictwa Szprotawa 2026r
+  https://www.gov.pl/attachment/1e34a489-2d1c-4e77-a59a-4264b30e1476  (BIP: 2026-07-20 08:15)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
@@ -247,3 +255,5 @@ Okno 7 dni · spraw 140 · publikacji 468 · obszary szczególne 3 · nieznanych
 - [Nadleśnictwo Legnica] Załącznik nr 5 - Protokół z przeprowadzonej wizji
 - [Nadleśnictwo Legnica] SA.270.11.2026 Informacja o unieważnieniu
 - [Nadleśnictwo Krosno] Ogłoszenie_o_II_przetargu_nieograniczonym-sig_
+- [RDOŚ Wrocław] odpowiedź na petycję 4
+- [Nadleśnictwo Rudka] Prace remontowe w budynku chłodni w Gospodarstwie Szkółkarskim w Korycinach - postępowanie nr II.

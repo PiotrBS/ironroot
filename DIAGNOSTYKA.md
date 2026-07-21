@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-20 09:18 UTC
+# IronRoot — diagnostyka — 2026-07-21 08:16 UTC
 
 ## Wersja reguł
 ```
@@ -13,14 +13,14 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7308
-  artykul         3946
+  dokument        7309
+  artykul         3947
 
 ── wg szczebla ──
-  nadlesnictwo      8463
+  nadlesnictwo      8464
   rdos              1616
   rdlp               665
-  ministerstwo       348
+  ministerstwo       349
   gdos               111
   dglp                51
 
@@ -173,7 +173,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 57904 wierszy z 463 źródeł
+Korpus: 58008 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
@@ -182,18 +182,18 @@ Korpus: 57904 wierszy z 463 źródeł
     1915  Dyrekcja Generalna LP
     1835  RDOŚ Kraków
      727  RDLP Toruniu
-     669  RDOŚ Gorzów Wlkp.
+     671  RDOŚ Gorzów Wlkp.
      480  Nadleśnictwo Trzcianka
-     457  Ministerstwo Klimatu i Środowiska
+     459  Ministerstwo Klimatu i Środowiska
      453  RDOŚ Olsztyn
      440  Generalna Dyrekcja Ochrony Środowiska
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     45429
-  rdos              6222
-  rdlp              3441
+  nadlesnictwo     45515
+  rdos              6229
+  rdlp              3450
   dglp              1915
-  ministerstwo       457
+  ministerstwo       459
   gdos               440
 
 ```

@@ -1,6 +1,6 @@
-# IRoot 0.83 beta — 2026-07-20
+# IRoot 0.83 beta — 2026-07-21
 
-Okno 7 dni · spraw 146 · publikacji 251 · obszary szczególne 3 · nieznanych 29
+Okno 7 dni · spraw 171 · publikacji 322 · obszary szczególne 3 · nieznanych 31
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -25,6 +25,8 @@ Okno 7 dni · spraw 146 · publikacji 251 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/informacja-o-zatwierdzeniu-planu-urzadzenia-lasu-dla-nadlesnictwa-lubin2  (BIP: 2026-07-14 11:43)
 -  [RDLP Wrocławiu] PUL — decyzja zatwierdzająca — Nadleśnictwo Milicz
   https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/informacja-o-zatwierdzeniu-planu-urzadzenia-lasu-dla-nadlesnictwa-milicz  (BIP: 2026-07-14 11:43)
+-  [Nadleśnictwo Warcino] PUL — decyzja zatwierdzająca — Nadleśnictwo Warcino
+  https://www.gov.pl/attachment/50ce2448-e80f-4212-baa2-f2e4e48a7b47  (BIP: 2026-07-21 07:36)
 
 ## P2 — okno wpływu
 
@@ -101,6 +103,28 @@ Okno 7 dni · spraw 146 · publikacji 251 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/9bbdaa90-abed-417b-ae90-3361745b8f06  (BIP: 2026-07-17 13:48)
 -  [Nadleśnictwo Ustka] Wykaz kontroli zewnętrznych 2026
   https://www.gov.pl/attachment/ab97f9e5-ba82-47f2-96f7-5d8b2f204dca  (BIP: 2026-07-17 10:36)
+-  [RDLP Łodzi] Zmiana w BIP: Wykaz dokumentów zawierających informacje o środowisku
+  https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-lodzi/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku  (BIP: 2026-07-21 09:21)
+-  [Nadleśnictwo Augustów] Zmiana w BIP: Ochrona przyrody
+  https://www.gov.pl/web/nadlesnictwo-augustow/ochrona-przyrody  (BIP: 2026-07-20 10:55)
+-  [Nadleśnictwo Łomża] Wykaz kontroli przeprowadzonych w 2026 r. - stan na 15.07.2026
+  https://www.gov.pl/attachment/972b9138-5f90-4901-9cb4-47849f72c7a8  (BIP: 2026-07-20 13:15)
+-  [Nadleśnictwo Krzyż] Ogłoszenie_II_przetargu_ustnego_nieograniczonego_na_sprzedaż_nieruchomości_1186_1188
+  https://www.gov.pl/attachment/f64dbd85-b492-4b40-9a1d-36ea27f4aa3a  (BIP: 2026-07-20 21:20)
+-  [Nadleśnictwo Warcino] Elaborat PUL na lata 2026-2035
+  https://www.gov.pl/attachment/413776c9-057e-434b-8149-754b635a442a  (BIP: 2026-07-21 07:36)
+-  [Nadleśnictwo Warcino] Mapa siedlisk przyrodniczych i obszarów Natura 2000 obręb Obłęże
+  https://www.gov.pl/attachment/880256fb-c4ec-42cd-a117-44fa56d0b0fc  (BIP: 2026-07-21 07:36)
+-  [Nadleśnictwo Warcino] Pismo UM Kepice w sprawie projektu PUL na lata 2026-2035
+  https://www.gov.pl/attachment/411e1522-9f1c-4141-8650-9e821e351064  (BIP: 2026-07-21 07:36)
+-  [Nadleśnictwo Lubin] Streszczenie PUL 2026-2035
+  https://www.gov.pl/attachment/04cf2238-463d-46f2-8e8a-7e2de31a003b  (BIP: 2026-07-20 14:26)
+-  [Nadleśnictwo Lubin] Prognoza Oddziaływania na Środowisko
+  https://www.gov.pl/attachment/cb213c7a-9b82-4032-a79f-bdb6a64ffc65  (BIP: 2026-07-20 14:26)
+-  [Nadleśnictwo Lubsko] Zmiana w BIP: Plan urządzenia lasu
+  https://www.gov.pl/web/nadlesnictwo-lubsko/plan-urzadzenia-lasu  (BIP: 2026-07-21 07:41)
+-  [Nadleśnictwo Lubsko] Protokół z Narady Wstępnej Nadleśnictwo Lubsko PUL 2029-2038
+  https://www.gov.pl/attachment/c4ac806e-fb1a-4e05-a668-074bdcd3e662  (BIP: 2026-07-21 07:41)
 
 ## P3 — sygnały
 
@@ -186,7 +210,7 @@ Okno 7 dni · spraw 146 · publikacji 251 · obszary szczególne 3 · nieznanych
 -  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 8 maja 2026 roku
   https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-8-maja-2026-roku  (BIP: 2026-05-08 00:00)
 -  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.17.2024.PJ/SK.41
-  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41  (BIP: 2026-07-16 00:00)
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41  (BIP: 2026-07-15 00:00)
 -  [Nadleśnictwo Maskulińskie] Plan zamówień publicznych na 2022 rok
   https://www.gov.pl/attachment/cb1e03e8-7f44-40f0-8928-26e0f86e6e47  (BIP: 2026-07-16 10:20)
 -  [Nadleśnictwo Pińczów] Plan postępowań na rok 2026 wersja 4
@@ -225,6 +249,24 @@ Okno 7 dni · spraw 146 · publikacji 251 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/54a8fb70-9901-48a6-8f40-e53cf521f5c5  (BIP: 2026-07-20 08:22)
 -  [Nadleśnictwo Szprotawa] Decyzje Nadleśniczego Nadleśnictwa Szprotawa 2026r
   https://www.gov.pl/attachment/1e34a489-2d1c-4e77-a59a-4264b30e1476  (BIP: 2026-07-20 08:15)
+-  [RDOŚ Gorzów Wlkp.] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopolskim Nr 21/2026 z 20 lipca 2026 roku
+  https://www.gov.pl/web/rdos-gorzow-wielkopolski/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gorzowie-wielkopolskim-nr-212026-z-20-lipca-2026-roku  (BIP: 2026-07-20 00:00)
+-  [Nadleśnictwo Rudy Raciborskie] Zarządzenia i Decyzje Nadleśniczego Nadleśnictwa
+  https://www.gov.pl/attachment/8db470b4-f754-4f70-af2f-438862a23313  (BIP: 2026-07-21 09:39)
+-  [Nadleśnictwo Podanin] Wykaz Zarządzeń Nadleśniczego 2026
+  https://www.gov.pl/attachment/78a94a4b-53eb-41f8-9cc9-5b50ad3778bf  (BIP: 2026-07-21 07:40)
+-  [Nadleśnictwo Podanin] Roczny plan zamówień publicznych 2026_v3
+  https://www.gov.pl/attachment/64be23a7-e18f-4490-9909-8fa89d179283  (BIP: 2026-07-20 14:59)
+-  [Nadleśnictwo Warcino] Program Ochrony Przyrody 2026-2035
+  https://www.gov.pl/attachment/0d48b2c6-99bd-43b2-b5da-9846d5db7f81  (BIP: 2026-07-21 07:36)
+-  [Nadleśnictwo Warcino] Zarządzenie nr 21 Dyrektora RDLP w Szczecinku z dnia 09.05.2024r.
+  https://www.gov.pl/attachment/76e7d87a-458b-44cf-a659-c6cfc9764b25  (BIP: 2026-07-21 07:36)
+-  [Nadleśnictwo Żołędowo] Plan zamówień publicznych na 2026
+  https://www.gov.pl/attachment/7aee5c7f-fea7-4c84-8645-ec4eee655d87  (BIP: 2026-07-20 16:00)
+-  [Nadleśnictwo Lubin] Elaborat
+  https://www.gov.pl/attachment/6fd838e2-53e4-4d4f-bff4-eec62aa0f474  (BIP: 2026-07-20 14:26)
+-  [Nadleśnictwo Lubin] Mapa przeglądowa cięć rębnych obręb Polkowice
+  https://www.gov.pl/attachment/55e7a846-ef5e-4182-8948-9bed36321c60  (BIP: 2026-07-20 14:26)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
@@ -257,3 +299,5 @@ Okno 7 dni · spraw 146 · publikacji 251 · obszary szczególne 3 · nieznanych
 - [Nadleśnictwo Krosno] Ogłoszenie_o_II_przetargu_nieograniczonym-sig_
 - [RDOŚ Wrocław] odpowiedź na petycję 4
 - [Nadleśnictwo Rudka] Prace remontowe w budynku chłodni w Gospodarstwie Szkółkarskim w Korycinach - postępowanie nr II.
+- [Ministerstwo Klimatu i Środowiska] Szacowanie wartości zamówienia: aktualizacja Przewodnika dla miast "Przyrodniczo-klimatyczne wskaźniki zrównoważonego rozwoju miast"
+- [Nadleśnictwo Białogard] Decyzje Nadleśnictwa Białogard

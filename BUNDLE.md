@@ -1,6 +1,6 @@
-# IRoot 0.83 beta — 2026-07-22
+# IronRoot — wyciąg do analizy — 2026-07-22
 
-Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych 40
+Okno 7 dni · spraw 228 · publikacji 313 · obszary szczególne 3 · nieznanych 40
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -16,9 +16,6 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
 
 ## P1 — zegar tyka
 
--  [RDOŚ Kraków] Obwieszczenie z 15 lipca 2026r., znak: 00.4220.249.2026.TP - Budowa zespołu przemysłowo-magazynowo-usługowego z segmentami socjalno- biurowymi - obręb Wężerów, gm. Słomniki
-  https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-0042202492026tp---budowa-zespolu-przemyslowo-magazynowo-uslugowego-z-segmentami-socjalno--biurowymi---obreb-wezerow-gm-slomniki  (BIP: 2026-07-15 00:00)
-  📍 RDOŚ Kraków → gm. Ochotnica → m. Tylmanowa
 -  [RDLP Wrocławiu] PUL — decyzja zatwierdzająca — Nadleśnictwo Milicz
   https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-we-wroclawiu/informacja-o-zatwierdzeniu-planu-urzadzenia-lasu-dla-nadlesnictwa-milicz  (BIP: 2026-07-14 11:43)
 -  [Nadleśnictwo Warcino] PUL — decyzja zatwierdzająca — Nadleśnictwo Warcino
@@ -128,10 +125,20 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsi422112026ps9  (BIP: 2026-07-15 00:00)
 -  [RDOŚ Gdańsk] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12.06.2026 r.
   https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12062026-r  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Gdańsk] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12.06.2026 r.
+  https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12062026-r2  (BIP: 2026-06-12 00:00)
 -  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.16
   https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-14-r-znak-woos42082026am16  (BIP: 2026-07-14 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.17
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos42082026am17  (BIP: 2026-07-14 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.18
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos42082026am18  (BIP: 2026-07-14 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-II.420.14.2025.OŁN/KR.17
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-ii420142025olnkr17  (BIP: 2026-07-14 00:00)
 -  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.48.2026.CS.11
   https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420482026cs11  (BIP: 2026-07-14 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 15 lipca 2026 r., znak: WOOŚ-I.420.73.2026.AGO.7
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-15-lipca-2026-r-znak-woos-i420732026ago7  (BIP: 2026-07-15 00:00)
 -  [RDOŚ Wrocław] Zarządzenie nr 20.2026 Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 15 lipca 2026 r. w sprawie wyznaczenia szlaków turystycznych w rezerwacie przyrody „Wodospad Wilczki”
   https://www.gov.pl/web/rdos-wroclaw/zarzadzenie-nr-202026-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-15-lipca-2026-r-w-sprawie-wyznaczenia-szlakow-turystycznych-w-rezerwacie-przyrody-wodospad-wilczki  (BIP: 2026-07-15 00:00)
 -  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 14 lipca 2026 r., znak: WOOŚ.420.47.2024.MSA.50
@@ -161,6 +168,8 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/00fbffd4-c104-48d9-98c4-5574d3c99ae9  (BIP: 2026-07-15 14:40)
 -  [RDOŚ Gorzów Wlkp.] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopolskim z 14 lipca 2026 roku, znak: WOOŚ.420.41.2026.DM
   https://www.gov.pl/web/rdos-gorzow-wielkopolski/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gorzowie-wielkopolskim-z-14-lipca-2026-roku-znak-woos420412026dm  (BIP: 2026-07-14 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-15 r. znak WOOŚ.4235.10.2016.KC.126
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos4235102016kc126  (BIP: 2026-07-15 00:00)
 -  [RDOŚ Łódź] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚI.4221.1.2026.PS.9
   https://www.gov.pl/web/rdos-lodz/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsi422112026ps9  (BIP: 2026-07-15 00:00)
 -  [Nadleśnictwo Jarosław] wykaz obowiązujących zarządzeń i decyzji, stan na dzień 10.07.2026r.
@@ -169,12 +178,46 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/91593939-bb77-4f60-adc8-3778b97ba724  (BIP: 2026-07-16 09:25)
 -  [Nadleśnictwo Potrzebowice] Zarządzenie Nadleśniczego Nadleśnictwa Potrzebowice wydane w 2026 roku
   https://www.gov.pl/attachment/259d72ba-3e01-46af-9981-d9c5b60d699f  (BIP: 2026-07-16 09:14)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42022026afi15  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.8.2026.AFI.10
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42082026afi10  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.3.2026.AFI.14
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42032026afi14  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.4711.1.2022.MKW.12 (stary znak: DOA-WSzOP.4711.4.2022.MBA)
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii471112022mkw12-stary-znak-doa-wszop471142022mba  (BIP: 2026-07-16 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsiii42032026mk3  (BIP: 2026-07-15 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.5,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj5  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.4,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj4  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.3,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj3  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.2,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj2  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.1,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj1  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.2,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj2  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.1,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj1  (BIP: 2026-06-12 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.2,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj2  (BIP: 2026-06-12 00:00)
 -  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.1,
   https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj1  (BIP: 2026-06-12 00:00)
 -  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 8 maja 2026 roku
   https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-8-maja-2026-roku  (BIP: 2026-05-08 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-doos-wdsii42082026afl10  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Katowice] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.3.2026.AFl.14
+  https://www.gov.pl/web/rdos-katowice/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-2026-07-16-r-znak-doos-wdsii42032026afl14  (BIP: 2026-07-16 00:00)
 -  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.17.2024.PJ/SK.41
-  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41  (BIP: 2026-07-15 00:00)
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2023.WM.57
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292023wm57  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., WOOŚ.420.63.2024.JS.34
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-woos420632024js34  (BIP: 2026-07-16 00:00)
 -  [Nadleśnictwo Maskulińskie] Plan zamówień publicznych na 2022 rok
   https://www.gov.pl/attachment/cb1e03e8-7f44-40f0-8928-26e0f86e6e47  (BIP: 2026-07-16 10:20)
 -  [Nadleśnictwo Pińczów] Plan postępowań na rok 2026 wersja 4
@@ -191,8 +234,22 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/8e01fdbf-64e0-4cd5-989f-b6451767618a  (BIP: 2026-07-16 12:51)
 -  [Nadleśnictwo Wymiarki] Plan zamówien na 2026 rok - wersja 3
   https://www.gov.pl/attachment/96b3659a-40af-4cef-a8a1-aedef66f3df7  (BIP: 2026-07-17 07:36)
+-  [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.74.2025.IBA.10 z dnia 17.07.2026 r.
+  https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420742025iba10-z-dnia-17072026-r  (BIP: 2026-07-17 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.10.2025.JŻ.26
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420102025jz26  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.28.2026.JKS.3
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420282026jks3  (BIP: 2026-07-16 00:00)
 -  [RDOŚ Kraków] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3 - Budowa nowej drogi startowej na lotnisku Kraków - Balice
   https://www.gov.pl/web/rdos-krakow/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026r-znak-doos-wdsiii42032026mk3---budowa-nowej-drogi-startowej-na-lotnisku-krakow---balice  (BIP: 2026-07-15 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2026.WM.2
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292026wm2  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.30.2026.WM.2
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420302026wm2  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak: WOOŚ.420.35.2026.PK.1
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-woos420352026pk1  (BIP: 2026-07-17 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak pisma: WOOŚ.420.64.2025.CC.13
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-pisma-woos420642025cc13  (BIP: 2026-07-17 00:00)
 -  [Nadleśnictwo Siewierz] Rejestr_Zarządzeń_Nadleśniczego_wg_stanu_na_dzień_17072026
   https://www.gov.pl/attachment/f003c183-39ec-4017-ba98-48acf7b4b41b  (BIP: 2026-07-17 14:26)
 -  [Nadleśnictwo Sobibór] Decyzje Nadleśniczego Nadleśnictwa Sobibór II aktualizacja lipiec 2026
@@ -205,6 +262,23 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/9e420550-512b-4688-aa3d-e85f61c6af50  (BIP: 2026-07-17 14:59)
 -  [Nadleśnictwo Międzylesie] Plan_postepowan_na_2026_ver_2
   https://www.gov.pl/attachment/69f7cfce-5844-4e22-a1a0-1aeed8d83e2d  (BIP: 2026-07-17 11:52)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2026.PP.7
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032026pp7  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2024.PP.38
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032024pp38  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WPN-I.670.230.2025.EB.11 WPN-I.6401.1.20.2026.EB
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-wpn-i6702302025eb11-wpn-i64011202026eb  (BIP: 2026-07-16 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-II.420.71.2025.AGO.30
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-ii420712025ago30  (BIP: 2026-07-17 00:00)
+  📍 RDOŚ Warszawa → oddz. 107z
+-  [RDOŚ Warszawa] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15
+  https://www.gov.pl/web/rdos-warszawa/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-16-lipca-2026-r-znak-doos-wdsii42022026afi15  (BIP: 2026-07-16 00:00)
+  📍 RDOŚ Warszawa → oddz. 107z
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-I.420.39.2026.SK.12
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-i420392026sk12  (BIP: 2026-07-17 00:00)
+  📍 RDOŚ Warszawa → oddz. 107z
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 20 lipca 2026 r. znak WOOŚ.4220.121.2026.AJ.10
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-20-lipca-2026-r-znak-woos42201212026aj10  (BIP: 2026-07-20 00:00)
 -  [Nadleśnictwo Rudziniec] Wykaz Zarządzeń Nadleśniczego Nadleśnictwa Rudziniec od 01.01.2026r.
   https://www.gov.pl/attachment/66c4ea9d-14e1-4c1c-92a3-765ea876ab43  (BIP: 2026-07-20 09:05)
 -  [Nadleśnictwo Mielec] Uregulowania wewnętrzne 2026 r. - Decyzje
@@ -213,8 +287,14 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/54a8fb70-9901-48a6-8f40-e53cf521f5c5  (BIP: 2026-07-20 08:22)
 -  [Nadleśnictwo Szprotawa] Decyzje Nadleśniczego Nadleśnictwa Szprotawa 2026r
   https://www.gov.pl/attachment/1e34a489-2d1c-4e77-a59a-4264b30e1476  (BIP: 2026-07-20 08:15)
+-  [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.93.2025.DN/IK.14 z dnia 20.07.2026 r.
+  https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420932025dnik14-z-dnia-20072026-r  (BIP: 2026-07-20 00:00)
+-  [RDOŚ Gdańsk] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.22.2026.AKĆ.8 z dnia 20.07.2026 r.
+  https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420222026akc8-z-dnia-20072026-r  (BIP: 2026-07-20 00:00)
 -  [RDOŚ Gorzów Wlkp.] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopolskim Nr 21/2026 z 20 lipca 2026 roku
   https://www.gov.pl/web/rdos-gorzow-wielkopolski/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gorzowie-wielkopolskim-nr-212026-z-20-lipca-2026-roku  (BIP: 2026-07-20 00:00)
+-  [RDOŚ Kielce] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 15 lipca 2026 r. znak: DOOŚ-WDŚIII.420.3.2026.mk.3
+  https://www.gov.pl/web/rdos-kielce/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-15-lipca-2026-r-znak-doos-wdsiii42032026mk3  (BIP: 2026-07-15 00:00)
 -  [Nadleśnictwo Rudy Raciborskie] Zarządzenia i Decyzje Nadleśniczego Nadleśnictwa
   https://www.gov.pl/attachment/8db470b4-f754-4f70-af2f-438862a23313  (BIP: 2026-07-21 09:39)
 -  [Nadleśnictwo Podanin] Wykaz Zarządzeń Nadleśniczego 2026
@@ -231,6 +311,20 @@ Okno 7 dni · spraw 178 · publikacji 313 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/6fd838e2-53e4-4d4f-bff4-eec62aa0f474  (BIP: 2026-07-20 14:26)
 -  [Nadleśnictwo Lubin] Mapa przeglądowa cięć rębnych obręb Polkowice
   https://www.gov.pl/attachment/55e7a846-ef5e-4182-8948-9bed36321c60  (BIP: 2026-07-20 14:26)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚI.420.16.2026.SP.4
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsi420162026sp4  (BIP: 2026-07-21 00:00)
+  📍 Generalna Dyrekcja Ochrony Środowiska → oddz. 107z
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚII.420.10.2026.MKR.7
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsii420102026mkr7  (BIP: 2026-07-21 00:00)
+  📍 Generalna Dyrekcja Ochrony Środowiska → oddz. 107z
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.11.2025.DK.19,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo420112025dk19  (BIP: 2026-07-21 00:00)
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.8.2026.DK.15,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo42082026dk15  (BIP: 2026-07-21 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.57
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm57  (BIP: 2026-07-21 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.60
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm60  (BIP: 2026-07-21 00:00)
 -  [RDLP Krośnie] Obowiązujące Zarządzenia Dyrektora RDLP w Krośnie - 21.07.2026 r.
   https://www.gov.pl/attachment/45788a18-8705-492e-bd18-61861f4627b1  (BIP: 2026-07-22 06:35)
 -  [RDLP Łodzi] Wykaz kart informacyjnych - stan na 21.07.2026 r

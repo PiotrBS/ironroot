@@ -1,12 +1,12 @@
 {
  "meta": {
   "data": "2026-07-22",
-  "wersja": "IRoot 0.83 beta",
-  "wygenerowano_utc": "2026-07-22T08:17:05.904810+00:00",
+  "wersja": "IRoot 0.85 beta",
+  "wygenerowano_utc": "2026-07-22T12:19:02.415881+00:00",
   "okno_dni": 7,
   "korpus": 58114,
   "pozycji": 313,
-  "spraw": 178
+  "spraw": 228
  },
  "zdrowie": {
   "checked": 5457,
@@ -31,10 +31,10 @@
  },
  "liczby": {
   "szczegolne": 3,
-  "p1": 4,
+  "p1": 3,
   "p2": 46,
-  "p3": 70,
-  "tlo": 15,
+  "p3": 116,
+  "tlo": 20,
   "nieznane": 40
  },
  "rozklad": [
@@ -43,16 +43,16 @@
    "n": 64
   },
   {
+   "klasa": "ochrona",
+   "n": 60
+  },
+  {
    "klasa": "nieznane",
    "n": 40
   },
   {
-   "klasa": "ochrona",
-   "n": 15
-  },
-  {
    "klasa": "tlo",
-   "n": 15
+   "n": 20
   },
   {
    "klasa": "cykl-pul",
@@ -214,104 +214,6 @@
   ],
   "p1": [
    {
-    "sprawa_id": "410ab45f09621b17",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-krakow/rok-20213|decyzja-srodowiskowa",
-    "n_zdarzen": 5,
-    "podmiot": null,
-    "source_name": "RDOŚ Kraków",
-    "tier": "rdos",
-    "rdlp": "-",
-    "title": "Obwieszczenie z 15 lipca 2026r., znak: 00.4220.249.2026.TP - Budowa zespołu przemysłowo-magazynowo-usługowego z segmentami socjalno- biurowymi - obręb Wężerów, gm. Słomniki",
-    "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-0042202492026tp---budowa-zespolu-przemyslowo-magazynowo-uslugowego-z-segmentami-socjalno--biurowymi---obreb-wezerow-gm-slomniki",
-    "kind": "artykul",
-    "page_title": "Rok 2026",
-    "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
-    "priority": 1,
-    "class": "ochrona",
-    "rule_id": "decyzja-srodowiskowa",
-    "rule_name": "Decyzja środowiskowa / ocena oddziaływania",
-    "note": null,
-    "published": "2026-07-15 00:00",
-    "eskalacja": null,
-    "snapshot_sha256": "f3cdea6e9ac1a41ea7d03ba0754abe46e9c76aba458b53c5aa84663fe6e49ef8",
-    "kontekst": {
-     "obszary": [],
-     "waga": 0,
-     "adres": {
-      "gmina": "Ochotnica",
-      "miejscowosc": "Tylmanowa"
-     }
-    },
-    "lokalizacja": "RDOŚ Kraków → gm. Ochotnica → m. Tylmanowa",
-    "termin": {
-     "tekst": "🔴 **6 dni** (do 2026-07-29)",
-     "dni": 6
-    },
-    "bdl": null,
-    "zdarzenia": [
-     {
-      "key": "f06d8dc39e617ae1",
-      "kind": "artykul",
-      "title": "Zawiadomienie z 15 lipca 2026r., znak: OO.4220.233.2026.DS - Rozbudowa drogi wojewódzkiej nr 969 w m. Tylmanowa, gm. Ochotnica Dolna",
-      "url": "https://www.gov.pl/web/rdos-krakow/zawiadomienie-z-15-lipca-2026r-znak-oo42202332026ds---rozbudowa-drogi-wojewodzkiej-nr-969-w-m-tylmanowa-gm-ochotnica-dolna",
-      "published": "2026-07-15 00:00",
-      "source_id": "rdos-krakow",
-      "source_name": "RDOŚ Kraków",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "2c80ecdf2c99e301",
-      "kind": "artykul",
-      "title": "Obwieszczenie z 15 lipca 2026r., znak: OO.4220.254.2026.TP - Zespół zabudowy mieszkalnej wielorodzinnej oraz zabudowy mieszkalnej jednorodzinnej w rejonie ul. Albatrosów w Krakowie",
-      "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-oo42202542026tp---zespol-zabudowy-mieszkalnej-wielorodzinnej-oraz-zabudowy-mieszkalnej-jednorodzinnej-w-rejonie-ul-albatrosow-w-krakowie",
-      "published": "2026-07-15 00:00",
-      "source_id": "rdos-krakow",
-      "source_name": "RDOŚ Kraków",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "65f201bb8fac9f2c",
-      "kind": "artykul",
-      "title": "Obwieszczenie z 15 lipca 2026r., znak: 00.4220.249.2026.TP - Budowa zespołu przemysłowo-magazynowo-usługowego z segmentami socjalno- biurowymi - obręb Wężerów, gm. Słomniki",
-      "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-0042202492026tp---budowa-zespolu-przemyslowo-magazynowo-uslugowego-z-segmentami-socjalno--biurowymi---obreb-wezerow-gm-slomniki",
-      "published": "2026-07-15 00:00",
-      "source_id": "rdos-krakow",
-      "source_name": "RDOŚ Kraków",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "4d23f1a3db6592fd",
-      "kind": "artykul",
-      "title": "Obwieszczenie z 15 lipca 2026r., znak: OO.4221.27.2026.EB - Rozbudowa gospodarstwa, obręb Głuchowice, Rzozów, gm. Skawina",
-      "url": "https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-15-lipca-2026r-znak-oo4221272026eb---rozbudowa-gospodarstwa-obreb-gluchowice-rzozow-gm-skawina",
-      "published": "2026-07-15 00:00",
-      "source_id": "rdos-krakow",
-      "source_name": "RDOŚ Kraków",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "8d1cbea20586e1af",
-      "kind": "artykul",
-      "title": "Zawiadomienie z 20 lipca 2026r., znak: OO.420.20.2025.ASu.23 - Rozbudowa drogi krajowej nr 7 w rejonie msc. Głogoczów na odcinku od ok. 684+220 do ok km 688+250",
-      "url": "https://www.gov.pl/web/rdos-krakow/zawiadomienie-z-20-lipca-2026r-znak-oo420202025asu23---rozbudowa-drogi-krajowej-nr-7-w-rejonie-msc-glogoczow-na-odcinku-od-ok-684220-do-ok-km-688250",
-      "published": "2026-07-20 00:00",
-      "source_id": "rdos-krakow",
-      "source_name": "RDOŚ Kraków",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
-      "snapshot_sha256": "f3cdea6e9ac1a41ea7d03ba0754abe46e9c76aba458b53c5aa84663fe6e49ef8"
-     }
-    ]
-   },
-   {
     "sprawa_id": "6072a89a416ec51c",
     "sprawa_key": "pul|milicz",
     "n_zdarzen": 2,
@@ -339,8 +241,8 @@
     },
     "lokalizacja": "RDLP Wrocławiu",
     "termin": {
-     "tekst": "⚪ **22 dni** (do 2026-08-13)",
-     "dni": 22
+     "tekst": "⚪ **21 dni** (do 2026-08-13)",
+     "dni": 21
     },
     "bdl": null,
     "zdarzenia": [
@@ -723,8 +625,8 @@
     ]
    },
    {
-    "sprawa_id": "780b0839cd0a4d1b",
-    "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-czerwony-dwor/finanse-i-majatek|obrot-ziemia",
+    "sprawa_id": "0756f7a20cce31ab",
+    "sprawa_key": "item|402c886fd7096751",
     "n_zdarzen": 1,
     "podmiot": "Czerwony Dwór",
     "source_name": "Nadleśnictwo Czerwony Dwór",
@@ -1023,8 +925,8 @@
     ]
    },
    {
-    "sprawa_id": "6b8e5e38568755f9",
-    "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-gdansk/wystapienia-komunikaty-i-ogloszenia|obrot-ziemia",
+    "sprawa_id": "afbc741e69515ee3",
+    "sprawa_key": "item|82d5dad5909c0955",
     "n_zdarzen": 1,
     "podmiot": "Gdańsk",
     "source_name": "Nadleśnictwo Gdańsk",
@@ -2500,8 +2402,8 @@
     ]
    },
    {
-    "sprawa_id": "dbde9735cf3f985e",
-    "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-lomza/wystapienia-komunikaty-i-ogloszenia|obrot-ziemia",
+    "sprawa_id": "2438a9fedd312ec0",
+    "sprawa_key": "item|eee3d9936ee5a221",
     "n_zdarzen": 1,
     "podmiot": "Łomża",
     "source_name": "Nadleśnictwo Łomża",
@@ -3143,9 +3045,9 @@
   ],
   "p3": [
    {
-    "sprawa_id": "5b9558ce62f14e86",
-    "sprawa_key": "page|https://www.gov.pl/web/gdos/rok-20216|rdos-nierozpoznane",
-    "n_zdarzen": 8,
+    "sprawa_id": "8cdb49745cf19438",
+    "sprawa_key": "item|166dee109d0bf300",
+    "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "Generalna Dyrekcja Ochrony Środowiska",
     "tier": "gdos",
@@ -3183,97 +3085,13 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/gdos/rok-20216",
       "snapshot_sha256": null
-     },
-     {
-      "key": "3d2a4bbee2e47974",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3",
-      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsiii42032026mk3",
-      "published": "2026-07-15 00:00",
-      "source_id": "gdos",
-      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "a084fd9864991fe7",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15",
-      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42022026afi15",
-      "published": "2026-07-16 00:00",
-      "source_id": "gdos",
-      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "13eb0fcd0fb94fce",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.8.2026.AFI.10",
-      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42082026afi10",
-      "published": "2026-07-16 00:00",
-      "source_id": "gdos",
-      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "05fc40e555c67d16",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.3.2026.AFI.14",
-      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42032026afi14",
-      "published": "2026-07-16 00:00",
-      "source_id": "gdos",
-      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "2438658746307ecc",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.4711.1.2022.MKW.12 (stary znak: DOA-WSzOP.4711.4.2022.MBA)",
-      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii471112022mkw12-stary-znak-doa-wszop471142022mba",
-      "published": "2026-07-16 00:00",
-      "source_id": "gdos",
-      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "30e3a8178fbac3ec",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚI.420.16.2026.SP.4",
-      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsi420162026sp4",
-      "published": "2026-07-21 00:00",
-      "source_id": "gdos",
-      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "e004763ff07ab1c5",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚII.420.10.2026.MKR.7",
-      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsii420102026mkr7",
-      "published": "2026-07-21 00:00",
-      "source_id": "gdos",
-      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
-      "snapshot_sha256": null
      }
     ]
    },
    {
-    "sprawa_id": "c0b10eb33ebc9fa5",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026|rdos-nierozpoznane",
-    "n_zdarzen": 5,
+    "sprawa_id": "85a193fd5375d48f",
+    "sprawa_key": "item|0ab5f2482caef99d",
+    "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Gdańsk",
     "tier": "rdos",
@@ -3311,7 +3129,39 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "8012c5a4f97384d4",
+    "sprawa_key": "item|602d3d792b78a921",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Gdańsk",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12.06.2026 r.",
+    "url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12062026-r2",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Gdańsk",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "602d3d792b78a921",
       "kind": "artykul",
@@ -3323,49 +3173,13 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
       "snapshot_sha256": null
-     },
-     {
-      "key": "8207d23b54de78ef",
-      "kind": "artykul",
-      "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.74.2025.IBA.10 z dnia 17.07.2026 r.",
-      "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420742025iba10-z-dnia-17072026-r",
-      "published": "2026-07-17 00:00",
-      "source_id": "rdos-gdansk",
-      "source_name": "RDOŚ Gdańsk",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "4d5936b1a65178b1",
-      "kind": "artykul",
-      "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.93.2025.DN/IK.14 z dnia 20.07.2026 r.",
-      "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420932025dnik14-z-dnia-20072026-r",
-      "published": "2026-07-20 00:00",
-      "source_id": "rdos-gdansk",
-      "source_name": "RDOŚ Gdańsk",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "aa144e25a5cc31fe",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.22.2026.AKĆ.8 z dnia 20.07.2026 r.",
-      "url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420222026akc8-z-dnia-20072026-r",
-      "published": "2026-07-20 00:00",
-      "source_id": "rdos-gdansk",
-      "source_name": "RDOŚ Gdańsk",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
-      "snapshot_sha256": null
      }
     ]
    },
    {
-    "sprawa_id": "5d56e59aa86aaac3",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-katowice/rok2026|rdos-nierozpoznane",
-    "n_zdarzen": 8,
+    "sprawa_id": "562b7f30a7f0cd73",
+    "sprawa_key": "znak|woos.420.8.2026.am.16",
+    "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Katowice",
     "tier": "rdos",
@@ -3403,7 +3217,39 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "7f90a9543f71dc74",
+    "sprawa_key": "znak|woos.420.8.2026.am.17",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Katowice",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.17",
+    "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos42082026am17",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-14 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Katowice",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "7648a45458d67b3f",
       "kind": "artykul",
@@ -3415,7 +3261,39 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "f04dbed5cfdcbbf0",
+    "sprawa_key": "znak|woos.420.8.2026.am.18",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Katowice",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-14 r. znak WOOŚ.420.8.2026.AM.18",
+    "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos42082026am18",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-14 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Katowice",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "755f9412d2ea94c1",
       "kind": "artykul",
@@ -3427,79 +3305,19 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
       "snapshot_sha256": null
-     },
-     {
-      "key": "fc920045b1ba04d7",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-15 r. znak WOOŚ.4235.10.2016.KC.126",
-      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos4235102016kc126",
-      "published": "2026-07-15 00:00",
-      "source_id": "rdos-katowice",
-      "source_name": "RDOŚ Katowice",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "454a98d9e7c4b72f",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10",
-      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-doos-wdsii42082026afl10",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-katowice",
-      "source_name": "RDOŚ Katowice",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "fcbedd472b0285c4",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.3.2026.AFl.14",
-      "url": "https://www.gov.pl/web/rdos-katowice/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-2026-07-16-r-znak-doos-wdsii42032026afl14",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-katowice",
-      "source_name": "RDOŚ Katowice",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "e9008b73835f1b03",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.10.2025.JŻ.26",
-      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420102025jz26",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-katowice",
-      "source_name": "RDOŚ Katowice",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "b90f2c7405f7627b",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.28.2026.JKS.3",
-      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420282026jks3",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-katowice",
-      "source_name": "RDOŚ Katowice",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
-      "snapshot_sha256": null
      }
     ]
    },
    {
-    "sprawa_id": "96255f554a9f996f",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026|rdos-nierozpoznane",
-    "n_zdarzen": 6,
+    "sprawa_id": "20a156a7f763d57b",
+    "sprawa_key": "item|05de47bc965bcfb0",
+    "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Warszawa",
     "tier": "rdos",
     "rdlp": "-",
-    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.48.2026.CS.11",
-    "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420482026cs11",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-II.420.14.2025.OŁN/KR.17",
+    "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-ii420142025olnkr17",
     "kind": "artykul",
     "page_title": "Rok 2026",
     "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
@@ -3531,7 +3349,39 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "efa61063685e3077",
+    "sprawa_key": "item|35327442191601e2",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Warszawa",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 14 lipca 2026 r., znak: WOOŚ-I.420.48.2026.CS.11",
+    "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-14-lipca-2026-r-znak-woos-i420482026cs11",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-14 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Warszawa",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "35327442191601e2",
       "kind": "artykul",
@@ -3543,7 +3393,39 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "6be7f75d3504029e",
+    "sprawa_key": "item|c60e29277b2d6642",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Warszawa",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 15 lipca 2026 r., znak: WOOŚ-I.420.73.2026.AGO.7",
+    "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-15-lipca-2026-r-znak-woos-i420732026ago7",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-15 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Warszawa",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "c60e29277b2d6642",
       "kind": "artykul",
@@ -3555,48 +3437,12 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
       "snapshot_sha256": null
-     },
-     {
-      "key": "32fca320f594c970",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15",
-      "url": "https://www.gov.pl/web/rdos-warszawa/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-16-lipca-2026-r-znak-doos-wdsii42022026afi15",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-warszawa",
-      "source_name": "RDOŚ Warszawa",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "2b6f0ee71b69b14e",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-II.420.71.2025.AGO.30",
-      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-ii420712025ago30",
-      "published": "2026-07-17 00:00",
-      "source_id": "rdos-warszawa",
-      "source_name": "RDOŚ Warszawa",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "3ba071681a73698c",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-I.420.39.2026.SK.12",
-      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-i420392026sk12",
-      "published": "2026-07-17 00:00",
-      "source_id": "rdos-warszawa",
-      "source_name": "RDOŚ Warszawa",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
-      "snapshot_sha256": null
      }
     ]
    },
    {
-    "sprawa_id": "a0d2722217a061f9",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-wroclaw/rok-20215|zarzadzenia-jednostki",
+    "sprawa_id": "1c0fd4a827f3411c",
+    "sprawa_key": "item|f449a3b977a405cd",
     "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Wrocław",
@@ -3639,9 +3485,9 @@
     ]
    },
    {
-    "sprawa_id": "82f981c185eb6de6",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-wroclaw/rok-20214|rdos-nierozpoznane",
-    "n_zdarzen": 10,
+    "sprawa_id": "06b430533a6ed492",
+    "sprawa_key": "znak|woos.420.47.2024.msa.50",
+    "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Wrocław",
     "tier": "rdos",
@@ -3679,120 +3525,12 @@
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
       "snapshot_sha256": null
-     },
-     {
-      "key": "e48d9a0692c8318c",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2023.WM.57",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292023wm57",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "958484a0533c368c",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., WOOŚ.420.63.2024.JS.34",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-woos420632024js34",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "86b829004996f104",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2026.WM.2",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292026wm2",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "6539ead246145330",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.30.2026.WM.2",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420302026wm2",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "277766956df6a2af",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak: WOOŚ.420.35.2026.PK.1",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-woos420352026pk1",
-      "published": "2026-07-17 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "f0bb8f65d89b514e",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak pisma: WOOŚ.420.64.2025.CC.13",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-pisma-woos420642025cc13",
-      "published": "2026-07-17 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "f45c2ac66d9edb14",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 20 lipca 2026 r. znak WOOŚ.4220.121.2026.AJ.10",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-20-lipca-2026-r-znak-woos42201212026aj10",
-      "published": "2026-07-20 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "1af4b9fc6a2b112b",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.57",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm57",
-      "published": "2026-07-21 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "e3e90e2011333be1",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.60",
-      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm60",
-      "published": "2026-07-21 00:00",
-      "source_id": "rdos-wroclaw",
-      "source_name": "RDOŚ Wrocław",
-      "page_title": "Rok 2026",
-      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
-      "snapshot_sha256": null
      }
     ]
    },
    {
-    "sprawa_id": "d27dc8f903ad9fb8",
-    "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krakowie/zarzadzenia-i-decyzje2|przetargi-lesne",
+    "sprawa_id": "76be8de904ec31bc",
+    "sprawa_key": "item|cba22808b5daa35f",
     "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDLP Krakowie",
@@ -4103,8 +3841,8 @@
     ]
    },
    {
-    "sprawa_id": "b94882639bd8669f",
-    "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-gniezno/zamowienia-publiczne|zarzadzenia-jednostki",
+    "sprawa_id": "2b9c0b313c025579",
+    "sprawa_key": "item|331fb7abaf2ebe42",
     "n_zdarzen": 1,
     "podmiot": "Gniezno",
     "source_name": "Nadleśnictwo Gniezno",
@@ -4337,8 +4075,8 @@
     ]
    },
    {
-    "sprawa_id": "413d9436fb1a6e43",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-gorzow-wielkopolski/rok-20220|rdos-nierozpoznane",
+    "sprawa_id": "24d0e3c084be8f18",
+    "sprawa_key": "znak|woos.420.41.2026.dm",
     "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Gorzów Wlkp.",
@@ -4381,8 +4119,52 @@
     ]
    },
    {
-    "sprawa_id": "3f8fa7e4510b2e6b",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-lodz/rok-20225|rdos-nierozpoznane",
+    "sprawa_id": "a609f14b2109349a",
+    "sprawa_key": "znak|woos.4235.10.2016.kc.126",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Katowice",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-15 r. znak WOOŚ.4235.10.2016.KC.126",
+    "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos4235102016kc126",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-15 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Katowice",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "fc920045b1ba04d7",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-15 r. znak WOOŚ.4235.10.2016.KC.126",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-15-r-znak-woos4235102016kc126",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "bb717450c7adfe9b",
+    "sprawa_key": "item|df2ca64acecc2038",
     "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Łódź",
@@ -4569,15 +4351,235 @@
     ]
    },
    {
-    "sprawa_id": "26f5c70097d12fa2",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia|rdos-nierozpoznane",
-    "n_zdarzen": 11,
+    "sprawa_id": "006d974c76770965",
+    "sprawa_key": "item|a084fd9864991fe7",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+    "tier": "gdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15",
+    "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42022026afi15",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "Generalna Dyrekcja Ochrony Środowiska",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "a084fd9864991fe7",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42022026afi15",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "54f82fe6a181b2a7",
+    "sprawa_key": "item|13eb0fcd0fb94fce",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+    "tier": "gdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.8.2026.AFI.10",
+    "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42082026afi10",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "Generalna Dyrekcja Ochrony Środowiska",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "13eb0fcd0fb94fce",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.8.2026.AFI.10",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42082026afi10",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "90e31e2abf4b042f",
+    "sprawa_key": "item|05fc40e555c67d16",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+    "tier": "gdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.3.2026.AFI.14",
+    "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42032026afi14",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "Generalna Dyrekcja Ochrony Środowiska",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "05fc40e555c67d16",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.3.2026.AFI.14",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42032026afi14",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "a85054d50676ad5d",
+    "sprawa_key": "item|2438658746307ecc",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+    "tier": "gdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.4711.1.2022.MKW.12 (stary znak: DOA-WSzOP.4711.4.2022.MBA)",
+    "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii471112022mkw12-stary-znak-doa-wszop471142022mba",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "Generalna Dyrekcja Ochrony Środowiska",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "2438658746307ecc",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.4711.1.2022.MKW.12 (stary znak: DOA-WSzOP.4711.4.2022.MBA)",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii471112022mkw12-stary-znak-doa-wszop471142022mba",
+      "published": "2026-07-16 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "e06bc3c4a7e54543",
+    "sprawa_key": "item|3d2a4bbee2e47974",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+    "tier": "gdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3",
+    "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsiii42032026mk3",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-15 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "Generalna Dyrekcja Ochrony Środowiska",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "3d2a4bbee2e47974",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsiii42032026mk3",
+      "published": "2026-07-15 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "06433ea3bfa93f9b",
+    "sprawa_key": "znak|wis.082.5.9.2026.mj.5",
+    "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Bydgoszcz",
     "tier": "rdos",
     "rdlp": "-",
-    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.1,",
-    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj1",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.5,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj5",
     "kind": "artykul",
     "page_title": "Obwieszczenia i zawiadomienia",
     "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
@@ -4609,7 +4611,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "73dff33bd5cd2cb8",
+    "sprawa_key": "znak|wis.082.5.9.2026.mj.4",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.4,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj4",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "4a70a0e3b457a631",
       "kind": "artykul",
@@ -4621,7 +4655,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "0134fc0c04d44be5",
+    "sprawa_key": "znak|wis.082.5.9.2026.mj.3",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.3,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj3",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "13efe9e133e761fe",
       "kind": "artykul",
@@ -4633,7 +4699,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "e5202d4eab435e7d",
+    "sprawa_key": "znak|wis.082.5.9.2026.mj.2",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.2,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj2",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "b472a5bcd9818dfe",
       "kind": "artykul",
@@ -4645,7 +4743,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "00bcd2137c5fc717",
+    "sprawa_key": "znak|wis.082.5.9.2026.mj.1",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.1,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj1",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "7e2aaa2d077c66d4",
       "kind": "artykul",
@@ -4657,7 +4787,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "18c121e1b68f7802",
+    "sprawa_key": "znak|wis.082.5.12.2026.mj.2",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.2,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj2",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "523c0125b68a2d16",
       "kind": "artykul",
@@ -4669,7 +4831,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "1fe3578014d09702",
+    "sprawa_key": "znak|wis.082.5.12.2026.mj.1",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.1,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj1",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "911b752d208e7b7d",
       "kind": "artykul",
@@ -4681,7 +4875,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "5e43d413817f8306",
+    "sprawa_key": "znak|wis.082.5.11.2026.mj.2",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.2,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj2",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "6581377f658e71ad",
       "kind": "artykul",
@@ -4693,7 +4919,39 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "f5f85e265bb973e6",
+    "sprawa_key": "znak|wis.082.5.11.2026.mj.1",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.1,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj1",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-06-12 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
       "key": "5373f5a747d7ce24",
       "kind": "artykul",
@@ -4705,36 +4963,12 @@
       "page_title": "Obwieszczenia i zawiadomienia",
       "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
       "snapshot_sha256": null
-     },
-     {
-      "key": "eaaec2ceb1fee765",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.11.2025.DK.19,",
-      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo420112025dk19",
-      "published": "2026-07-21 00:00",
-      "source_id": "rdos-bydgoszcz",
-      "source_name": "RDOŚ Bydgoszcz",
-      "page_title": "Obwieszczenia i zawiadomienia",
-      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "04237e35bc3a9032",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.8.2026.DK.15,",
-      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo42082026dk15",
-      "published": "2026-07-21 00:00",
-      "source_id": "rdos-bydgoszcz",
-      "source_name": "RDOŚ Bydgoszcz",
-      "page_title": "Obwieszczenia i zawiadomienia",
-      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
-      "snapshot_sha256": null
      }
     ]
    },
    {
-    "sprawa_id": "b675af543ddbb75b",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-gdansk/zarzadzenia-2026|zarzadzenia-jednostki",
+    "sprawa_id": "b526ff1f6c9ae070",
+    "sprawa_key": "item|0ecdef4bf490fb81",
     "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Gdańsk",
@@ -4777,9 +5011,97 @@
     ]
    },
    {
-    "sprawa_id": "a664c5ddccfa6c94",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-kielce/2026-rok|rdos-nierozpoznane",
-    "n_zdarzen": 5,
+    "sprawa_id": "41d835401b032314",
+    "sprawa_key": "item|454a98d9e7c4b72f",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Katowice",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10",
+    "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-doos-wdsii42082026afl10",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Katowice",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "454a98d9e7c4b72f",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-doos-wdsii42082026afl10",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "23da6c59ea712736",
+    "sprawa_key": "item|fcbedd472b0285c4",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Katowice",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.3.2026.AFl.14",
+    "url": "https://www.gov.pl/web/rdos-katowice/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-2026-07-16-r-znak-doos-wdsii42032026afl14",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Katowice",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "fcbedd472b0285c4",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.3.2026.AFl.14",
+      "url": "https://www.gov.pl/web/rdos-katowice/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-2026-07-16-r-znak-doos-wdsii42032026afl14",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "c939e5b1eb82d1f1",
+    "sprawa_key": "item|7ea483967941426f",
+    "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Kielce",
     "tier": "rdos",
@@ -4794,7 +5116,7 @@
     "rule_id": "rdos-nierozpoznane",
     "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
     "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
-    "published": "2026-07-15 00:00",
+    "published": "2026-07-16 00:00",
     "eskalacja": null,
     "snapshot_sha256": null,
     "kontekst": {
@@ -4807,18 +5129,6 @@
     "bdl": null,
     "zdarzenia": [
      {
-      "key": "ff68e9fa1b8ec256",
-      "kind": "artykul",
-      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 15 lipca 2026 r. znak: DOOŚ-WDŚIII.420.3.2026.mk.3",
-      "url": "https://www.gov.pl/web/rdos-kielce/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-15-lipca-2026-r-znak-doos-wdsiii42032026mk3",
-      "published": "2026-07-15 00:00",
-      "source_id": "rdos-kielce",
-      "source_name": "RDOŚ Kielce",
-      "page_title": "2026 rok",
-      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
-      "snapshot_sha256": null
-     },
-     {
       "key": "7ea483967941426f",
       "kind": "artykul",
       "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.17.2024.PJ/SK.41",
@@ -4829,41 +5139,93 @@
       "page_title": "2026 rok",
       "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "79cc11a225acf3ec",
+    "sprawa_key": "znak|woos.420.29.2023.wm.57",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2023.WM.57",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292023wm57",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
-      "key": "9364f9c3619820cd",
+      "key": "e48d9a0692c8318c",
       "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2026.PP.7",
-      "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032026pp7",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2023.WM.57",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292023wm57",
       "published": "2026-07-16 00:00",
-      "source_id": "rdos-kielce",
-      "source_name": "RDOŚ Kielce",
-      "page_title": "2026 rok",
-      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
       "snapshot_sha256": null
-     },
+     }
+    ]
+   },
+   {
+    "sprawa_id": "6a9e4041847c77b7",
+    "sprawa_key": "item|958484a0533c368c",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., WOOŚ.420.63.2024.JS.34",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-woos420632024js34",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
      {
-      "key": "99422cdafa195557",
+      "key": "958484a0533c368c",
       "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2024.PP.38",
-      "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032024pp38",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., WOOŚ.420.63.2024.JS.34",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-woos420632024js34",
       "published": "2026-07-16 00:00",
-      "source_id": "rdos-kielce",
-      "source_name": "RDOŚ Kielce",
-      "page_title": "2026 rok",
-      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
-      "snapshot_sha256": null
-     },
-     {
-      "key": "287c3ff2715973c3",
-      "kind": "artykul",
-      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WPN-I.670.230.2025.EB.11 WPN-I.6401.1.20.2026.EB",
-      "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-wpn-i6702302025eb11-wpn-i64011202026eb",
-      "published": "2026-07-16 00:00",
-      "source_id": "rdos-kielce",
-      "source_name": "RDOŚ Kielce",
-      "page_title": "2026 rok",
-      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
       "snapshot_sha256": null
      }
     ]
@@ -5245,8 +5607,140 @@
     ]
    },
    {
-    "sprawa_id": "ada53d875b4f6f7c",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-krakow/rok-20213|rdos-nierozpoznane",
+    "sprawa_id": "3c7ae35234737025",
+    "sprawa_key": "item|8207d23b54de78ef",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Gdańsk",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.74.2025.IBA.10 z dnia 17.07.2026 r.",
+    "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420742025iba10-z-dnia-17072026-r",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-17 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Gdańsk",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "8207d23b54de78ef",
+      "kind": "artykul",
+      "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.74.2025.IBA.10 z dnia 17.07.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420742025iba10-z-dnia-17072026-r",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "d5b1eb5242ced294",
+    "sprawa_key": "znak|woos.420.10.2025.jz.26",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Katowice",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.10.2025.JŻ.26",
+    "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420102025jz26",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Katowice",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "e9008b73835f1b03",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.10.2025.JŻ.26",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420102025jz26",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "b6f2236e0b664f9b",
+    "sprawa_key": "znak|woos.420.28.2026.jks.3",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Katowice",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.28.2026.JKS.3",
+    "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420282026jks3",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Katowice",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "b90f2c7405f7627b",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.28.2026.JKS.3",
+      "url": "https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-woos420282026jks3",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-katowice",
+      "source_name": "RDOŚ Katowice",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-katowice/rok2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "6a54d1e7172d6a12",
+    "sprawa_key": "item|3caee17bdf1d4bb1",
     "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Kraków",
@@ -5284,6 +5778,182 @@
       "source_name": "RDOŚ Kraków",
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-krakow/rok-20213",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "de9a07ca4dfa1ee4",
+    "sprawa_key": "znak|woos.420.29.2026.wm.2",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2026.WM.2",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292026wm2",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "86b829004996f104",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2026.WM.2",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292026wm2",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "c97db22bb987c222",
+    "sprawa_key": "znak|woos.420.30.2026.wm.2",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.30.2026.WM.2",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420302026wm2",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "6539ead246145330",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.30.2026.WM.2",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420302026wm2",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "7ead0bbf45e663c7",
+    "sprawa_key": "znak|woos.420.35.2026.pk.1",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak: WOOŚ.420.35.2026.PK.1",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-woos420352026pk1",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-17 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "277766956df6a2af",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak: WOOŚ.420.35.2026.PK.1",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-woos420352026pk1",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "1de3ea15129a2d77",
+    "sprawa_key": "item|f0bb8f65d89b514e",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak pisma: WOOŚ.420.64.2025.CC.13",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-pisma-woos420642025cc13",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-17 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "f0bb8f65d89b514e",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 17 lipca 2026 r. znak pisma: WOOŚ.420.64.2025.CC.13",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-17-lipca-2026-r-znak-pisma-woos420642025cc13",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
       "snapshot_sha256": null
      }
     ]
@@ -5613,6 +6283,320 @@
     ]
    },
    {
+    "sprawa_id": "b4b3b8e6a5ad09a0",
+    "sprawa_key": "item|9364f9c3619820cd",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Kielce",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2026.PP.7",
+    "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032026pp7",
+    "kind": "artykul",
+    "page_title": "2026 rok",
+    "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Kielce",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "9364f9c3619820cd",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2026.PP.7",
+      "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032026pp7",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-kielce",
+      "source_name": "RDOŚ Kielce",
+      "page_title": "2026 rok",
+      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "811addf979c01434",
+    "sprawa_key": "item|99422cdafa195557",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Kielce",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2024.PP.38",
+    "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032024pp38",
+    "kind": "artykul",
+    "page_title": "2026 rok",
+    "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Kielce",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "99422cdafa195557",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.3.2024.PP.38",
+      "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i42032024pp38",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-kielce",
+      "source_name": "RDOŚ Kielce",
+      "page_title": "2026 rok",
+      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "3a764ba3ce72b4f9",
+    "sprawa_key": "item|287c3ff2715973c3",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Kielce",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WPN-I.670.230.2025.EB.11 WPN-I.6401.1.20.2026.EB",
+    "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-wpn-i6702302025eb11-wpn-i64011202026eb",
+    "kind": "artykul",
+    "page_title": "2026 rok",
+    "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Kielce",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "287c3ff2715973c3",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WPN-I.670.230.2025.EB.11 WPN-I.6401.1.20.2026.EB",
+      "url": "https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-wpn-i6702302025eb11-wpn-i64011202026eb",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-kielce",
+      "source_name": "RDOŚ Kielce",
+      "page_title": "2026 rok",
+      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "e4913b6dd6e3c9cd",
+    "sprawa_key": "item|2b6f0ee71b69b14e",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Warszawa",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-II.420.71.2025.AGO.30",
+    "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-ii420712025ago30",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-17 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {
+      "oddzial": "107z"
+     }
+    },
+    "lokalizacja": "RDOŚ Warszawa → oddz. 107z",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "2b6f0ee71b69b14e",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-II.420.71.2025.AGO.30",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-ii420712025ago30",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "0c09e10f5e006e5d",
+    "sprawa_key": "item|32fca320f594c970",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Warszawa",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15",
+    "url": "https://www.gov.pl/web/rdos-warszawa/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-16-lipca-2026-r-znak-doos-wdsii42022026afi15",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-16 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {
+      "oddzial": "107z"
+     }
+    },
+    "lokalizacja": "RDOŚ Warszawa → oddz. 107z",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "32fca320f594c970",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15",
+      "url": "https://www.gov.pl/web/rdos-warszawa/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-16-lipca-2026-r-znak-doos-wdsii42022026afi15",
+      "published": "2026-07-16 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "1c4257b45b88530a",
+    "sprawa_key": "item|3ba071681a73698c",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Warszawa",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-I.420.39.2026.SK.12",
+    "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-i420392026sk12",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-17 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {
+      "oddzial": "107z"
+     }
+    },
+    "lokalizacja": "RDOŚ Warszawa → oddz. 107z",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "3ba071681a73698c",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 17 lipca 2026 r., znak: WOOŚ-I.420.39.2026.SK.12",
+      "url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-17-lipca-2026-r-znak-woos-i420392026sk12",
+      "published": "2026-07-17 00:00",
+      "source_id": "rdos-warszawa",
+      "source_name": "RDOŚ Warszawa",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-warszawa/obwieszczenia-i-zawiadomienia-rok-2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "e58eb19d031b696b",
+    "sprawa_key": "znak|woos.4220.121.2026.aj.10",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 20 lipca 2026 r. znak WOOŚ.4220.121.2026.AJ.10",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-20-lipca-2026-r-znak-woos42201212026aj10",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-20 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "f45c2ac66d9edb14",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 20 lipca 2026 r. znak WOOŚ.4220.121.2026.AJ.10",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-20-lipca-2026-r-znak-woos42201212026aj10",
+      "published": "2026-07-20 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
     "sprawa_id": "21c0bebce2b49a77",
     "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-rudziniec/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
     "n_zdarzen": 1,
@@ -5813,8 +6797,96 @@
     ]
    },
    {
-    "sprawa_id": "fb0aa62de9261234",
-    "sprawa_key": "page|https://www.gov.pl/web/rdos-gorzow-wielkopolski/rok-20221|zarzadzenia-jednostki",
+    "sprawa_id": "2ce64d5d726da968",
+    "sprawa_key": "item|4d5936b1a65178b1",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Gdańsk",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.93.2025.DN/IK.14 z dnia 20.07.2026 r.",
+    "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420932025dnik14-z-dnia-20072026-r",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-20 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Gdańsk",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "4d5936b1a65178b1",
+      "kind": "artykul",
+      "title": "Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.93.2025.DN/IK.14 z dnia 20.07.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420932025dnik14-z-dnia-20072026-r",
+      "published": "2026-07-20 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "273eb7cdfe09035c",
+    "sprawa_key": "item|aa144e25a5cc31fe",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Gdańsk",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.22.2026.AKĆ.8 z dnia 20.07.2026 r.",
+    "url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420222026akc8-z-dnia-20072026-r",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-20 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Gdańsk",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "aa144e25a5cc31fe",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.22.2026.AKĆ.8 z dnia 20.07.2026 r.",
+      "url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420222026akc8-z-dnia-20072026-r",
+      "published": "2026-07-20 00:00",
+      "source_id": "rdos-gdansk",
+      "source_name": "RDOŚ Gdańsk",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-gdansk/obwieszczenia-2026",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "98d1ac2ef39f1f37",
+    "sprawa_key": "item|92e2ef870277852c",
     "n_zdarzen": 1,
     "podmiot": null,
     "source_name": "RDOŚ Gorzów Wlkp.",
@@ -5852,6 +6924,50 @@
       "source_name": "RDOŚ Gorzów Wlkp.",
       "page_title": "Rok 2026",
       "page_url": "https://www.gov.pl/web/rdos-gorzow-wielkopolski/rok-20221",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "38f4bdb82ca204bd",
+    "sprawa_key": "item|ff68e9fa1b8ec256",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Kielce",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 15 lipca 2026 r. znak: DOOŚ-WDŚIII.420.3.2026.mk.3",
+    "url": "https://www.gov.pl/web/rdos-kielce/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-15-lipca-2026-r-znak-doos-wdsiii42032026mk3",
+    "kind": "artykul",
+    "page_title": "2026 rok",
+    "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-15 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Kielce",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "ff68e9fa1b8ec256",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 15 lipca 2026 r. znak: DOOŚ-WDŚIII.420.3.2026.mk.3",
+      "url": "https://www.gov.pl/web/rdos-kielce/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-15-lipca-2026-r-znak-doos-wdsiii42032026mk3",
+      "published": "2026-07-15 00:00",
+      "source_id": "rdos-kielce",
+      "source_name": "RDOŚ Kielce",
+      "page_title": "2026 rok",
+      "page_url": "https://www.gov.pl/web/rdos-kielce/2026-rok",
       "snapshot_sha256": null
      }
     ]
@@ -6425,6 +7541,274 @@
     ]
    },
    {
+    "sprawa_id": "b339bda1feacad92",
+    "sprawa_key": "item|30e3a8178fbac3ec",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+    "tier": "gdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚI.420.16.2026.SP.4",
+    "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsi420162026sp4",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-21 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {
+      "oddzial": "107z"
+     }
+    },
+    "lokalizacja": "Generalna Dyrekcja Ochrony Środowiska → oddz. 107z",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "30e3a8178fbac3ec",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚI.420.16.2026.SP.4",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsi420162026sp4",
+      "published": "2026-07-21 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "05ddbb524116e8c2",
+    "sprawa_key": "item|e004763ff07ab1c5",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+    "tier": "gdos",
+    "rdlp": "-",
+    "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚII.420.10.2026.MKR.7",
+    "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsii420102026mkr7",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-21 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {
+      "oddzial": "107z"
+     }
+    },
+    "lokalizacja": "Generalna Dyrekcja Ochrony Środowiska → oddz. 107z",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "e004763ff07ab1c5",
+      "kind": "artykul",
+      "title": "Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚII.420.10.2026.MKR.7",
+      "url": "https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsii420102026mkr7",
+      "published": "2026-07-21 00:00",
+      "source_id": "gdos",
+      "source_name": "Generalna Dyrekcja Ochrony Środowiska",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/gdos/rok-20216",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "269a506fd682d692",
+    "sprawa_key": "znak|woo.420.11.2025.dk.19",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.11.2025.DK.19,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo420112025dk19",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-21 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "eaaec2ceb1fee765",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.11.2025.DK.19,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo420112025dk19",
+      "published": "2026-07-21 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "28c252e297828629",
+    "sprawa_key": "znak|woo.420.8.2026.dk.15",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Bydgoszcz",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.8.2026.DK.15,",
+    "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo42082026dk15",
+    "kind": "artykul",
+    "page_title": "Obwieszczenia i zawiadomienia",
+    "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-21 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Bydgoszcz",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "04237e35bc3a9032",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 21 lipca 2026 r., znak: WOO.420.8.2026.DK.15,",
+      "url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-21-lipca-2026-r-znak-woo42082026dk15",
+      "published": "2026-07-21 00:00",
+      "source_id": "rdos-bydgoszcz",
+      "source_name": "RDOŚ Bydgoszcz",
+      "page_title": "Obwieszczenia i zawiadomienia",
+      "page_url": "https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenia-i-zawiadomienia",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "ae007a461ea86433",
+    "sprawa_key": "znak|woos.420.73.2023.wm.57",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.57",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm57",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-21 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "1af4b9fc6a2b112b",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.57",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm57",
+      "published": "2026-07-21 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
+    "sprawa_id": "209b29325b88752e",
+    "sprawa_key": "znak|woos.420.73.2023.wm.60",
+    "n_zdarzen": 1,
+    "podmiot": null,
+    "source_name": "RDOŚ Wrocław",
+    "tier": "rdos",
+    "rdlp": "-",
+    "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.60",
+    "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm60",
+    "kind": "artykul",
+    "page_title": "Rok 2026",
+    "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+    "priority": 3,
+    "class": "ochrona",
+    "rule_id": "rdos-nierozpoznane",
+    "rule_name": "RDOŚ/GDOŚ — obwieszczenie bez tematu w tytule",
+    "note": "Tytuł to sam nagłówek. Nie da się ocenić bez otwarcia dokumentu.",
+    "published": "2026-07-21 00:00",
+    "eskalacja": null,
+    "snapshot_sha256": null,
+    "kontekst": {
+     "obszary": [],
+     "waga": 0,
+     "adres": {}
+    },
+    "lokalizacja": "RDOŚ Wrocław",
+    "termin": null,
+    "bdl": null,
+    "zdarzenia": [
+     {
+      "key": "e3e90e2011333be1",
+      "kind": "artykul",
+      "title": "Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 21 lipca 2026 r. znak WOOŚ.420.73.2023.WM.60",
+      "url": "https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-21-lipca-2026-r-znak-woos420732023wm60",
+      "published": "2026-07-21 00:00",
+      "source_id": "rdos-wroclaw",
+      "source_name": "RDOŚ Wrocław",
+      "page_title": "Rok 2026",
+      "page_url": "https://www.gov.pl/web/rdos-wroclaw/rok-20214",
+      "snapshot_sha256": null
+     }
+    ]
+   },
+   {
     "sprawa_id": "9af3cc8d3c2847fc",
     "sprawa_key": "page|https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-krosnie/zarzadzenia-i-decyzje|zarzadzenia-jednostki",
     "n_zdarzen": 1,
@@ -6557,8 +7941,8 @@
     ]
    },
    {
-    "sprawa_id": "0d66f36b664b4091",
-    "sprawa_key": "page|https://www.gov.pl/web/nadlesnictwo-koszecin/zamowienia-publiczne2|zarzadzenia-jednostki",
+    "sprawa_id": "7863dae456a9d91e",
+    "sprawa_key": "item|518581a72351c01c",
     "n_zdarzen": 1,
     "podmiot": "Koszęcin w roku",
     "source_name": "Nadleśnictwo Koszęcin",

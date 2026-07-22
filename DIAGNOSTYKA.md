@@ -1,14 +1,14 @@
-# IronRoot — diagnostyka — 2026-07-22 08:17 UTC
+# IronRoot — diagnostyka — 2026-07-22 12:19 UTC
 
 ## Wersja reguł
 ```
-sha256(rules.yaml) : 032cda3b68e039df
+sha256(rules.yaml) : 02347375a3e8b0c6
 reguł              : 39
 wykluczeń          : 26
 id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, formy-ochrony, gatunki-inwazyjne, gospodarka-lowiecka, info-publiczna, kontrola, krajowy, lasy-prywatne, monitoring-przyrodniczy, obrot-ziemia, obszar-zabieg, plan-postepowan, powierzchnie-referencyjne, przetargi-lesne, pul-aneks, pul-decyzja, pul-dokument, pul-kzp, pul-material, pul-ntg, pul-projekt, rdos-inwestycje, rdos-las, rdos-nierozpoznane, rdos-ochrona-przyrody, retencja-renaturyzacja, strefy, tlo-finanse, tlo-obsluga-przetargow, tlo-srodki-zewnetrzne, usuwanie-drzew, wykaz-srodowiskowy, zalesienia-odnowienia, zarzadzenia-jednostki, zmiana-strony-krytycznej, zmiana-strony-pozostale
 ```
 
-## Kubelek NIEZNANE - wzorce do nowych regul
+## Kubełek „nieznane” — wzorce do nowych reguł
 
 ```
 
@@ -174,9 +174,12 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 Korpus: 58114 wierszy z 463 źródeł
-Źródeł zmapowanych: 463
-🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
+Źródeł zmapowanych: 466
+🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 3
 
+  Nadleśnictwo Janów Lubelski                  sekcji  28, kluczowych 12
+  Nadleśnictwo Jagiełek                        sekcji  21, kluczowych 11
+  Nadleśnictwo Żmigród                         sekcji  22, kluczowych 11
 
 ── najwydajniejsze źródła ──
     1915  Dyrekcja Generalna LP

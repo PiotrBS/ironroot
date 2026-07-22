@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-21 08:16 UTC
+# IronRoot — diagnostyka — 2026-07-22 08:17 UTC
 
 ## Wersja reguł
 ```
@@ -13,15 +13,15 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7309
-  artykul         3947
+  dokument        7315
+  artykul         3950
 
 ── wg szczebla ──
-  nadlesnictwo      8464
+  nadlesnictwo      8471
   rdos              1616
-  rdlp               665
+  rdlp               666
   ministerstwo       349
-  gdos               111
+  gdos               112
   dglp                51
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
@@ -150,6 +150,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Nawojowa] Wykaz umów zawartych w PAŹDZIERNIKU 2025
       12×  edukacja przyrodnicza
           [RDOŚ Białystok] Edukacja przyrodnicza
+      12×  grunty skarbu panstwa
+          [RDLP Zielonej Górze] Grunty Skarbu Państwa w zarządzie LP - RDLP Zielona Góra - 2025
       12×  zestawienie publicznych srodkow
           [Nadleśnictwo Knyszyn] Zestawienie publicznych środków zewnętrznych wykorzystanych przez Nadleśn
       12×  raport stanie dostepnosci
@@ -164,8 +166,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Generalna Dyrekcja Ochrony Środowiska] Wzory oświadczeń
       12×  wykaz jednostek nadzorowanych
           [RDLP Radomiu] Wykaz jednostek nadzorowanych przez RDLP w Radomiu
-      12×  wykaz osob uprawnionych
-          [Nadleśnictwo Rajgród] Wykaz osób uprawnionych do używania funkcji GLOBAL w SILP
 
 ```
 
@@ -173,7 +173,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 58008 wierszy z 463 źródeł
+Korpus: 58114 wierszy z 463 źródeł
 Źródeł zmapowanych: 463
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
@@ -183,17 +183,17 @@ Korpus: 58008 wierszy z 463 źródeł
     1835  RDOŚ Kraków
      727  RDLP Toruniu
      671  RDOŚ Gorzów Wlkp.
-     480  Nadleśnictwo Trzcianka
+     482  Nadleśnictwo Trzcianka
      459  Ministerstwo Klimatu i Środowiska
      453  RDOŚ Olsztyn
-     440  Generalna Dyrekcja Ochrony Środowiska
+     445  Generalna Dyrekcja Ochrony Środowiska
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     45515
-  rdos              6229
-  rdlp              3450
+  nadlesnictwo     45602
+  rdos              6238
+  rdlp              3455
   dglp              1915
   ministerstwo       459
-  gdos               440
+  gdos               445
 
 ```

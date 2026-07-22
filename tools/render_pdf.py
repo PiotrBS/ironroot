@@ -26,7 +26,7 @@ from pathlib import Path
 
 import markdown as md_lib
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from weasyprint import HTML
+from weasyprint import HTML, default_url_fetcher
 
 ROOT = Path(__file__).resolve().parent.parent
 TEMPLATES = ROOT / "templates"
@@ -111,6 +111,19 @@ def _ma_sygnal(i: dict) -> bool:
             or bool(k.get("obszary")) or (k.get("waga", 0) >= 1))
 
 
+def _tylko_wbudowane(url, *args, **kwargs):
+    """Render PDF nie ma prawa niczego pobierać — ani z sieci, ani z dysku.
+
+    Szablon jest samowystarczalny (inline CSS, zero obrazków), więc każde
+    żądanie zasobu to wstrzyknięta treść: `![](http://…)` w komentarzu
+    oznaczałoby cichy strzał w obcy serwer przy każdym renderze (SSRF /
+    wyciek), a `file:///…` wciągnięcie lokalnego pliku do publikowanego PDF.
+    """
+    if url.startswith("data:"):
+        return default_url_fetcher(url, *args, **kwargs)
+    raise ValueError(f"zablokowane pobieranie zasobu w PDF: {url[:80]}")
+
+
 def render(data: dict, komentarz_md: str | None, out: Path) -> None:
     for sekcja in data.get("sekcje", {}).values():
         for i in sekcja:
@@ -134,6 +147,12 @@ def render(data: dict, komentarz_md: str | None, out: Path) -> None:
         # Model bywa, że użyje 🔴/🟠/📈 w nagłówkach wg PROTOKOŁU — usuwamy je,
         # bo znaczenie niesie tekst nagłówka, nie ikona. Zostają zwykłe znaki (★, →).
         czysty = EMOJI_RE.sub("", komentarz_md)
+        # Komentarz pisze model, ale CYTUJE tytuły z BIP — czyli tekst spoza
+        # naszej kontroli. python-markdown przepuszcza surowy HTML bez zmian,
+        # a szablon wstawia wynik przez |safe. Escapujemy '<' PRZED parserem:
+        # składnia markdownu (nagłówki, listy, cytaty '>') działa dalej,
+        # a surowy tag (<img>, <style>…) staje się widocznym tekstem.
+        czysty = czysty.replace("<", "&lt;")
         komentarz_html = md_lib.markdown(
             czysty, extensions=["extra", "sane_lists", "nl2br"])
 
@@ -148,7 +167,8 @@ def render(data: dict, komentarz_md: str | None, out: Path) -> None:
         p3_sygnaly=p3_sygnaly, p3_reszta=p3_reszta)
 
     out.parent.mkdir(parents=True, exist_ok=True)
-    HTML(string=html, base_url=str(ROOT)).write_pdf(str(out))
+    HTML(string=html, base_url=str(ROOT),
+         url_fetcher=_tylko_wbudowane).write_pdf(str(out))
     print(f"✓ PDF: {out}  ({out.stat().st_size // 1024} kB)")
 
 
@@ -174,11 +194,15 @@ def main() -> int:
     if not json_path.exists():
         print(f"Brak danych raportu: {json_path}", file=sys.stderr)
         return 1
-    data = json.loads(json_path.read_text(encoding="utf-8"))
+    try:
+        data = json.loads(json_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        print(f"Uszkodzony JSON raportu: {json_path} ({e})", file=sys.stderr)
+        return 1
     komentarz = None
     if kom_path and kom_path.exists():
         komentarz = kom_path.read_text(encoding="utf-8")
-    else:
+    elif kom_path:
         print(f"  (komentarz {kom_path} nieobecny — PDF bez sekcji komentarza)")
 
     render(data, komentarz, out_path)

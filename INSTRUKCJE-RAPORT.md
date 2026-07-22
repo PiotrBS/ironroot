@@ -36,9 +36,10 @@ Wszystko żyje w repo **publicznym** (`PiotrBS/ironroot`). Surowe snapshoty stro
    python tools/render_pdf.py --data RRRR-MM-DD
    ```
    (skrót ustawia wszystkie ścieżki; równoważnie `--json ... --komentarz ... --out ...`).
-6. Sprawdź, że powstał `raporty-pdf/RRRR-MM-DD.pdf`.
-7. Zacommituj `komentarz/RRRR-MM-DD.md` i `raporty-pdf/RRRR-MM-DD.pdf`
-   (komunikat: `IronRoot: komentarz + PDF RRRR-MM-DD`) i wypchnij.
+6. Sprawdź, że powstał `raporty-pdf/RRRR-MM-DD.pdf`, i przekaż go użytkownikowi.
+7. **Nie commituj i nie pushuj** — sesja modelu jest read-only. Wynikiem pracy
+   jest dostarczony PDF (plus `komentarz/*.md` zapisany lokalnie). Jeśli pliki
+   mają trafić do repo, wgrywa je użytkownik.
 
 ---
 

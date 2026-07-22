@@ -39,6 +39,13 @@ robi to automat (07:15) i zapisuje w `reports/RRRR-MM-DD.json`. Wyglądu nie pro
    `sekcje.obszary_szczegolne`, `sekcje.p1` (zegar tyka), `zdrowie` (kanarki, błędy),
    oraz pole `bdl` przy sprawach.
 
+   **Od 0.82 jednostką raportu jest SPRAWA, nie pojedyncza publikacja.** Pozycja
+   w `sekcje.*` ma pola: `sprawa_id`, `sprawa_key`, `podmiot` (nadleśnictwo, gdy
+   sprawa dotyczy PUL), `n_zdarzen` oraz `zdarzenia[]` — listę wszystkich
+   publikacji sprawy (tytuł, url, data, źródło). Gdy `n_zdarzen > 1`, komentuj
+   SPRAWĘ (najlepiej z odwołaniem do osi czasu), nie pierwszy tytuł z brzegu;
+   `meta.spraw` i `meta.pozycji` rozróżniają liczbę spraw od liczby publikacji.
+
 3. **Napisz komentarz** do `komentarz/RRRR-MM-DD.md` wg stałej formy (`INSTRUKCJE-RAPORT.md` §3):
    - `**Jednym zdaniem:**` — wniosek, także gdy brzmi „nic pilnego".
    - `### Wymaga decyzji` — dla spraw ⭐/P1: FAKT · ZNACZENIE (wpleć dane BDL!) ·

@@ -1,5 +1,9 @@
 # Zależności renderera PDF (tools/render_pdf.py).
 # Instaluje je sesja modelu przed złożeniem raportu:  pip install -r tools/requirements.txt
-weasyprint>=60
-jinja2>=3.1
-markdown>=3.5
+#
+# Wersje przypięte na sztywno: renderer obiecuje "z tych samych wejść ten sam
+# PDF", a pływające wersje bibliotek łamią tę obietnicę po cichu.
+# Podbicie wersji = świadoma zmiana + kontrola, czy PDF wygląda jak trzeba.
+weasyprint==69.0
+jinja2==3.1.6
+markdown==3.10.2

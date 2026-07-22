@@ -6,8 +6,9 @@ description: >
   „złóż raport", „komentarz do raportu", „/raport" w kontekście monitoringu IronRoot
   (BIP Lasów Państwowych / RDOŚ / ministerstwo). Czyta gotowe dane z
   reports/RRRR-MM-DD.json, pisze komentarz wg stałej formy, renderuje PDF przez
-  tools/render_pdf.py i pokazuje ścieżkę do pliku. Odpowiednik skillu Claude
-  (.claude/skills/raport) dla Grok.
+  tools/render_pdf.py i pokazuje ścieżkę do pliku. NIE commituje do repo
+  (sesja jest read-only) — dostarczenie PDF jest wynikiem. Odpowiednik skillu
+  Claude (.claude/skills/raport) dla Grok.
 ---
 
 # IronRoot — złożenie dziennego raportu PDF (Grok)
@@ -18,30 +19,10 @@ robi to automat (collect/classify/report w core, publish) i zapisuje w
 `reports/RRRR-MM-DD.json`. Wyglądu nie projektujesz — jest w `templates/raport.html`.
 Ty dajesz ocenę i uruchamiasz renderer.
 
-## Mapa katalogów (ważne — nie mylić z GitHubem)
-
-Na GitHubie są **dwa** repozytoria:
-
-| GitHub | Rola |
-|---|---|
-| `PiotrBS/ironroot-core` | silnik, korpus, snapshoty (prywatne) |
-| `PiotrBS/ironroot` | raporty publiczne, PDF, ten skill |
-
-Lokalnie mogą istnieć **kopie robocze** (np. `ironroot-core-grok/`, `ironroot-grok/`).
-To **nie są osobne repo na GitHubie** — to working tree, z którego robisz
-`git push` / `git pull` do `PiotrBS/ironroot` (public) lub `…/ironroot-core` (core).
-
-**Skill działa w working tree publicznego `ironroot`** (czy nazywa się lokalnie
-`ironroot/`, `ironroot-grok/`, czy inaczej — ważne, że `origin` = `PiotrBS/ironroot`
-i są tu `tools/render_pdf.py`, `templates/`, `reports/`).
-
-Jeśli sesja stoi w kopii **core**:
-1. weź świeży JSON z `public/reports/` (po `publish`) albo z już zsynchronizowanego
-   working tree publicznego,
-2. pracuj / renderuj **w katalogu publicznym** (`origin` → `ironroot`).
-
-Skill commitujesz i pushujesz do **`PiotrBS/ironroot`** (ścieżka w repo:
-`.grok/skills/raport/SKILL.md`), nie do wymyślonego repo `ironroot-grok`.
+Skill działa w working tree publicznego repo `PiotrBS/ironroot` — tam, gdzie są
+`tools/render_pdf.py`, `templates/` i `reports/`. Jeśli sesja stoi w katalogu
+silnika (`ironroot-core`), weź świeży JSON z `public/reports/` i renderuj
+w katalogu publicznym.
 
 ## Zasady nadrzędne
 
@@ -53,18 +34,18 @@ Skill commitujesz i pushujesz do **`PiotrBS/ironroot`** (ścieżka w repo:
 - Pełna forma komentarza: `INSTRUKCJE-RAPORT.md` §3 w korzeniu repo publicznego.
 - Od **0.82** JSON ma `meta.spraw`, `sekcje.*.zdarzenia[]`, `sprawa_id` — komentarz
   odnosi się do **spraw**, nie do każdego załącznika osobno.
-- Domyślnie **nie commituj** PDF-a, dopóki użytkownik o to nie poprosi (możesz
-  zapisać `komentarz/` i PDF lokalnie). Commit tylko na wyraźne „commit/push”.
+- **Sesja nie ma prawa zapisu do repo (read-only).** Nie próbuj `git commit`
+  ani `git push`. Wynikiem jest **dostarczony plik PDF** (plus `komentarz/*.md`
+  zapisany lokalnie). Jeśli użytkownik chce mieć pliki w repo, wgra je sam.
 
 ## Kroki
 
 1. **Ustal katalog i datę.**
    - Working tree = lokalna kopia **`PiotrBS/ironroot`** (z `tools/render_pdf.py`
-     i `templates/raport.html`). Nazwa folderu na dysku bywa `ironroot-grok` —
-     to tylko kopia robocza.
+     i `templates/raport.html`).
    - Data: domyślnie dziś (UTC) albo data podana przez użytkownika.
    - Plik: `reports/RRRR-MM-DD.json`. Jeśli brak:
-     - `git pull` z `origin` (ironroot), potem najświeższy `reports/*.json`;
+     - sprawdź najświeższy dostępny `reports/*.json`;
      - jeśli w ogóle brak `.json` → automat nie opublikował jeszcze warstwy
        strukturalnej; wskaż najbliższy dostępny dzień.
 
@@ -128,14 +109,9 @@ Skill commitujesz i pushujesz do **`PiotrBS/ironroot`** (ścieżka w repo:
    - w czacie **krótko**: jedno zdanie + liczby (★ / P1 / spraw z BDL / kanarki),
    - **nie** wklejaj całego komentarza ani binariów PDF do czatu.
 
-7. **Commit** tylko gdy użytkownik poprosi:
-   ```
-   git add komentarz/RRRR-MM-DD.md raporty-pdf/RRRR-MM-DD.pdf
-   git commit -m "IronRoot: komentarz + PDF RRRR-MM-DD"
-   ```
-
 ## Czego nie robić
 
+- Nie commituj i nie pushuj — sesja jest read-only; pliki do repo wgrywa użytkownik.
 - Nie edytuj `templates/raport.html` ani `tools/render_pdf.py` w ramach składania raportu.
 - Nie przepisuj tabel z JSON-a ręcznie do PDF — renderer robi to sam.
 - Nie wrzucaj do PDF treści ze snapshotów HTML (nazwiska) — tylko `reports/*.json`.

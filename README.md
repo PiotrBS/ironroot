@@ -1,11 +1,13 @@
 # IronRoot — raporty publiczne
 
-Monitoring obywatelski BIP Lasów Państwowych, regionalnych dyrekcji ochrony środowiska i ministerstwa.
+Obywatelski monitoring Biuletynów Informacji Publicznej: Lasów Państwowych, regionalnych dyrekcji ochrony środowiska i ministerstwa.
 
-- `reports/` — raporty
-- `sprawy/` — sprawy w toku
-- `MANIFEST.jsonl` — hashe SHA-256 zarchiwizowanych stron BIP wraz z czasem pobrania i datą publikacji podaną przez BIP. Dowód, że dokument o danej treści był opublikowany w danym dniu.
+Co tu jest:
 
-**Surowe kopie stron nie są publikowane** — zawierają nazwiska urzędników. Publikujemy hashe; oryginały udostępniamy uprawnionym podmiotom na żądanie.
+- `reports/` — raport z każdego dnia (`.md` do czytania, `.json` dla narzędzi),
+- `sprawy/` — notatki o sprawach w toku,
+- `MANIFEST.jsonl` — rejestr snapshotów stron BIP: hash SHA-256, czas pobrania i data publikacji podana przez urząd. Gdy treść strony zmieni się albo zniknie, hash pozwala wykazać, co było opublikowane i kiedy zostało zarchiwizowane.
 
-Dane pochodzą z informacji publicznej. Monitoring respektuje robots.txt i przedstawia się podpisanym User-Agentem.
+Surowych kopii stron nie publikujemy — zawierają dane osobowe (nazwiska urzędników, wnioskodawców). W repozytorium są hashe i metadane; kopie źródłowe udostępniamy uprawnionym podmiotom na uzasadnione żądanie. Tytuły dokumentów przechodzą przed publikacją przez automatyczną anonimizację.
+
+Dane pochodzą z informacji publicznej. Robot odwiedza strony z poszanowaniem robots.txt i przedstawia się User-Agentem z danymi kontaktowymi.

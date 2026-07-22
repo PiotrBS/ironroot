@@ -43,6 +43,7 @@
   .empty { color: #6b7280; font-style: italic; margin-left: 13px; }
   .tail-note { color: #6b7280; font-size: 8.3pt; font-style: italic;
                margin: 6px 0 0 13px; padding-left: 8px; border-left: 2px solid #dbe5db; }
+  .tl-head { color: #6b7280; font-size: 8.3pt; font-weight: bold; margin: 6px 0 2px; }
   .p1 h2 { border-left-color: #b3261e; }
   .star h2 { border-left-color: #b8860b; }
   .p2 h2 { border-left-color: #b25e09; }
@@ -116,7 +117,8 @@
   </div>
 
   <div class="health">
-    {% if zdrowie and zdrowie.checked %}
+    {# 'is defined', nie truthiness — „sprawdzono 0 stron" to też dana o zdrowiu #}
+    {% if zdrowie and zdrowie.checked is defined %}
       Sprawdzono stron: <b>{{ zdrowie.checked }}</b><span class="sep">·</span>błędów: <b>{{ zdrowie.n_errors }}</b><span class="sep">·</span>
       {% if zdrowie.canary %}
         <span class="warn"><span class="dot r"></span>Kanarek milczy — dane mogą być niekompletne</span>
@@ -155,10 +157,27 @@
         {% endif %}
         <tr><td class="k">Data w BIP</td><td>{{ i.published or '—' }}</td></tr>
         {% if i.termin %}<tr><td class="k">Termin</td><td class="zegar-{{ i.termin.pilnosc }}">{{ i.termin.tekst_txt }}</td></tr>{% endif %}
-        {% if i.snapshot_sha256 %}<tr><td class="k">Dowód (SHA-256)</td><td class="hash">{{ i.snapshot_sha256 }}</td></tr>{% endif %}
+        {# Hash dotyczy SNAPSHOTU STRONY BIP (na stronie bywa wiele dokumentów),
+           nie pojedynczego pliku — etykieta nie może sugerować więcej, niż dowodzi #}
+        {% if i.snapshot_sha256 %}<tr><td class="k">Dowód — snapshot strony (SHA-256)</td><td class="hash">{{ i.snapshot_sha256 }}</td></tr>{% endif %}
+        {% if i.n_zdarzen and i.n_zdarzen > 1 %}
+        <tr><td class="k">Publikacji w sprawie</td><td><b>{{ i.n_zdarzen }}</b></td></tr>
+        {% else %}
         <tr><td class="k">Dokument</td><td><a href="{{ i.url }}">{{ i.title }}</a></td></tr>
+        {% endif %}
         <tr><td class="k">Strona BIP</td><td><a href="{{ i.page_url }}">{{ i.page_title }}</a></td></tr>
       </table>
+      {# Od 0.82 jednostką raportu jest SPRAWA — karta bez osi czasu gubiła
+         N-1 publikacji i podpisywała całość tytułem jednej #}
+      {% if i.zdarzenia and i.zdarzenia|length > 1 %}
+        <div class="tl-head">Oś czasu sprawy</div>
+        <table class="grid">
+          <tr><th>Data BIP</th><th>Źródło</th><th>Dokument</th></tr>
+          {% for z in i.zdarzenia %}
+          <tr><td>{{ (z.published or '')[:10] or '—' }}</td><td>{{ z.source_name }}</td><td><a href="{{ z.url }}">{{ z.title }}</a></td></tr>
+          {% endfor %}
+        </table>
+      {% endif %}
     </div>
   {% endmacro %}
 
@@ -168,7 +187,7 @@
       {% for i in items %}
         <tr>
           <td>{% if i.kontekst.waga %}<span class="star-mark">{{ '★' * i.kontekst.waga }}</span> {% endif %}{{ i.source_name }}</td>
-          <td><a href="{{ i.url }}">{{ i.title }}</a></td>
+          <td><a href="{{ i.url }}">{{ i.title }}</a>{% if i.n_zdarzen and i.n_zdarzen > 1 %} <span class="muted">(+{{ i.n_zdarzen - 1 }} publ.)</span>{% endif %}</td>
           <td>{% if i.kontekst.obszary %}<b>{{ i.kontekst.obszary[0] }}</b>{% else %}{{ i.lok_krotka or '—' }}{% endif %}</td>
           <td>{% if i.bdl_disp %}{{ i.bdl_disp.zwiezle }}{% else %}—{% endif %}</td>
           <td>{{ i.published_short or '—' }}</td>

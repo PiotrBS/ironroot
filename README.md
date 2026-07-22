@@ -1,6 +1,6 @@
 # IronRoot — raporty publiczne
 
-Obywatelski monitoring Biuletynów Informacji Publicznej: Lasów Państwowych, regionalnych dyrekcji ochrony środowiska i ministerstwa.
+Obywatelski monitoring Biuletynów Informacji Publicznej: nadleśnictw i dyrekcji Lasów Państwowych, regionalnych dyrekcji ochrony środowiska (RDOŚ) oraz Ministerstwa Klimatu i Środowiska — to tam zapadają decyzje zatwierdzające plany urządzenia lasu, od których biegnie termin na skargę.
 
 Co tu jest:
 

@@ -1,6 +1,6 @@
-# Changelog — IronRoot core
+# Changelog — Leśne Echo core
 
-Format: zmiany od najnowszej wersji. Znacznik w kodzie: `IROOT_VERSION` w `ironroot.py`
+Format: zmiany od najnowszej wersji. Znacznik w kodzie: `IROOT_VERSION` w `lesne_echo.py`
 (trafia do raportów `.md` / `.json`).
 
 **Schemat numeracji (linia Grok):** baza **0.8 beta** → kolejne poprawki na
@@ -65,7 +65,7 @@ lokalnie, testy uruchamiane realnie) + zabezpieczenia RODO i porządki w tekstac
   deterministyczny renderer nie może zależeć od pływających bibliotek.
 - Skille ujednolicone: polityka **read-only** (bez commit/push z sesji modelu)
   obowiązuje w `.claude`, `.grok` i `INSTRUKCJE-RAPORT.md` §2.7.
-- Teksty: IRONROOT.md (zdublowana numeracja sekcji, nieaktualne „37 kandydatów"),
+- Teksty: LESNE-ECHO.md (zdublowana numeracja sekcji, nieaktualne „37 kandydatów"),
   PROTOKOL.md (numery sekcji raportu po 0.82), nagłówek diagnostyki bez
   połamanych znaków, README obu repo.
 - `sprawy/`: założone pierwsze karty — 3× PUL (Pieńsk, Lubin, Milicz;
@@ -87,9 +87,9 @@ grupowania i baseline. Szczegóły audytu w rozmowie; poniżej co weszło do kod
 
 ### Odkręcone (niezamierzone zmiany linii Grok)
 
-- **Tytuły wracają:** raport `# IronRoot — raport dzienny — <data>` (+ wersja
-  w podtytule), BUNDLE `# IronRoot — wyciąg do analizy — <data>`. Commit
-  `136c566` podmienił je na sam znacznik wersji („IRoot 0.83 beta — data")
+- **Tytuły wracają:** raport `# Leśne Echo — raport dzienny — <data>` (+ wersja
+  w podtytule), BUNDLE `# Leśne Echo — wyciąg do analizy — <data>`. Commit
+  `136c566` podmienił je na sam znacznik wersji („Leśne Echo 0.83 beta — data")
   przy okazji commitu danych.
 - **Przywrócone komentarze** wycięte w 0.82/0.83: rationale WAGA 3 (sąsiedztwo
   nazwy i typu — fałszywy pozytyw „starodrzew BUKOWY"/„Puszcza BUKOWA"),
@@ -241,7 +241,7 @@ Fork katalogów z sufiksem **`-grok`** (bez `v2` w nazwie):
 | `ironroot-core-grok/` | silnik + korpus (to repo) |
 | `ironroot-grok/` | kopia publicznych raportów |
 
-Baza: **IRoot 0.8 beta** (upstream `ironroot-core` przed pracą Grok).
+Baza: **Leśne Echo 0.8 beta** (upstream `ironroot-core` przed pracą Grok).
 
 ### Naprawione błędy (P0)
 
@@ -258,14 +258,14 @@ Baza: **IRoot 0.8 beta** (upstream `ironroot-core` przed pracą Grok).
 
 ### Kod
 
-- `IROOT_VERSION = "IRoot 0.81 beta"`
+- `IROOT_VERSION = "Leśne Echo 0.81 beta"`
 - `report_worthy()` w `cmd_report`
 - `tests/test_rules.py` — 15 testów złotych przypadków
 
 ### Dokumentacja
 
 - `README.md`, `CHANGELOG.md`, `AUDYT-0.9.md` (audyt reguł; numer w nazwie pliku = sesja audytu)
-- `IRONROOT.md` §8 — terminy od metryki BIP
+- `LESNE-ECHO.md` §8 — terminy od metryki BIP
 
 ### Świadomie odłożone
 
@@ -276,8 +276,8 @@ Baza: **IRoot 0.8 beta** (upstream `ironroot-core` przed pracą Grok).
 
 ```text
 python tests/test_rules.py          → 15/15 OK
-python ironroot.py classify --rebuild
-python ironroot.py report --days 7
+python lesne_echo.py classify --rebuild
+python lesne_echo.py report --days 7
 ```
 
 | Metryka | 0.8 | 0.81 |

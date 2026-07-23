@@ -1,4 +1,4 @@
-# IronRoot — instrukcja składania raportu PDF (dla modelu)
+# Leśne Echo — instrukcja składania raportu PDF (dla modelu)
 
 Ten plik jest **playbookiem dla modelu językowego**. Automat generuje surowe dane
 codziennie o 07:15; model raz dziennie zagląda tutaj, pisze komentarz i składa

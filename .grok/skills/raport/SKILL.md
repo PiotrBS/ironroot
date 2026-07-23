@@ -1,9 +1,9 @@
 ---
 name: raport
 description: >
-  Składa dzienny raport IronRoot w PDF z komentarzem analitycznym i dostarcza go
+  Składa dzienny raport Leśne Echo w PDF z komentarzem analitycznym i dostarcza go
   użytkownikowi. Użyj, gdy użytkownik prosi o „raport", „PDF", „dzisiejszy raport",
-  „złóż raport", „komentarz do raportu", „/raport" w kontekście monitoringu IronRoot
+  „złóż raport", „komentarz do raportu", „/raport" w kontekście monitoringu Leśne Echo
   (BIP Lasów Państwowych / RDOŚ / ministerstwo). Czyta gotowe dane z
   reports/RRRR-MM-DD.json, pisze komentarz wg stałej formy, renderuje PDF przez
   tools/render_pdf.py i pokazuje ścieżkę do pliku. NIE commituje do repo
@@ -11,7 +11,7 @@ description: >
   Claude (.claude/skills/raport) dla Grok.
 ---
 
-# IronRoot — złożenie dziennego raportu PDF (Grok)
+# Leśne Echo — złożenie dziennego raportu PDF (Grok)
 
 Twoja rola: dołożyć **komentarz analityczny** do gotowych danych i złożyć z tego
 czytelny PDF, po czym **dostarczyć go użytkownikowi**. Danych nie generujesz —

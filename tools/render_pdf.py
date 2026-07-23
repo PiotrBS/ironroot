@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-IronRoot — render PDF z raportu dziennego.
+Leśne Echo — render PDF z raportu dziennego.
 
 Składa TRZY warstwy w jeden PDF:
-  · dane        reports/<data>.json      (produkuje automat: ironroot.py report)
+  · dane        reports/<data>.json      (produkuje automat: lesne_echo.py report)
   · komentarz   komentarz/<data>.md      (pisze model — TYLKO treść, wg PROTOKOŁU §4)
   · wygląd      templates/raport.html     (stały szablon — gwarantuje powtarzalność)
 

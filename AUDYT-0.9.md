@@ -1,10 +1,10 @@
-# Audyt IronRoot 0.9 — po naprawach
+# Audyt Leśne Echo 0.9 — po naprawach
 
-> **Uwaga numeracji:** ten audyt powstał w sesji oznaczanej roboczo „0.9”. Właściwa wersja forka Grok względem bazy 0.8 to **IRoot 0.81 beta** (katalogi: `ironroot-core-grok`, `ironroot-grok`).
+> **Uwaga numeracji:** ten audyt powstał w sesji oznaczanej roboczo „0.9”. Właściwa wersja forka Grok względem bazy 0.8 to **Leśne Echo 0.81 beta** (katalogi: `ironroot-core-grok`, `ironroot-grok`).
 
 
 **Data:** 2026-07-19  
-**Wersja (historyczna etykieta sesji):** 0.9 → właściwa **IRoot 0.81 beta**  
+**Wersja (historyczna etykieta sesji):** 0.9 → właściwa **Leśne Echo 0.81 beta**  
 **Katalog:** `ironroot-core-grok` (kopia `ironroot-core` + poprawki)  
 **Zakres:** ponowna weryfikacja po P0 z audytu 0.8; **bez** zmian publish key.
 
@@ -119,14 +119,14 @@ classified.jsonl  ──report_worthy()──►  sekcje 1–5 raportu
 ## 7. Pliki zmienione w 0.9
 
 ```
-ironroot.py                 IROOT_VERSION, report_worthy, filtr w cmd_report
+lesne_echo.py                 IROOT_VERSION, report_worthy, filtr w cmd_report
 config/rules.yaml           ostoj, exclusions MPP/dróg
 config/obszary.yaml         lesnictwo lookbehind + formy fleksyjne
 tests/test_rules.py         NOWE — 15 testów
 README.md                   opis 0.9
 CHANGELOG.md                NOWE
 AUDYT-0.9.md                TEN PLIK
-IRONROOT.md                 korekta opisu terminów
+LESNE-ECHO.md                 korekta opisu terminów
 reports/, LATEST.md, public/  przebudowane classify+report
 ```
 

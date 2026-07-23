@@ -1,8 +1,8 @@
-# Jak działa IronRoot — po kolei, bez żargonu
+# Jak działa Leśne Echo — po kolei, bez żargonu
 
 Ten dokument jest dla osoby, która widzi projekt pierwszy raz: dziennikarza,
 prawnika, organizacji, współpracownika. Nie wymaga wiedzy technicznej.
-Opis techniczny znajdziesz w `IRONROOT.md`.
+Opis techniczny znajdziesz w `LESNE-ECHO.md`.
 
 ---
 
@@ -19,7 +19,7 @@ dyrekcje ochrony środowiska i kilka innych instytucji), a codziennie pojawia si
 na nich około tysiąca nowych dokumentów. Człowiek tego nie przejrzy. Kto nie
 sprawdza automatycznie — dowiaduje się po terminie.
 
-IronRoot robi jedną rzecz: **codziennie rano obchodzi wszystkie tablice
+Leśne Echo robi jedną rzecz: **codziennie rano obchodzi wszystkie tablice
 i mówi, co się zmieniło**.
 
 ---
@@ -172,14 +172,14 @@ zamyka i idzie dalej. Jeśli nie — wtedy zaczyna się praca analityka.
 
 ---
 
-## Czego IronRoot NIE robi
+## Czego Leśne Echo NIE robi
 
 - **Nie ocenia wartości przyrodniczej za człowieka.** Podaje gatunek i wiek
   drzewostanu; osąd, czy sprawa jest warta walki, należy do człowieka.
 - **Nie liczy terminów wiążąco.** Terminy w raporcie to budzik, nie kalendarz.
   Termin procesowy potwierdza prawnik.
 - **Nie zastępuje legitymacji procesowej.** Skargę na plan urządzenia lasu może
-  wnieść organizacja z udokumentowanym stażem. IronRoot ten staż buduje —
+  wnieść organizacja z udokumentowanym stażem. Leśne Echo ten staż buduje —
   ale go nie zastąpi.
 - **Nie działa sam z siebie w sprawie.** Jest narzędziem obserwacyjnym.
   Decyzje podejmują ludzie.

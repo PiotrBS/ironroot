@@ -1,4 +1,4 @@
-# IronRoot — diagnostyka — 2026-07-22 12:19 UTC
+# IronRoot — diagnostyka — 2026-07-23 08:22 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7315
-  artykul         3950
+  dokument        7336
+  artykul         3951
 
 ── wg szczebla ──
-  nadlesnictwo      8471
+  nadlesnictwo      8493
   rdos              1616
   rdlp               666
   ministerstwo       349
@@ -26,7 +26,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     487×  wydatkowanie srodkow cele
+     488×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      411×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
@@ -173,30 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 58114 wierszy z 463 źródeł
+Korpus: 58368 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
-🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 3
+🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
-  Nadleśnictwo Janów Lubelski                  sekcji  28, kluczowych 12
-  Nadleśnictwo Jagiełek                        sekcji  21, kluczowych 11
-  Nadleśnictwo Żmigród                         sekcji  22, kluczowych 11
 
 ── najwydajniejsze źródła ──
     1915  Dyrekcja Generalna LP
-    1835  RDOŚ Kraków
+    1840  RDOŚ Kraków
      727  RDLP Toruniu
      671  RDOŚ Gorzów Wlkp.
      482  Nadleśnictwo Trzcianka
      459  Ministerstwo Klimatu i Środowiska
      453  RDOŚ Olsztyn
-     445  Generalna Dyrekcja Ochrony Środowiska
+     449  Generalna Dyrekcja Ochrony Środowiska
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     45602
-  rdos              6238
-  rdlp              3455
+  nadlesnictwo     45814
+  rdos              6264
+  rdlp              3467
   dglp              1915
   ministerstwo       459
-  gdos               445
+  gdos               449
 
 ```

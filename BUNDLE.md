@@ -1,6 +1,6 @@
-# IronRoot — wyciąg do analizy — 2026-07-23
+# Leśne Echo — wyciąg do analizy — 2026-07-24
 
-Okno 7 dni · spraw 225 · publikacji 310 · obszary szczególne 3 · nieznanych 42
+Okno 7 dni · spraw 211 · publikacji 322 · obszary szczególne 4 · nieznanych 40
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -13,6 +13,9 @@ Okno 7 dni · spraw 225 · publikacji 310 · obszary szczególne 3 · nieznanych
 - ★★ [RDOŚ Kraków] Zmiana granic rezerwatu przyrody "Madohora"
   https://www.gov.pl/web/rdos-krakow/zmiana-granic-rezerwatu-przyrody-madohora  (BIP: ?)
   🌲 Rezerwat Madohora
+- ★★ [RDOŚ Kielce] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 15 lipca 2026 r. w sprawie ustanowienia planu ochrony dla rezerwatu przyrody „Góra Sieradowska im. Wiktora Kozłowskiego”, opublikowane w Dzienniku Urzędowym Województwa Świętokrzyskiego poz. 2415
+  https://www.gov.pl/web/rdos-kielce/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-15-lipca-2026-r-w-sprawie-ustanowienia-planu-ochrony-dla-rezerwatu-przyrody-gora-sieradowska-im-wiktora-kozlowskiego-opublikowane-w-dzienniku-urzedowym-wojewodztwa-swietokrzyskiego-poz-2415  (BIP: 2026-07-15 00:00)
+  🌲 Rezerwat Góra Sieradowska im. Wiktora Kozłowskiego
 
 ## P1 — zegar tyka
 
@@ -25,26 +28,6 @@ Okno 7 dni · spraw 225 · publikacji 310 · obszary szczególne 3 · nieznanych
 
 ## P2 — okno wpływu
 
--  [Nadleśnictwo Knyszyn] Zmiana w BIP: Ochrona przyrody
-  https://www.gov.pl/web/nadlesnictwo-knyszyn/ochrona-przyrody  (BIP: 2026-07-16 12:58)
--  [Nadleśnictwo Kwidzyn] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach  (BIP: 2026-07-16 11:30)
--  [Nadleśnictwo Dąbrowa Tarnowska] Ogłoszenie o przetargu_dzierżawa_postępowanie II
-  https://www.gov.pl/attachment/6e6a0994-676d-4892-b0f7-48fbc60ce1e0  (BIP: 2026-07-16 12:18)
--  [Nadleśnictwo Świdnik] Informacja o zamiarze przeprowadzenia transakcji zamiany nieruchomości 16072026
-  https://www.gov.pl/attachment/83c6e309-2a80-40e4-9366-6bab20d2e219  (BIP: 2026-07-16 14:46)
--  [Nadleśnictwo Łąck] Wykaz kontroli zewnętrznych
-  https://www.gov.pl/attachment/b2852508-5d93-4dcf-8a61-409de8a336a7  (BIP: 2026-07-16 10:17)
--  [Nadleśnictwo Zdrojowa Góra] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-zdrojowa-gora/informacja-o-kontrolach  (BIP: 2026-07-16 12:22)
--  [Nadleśnictwo Czerniejewo] Wykaz kontroli wewnętrznych w 2025 r.
-  https://www.gov.pl/attachment/e7b1e309-db82-4fae-afd4-e46325a93be2  (BIP: 2026-07-16 14:37)
--  [Nadleśnictwo Łopuchówko] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-lopuchowko/informacja-o-kontrolach3  (BIP: 2026-07-16 10:18)
--  [Nadleśnictwo Oborniki] Wykaz_kontroli_zewnętrznych_-_stan_na_dzień_22.06.2026
-  https://www.gov.pl/attachment/a5d39df1-3acb-404d-a952-45daee8cdf31  (BIP: 2026-07-17 09:40)
--  [Nadleśnictwo Sokołów] Informacja o kontrolach przeprowadzonych w Nadleśnictwie Sokołów w 2026 roku
-  https://www.gov.pl/attachment/59cce9a8-aee9-494d-85c2-539678d09733  (BIP: 2026-07-16 12:51)
 -  [Nadleśnictwo Giżycko] Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025 rok. Rejestr nieruchomości leśnych - sprawozdanie L-PIR 4 za 2025
   https://www.gov.pl/attachment/e7cee372-a840-41d0-8f81-782761492e20  (BIP: 2026-07-17 13:40)
 -  [Nadleśnictwo Olecko] Rejestr nieruchomości leśnych Nadleśnictwa Olecko – rok 2025
@@ -114,65 +97,13 @@ Okno 7 dni · spraw 225 · publikacji 310 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/web/nadlesnictwo-augustow/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku  (BIP: 2026-07-22 15:21)
 -  [Nadleśnictwo Drygały] Wyniki przetargu na dzierżawę nieruchomości grunty rolne I 2026
   https://www.gov.pl/attachment/fd845e3a-594a-439f-b571-02404b1e2f74  (BIP: 2026-07-22 13:19)
+-  [Dyrekcja Generalna LP] Nadleśnictwo Bardo Śląskie - Informacja o wykonaniu przez Lasy Państwowe prawa pierwokupu lub uprawnienia, o których mowa w art. 37a ust. 2
+  https://www.gov.pl/attachment/c4ee2911-80e8-4d33-b374-3f1dd1f3d1fd  (BIP: 2026-07-23 15:54)
+-  [Nadleśnictwo Brzeziny] Zmiana w BIP: Ochrona przyrody
+  https://www.gov.pl/web/nadlesnictwo-brzeziny/ochrona-przyrody  (BIP: 2026-07-23 14:21)
 
 ## P3 — sygnały
 
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.2.2026.AFI.15
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42022026afi15  (BIP: 2026-07-16 00:00)
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.8.2026.AFI.10
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42082026afi10  (BIP: 2026-07-16 00:00)
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.420.3.2026.AFI.14
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii42032026afi14  (BIP: 2026-07-16 00:00)
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 16 lipca 2026 r., znak: DOOŚ-WDŚII.4711.1.2022.MKW.12 (stary znak: DOA-WSzOP.4711.4.2022.MBA)
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-16-lipca-2026-r-znak-doos-wdsii471112022mkw12-stary-znak-doa-wszop471142022mba  (BIP: 2026-07-16 00:00)
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 15 lipca 2026 r., znak: DOOŚ-WDŚIII.420.3.2026.mk.3
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-15-lipca-2026-r-znak-doos-wdsiii42032026mk3  (BIP: 2026-07-15 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.5,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj5  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.4,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj4  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.3,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj3  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.2,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj2  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.9.2026.MJ.1,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis082592026mj1  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.2,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj2  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.12.2026.MJ.1,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825122026mj1  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.2,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj2  (BIP: 2026-06-12 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 12 czerwca 2026., znak: WIS.082.5.11.2026.MJ.1,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-12-czerwca-2026-znak-wis0825112026mj1  (BIP: 2026-06-12 00:00)
--  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 8 maja 2026 roku
-  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-8-maja-2026-roku  (BIP: 2026-05-08 00:00)
--  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.8.2026.AFl.10
-  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-16-r-znak-doos-wdsii42082026afl10  (BIP: 2026-07-16 00:00)
--  [RDOŚ Katowice] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 2026-07-16 r. znak DOOŚ-WDŚII.420.3.2026.AFl.14
-  https://www.gov.pl/web/rdos-katowice/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-2026-07-16-r-znak-doos-wdsii42032026afl14  (BIP: 2026-07-16 00:00)
--  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 16.07.2026 r. znak: WOO-I.420.17.2024.PJ/SK.41
-  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-16072026-r-znak-woo-i420172024pjsk41  (BIP: 2026-07-16 00:00)
--  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., znak WOOŚ.420.29.2023.WM.57
-  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-znak-woos420292023wm57  (BIP: 2026-07-16 00:00)
--  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 16 lipca 2026 r., WOOŚ.420.63.2024.JS.34
-  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-16-lipca-2026-r-woos420632024js34  (BIP: 2026-07-16 00:00)
--  [Nadleśnictwo Maskulińskie] Plan zamówień publicznych na 2022 rok
-  https://www.gov.pl/attachment/cb1e03e8-7f44-40f0-8928-26e0f86e6e47  (BIP: 2026-07-16 10:20)
--  [Nadleśnictwo Pińczów] Plan postępowań na rok 2026 wersja 4
-  https://www.gov.pl/attachment/58520384-77bd-4881-87e5-decdb508fb56  (BIP: 2026-07-16 12:16)
--  [Nadleśnictwo Goleniów] Wykaz obowiązujących Zarządzeń i Decyzji. 14.07.2026
-  https://www.gov.pl/attachment/1bd3e53b-f193-49ce-ae12-4bfaf9988aa8  (BIP: 2026-07-16 13:56)
--  [Nadleśnictwo Czarnobór] Wykaz obowiązujących Zarządzeń 16.07.2026
-  https://www.gov.pl/attachment/c3897ebc-8d29-4dc3-a6ec-cd49a1d095b7  (BIP: 2026-07-16 10:37)
--  [Nadleśnictwo Damnica] Wykaz zarządzeń Nadleśniczego Nadleśnictwa Damnica od 1.01.2026r. do 13.07.2026r
-  https://www.gov.pl/attachment/5a76e07f-2169-4a37-8ff9-76c8114d2bcd  (BIP: 2026-07-16 11:09)
--  [Nadleśnictwo Gościno] Wykaz obowiązujących decyzji
-  https://www.gov.pl/attachment/9a3de399-32c5-42f3-90e9-1dda09cdc4d0  (BIP: 2026-07-17 08:18)
--  [Nadleśnictwo Sokołów] Wykaz decyzji Nadleśniczego Nadleśnictwa Sokołów w 2026 roku
-  https://www.gov.pl/attachment/8e01fdbf-64e0-4cd5-989f-b6451767618a  (BIP: 2026-07-16 12:51)
--  [Nadleśnictwo Wymiarki] Plan zamówien na 2026 rok - wersja 3
-  https://www.gov.pl/attachment/96b3659a-40af-4cef-a8a1-aedef66f3df7  (BIP: 2026-07-17 07:36)
 -  [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.74.2025.IBA.10 z dnia 17.07.2026 r.
   https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420742025iba10-z-dnia-17072026-r  (BIP: 2026-07-17 00:00)
 -  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-16 r. znak WOOŚ.420.10.2025.JŻ.26
@@ -366,23 +297,57 @@ Okno 7 dni · spraw 225 · publikacji 310 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/8b79f28b-0aa2-4ad1-b6b9-4608ea69172b  (BIP: 2026-07-22 15:19)
 -  [Nadleśnictwo Skrwilno] Decyzje Nadleśniczego Nadleśnictwa Skrwilno 2026
   https://www.gov.pl/attachment/d4a1edd6-3cee-4e3b-8ee3-59ded5595b4c  (BIP: 2026-07-22 14:17)
+-  [Nadleśnictwo Ruda Maleniecka] Wykaz_-_Decyzji_Nadleśniczego_Nadleśnictwa_Radoszyce_na_2026_rok_07;
+  https://www.gov.pl/attachment/84741669-6bc9-4faa-93d2-bd8e640da868  (BIP: 2026-07-24 07:55)
+-  [Nadleśnictwo Stąporków] Obowiązujące Zarządzenia lata 1995 - 2025
+  https://www.gov.pl/attachment/7f468b10-d417-4281-af93-d6232e1ffe54  (BIP: 2026-07-23 12:08)
+  📍 Nadl. Stąporków → leśn. Krasna
+-  [Nadleśnictwo Kolbuszowa] Decyzja nr 14 Nadleśniczego Nadleśnictwa Kolbuszowa w sprawie ustalenia cennika detalicznego
+  https://www.gov.pl/attachment/22a1920d-a3ea-4d08-abb7-b36c7aae33e7  (BIP: 2026-07-24 06:47)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 21 lipca 2026 r., znak: DOOŚ-WDŚI.420.2.2026.MD.28
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-21-lipca-2026-r-znak-doos-wdsi42022026md28  (BIP: 2026-07-21 00:00)
+  📍 Generalna Dyrekcja Ochrony Środowiska → oddz. 107z
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 23 lipca 2026 r., znak: DOOŚ-WDŚZIL.420.133.2019.MKR.36
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-23-lipca-2026-r-znak-doos-wdszil4201332019mkr36  (BIP: 2026-07-23 00:00)
+  📍 Generalna Dyrekcja Ochrony Środowiska → oddz. 107z
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 23 lipca 2026 r., znak: DOOŚ-WDŚII.420.14.2026.AWT.3
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-23-lipca-2026-r-znak-doos-wdsii420142026awt3  (BIP: 2026-07-23 00:00)
+  📍 Generalna Dyrekcja Ochrony Środowiska → oddz. 107z
+-  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 20 lipca 2026r., znak: WOO.420.7.2026.AO.25,
+  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-20-lipca-2026r-znak-woo42072026ao25  (BIP: 2026-07-20 00:00)
+-  [RDOŚ Gorzów Wlkp.] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopolskim z 22 lipca 2026 roku, znak: WOOŚ.420.21.2025.PT (WZŚ.420.39.2025.PT)
+  https://www.gov.pl/web/rdos-gorzow-wielkopolski/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gorzowie-wielkopolskim-z-22-lipca-2026-roku-znak-woos420212025pt-wzs420392025pt  (BIP: 2026-07-22 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-23 r. znak WOOS.420.25.2026.MK1.2
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-23-r-znak-woos420252026mk12  (BIP: 2026-07-23 00:00)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 21.07.2026 r. znak: WOO-I.420.8.2025.PJ/JRS.19
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-21072026-r-znak-woo-i42082025pjjrs19  (BIP: 2026-07-21 00:00)
+-  [RDOŚ Łódź] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Łodzi z 23 lipca 2026 r., znak: WSI.512.43.2025.ML.21
+  https://www.gov.pl/web/rdos-lodz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-lodzi-z-23-lipca-2026-r-znak-wsi512432025ml21  (BIP: 2026-07-23 00:00)
+-  [RDOŚ Łódź] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 23 lipca 2026r. znak: DOOŚ-WDŚZIL.420.133.2019.MKR.36
+  https://www.gov.pl/web/rdos-lodz/obwieszczenie-generalnego-dyrektora-ochrony-srodowiska-z-23-lipca-2026r-znak-doos-wdszil4201332019mkr36  (BIP: 2026-07-23 00:00)
+-  [RDOŚ Łódź] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Łodzi z 22 lipca 2026 r.znak WOOŚ.420.15.2023.AZi.95
+  https://www.gov.pl/web/rdos-lodz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-lodzi-z-z-22-lipca-2026-rznak-woos420152023azi95  (BIP: 2026-07-22 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 23 lipca 2026 r., znak: WOOŚ-II.420.34.2019.MP.48
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-23-lipca-2026-r-znak-woos-ii420342019mp48  (BIP: 2026-07-23 00:00)
+-  [RDOŚ Warszawa] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 22 lipca 2026 r., znak: DOOS-WDŚI.420.9.2026.PCh.14
+  https://www.gov.pl/web/rdos-warszawa/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-22-lipca-2026-r-znak-doos-wdsi42092026pch14  (BIP: 2026-07-22 00:00)
+-  [RDOŚ Warszawa] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 21 lipca 2026 r., znak: DOOŚ-WDŚZOO.420.27.2023.KN.121
+  https://www.gov.pl/web/rdos-warszawa/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-21-lipca-2026-r-znak-doos-wdszoo420272023kn121  (BIP: 2026-07-21 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 23 lipca 2026 r., znak WOOŚ.420.28.2026.WM.9
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-23-lipca-2026-r-znak-woos420282026wm9  (BIP: 2026-07-23 00:00)
+-  [RDOŚ Wrocław] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 23 lipca 2026 r. znak DOOŚ-WDŚII.420.17.2026.JJB.4
+  https://www.gov.pl/web/rdos-wroclaw/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-23-lipca-2026-r-znak  (BIP: 2026-07-23 00:00)
+-  [Nadleśnictwo Łomża] Zarządzenia i decyzje Nadleśniczego Nadleśnictwa Łomża - stan na 23.07.2026
+  https://www.gov.pl/attachment/4bf9fa85-4016-4003-98a6-1a212995d9d1  (BIP: 2026-07-24 08:47)
+-  [Nadleśnictwo Płytnica] Zarządzenie Nr 29 z 2026 r. w sprawie organizacji ruchu turystycznego na terenie Nadleśnictwa Płytnica - udostępnienie terenów leśnych do wypoczynku społeczeństwa
+  https://www.gov.pl/attachment/7960599f-46b3-4382-9116-8df0baafedeb  (BIP: 2026-07-23 13:25)
+-  [Nadleśnictwo Oborniki Śląskie] Wykaz decyzji 2026 r.
+  https://www.gov.pl/attachment/581961b3-f0e1-43af-a0a0-6ce7e1e5bea6  (BIP: 2026-07-23 13:11)
+-  [Nadleśnictwo Oborniki Śląskie] Regulamin sprzedaży detalicznej produktów gospodarki leśnej - od 17.07.2026 r.
+  https://www.gov.pl/attachment/de3931ae-32d8-41c7-a9bd-2fccc08162fc  (BIP: 2026-07-23 13:20)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
-- [Nadleśnictwo Bielsk] Środki zewnetrzne na lata 2022-2025
-- [Nadleśnictwo Knyszyn] Otuliny parkow narodowych i
-- [Nadleśnictwo Krynki] Informacja o wyniku postępowania SA.20.2.2026
-- [Nadleśnictwo Prószków] Załącznik nr 2 - Oświadczenie – wymagania niezbędne
-- [Nadleśnictwo Prószków] Załącznik nr 3 - Kwestionariusz osobowy kandydata na pracownika Lasów Państwowych
-- [Nadleśnictwo Prószków] Załącznik nr 5 -Oświadczenie - dodatkowe kwalifikacje
-- [Nadleśnictwo Prószków] Załącznik nr 6 - Zgoda na przetwarzanie danych osobowych szczególnej kategorii
-- [Nadleśnictwo Dąbrowa Tarnowska] zał 1. Wykaz gruntów
-- [Nadleśnictwo Dąbrowa Tarnowska] zał 3. Mapa poglądowa
-- [Nadleśnictwo Konin] Ogłoszenie_o_III_przetargu_publicznym_na_sprzedaż_zbędnych_środków_trwałych_i_niskocennych_składników_majątku_Nadleśnictwa_Konin
-- [Nadleśnictwo Konin] Wykaz zbędnych środków trwałych i nietrwałych przeznaczonych do sprzedaży III
-- [Nadleśnictwo Taczanów] II Ogłoszenie o sprzedaży nieruchomości osada Nowy Staw
-- [Nadleśnictwo Ruda Maleniecka] Informacja_o_Zespole_Lokalnej_Współpracy_w_Nadleśnictwie_Radoszyce
-- [Nadleśnictwo Gościno] Zarządzenia 2026r. wszystkie
 - [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2025 r.
 - [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2024 r.
 - [Nadleśnictwo Olecko] Zestawienie publicznych środków zewnętrznych otrzymanych i wykorzystywanych przez Nadleśnictwo Olecko w 2023 r.
@@ -409,3 +374,17 @@ Okno 7 dni · spraw 225 · publikacji 310 · obszary szczególne 3 · nieznanych
 - [Nadleśnictwo Kaczory] Prezentacja - zbędne składniki majątku - samochód SUZUKI Grand Vitara.
 - [Nadleśnictwo Łagów] Informacja o publicznych środkach zewnętrznych
 - [Nadleśnictwo Złotoryja] Ogłoszenie o zagubieniu płytek do cechowania drewna
+- [Nadleśnictwo Świebodzin] Załącznik 1 - Wykaz składników majątkowych przeznaczonych do sprzedaży
+- [Nadleśnictwo Warcino] Zawiadomienie o wyniku postępowania na sprzedaż zbędnych składników
+- [Nadleśnictwo Barlinek] Opłaty za korzystanie z miejsc biwakowania w Nadleśnictwie Barlinek
+- [Nadleśnictwo Trzebielino] Ogłoszenie_o_pisemnym_przetargu_nieograniczonym_na_sprzedaż_zbędnych_skłądników_majątku_(Sprzedaż_ogrodzeń_upraw_leśnych_2026)
+- [RDLP Pile] Ogłoszenie wyników II przetargu 22.07.2026 r.
+- [Nadleśnictwo Olecko] Zamówienia na podstawie art. 11 ust. 5 pkt. 6 ustawy Prawo zamówień publicznych
+- [Nadleśnictwo Suwałki] Zał_1_-_Wykaz_składników_majątkowych_przeznaczonych_na_sprzedaż
+- [Nadleśnictwo Suwałki] Zał_3_-_Wzór_protokołu_przekazania
+- [Nadleśnictwo Potrzebowice] Obwieszczenie o przetargu nr II
+- [Nadleśnictwo Potrzebowice] zał. nr 1 Wykaz zbędnych środków trwałych i wyposażenia przetagr II
+- [Nadleśnictwo Potrzebowice] Ogłoszenie wyników
+- [Nadleśnictwo Miękinia] Decyzja Minister Klimatu i Środowiska o uznaniu lasów za ochronne
+- [Nadleśnictwo Oborniki Śląskie] Terminy sprzedaży drewna w leśnictwach - od 17.07.2026 r.
+- [Nadleśnictwo Olesno] Ogłoszenie o udzielonym zamówieniu 21.07.2026

@@ -2,8 +2,6 @@
 
 Obywatelski monitoring Biuletynów Informacji Publicznej: nadleśnictw i dyrekcji Lasów Państwowych, regionalnych dyrekcji ochrony środowiska (RDOŚ) oraz Ministerstwa Klimatu i Środowiska — to tam zapadają decyzje zatwierdzające plany urządzenia lasu, od których biegnie termin na skargę.
 
-**Pierwszy raz tutaj?** Zacznij od [`JAK-TO-DZIALA.md`](JAK-TO-DZIALA.md) — opis działania monitoringu bez żargonu technicznego.
-
 Co tu jest:
 
 - `reports/` — raport z każdego dnia (`.md` do czytania, `.json` dla narzędzi),

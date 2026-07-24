@@ -1,6 +1,6 @@
 # Changelog — Leśne Echo core
 
-Format: zmiany od najnowszej wersji. Znacznik w kodzie: `IROOT_VERSION` w `lesne_echo.py`
+Format: zmiany od najnowszej wersji. Znacznik w kodzie: `LESNE_ECHO_VERSION` w `lesne_echo.py`
 (trafia do raportów `.md` / `.json`).
 
 **Schemat numeracji (linia Grok):** baza **0.8 beta** → kolejne poprawki na
@@ -8,6 +8,295 @@ Format: zmiany od najnowszej wersji. Znacznik w kodzie: `IROOT_VERSION` w `lesne
 
 > Etykiety robocze `0.9` / `0.10` z tej samej sesji były pomyłką względem bazy 0.8.
 > Właściwa pierwsza wersja forka Grok to **0.81**.
+
+---
+
+## [0.90 beta] — 2026-07-24
+
+**Chronione wydzielenia — i korekta zawyżonego sygnału.** Backfill pokazał, że
+Programy Ochrony Przyrody niosą listy wydzieleń **wyłączonych z użytkowania
+rębnego** — sygnał odwrotny do wykazu cięć: nie „tu się tnie", tylko „tego się
+NIE tnie".
+
+### Uczciwość ponad efekt
+
+Wcześniej zachwyciłem się „2524 chronionymi wydzieleniami" z Nadl. Torzym.
+Zwiad na treści dokumentu pokazał, że **to było zawyżone**:
+
+- fraza „Wyłączenie z użytkowania rębnego" poprzedza **krótkie listy per
+  siedlisko** (~15 wydzieleń każda), nie jedną listę na 2524;
+- te 2524 to **wszystkie wzmianki** o wydzieleniach w całym dokumencie (granice
+  Natura 2000, tabele gatunków, opisy) — nie wydzielenia chronione;
+- realnie wyłączonych z użytkowania jest kilkadziesiąt, rozbitych na listy.
+
+Gdyby raport pokazał „2524 chronione", zamieniłby skromny sygnał w wielki
+fałszywy. Zamiast tego:
+
+- **rozdzielenie inwentarza od wzmianek:** dokument z opisem drzewostanu
+  (gatunek+wiek) pokazuje twarde dane; dokument z samymi adresami mówi wprost
+  „wymienia N wydz. (wzmianki)", zamiast udawać, że to inwentarz;
+- **sygnał wyłączeń z przykładami, nie z liczbą udającą kompletność:**
+  „🛡️ wyłącza wydz. z użytkowania rębnego (m.in. 05-74-d, 09-67-i…)". Płaski
+  tekst nie da się wyparsować co do adresu (listy bywają oddzielone prozą,
+  rozbite łamaniem wiersza, przerwane nagłówkiem strony) — więc podajemy sygnał,
+  nie fałszywą precyzję.
+
+### Kod
+
+- `PROTEKCJA_FRAZA` + `_adresy_chronione()` — adresy z list po frazie ochronnej,
+  z naprawą adresów rozbitych łamaniem wiersza („03-\\n223-g" → „03-223-g");
+- `streszcz_wydzielenia`: pola `n_chronione` i `chronione` (adresy — do przyszłej
+  kontroli krzyżowej: chronione wydzielenie w dokumencie o cięciach = alarm);
+- raport: rozdzielenie inwentarza od wzmianek w kartach i tabelach.
+
+### Uwaga wdrożeniowa
+
+Wpisy w cache sprzed 0.90 nie mają pola `chronione` — sygnał ochrony pojawi się
+przy nich dopiero po ponownym odczycie (codzienny scan odświeża ~40 dokumentów).
+Nowe odczyty mają je od razu.
+
+### Testy
+
+- `tests/test_rules.py` — **45 testów** (42 + wyłączenia z użytkowania, naprawa
+  łamania wiersza, nietykanie prozy referencyjnej).
+
+---
+
+## [0.89 beta] — 2026-07-23
+
+**Hartowanie E3a po pierwszym backfillu.** Uruchomienie na 400 dokumentach
+pokazało trzy rzeczy, których zwiad na 22 plikach nie mógł pokazać.
+
+### Fałszywe wydzielenia — najpoważniejsze
+
+„Opis taksacyjny — obręb Polkowice cz 2" (**469 stron**) oddawał **7 wydzieleń**.
+Prawdziwy wykaz daje tysiące — siedem to szum: numery z nagłówków, zakresy
+oddziałów z opisu leśnictw, przypisy. Raport pokazywałby zmyślone dane jako fakt.
+
+Przyczyna (ustalona po zajrzeniu do dokumentu): opis taksacyjny to **formularz
+wielokolumnowy**. Numer oddziału, pododdział, lista gatunków i kolumna wieków
+stoją w osobnych blokach, powiązanych UKŁADEM STRONY, a nie kolejnością tekstu:
+
+```
+239                     ← oddział
+n                       ← pododdział
+… opis siedliska …
+3 OL / 1 BRZ / 1 DB     ← udział + gatunek
+16 16 21 29 80 140      ← wieki, osobna kolumna
+```
+
+Płaski odczyt tekstu tego nie odtworzy — to zadanie dla ekstrakcji ze
+współrzędnymi, czyli **E3b**. Do tego czasu system ma o tym mówić, a nie zgadywać.
+
+- `uklad_wiarygodny()` — ufamy, gdy choć jeden wiersz ma komplet gatunek+wiek
+  (układ rozpoznany na pewno) albo gdy samych adresów jest ≥20 (tyle
+  przypadkowych dopasowań się nie zdarza). Inaczej zapisujemy **zero**
+  i znacznik `uklad_rozpoznany: false`;
+- `scan-attachments` liczy takie dokumenty osobno i mówi wprost, czego brakuje:
+  „6 dużych dokumentów ma tekst, ale układ wielokolumnowy — potrzebna
+  ekstrakcja ze współrzędnymi (E3b)".
+
+### Cisza w logu
+
+PDF-y z BIP bywają technicznie niechlujne (błędne wskaźniki obiektów,
+zdublowane wpisy `/Info`). pypdf meldował o tym **setkami linii na dokument**,
+topiąc właściwy komunikat przebiegu. To nie są nasze błędy i nic z nimi nie
+zrobimy — log pypdf wyciszony do poziomu ERROR.
+
+### Skala z produkcji (400 dokumentów)
+
+| | |
+|---|---|
+| z wydzieleniami | 8 |
+| bez adresu (poprawnie — decyzje, pisma) | 257 |
+| skany bez tekstu (mapy) | 133 |
+| błędy | 2 |
+
+Najbogatszy plik: **„Wykaz projektowanych cięć rębnych" — 5317 wydzieleń**.
+Potwierdza ustalenie ze zwiadu: wartość jest skoncentrowana w wykazach cięć,
+nie rozłożona po wszystkich załącznikach.
+
+### Testy
+
+- `tests/test_rules.py` — **42 testy** (41 + próg wiarygodności układu).
+
+---
+
+## [0.88 beta] — 2026-07-23
+
+**E3a — wydzielenia z treści załączników.** Największa dziura projektu zaczyna
+się domykać: system wie już nie tylko CO i KIEDY, ale też GDZIE i CO TAM ROŚNIE.
+
+### Zwiad przed budową (i korekta własnego pomiaru)
+
+Zanim powstała linijka kodu, zmierzyłem na 22 żywych PDF-ach z BIP, czy plan
+E3 ma sens. Pierwszy pomiar dał „0% dokumentów z oddziałami" — i **był błędny**:
+szukałem wzorca „oddz. 128", a BIP zapisuje adresy jako `02-128-k`, do tego
+czytałem 25 pierwszych stron, gdy tabele zaczynają się na 214 z 426. Wynik był
+na tyle nieprawdopodobny (dokument „Wykaz projektowanych cięć rębnych" MUSI
+zawierać wydzielenia), że zajrzałem do środka plików zamiast zaufać liczbie.
+
+Ustalenia, na których stoi ta wersja:
+
+- adres wydzielenia ma **dwa szablony**: `02-128-k` (obręb-oddział-pododdział,
+  np. Nadl. Lubin) i `148-b` (obręb tylko w nagłówku sekcji, np. Bystrzyca Kł.);
+- **66% PDF-ów ma warstwę tekstową**; reszta to skany, ale prawie wyłącznie
+  MAPY — OCR nic by tu nie dał, bo mapę czyta się GIS-em. Odłożenie OCR było
+  trafne, skany nie są wąskim gardłem;
+- wartość jest **skrajnie skoncentrowana**: decyzja zatwierdzająca to 1–2 strony
+  aktu prawnego bez wydzieleń, a cały ładunek siedzi w elaboracie / wykazie
+  cięć / opisie taksacyjnym. Jeden taki plik dał **1228 wydzieleń, 1222
+  z gatunkiem i wiekiem**, w tym **6 wydzieleń ≥100 lat zaplanowanych do cięcia**
+  (115-letnie dęby);
+- wiersz tabeli niesie gatunek i wiek WPROST, więc dla tych spraw **BDL nie jest
+  już potrzebny** — mamy lepsze źródło: oficjalny zapis planu, a nie rejestr ogólny.
+
+### Co weszło
+
+- `pdf_text()` — tekst z PDF-a, odporny na skany i uszkodzone pliki;
+- `extract_wydzielenia()` — oba szablony adresu + pełny wiersz taksacyjny
+  (adres, rodzaj cięcia, siedlisko, gatunek, wiek);
+- `warto_skanowac()` — celownik po tytule i klasie. Celowo BEZ gołego
+  „zestawienie": łapało „Zestawienie otrzymanych dotacji" (307 szt.);
+- `scan-attachments [--limit N] [--minuty M]` — czytanie z budżetem czasu,
+  zapis po każdym dokumencie (przerwanie nie gubi godzin pracy), kolejność
+  **nowości → archiwum, P1 → P3**;
+- w `collect`: załączniki P1 czytane z bajtów, które i tak pobieramy dla hasha
+  — **zero dodatkowych zapytań** do BIP;
+- w raporcie: wiersz „🌲 Drzewostan (z dokumentu)" w kartach, kolumna
+  w tabelach P2/P3, licznik w sekcji zdrowia, pełne dane w JSON.
+
+### Streszczenie zamiast kopii tabeli (poprawka w trakcie)
+
+Pierwsza wersja zapisywała pełną listę wydzieleń — przy 1228 wierszach to
+110 kB na dokument, czyli **kilkadziesiąt MB w repo** dla całego archiwum.
+Dokładnie to, czego projekt unika. Cache trzyma więc SYGNAŁ, nie duplikat:
+liczbę wydzieleń, histogram gatunków, zakres wieku, **pełne dane drzewostanów
+≥100 lat** i numery oddziałów do BDL. Zmierzone: **13,9 kB na 17 dokumentów**
+(~1,6 MB dla całego archiwum). Sama tabela zostaje w dokumencie, którego hash
+mamy w manifeście.
+
+### pypdf zamiast pdfplumber
+
+Zmierzone na tym samym PUL-u (17 MB, 432 str.): **28 s wobec 64 s**, przy
+identycznym wyniku (1228 wydzieleń). pypdf jest lżejszy, czysto pythonowy
+i też na MIT. Nadal świadomie NIE pymupdf — najszybszy, ale AGPL.
+
+### Naprawione przy okazji
+
+- **Wyjście w UTF-8.** `print` z emoji wywalał `UnicodeEncodeError` na polskiej
+  konsoli Windows (cp1250) — ten sam rodzaj błędu co odczyty w 0.86, tylko po
+  stronie zapisu. Teraz `stdout`/`stderr` są przestawiane na UTF-8 na starcie.
+
+### Workflow
+
+- codzienny przebieg: `scan-attachments --limit 40 --minuty 12`, krok
+  **nieblokujący** (jak `bdl-enrich`) — nie ma prawa zatrzymać raportu;
+- nowy tryb ręczny **`scan`** — backfill archiwum z budżetem 60 min.
+
+### Testy
+
+- `tests/test_rules.py` — **41 testów** (35 + oba szablony adresu, starodrzew,
+  odporność na śmieci, celownik tytułów, odporność `pdf_text`).
+
+---
+
+## [0.87 beta] — 2026-07-23
+
+**Zmiana nazwy programu: IronRoot → Leśne Echo.**
+
+Do wersji 0.86 włącznie program nazywał się **IronRoot** (znacznik `IRoot 0.8x
+beta`). Wpisy historyczne poniżej opisują te same wydania — zmieniła się nazwa,
+nie historia.
+
+### Co się zmieniło
+
+| | było | jest |
+|---|---|---|
+| Silnik | `ironroot.py` | `lesne_echo.py` |
+| Ramy projektu | `IRONROOT.md` | `LESNE-ECHO.md` |
+| Workflow | `.github/workflows/ironroot.yml` | `lesne-echo.yml` |
+| Znacznik wersji | `IROOT_VERSION` = „IRoot 0.86 beta" | `LESNE_ECHO_VERSION` = „Leśne Echo 0.87 beta" |
+| Tytuł raportu | „IronRoot — raport dzienny" | „Leśne Echo — raport dzienny" |
+| Podpis bota (UA) | `IronRoot/1.0` | `LesneEcho/1.0` |
+| Autor commitów automatu | `ironroot` | `lesne-echo` |
+
+Pliki przeniesione przez `git mv`, więc **historia zmian się zachowała**
+(`git log --follow lesne_echo.py` pokazuje pełne dzieje silnika).
+
+### Czego świadomie NIE ruszono
+
+- **Nazwy repozytoriów** (`PiotrBS/ironroot-core`, `PiotrBS/ironroot`) — zmiana
+  po stronie GitHuba wymaga ręcznej akcji i unieważniłaby dotychczasowe linki.
+  Sekret `PUBLIC_REPO` działa bez zmian.
+- **Skrzynka kontaktowa bota** (`ironroot_contact@pm.me`) — działa i jest
+  podana urzędom w User-Agencie. Bot bez odbieranego kontaktu traci
+  wiarygodność, więc zmieniamy nazwę, a adres zostaje.
+- **Opublikowane raporty** (`reports/`, `MANIFEST.jsonl`, snapshoty) — to
+  datowane dokumenty. Przepisywanie ich wstecz byłoby fałszowaniem zapisu.
+  Nowa nazwa pojawia się w raportach od najbliższego przebiegu.
+
+### Weryfikacja
+
+```text
+python tests/test_rules.py   → 35/35 (import z lesne_echo działa)
+py_compile lesne_echo.py, build_sources.py, tools/render_pdf.py → OK
+YAML: 5 configów + workflow → OK
+wywołań `lesne_echo.py` w workflow: 30
+```
+
+---
+
+## [0.86 beta] — 2026-07-23
+
+Naprawa defektów wykrytych podczas weryfikacji pierwszego przebiegu na 0.85.
+Wszystkie trzy potwierdzone na żywych danych (przebieg 2026-07-23, 225 spraw).
+
+### BDL — poszlaka przestaje udawać fakt
+
+`bdl_info` szukał adresu leśnego w trzech miejscach, ale wynik podawał zawsze
+tak samo — jakby należał do tej sprawy. Skutek w produkcji: *„Załącznik nr 2
+Mapa przedmiotu dzierżawy"* (klasa `grunty`, **własny adres pusty**) dostawał
+25 wydzieleń w wieku 0–167 lat, zaciągniętych z sąsiedniego dokumentu na tej
+samej stronie BIP — i raport pokazywał je jako drzewostan tej sprawy.
+
+- wynik niesie teraz pole `dopasowanie`: `wlasny` · `zdarzenie` · `strona`,
+- `strona` = **poszlaka**: karta dostaje jawne ostrzeżenie („adres pochodzi
+  z innego dokumentu na tej samej stronie, nie z tej sprawy"), tabela — znacznik `?`,
+- sekcja 0 liczy trafienia pewne i poszlaki **osobno**. Uczciwy obraz na dziś:
+  `z drzewostanem 0 · poszlaka ze strony 2` (wcześniej raportowane jako 2 trafienia).
+
+### Dowód, który istniał, ale był niewidoczny
+
+Snapshot jest fotografią CAŁEJ strony BIP, a hash trafiał tylko do wiersza,
+który go wywołał. Gdy na jednej stronie RDLP leżały decyzje PUL dla kilku
+nadleśnictw, sprawa obok pokazywała „dowód: —", choć dowód był w manifeście
+(realny przypadek: PUL Manowo).
+
+- `collect`: hash dostaje **każdy** wiersz z tej strony,
+- `report`: sprawa bez własnego hasha wskazuje snapshot z tej samej strony
+  **i tego samego dnia** (para strona+dzień — hash sprzed tygodnia nie dowodzi
+  dokumentu, który doszedł wczoraj). Działa **wstecz**, na zebranym korpusie.
+- Efekt: spraw z dowodem **39 → 64** (+64%) na tym samym zestawie danych.
+
+### Kodowanie — narzędzia nie dało się uruchomić na Windowsie
+
+Sześć odczytów JSON (`bdl_cache`, `http_cache`, `pages_seen`, `sources_state`)
+szło bez `encoding="utf-8"`, więc Python brał kodowanie systemowe. Na Linuksie
+w CI działało; na polskim Windowsie `report` wywalał się na pierwszym „ż"
+w nazwie nadleśnictwa (`UnicodeDecodeError`, cp1250). Błąd był niewidoczny,
+dopóki nikt nie uruchomił silnika lokalnie.
+
+### Weryfikacja
+
+```text
+python tests/test_rules.py            → 35/35
+python lesne_echo.py classify --rebuild → 58 368 wierszy
+python lesne_echo.py report --days 7    → 225 spraw (identycznie jak automat 0.85)
+```
+
+Liczby spraw, priorytetów i klas bez zmian względem 0.85 — naprawy dotyczą
+wyłącznie rzetelności prezentacji i przypisania dowodu.
 
 ---
 
@@ -258,7 +547,7 @@ Baza: **Leśne Echo 0.8 beta** (upstream `ironroot-core` przed pracą Grok).
 
 ### Kod
 
-- `IROOT_VERSION = "Leśne Echo 0.81 beta"`
+- `LESNE_ECHO_VERSION = "Leśne Echo 0.81 beta"`
 - `report_worthy()` w `cmd_report`
 - `tests/test_rules.py` — 15 testów złotych przypadków
 

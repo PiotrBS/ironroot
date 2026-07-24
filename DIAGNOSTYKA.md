@@ -1,8 +1,8 @@
-# IronRoot — diagnostyka — 2026-07-23 08:22 UTC
+# Leśne Echo — diagnostyka — 2026-07-24 08:29 UTC
 
 ## Wersja reguł
 ```
-sha256(rules.yaml) : 02347375a3e8b0c6
+sha256(rules.yaml) : fef8c10852aa97f1
 reguł              : 39
 wykluczeń          : 26
 id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, formy-ochrony, gatunki-inwazyjne, gospodarka-lowiecka, info-publiczna, kontrola, krajowy, lasy-prywatne, monitoring-przyrodniczy, obrot-ziemia, obszar-zabieg, plan-postepowan, powierzchnie-referencyjne, przetargi-lesne, pul-aneks, pul-decyzja, pul-dokument, pul-kzp, pul-material, pul-ntg, pul-projekt, rdos-inwestycje, rdos-las, rdos-nierozpoznane, rdos-ochrona-przyrody, retencja-renaturyzacja, strefy, tlo-finanse, tlo-obsluga-przetargow, tlo-srodki-zewnetrzne, usuwanie-drzew, wykaz-srodowiskowy, zalesienia-odnowienia, zarzadzenia-jednostki, zmiana-strony-krytycznej, zmiana-strony-pozostale
@@ -13,13 +13,13 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7336
-  artykul         3951
+  dokument        7347
+  artykul         3952
 
 ── wg szczebla ──
-  nadlesnictwo      8493
+  nadlesnictwo      8504
   rdos              1616
-  rdlp               666
+  rdlp               667
   ministerstwo       349
   gdos               112
   dglp                51
@@ -94,18 +94,20 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Bydgoszcz] Plan działalności Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy na 202
       16×  wniosek udzielenie informacji
           [RDLP Lublinie] Wniosek o udzielenie informacji
+      16×  ogloszenie wynikow przetargu
+          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       15×  przyroda roznorodnosc biologiczna
           [Generalna Dyrekcja Ochrony Środowiska] Przyroda i różnorodność biologiczna
       15×  informacja petycjach
           [RDOŚ Warszawa] Informacja o petycjach w 2025 roku
       15×  warunki dostepu sieci
           [RDLP Białymstoku] Warunki dostępu do sieci telekomunikacyjnych
+      15×  ogloszenie pisemnym przetargu
+          [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       15×  informacja uniewaznieniu postepowania
           [Nadleśnictwo Pomorze] Informacja o unieważnieniu postępowania
       15×  srodki zewnetrzne
           [Nadleśnictwo Supraśl] Środki zewnętrzne za 2024 rok
-      15×  ogloszenie wynikow przetargu
-          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       15×  srodki zewnetrzne wykorzystane
           [Nadleśnictwo Miastko] Środki zewnętrzne wykorzystane w 2011 roku
       15×  otrzymane srodki publiczne
@@ -116,8 +118,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Gdańsk] Zarządzanie informacją o środowisku. Przewodnik
       14×  zamowienia publiczne
           [RDOŚ Olsztyn] Zamówienia publiczne
-      14×  ogloszenie pisemnym przetargu
-          [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       14×  ogloszenie wyniku przetargu
           [Nadleśnictwo Pomorze] Ogłoszenie o wyniku przetargu
       14×  zg.0172.05.2024
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 58368 wierszy z 466 źródeł
+Korpus: 58497 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-    1915  Dyrekcja Generalna LP
+    1945  Dyrekcja Generalna LP
     1840  RDOŚ Kraków
      727  RDLP Toruniu
-     671  RDOŚ Gorzów Wlkp.
+     673  RDOŚ Gorzów Wlkp.
      482  Nadleśnictwo Trzcianka
      459  Ministerstwo Klimatu i Środowiska
+     453  Generalna Dyrekcja Ochrony Środowiska
      453  RDOŚ Olsztyn
-     449  Generalna Dyrekcja Ochrony Środowiska
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     45814
-  rdos              6264
-  rdlp              3467
-  dglp              1915
+  nadlesnictwo     45884
+  rdos              6285
+  rdlp              3471
+  dglp              1945
   ministerstwo       459
-  gdos               449
+  gdos               453
 
 ```

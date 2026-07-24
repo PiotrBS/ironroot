@@ -119,7 +119,7 @@ classified.jsonl  ──report_worthy()──►  sekcje 1–5 raportu
 ## 7. Pliki zmienione w 0.9
 
 ```
-lesne_echo.py                 IROOT_VERSION, report_worthy, filtr w cmd_report
+lesne_echo.py                 LESNE_ECHO_VERSION, report_worthy, filtr w cmd_report
 config/rules.yaml           ostoj, exclusions MPP/dróg
 config/obszary.yaml         lesnictwo lookbehind + formy fleksyjne
 tests/test_rules.py         NOWE — 15 testów
@@ -130,4 +130,4 @@ LESNE-ECHO.md                 korekta opisu terminów
 reports/, LATEST.md, public/  przebudowane classify+report
 ```
 
-**Nie ruszane:** `.github/workflows/ironroot.yml` (publish key), BDL, collect/fetcher.
+**Nie ruszane:** `.github/workflows/lesne-echo.yml` (publish key), BDL, collect/fetcher.

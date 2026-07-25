@@ -11,6 +11,164 @@ Format: zmiany od najnowszej wersji. Znacznik w kodzie: `LESNE_ECHO_VERSION` w `
 
 ---
 
+## [0.94 beta] — 2026-07-24
+
+**Mapa w codziennym raporcie.** GitHub renderuje pliki `.geojson` NATYWNIE jako
+interaktywną mapę — więc link do `LATEST.geojson` w repo publicznym to gotowa,
+klikalna mapa, bez żadnego dodatkowego narzędzia.
+
+- **Raport `.md`:** sekcja 0 (zdrowie) dostaje linię „🗺️ Mapa: N starych
+  drzewostanów (≥100 lat) z tego okna — [otwórz]" (gdy są takie wydzielenia);
+- **JSON:** `meta.mapa_url` + `meta.stare_drzewostany` — dla renderera i konsumentów;
+- **PDF:** pasek zdrowia dostaje link do mapy (szablon `raport.html`);
+- link jest stały (repo publiczne, root `LATEST.geojson`); plik składa krok
+  `geojson` tuż po raporcie, więc istnieje w chwili publikacji. `MAPA_URL`
+  w jednym miejscu — łatwo zmienić, gdyby repo publiczne miało inną ścieżkę.
+
+Testy: 50/50.
+
+---
+
+## [0.93 beta] — 2026-07-24
+
+**E3c — mapa GeoJSON.** Adresy starych drzewostanów z E3 karmią WFS BDL, który
+oddaje geometrię wydzielenia + oficjalne dane. Wynik: warstwa mapowa — pakiet
+dowodowy z `LESNE-ECHO.md` etap 5 (mapa + dane + dowód).
+
+### Odkrycie: BDL nigdy nie był zepsuty — był niedokarmiony
+
+Zwiad na żywym WFS pokazał, że usługa **działa i oddaje wszystko**: geometrię
+(MultiPolygon), `species_cd`, `spec_age`, `prot_categ` (kategoria ochronności),
+`sub_area`. Raportowe „BDL: z drzewostanem 2" nie wynikało z martwej usługi,
+tylko z tego, że **sprawy rzadko miały oddział w tytule** („brak oddziału w BIP
+190") — nie było czym pytać. E3 wyłuskuje oddziały z treści planu i dopiero to
+otwiera tę warstwę.
+
+Przy okazji znaleziona prawdziwa przyczyna, gdyby ktoś próbował BDL wcześniej:
+pole `nazwa` to `BDL_13_18_MILICZ_2026` (WIELKIE litery), a CQL `LIKE` jest
+wrażliwy na wielkość — `%Milicz%` daje 0, `%MILICZ%` działa. `norm().upper()`
+to zapewnia (test blokuje).
+
+### Jak to działa
+
+- `BdlClient.geometria()` — zapytanie z geometrią, `srsName=EPSG:4326` (WGS84,
+  standard GeoJSON; BDL trzyma 2180, WFS przelicza po stronie serwera);
+- `lesne_echo.py geojson` — zbiera oddziały starych drzewostanów (≥100 lat)
+  z E3, pyta BDL o geometrię, składa `FeatureCollection`. Każda cecha:
+  geometria + `nadlesnictwo`, `oddzial`, `wiek` (BDL i z planu),
+  `ochronnosc`, `powierzchnia_ha`, `powod`;
+- otwiera się w QGIS / geojson.io — realne wydzielenia jako wielokąty na mapie.
+
+Zmierzone (okno 7 dni): 27 oddziałów, **trafień 27/27**, 481 wydzieleń
+z geometrią (145 z wiekiem BDL, 90 z kategorią ochronności).
+
+### Rozmiar pod kontrolą
+
+- mapujemy tylko wydzielenia ze spraw W OKNIE raportu (nie cały narastający
+  cache), inaczej plik puchłby bez końca;
+- współrzędne zaokrąglone do 5 miejsc (~1 m — dla granic wydzieleń aż nadto,
+  plik −40%);
+- wersja dzienna → repo prywatne; do publicznego idzie tylko `LATEST.geojson`
+  (nadpisywany), żeby publiczne repo nie rosło. ~400 kB, jak `LATEST.json`.
+
+### Workflow
+
+- krok `geojson` po `report` (nieblokujący, jak `bdl-enrich`), z limitem
+  zapytań; `LATEST.geojson` w commicie dziennym i w `publish`.
+
+### Testy
+
+- `tests/test_rules.py` — **50 testów** (49 + filtr nazwy BDL wielkimi literami).
+
+---
+
+## [0.92 beta] — 2026-07-24
+
+**Nietypowo stary drzewostan: FLAGUJ, nie kasuj.** Naprawa wady wskazanej
+w rozmowie: limit wieku z 0.91 (dąb ≤400, brzoza ≤180) po cichu **wyrzucał**
+drzewostany starsze, niż zakładała rama — a to najważniejszy koniec skali.
+450-letni dąb w rezerwacie albo 400-letnia lipa odpadały jako „nierealne".
+
+To było sprzeczne z fundamentem projektu („nie przeoczymy niczego"). Pomiar
+pokazał zresztą, że limit odrzucał **0 realnych par** na 3 nadleśnictwach —
+całą pracę filtrowania błędów robi wymóg sufiksu „l" (wiek = „NNl"). Jedynym
+skutkiem limitu byłoby więc wycięcie rzadkiego, wyjątkowo starego drzewostanu.
+
+Nowa zasada — **dwa progi na grupę gatunków**:
+
+- ≤ typowy (dąb 350, świerk 250, brzoza 160) → wiek pewny;
+- typowy–absolutny (dąb 350–700, brzoza 160–220) → **NIETYPOWE, ale możliwe**
+  → zapisujemy z flagą `wiek_niepewny`, raport dopisuje „— do weryfikacji";
+- > absolutny (dąb >700, brzoza >220) → biologicznie niemożliwe → błąd
+  ekstrakcji (m³/kod wzięty za wiek) → odrzuć.
+
+Efekt: wyjątkowy drzewostan trafia do raportu z jawną adnotacją do sprawdzenia,
+zamiast zniknąć. Na żywych dokumentach flaga nie fałszuje normalnych odczytów
+(Db 210, Db 148 — „ok", bo poniżej typowego progu).
+
+### Testy
+
+- `tests/test_rules.py` — **49 testów** (48 + ocena wieku „flaguj nie kasuj",
+  flaga w wydzieleniach).
+
+---
+
+## [0.91 beta] — 2026-07-24
+
+**E3b — opis taksacyjny czytany ze WSPÓŁRZĘDNYCH.** Per-wydzielenie: adres,
+gatunek panujący, wiek — prosto z planu urządzenia lasu. To domyka warstwę
+„co tam rośnie", której BDL nie dostarcza (0 trafień).
+
+### Trzy zwiady przed budową — i zmiana werdyktu
+
+Płaski tekst opisów taksacyjnych zawodzi (formularz wielokolumnowy). Sprawdziłem
+trzy drogi, zanim zbudowałem — i **za pierwszym razem doszedłem do złego
+wniosku**, który potem odkręciłem:
+
+1. kolumna współrzędnych — myślałem, że x adresu pływa i nie generalizuje;
+2. segmentacja po kolejności czytania — dawała fałszywe 90% (wiązała znacznik
+   warstwy „1-w", nie adres);
+3. inline „GAT NNl" — przenośny, ale tylko rozkład, nie per-wydzielenie.
+
+**Błąd mojego zwiadu:** szukałem wzorca „1-w" (znacznik warstwy), a prawdziwy
+numer oddziału stoi w **skrajnie lewej kolumnie** (x≈76–80). Gdy sprawdziłem
+właściwy sygnał, okazało się, że formularz BULiGL ma **stałą strukturę między
+RDLP** (Toruń, Białystok, Gdańsk — ten sam układ). Relatywne wykrycie
+najlewszej kolumny obsługuje przesunięcia (Olecko x≈31).
+
+### Jak to działa
+
+- `extract_taksacja()` (pdfplumber, współrzędne): numer oddziału i litery
+  pododdziałów z najlewszej kolumny; gatunek panujący + wiek z pasa Y wydzielenia;
+- **precyzja ponad recall:** whitelist realnych gatunków leśnych („Woj", „Gl"
+  odrzucone) + limit wieku zależny od gatunku (brzoza ≤180, dąb ≤400). Na
+  4 nadleśnictwach: **0 absurdów** (żadnej „361-letniej brzozy" = m³ wziętego
+  za wiek). Recall ~30% — reszta to wydzielenia nieleśne (drogi, łąki,
+  młodniki bez wieku panującego), które słusznie nie dostają wieku;
+- routing w `skanuj_zalacznik`: opis taksacyjny → współrzędne (E3b), reszta →
+  płaski tekst (pypdf). Opisy sprzed 0.91 są czytane ponownie współrzędnymi.
+
+### Wartość
+
+Opis taksacyjny publikuje się w ramach sprawy PUL — realnego zdarzenia raportu.
+Więc gdy pojawia się PUL nadleśnictwa, raport charakteryzuje objęty las.
+Zmierzone na Cewicach (przez `skanuj_zalacznik`): **664 wydzielenia, 58 ≥100
+lat**, najstarsze `7i → Db 150 lat`, `9c → So 150 lat`. Gatunki: So/Bk/Db.
+Dane z SAMEGO planu — mocniejsze niż rejestr ogólny.
+
+### Zależność
+
+- `pdfplumber>=0.11` wraca do `requirements.txt` — do współrzędnych (pypdf ich
+  nie daje). Dwutorowo: pypdf dla płaskiego tekstu (szybki, większość), pdfplumber
+  tylko dla formularzy taksacyjnych.
+
+### Testy
+
+- `tests/test_rules.py` — **48 testów** (45 + logika układu współrzędnych,
+  limit wieku wg gatunku, routing po tytule).
+
+---
+
 ## [0.90 beta] — 2026-07-24
 
 **Chronione wydzielenia — i korekta zawyżonego sygnału.** Backfill pokazał, że

@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-07-25 06:23 UTC
+# Leśne Echo — diagnostyka — 2026-07-26 07:08 UTC
 
 ## Wersja reguł
 ```
@@ -13,30 +13,30 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7353
-  artykul         3953
+  dokument        7384
+  artykul         3975
 
 ── wg szczebla ──
-  nadlesnictwo      8510
-  rdos              1616
+  nadlesnictwo      8542
+  rdos              1623
   rdlp               668
-  ministerstwo       349
-  gdos               112
+  ministerstwo       354
+  gdos               121
   dglp                51
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     488×  wydatkowanie srodkow cele
+     492×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
-     411×  elektroniczna skrzynka podawcza
+     413×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
      393×  dane teleadresowe
           [RDOŚ Opole] Dane teleadresowe
      333×  dostepnosc raport
           [Dyrekcja Generalna LP] Dostępność raport
-     306×  statut panstwowego gospodarstwa
+     307×  statut panstwowego gospodarstwa
           [Dyrekcja Generalna LP] Statut Państwowego Gospodarstwa Leśnego Lasy Państwowe
-     212×  ustawa lasach
+     213×  ustawa lasach
           [RDLP Białymstoku] Ustawa o lasach
       77×  wydatkowane srodki cele
           [Nadleśnictwo Radomsko] Wydatkowane środki na cele społecznie użyteczne w kwietniu 2024r.
@@ -46,12 +46,12 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Ełk] Regulamin Organizacyjny Nadleśnictwa Ełk
       70×  schemat organizacyjny
           [RDLP Olsztynie] Załącznik nr 1 - Schemat Organizacyjny
-      45×  skrzynka e-doreczen
+      46×  skrzynka e-doreczen
           [RDLP Szczecinie] Skrzynka e-Doręczeń
+      45×  raport stanie zapewnienia
+          [Nadleśnictwo Cewice] Raport o stanie zapewnienia dostępności podmiotu publicznego.
       45×  aneks regulaminu organizacyjnego
           [Nadleśnictwo Starogard] Aneks nr 1 do regulaminu organizacyjnego Nadleśnictwa Starogard
-      44×  raport stanie zapewnienia
-          [Nadleśnictwo Cewice] Raport o stanie zapewnienia dostępności podmiotu publicznego.
       44×  schemat organizacyjny rdlp
           [RDLP Katowicach] Schemat organizacyjny RDLP w Katowicach - jednostki organizacyjne
       38×  sprawozdanie wykonania planu
@@ -136,6 +136,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Łochów] Zestawienie wypłat środków finansowych na cele społecznie użyteczne I.2024
       13×  gatunki niebezpieczne
           [RDOŚ Białystok] Gatunki niebezpieczne
+      13×  raport stanie dostepnosci
+          [Nadleśnictwo Lębork] Raport_o_stanie_dostępności_podmiotu_publicznego
       13×  korzystanie srodkow zewnetrznych
           [Nadleśnictwo Gorlice] Korzystanie ze środków zewnętrznych w 2025 roku
       13×  wydatkowanie cele spolecznie
@@ -154,8 +156,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDLP Zielonej Górze] Grunty Skarbu Państwa w zarządzie LP - RDLP Zielona Góra - 2025
       12×  zestawienie publicznych srodkow
           [Nadleśnictwo Knyszyn] Zestawienie publicznych środków zewnętrznych wykorzystanych przez Nadleśn
-      12×  raport stanie dostepnosci
-          [Nadleśnictwo Lębork] Raport_o_stanie_dostępności_podmiotu_publicznego
       12×  informacja rodo
           [Nadleśnictwo Kobiór] Informacja RODO
       12×  ogloszenia
@@ -164,8 +164,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Pińczów] Zapytanie sondaż rynku
       12×  wzory oswiadczen
           [Generalna Dyrekcja Ochrony Środowiska] Wzory oświadczeń
-      12×  wykaz jednostek nadzorowanych
-          [RDLP Radomiu] Wykaz jednostek nadzorowanych przez RDLP w Radomiu
+      12×  polityka srodowiskowa
+          [RDOŚ Białystok] Polityka środowiskowa
 
 ```
 
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 58577 wierszy z 466 źródeł
+Korpus: 58799 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-    1945  Dyrekcja Generalna LP
-    1841  RDOŚ Kraków
+    1947  Dyrekcja Generalna LP
+    1844  RDOŚ Kraków
      728  RDLP Toruniu
-     673  RDOŚ Gorzów Wlkp.
+     678  RDOŚ Gorzów Wlkp.
+     490  Ministerstwo Klimatu i Środowiska
      482  Nadleśnictwo Trzcianka
-     459  Ministerstwo Klimatu i Środowiska
-     455  Generalna Dyrekcja Ochrony Środowiska
-     453  RDOŚ Olsztyn
+     469  Generalna Dyrekcja Ochrony Środowiska
+     455  RDOŚ Olsztyn
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     45935
-  rdos              6310
-  rdlp              3473
-  dglp              1945
-  ministerstwo       459
-  gdos               455
+  nadlesnictwo     46069
+  rdos              6350
+  rdlp              3474
+  dglp              1947
+  ministerstwo       490
+  gdos               469
 
 ```

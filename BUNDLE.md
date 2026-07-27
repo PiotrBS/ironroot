@@ -1,6 +1,6 @@
-# Leśne Echo — wyciąg do analizy — 2026-07-26
+# Leśne Echo — wyciąg do analizy — 2026-07-27
 
-Okno 7 dni · spraw 264 · publikacji 375 · obszary szczególne 11 · nieznanych 58
+Okno 7 dni · spraw 279 · publikacji 393 · obszary szczególne 11 · nieznanych 61
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -156,6 +156,10 @@ Okno 7 dni · spraw 264 · publikacji 375 · obszary szczególne 11 · nieznanyc
   https://www.gov.pl/web/rdos-gorzow-wielkopolski/raport-z-konsultacji-i-tury-planowanych-do-utworzenia-nowych-rezerwatow-przyrody-na-terenie-wojewodztwa-lubuskiego  (BIP: ?)
 -  [Nadleśnictwo Wipsowo] Zmiana w BIP: Informacje o kontrolach
   https://www.gov.pl/web/nadlesnictwo-wipsowo/informacje-o-kontrolach  (BIP: 2026-07-23 14:25)
+-  [Nadleśnictwo Łopuchówko] Ogłoszenie o przetargu na dzierżawę zbiornika wodnego
+  https://www.gov.pl/attachment/bb7b182b-22eb-4a5f-a149-8c857fe58dc2  (BIP: 2026-07-27 07:19)
+-  [Nadleśnictwo Daleszyce] Informacja_o_kontrolach_przeprowadzonych_w_Nadleśnictwie_Daleszyce_w_okresie_od_1_stycznia_2026_r_do_22_lipca_2026_r
+  https://www.gov.pl/attachment/13e34820-eda6-4ced-9bb1-d43671ad6793  (BIP: 2026-07-27 07:53)
 
 ## P3 — sygnały
 
@@ -421,6 +425,23 @@ Okno 7 dni · spraw 264 · publikacji 375 · obszary szczególne 11 · nieznanyc
   https://www.gov.pl/attachment/adb751ca-ef05-4bfe-acf5-f3be8da8bb72  (BIP: 2026-07-24 13:43)
 -  [Ministerstwo Klimatu i Środowiska] Briefing prasowy z udziałem ministry klimatu i środowiska Pauliny Hennig-Kloski na terenie Mokradła Pyszka - projekt renaturyzacji rzeki Pysznicy, zrealizowany przez Związek Miast i Gmin Dorzecza Parsęty
   https://www.gov.pl/web/klimat/briefing-prasowy-z-udzialem-ministry-klimatu-i-srodowiska-pauliny-hennig-kloski-na-terenie-mokradla-pyszka---projekt-renaturyzacji-rzeki-pysznicy-zrealizowany-przez-zwiazek-miast-i-gmin-dorzecza-parsety  (BIP: ?)
+-  [Nadleśnictwo Drygały] Decyzja Nr 11/2026 Nadleśniczego Nadleśnictwa Drygały w sprawie jednostronnego przekazania - przejęcia majątku i dokumentów na stanowisku podleśniczego w Nadleśnictwie Drygały
+  https://www.gov.pl/attachment/e1156d34-eca9-4440-95bb-cbfd55c6cf79  (BIP: 2026-07-27 08:04)
+  📍 Nadl. Drygały → leśn. Lisuny
+-  [Nadleśnictwo Gidle] Zarządzenie nr 1 z 2024 roku w sprawie przyjmowania i rozpatrywania skarg i wniosków
+  https://www.gov.pl/attachment/84414437-af5c-46db-8624-b313c0e0632a  (BIP: 2026-07-27 08:36)
+-  [Nadleśnictwo Babimost] Wykaz wydanych zarządzeń Nadleśniczego Nadleśnictwa Babimost 2026 - stan na 22.07.2026 r.
+  https://www.gov.pl/attachment/df0dd58c-4e50-462a-b702-27933e4868c5  (BIP: 2026-07-27 08:37)
+-  [Nadleśnictwo Daleszyce] Wykaz_Decyzji_Nadleśniczego_Nadleśnictwa_Daleszyce_wprowadzonych_od_dnia_01_stycznia_2026_roku_do_dnia_22_lipca_2026_roku
+  https://www.gov.pl/attachment/476ad24f-80ea-4583-95cd-7bef1857cc8f  (BIP: 2026-07-27 07:58)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 23.07.2026 r. znak: WOO-I.420.11.2023.SK.31
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-23072026-r-znak-woo-i420112023sk31  (BIP: 2026-07-23 00:00)
+-  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 23.07.2026 r. znak: WOO-I.420.13.2025.SK.18
+  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-23072026-r-znak-woo-i420132025sk18  (BIP: 2026-07-23 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 21 lipca 2026 r., znak: WSTS.670.46.2025.KO.13
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-21-lipca-2026-r-znak-wsts670462025ko13  (BIP: 2026-07-21 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 24 lipca 2026 r., znak: WOOŚ-II.420.86.2022.PT/CS.11
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-24-lipca-2026-r-znak-woos-ii420862022ptcs11  (BIP: 2026-07-24 00:00)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 

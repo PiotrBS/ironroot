@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-07-27 07:17 UTC
+# Leśne Echo — diagnostyka — 2026-07-28 06:23 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7387
+  dokument        7396
   artykul         3975
 
 ── wg szczebla ──
-  nadlesnictwo      8545
+  nadlesnictwo      8554
   rdos              1623
   rdlp               668
   ministerstwo       354
@@ -94,6 +94,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Bydgoszcz] Plan działalności Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy na 202
       16×  wniosek udzielenie informacji
           [RDLP Lublinie] Wniosek o udzielenie informacji
+      16×  ogloszenie pisemnym przetargu
+          [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       16×  ogloszenie wynikow przetargu
           [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       15×  przyroda roznorodnosc biologiczna
@@ -102,8 +104,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Warszawa] Informacja o petycjach w 2025 roku
       15×  warunki dostepu sieci
           [RDLP Białymstoku] Warunki dostępu do sieci telekomunikacyjnych
-      15×  ogloszenie pisemnym przetargu
-          [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       15×  informacja uniewaznieniu postepowania
           [Nadleśnictwo Pomorze] Informacja o unieważnieniu postępowania
       15×  srodki zewnetrzne
@@ -138,6 +138,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Białystok] Gatunki niebezpieczne
       13×  raport stanie dostepnosci
           [Nadleśnictwo Lębork] Raport_o_stanie_dostępności_podmiotu_publicznego
+      13×  ogloszenia
+          [Nadleśnictwo Rudziniec] Załacznik Nr 1 do ogłoszenia
       13×  korzystanie srodkow zewnetrznych
           [Nadleśnictwo Gorlice] Korzystanie ze środków zewnętrznych w 2025 roku
       13×  wydatkowanie cele spolecznie
@@ -158,8 +160,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Knyszyn] Zestawienie publicznych środków zewnętrznych wykorzystanych przez Nadleśn
       12×  informacja rodo
           [Nadleśnictwo Kobiór] Informacja RODO
-      12×  ogloszenia
-          [Nadleśnictwo Rudziniec] Załacznik Nr 1 do ogłoszenia
       12×  zapytanie sondaz rynku
           [Nadleśnictwo Pińczów] Zapytanie sondaż rynku
       12×  wzory oswiadczen
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 58831 wierszy z 466 źródeł
+Korpus: 58910 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1947  Dyrekcja Generalna LP
-    1844  RDOŚ Kraków
+    1849  RDOŚ Kraków
      728  RDLP Toruniu
      678  RDOŚ Gorzów Wlkp.
      490  Ministerstwo Klimatu i Środowiska
      482  Nadleśnictwo Trzcianka
-     469  Generalna Dyrekcja Ochrony Środowiska
+     472  Generalna Dyrekcja Ochrony Środowiska
      455  RDOŚ Olsztyn
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     46094
-  rdos              6356
-  rdlp              3475
+  nadlesnictwo     46154
+  rdos              6368
+  rdlp              3479
   dglp              1947
   ministerstwo       490
-  gdos               469
+  gdos               472
 
 ```

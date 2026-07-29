@@ -11,6 +11,45 @@ Format: zmiany od najnowszej wersji. Znacznik w kodzie: `LESNE_ECHO_VERSION` w `
 
 ---
 
+## [0.95 beta] — 2026-07-28
+
+**Naprawa mapy — wykryta przy przeglądzie raportów z tygodnia produkcji.**
+Przegląd 8 dni raportów (wersje, zdrowie, sprawy, RODO) wypadł zdrowo: błędy 0
+od 07-23 (naprawa rdos-bialystok trzyma), kanarki żywe, RODO czyste, niedzielny
+pełny obchód 12 087 stron, mapa od 07-25. Ale mapa miała **poważny defekt**.
+
+### Mapa pokazywała 1539 wielokątów zamiast obiecanych ~310
+
+`geojson` pytał WFS BDL o cały ODDZIAŁ, a ten oddaje WSZYSTKIE pododdziały —
+także młode. Jeden 130-letni dąb wciągał ~50 sąsiednich wydzieleń. Do tego BDL
+zwraca osobny wiersz na każdy gatunek w wydzieleniu (ta sama geometria
+powtórzona). Efekt: mapa reklamowana jako „310 starych drzewostanów" miała
+**1539 wielokątów, w tym młodniki**.
+
+- filtr do KONKRETNYCH starych pododdziałów (nie całego oddziału) — na mapie
+  zostają tylko wydzielenia ≥100 lat, które E3 wskazało;
+- dedup po (oddział, pododdział), zostawiając najstarszy gatunek — jeden
+  wielokąt na wydzielenie zamiast 2–3 nakładek.
+- Efekt: **1539 → 222 wielokąty** (191 kB zamiast 324 kB), wszystkie ≥100 lat,
+  zero młodników.
+
+### Uczciwa liczba w raporcie
+
+Raport wykrywa 310 starych drzewostanów w oknie; mapa lokalizuje 222 (reszta bez
+pełnego adresu oddział+pododdział albo bez dopasowania w BDL). Linia w raporcie
+mówi teraz „**wykryto** 310 … wielokąty zlokalizowane w BDL", zamiast sugerować,
+że mapa ma dokładnie 310.
+
+### Potwierdzone przy okazji
+
+- „mapa tylko z Lubina" jest POPRAWNE, nie błąd: w oknie 7 dni jako świeże
+  i nie-baseline jest tylko nadleśnictwo z PUL-em w tym tygodniu (Lubin).
+  Pozostałe (Żmigród, Limanowa…) to stan zastany albo starsze niż okno.
+
+Testy: 50/50.
+
+---
+
 ## [0.94 beta] — 2026-07-24
 
 **Mapa w codziennym raporcie.** GitHub renderuje pliki `.geojson` NATYWNIE jako

@@ -11,6 +11,51 @@ Format: zmiany od najnowszej wersji. Znacznik w kodzie: `LESNE_ECHO_VERSION` w `
 
 ---
 
+## [0.96 beta] — 2026-07-29
+
+**Mapa wskazywała cudze wydzielenia. Naprawione u źródła.**
+
+Przegląd raportu z 29.07 pokazał, że ze 222 wielokątów na mapie **180 miało
+w BDL mniej niż 100 lat** — mimo etykiety „drzewostan ≥100 lat". Sonda na
+żywym WFS wskazała przyczynę, inną niż zakładano:
+
+**Numery oddziałów powtarzają się w nadleśnictwie.** BDL oddaje dla Lubina
+zarówno `13-14-1-02-60-a`, jak i `13-14-2-10-60-a` — to samo „60-a" w dwóch
+różnych leśnictwach. Pytaliśmy wyłącznie o numer oddziału, więc wybór
+wielokąta bywał rzutem monetą: zamiast 110-letniego buka (10-60-b) mapa
+pokazywała 8-letnią sosnę (02-60-a).
+
+Plany podają pełny adres („10-60-b"), a E3b ten kwalifikator **wyciągał** i
+zapisywał jako `obreb` — tyle że generator mapy go **wyrzucał**.
+
+Dwa sita w `cmd_geojson`:
+1. **Leśnictwo** — gdy plan podał kwalifikator, wiersz BDL musi się zgadzać
+   (`_adr_lesnictwo`, pole 3 `adr_for`).
+2. **Potwierdzenie wieku** — na mapę trafia tylko wydzielenie, któremu samo
+   BDL przyznaje ≥100 lat. Rozjazd „plan 125 / geometria 12" znaczy, że albo
+   adres z płaskiego tekstu jest wieloznaczny, albo odczyt był błędny; w obu
+   wypadkach nie wolno rysować tego jako starodrzewu. Wykrycie zostaje
+   w raporcie — traci tylko wielokąt.
+
+Efekt: **222 → 42 wielokąty**, wszystkie potwierdzone co do roku (111-c: plan
+125 = BDL 125 DB; 60-b: 110 = 110 BK; 184-h: 110 = 110 DB). 0 młodników.
+
+**Miara jakości obu ścieżek E3** (uboczny, najcenniejszy wynik):
+
+| Ścieżka | Adresów | Potwierdzonych |
+|---|---|---|
+| E3b — opis taksacyjny (z leśnictwem) | 29 | **28 (97%)** |
+| E3a — płaski tekst (gołe „90p") | 193 | **14 (7%)** |
+
+E3b trafia co do roku. E3a bez kwalifikatora jest w praktyce niesprawdzalny —
+adres pasuje do kilkunastu miejsc naraz. To argument, by ciężar E3 przenosić
+na opisy taksacyjne, a odczyty z płaskiego tekstu traktować jako poszlakę.
+
+- `meta` mapy mówi teraz o sobie prawdę: `okno_dni`, `adresow_z_planow`,
+  `potwierdzone`, `niepotwierdzone_przez_bdl`, `bez_zgodnego_lesnictwa`.
+- Nowa właściwość wielokąta: `lesnictwo` i `adres_z_planu` (skąd adres).
+- Test `test_adr_lesnictwo_kwalifikator` blokuje nawrót (51 testów).
+
 ## [0.95 beta] — 2026-07-28
 
 **Naprawa mapy — wykryta przy przeglądzie raportów z tygodnia produkcji.**

@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-01 06:28 UTC
+# Leśne Echo — diagnostyka — 2026-08-02 07:00 UTC
 
 ## Wersja reguł
 ```
@@ -13,24 +13,24 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7419
-  artykul         3983
+  dokument        7438
+  artykul         4004
 
 ── wg szczebla ──
-  nadlesnictwo      8584
-  rdos              1623
+  nadlesnictwo      8597
+  rdos              1641
   rdlp               669
-  ministerstwo       354
-  gdos               121
+  ministerstwo       362
+  gdos               122
   dglp                51
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     493×  wydatkowanie srodkow cele
+     494×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      413×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
-     393×  dane teleadresowe
+     394×  dane teleadresowe
           [RDOŚ Opole] Dane teleadresowe
      333×  dostepnosc raport
           [Dyrekcja Generalna LP] Dostępność raport
@@ -42,11 +42,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Radomsko] Wydatkowane środki na cele społecznie użyteczne w kwietniu 2024r.
       74×  statut
           [RDLP Gdańsku] Statut PGL LP
+      71×  schemat organizacyjny
+          [RDLP Olsztynie] Załącznik nr 1 - Schemat Organizacyjny
       71×  regulamin organizacyjny
           [Nadleśnictwo Ełk] Regulamin Organizacyjny Nadleśnictwa Ełk
-      70×  schemat organizacyjny
-          [RDLP Olsztynie] Załącznik nr 1 - Schemat Organizacyjny
-      46×  skrzynka e-doreczen
+      47×  skrzynka e-doreczen
           [RDLP Szczecinie] Skrzynka e-Doręczeń
       45×  raport stanie zapewnienia
           [Nadleśnictwo Cewice] Raport o stanie zapewnienia dostępności podmiotu publicznego.
@@ -62,10 +62,10 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Piwniczna] Informacja o dokonanym wyborze na wolne stanowisko pracy w Nadleśnictwi
       35×  plan dzialalnosci regionalnej
           [RDOŚ Gorzów Wlkp.] Plan działalności Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkop
+      30×  wykaz lesnictw
+          [Nadleśnictwo Krynki] Wykaz Leśnictw
       30×  srodki przekazane cele
           [Nadleśnictwo Lidzbark] Środki przekazane na cele społecznie użyteczne - rok 2024
-      29×  wykaz lesnictw
-          [Nadleśnictwo Krynki] Wykaz Leśnictw
       28×  zobacz szczegoly
           [Ministerstwo Klimatu i Środowiska] Zobacz szczegóły
       26×  ochrona danych osobowych
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 59266 wierszy z 466 źródeł
+Korpus: 59467 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1947  Dyrekcja Generalna LP
-    1855  RDOŚ Kraków
+    1856  RDOŚ Kraków
      730  RDLP Toruniu
-     683  RDOŚ Gorzów Wlkp.
-     490  Ministerstwo Klimatu i Środowiska
+     689  RDOŚ Gorzów Wlkp.
+     507  Ministerstwo Klimatu i Środowiska
+     482  Generalna Dyrekcja Ochrony Środowiska
      482  Nadleśnictwo Trzcianka
-     478  Generalna Dyrekcja Ochrony Środowiska
      455  RDOŚ Olsztyn
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     46428
-  rdos              6430
+  nadlesnictwo     46569
+  rdos              6469
   rdlp              3493
   dglp              1947
-  ministerstwo       490
-  gdos               478
+  ministerstwo       507
+  gdos               482
 
 ```

@@ -1,29 +1,21 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-01
+# Leśne Echo — wyciąg do analizy — 2026-08-02
 
-Okno 7 dni · spraw 257 · publikacji 308 · obszary szczególne 4 · nieznanych 67
+Okno 7 dni · spraw 280 · publikacji 348 · obszary szczególne 3 · nieznanych 78
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
-- ★★★ [Ministerstwo Klimatu i Środowiska] UNESCO docenia działania Polski na rzecz ochrony Puszczy Białowieskiej
-  https://www.gov.pl/web/klimat/unesco-docenia-dzialania-polski-na-rzecz-ochrony-puszczy-bialowieskiej  (BIP: ?)
-  🌲 Puszcza Białowieska
-- ★★ [RDOŚ Szczecin] Rozpoczynamy prace hydrologiczne na obszarze Natura 2000 Torfowisko Reptowo
-  https://www.gov.pl/web/rdos-szczecin/rozpoczynamy-prace-hydrologiczne-na-obszarze-natura-2000-torfowisko-reptowo  (BIP: ?)
-  🌲 Natura 2000 Torfowisko Reptowo
-  📍 RDOŚ Szczecin → leśn. Krągi
 - ★★ [RDOŚ Kraków] Obwieszczenie z 27 lipca 2026 r. znak OP.6320.17.2025.APg.2 dotyczące ustanowienia zmiany PZO dla obszaru Natura 2000 Babia Góra
   https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-27-lipca-2026-r-znak-op6320172025apg2-dotyczace-ustanowienia-zmiany-pzo-dla-obszaru-natura-2000-babia-gora  (BIP: 2026-07-27 00:00)
   🌲 Natura 2000 Babia Góra
 - ★★ [RDOŚ Bydgoszcz] Budowa urządzenia stabilizującego warunki hydrologiczne w obszarze Natura 2000 Błota Rakutowskie (WOA.082.6.2.2026.AA)
   https://www.gov.pl/web/rdos-bydgoszcz/budowa-urzadzenia-stabilizujacego-warunki-hydrologiczne-w-obszarze-natura-2000-blota-rakutowskie-woa082622026aa  (BIP: ?)
   🌲 Natura 2000 Błota Rakutowskie
+- ★★ [Generalna Dyrekcja Ochrony Środowiska] Plan ochrony dla obszaru Natura 2000 Ławica Słupska
+  https://www.gov.pl/web/gdos/plan-ochrony-dla-obszaru-natura-2000-lawica-slupska  (BIP: 2026-07-27 00:00)
+  🌲 Natura 2000 Ławica Słupska
 
 ## P1 — zegar tyka
 
--  [RDOŚ Bydgoszcz] Firmę tworzą ludzie. Poznaj bliżej Wydział Ocen Oddziaływania na Środowisko i dołącz do naszego zespołu
-  https://www.gov.pl/web/rdos-bydgoszcz/firme-tworza-ludzie-poznaj-blizej-wydzial-ocen-oddzialywania-na-srodowisko-i-dolacz-do-naszego-zespolu  (BIP: 2026-07-22 00:00)
--  [RDOŚ Olsztyn] Zmiana w BIP: Wariant C budowy drogi S16 Mrągowo-Orzysz-Ełk - zaktualizowany raport o oddziaływaniu na środowisko
-  https://www.gov.pl/web/rdos-olsztyn/wariant-c-budowy-drogi-s16-mragowo-orzysz-elk--zaktualizowany-raport-o-oddzialywaniu-na-srodowisko  (BIP: ?)
 -  [RDOŚ Kraków] Obwieszczenie z 28.07.2026r., znak: OO.420.4.3.2023.BM.22 o wydaniu decyzji o środowiskowych uwarunkowaniach - Budowa lewostronnego zabezpieczenia rzeki Ropy od mostu przy drodze powiatowej Starodroże- Biecz
   https://www.gov.pl/web/rdos-krakow/obwieszczenie-z-28072026r-znak-oo420432023bm22-o-wydaniu-decyzji-o-srodowiskowych-uwarunkowaniach---budowa-lewostronnego-zabezpieczenia-rzeki-ropy-od-mostu-przy-drodze-powiatowej-starodroze--biecz  (BIP: 2026-07-28 00:00)
 -  [Nadleśnictwo Manowo] PUL — decyzja zatwierdzająca — Nadleśnictwo Manowo
@@ -31,27 +23,6 @@ Okno 7 dni · spraw 257 · publikacji 308 · obszary szczególne 4 · nieznanych
 
 ## P2 — okno wpływu
 
--  [RDOŚ Wrocław] Las Pilczycki im. Prof. Dariusza Tarnawskiego pierwszym rezerwatem przyrody na terenie Wrocławia
-  https://www.gov.pl/web/rdos-wroclaw/las-pilczycki-im-prof-dariusza-tarnawskiego-pierwszym-rezerwatem-przyrody-na-terenie-wroclawia  (BIP: ?)
--  [Nadleśnictwo Augustów] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-augustow/informacje-o-kontrolach  (BIP: 2026-07-23 09:00)
--  [Nadleśnictwo Gołdap] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-goldap/informacje-o-kontrolach  (BIP: 2026-07-21 13:45)
--  [Nadleśnictwo Knyszyn] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-knyszyn/informacje-o-kontrolach  (BIP: 2026-07-22 15:36)
--  [Generalna Dyrekcja Ochrony Środowiska] Nowy rezerwat przyrody w województwie opolskim
-  https://www.gov.pl/web/gdos/nowy-rezerwat-przyrody-w-wojewodztwie-opolskim  (BIP: 2026-07-24 00:00)
--  [RDOŚ Białystok] Komunikat w sprawie rozpoczęcia konsultacji społecznych dla 5 projektowanych oraz powiększenia 3 istniejących rezerwatów przyrody w województwie podlaskim
-  https://www.gov.pl/web/rdos-bialystok/komunikat-w-sprawie-rozpoczecia-konsultacji-spolecznych-dla-5-projektowanych-oraz-powiekszenia-3-istniejacych-rezerwatow-przyrody-w-wojewodztwie-podlaskim2  (BIP: 2026-07-07 00:00)
--  [Nadleśnictwo Tuchola] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-tuchola/informacje-o-kontrolach  (BIP: 2026-07-20 09:37)
--  [Nadleśnictwo Zamrzenica] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-zamrzenica/informacje-o-kontrolach  (BIP: 2026-07-24 09:13)
-  📍 Nadl. Zamrzenica → leśn. Zamrzenica
--  [RDOŚ Gorzów Wlkp.] Raport z konsultacji I tury planowanych do utworzenia nowych rezerwatów przyrody na terenie województwa lubuskiego
-  https://www.gov.pl/web/rdos-gorzow-wielkopolski/raport-z-konsultacji-i-tury-planowanych-do-utworzenia-nowych-rezerwatow-przyrody-na-terenie-wojewodztwa-lubuskiego  (BIP: ?)
--  [Nadleśnictwo Wipsowo] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-wipsowo/informacje-o-kontrolach  (BIP: 2026-07-23 14:25)
 -  [Nadleśnictwo Łopuchówko] Ogłoszenie o przetargu na dzierżawę zbiornika wodnego
   https://www.gov.pl/attachment/bb7b182b-22eb-4a5f-a149-8c857fe58dc2  (BIP: 2026-07-27 07:19)
 -  [Nadleśnictwo Daleszyce] Informacja_o_kontrolach_przeprowadzonych_w_Nadleśnictwie_Daleszyce_w_okresie_od_1_stycznia_2026_r_do_22_lipca_2026_r
@@ -129,21 +100,30 @@ Okno 7 dni · spraw 257 · publikacji 308 · obszary szczególne 4 · nieznanych
   https://www.gov.pl/attachment/70579d59-cace-42dc-a63b-eaffde650cd9  (BIP: 2026-07-30 10:32)
 -  [Nadleśnictwo Antonin] Zmiana w BIP: Ochrona przyrody
   https://www.gov.pl/web/nadlesnictwo-antonin/ochrona-przyrody  (BIP: 2026-07-30 13:28)
+-  [Nadleśnictwo Torzym] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-torzym/informacje-o-kontrolach  (BIP: 2026-07-31 12:16)
+-  [Nadleśnictwo Miłomłyn] Kontrole przeprowadzone w roku 2025.3
+  https://www.gov.pl/attachment/9efcf054-35d1-46a8-9274-1fe2f7520c06  (BIP: 2026-07-27 10:30)
+-  [Nadleśnictwo Bolewice] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-bolewice/informacje-o-kontrolach  (BIP: 2026-07-30 12:52)
+  📍 Nadl. Bolewice → leśn. Lewice
+-  [Nadleśnictwo Szczebra] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-szczebra/informacje-o-kontrolach  (BIP: 2026-07-30 10:58)
+-  [Nadleśnictwo Susz] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-susz/informacje-o-kontrolach  (BIP: 2026-07-30 09:53)
+  📍 Nadl. Susz → leśn. Szwalewo
+-  [RDOŚ Kielce] Ogłoszenie o zakończeniu konsultacji społecznych - rezerwat „Cisów im. prof. Zygmunta Czubińskiego”
+  https://www.gov.pl/web/rdos-kielce/ogloszenie-o-zakonczeniu-konsultacji-spolecznych--rezerwat-cisow-im-prof-zygmunta-czubinskiego  (BIP: 2026-07-30 00:00)
+-  [Nadleśnictwo Chotyłów] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-chotylow/informacje-o-kontrolach  (BIP: 2026-07-28 12:10)
+  📍 Nadl. Chotyłów → leśn. Kłoda
+-  [Ministerstwo Klimatu i Środowiska] Sejm przyjął projekt nowelizacji ustawy Prawo ochrony środowiska
+  https://www.gov.pl/web/klimat/sejm-przyjal-projekt-nowelizacji-ustawy-prawo-ochrony-srodowiska  (BIP: ?)
+-  [Nadleśnictwo Tomaszów] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-tomaszow/informacje-o-kontrolach  (BIP: 2026-07-28 14:34)
 
 ## P3 — sygnały
 
--  [Nadleśnictwo Ustka] Zarządzenie nr 12/26 wraz z załacznikiem nr 4 do Regulaminu organizacyjnego N. Ustka 10.03.2026
-  https://www.gov.pl/attachment/8c328d24-25e0-4584-a666-8641c9ff4d4a  (BIP: 2026-07-23 09:00)
--  [Nadleśnictwo Szubin] Wykaz_aktualnie_obowiazujacych_zarzadzen
-  https://www.gov.pl/attachment/3c335100-5afe-4ec2-82bf-282207711b9f  (BIP: 2026-07-20 08:15)
--  [RDOŚ Gorzów Wlkp.] Postępowanie w związku z obserwacją Inwazyjnych Gatunków Obcych w środowisku
-  https://www.gov.pl/web/rdos-gorzow-wielkopolski/postepowanie-w-zwiazku-z-obserwacja-inwazyjnych-gatunkow-obcych-w-srodowisku  (BIP: ?)
--  [Nadleśnictwo Kalisz Pomorski] Zarządzenie Nr 46.2026 z 15.lipca 2026 r. w sprawie zmian w Reg kontroli wewntrznej
-  https://www.gov.pl/attachment/5b2e1a02-603a-4832-b849-214549853ff6  (BIP: 2026-07-23 15:34)
--  [Nadleśnictwo Skwierzyna] Zarządzenie nr 43 2026 zmieniające zarządzenie nr 39 2025 z dnia 01.08.2025 w sprawie wprowadzenia zmian w regulaminie organizacyjnym
-  https://www.gov.pl/attachment/adb751ca-ef05-4bfe-acf5-f3be8da8bb72  (BIP: 2026-07-24 13:43)
--  [Ministerstwo Klimatu i Środowiska] Briefing prasowy z udziałem ministry klimatu i środowiska Pauliny Hennig-Kloski na terenie Mokradła Pyszka - projekt renaturyzacji rzeki Pysznicy, zrealizowany przez Związek Miast i Gmin Dorzecza Parsęty
-  https://www.gov.pl/web/klimat/briefing-prasowy-z-udzialem-ministry-klimatu-i-srodowiska-pauliny-hennig-kloski-na-terenie-mokradla-pyszka---projekt-renaturyzacji-rzeki-pysznicy-zrealizowany-przez-zwiazek-miast-i-gmin-dorzecza-parsety  (BIP: ?)
 -  [Nadleśnictwo Drygały] Decyzja Nr 11/2026 Nadleśniczego Nadleśnictwa Drygały w sprawie jednostronnego przekazania - przejęcia majątku i dokumentów na stanowisku podleśniczego w Nadleśnictwie Drygały
   https://www.gov.pl/attachment/e1156d34-eca9-4440-95bb-cbfd55c6cf79  (BIP: 2026-07-27 08:04)
   📍 Nadl. Drygały → leśn. Lisuny
@@ -279,7 +259,7 @@ Okno 7 dni · spraw 257 · publikacji 308 · obszary szczególne 4 · nieznanych
   https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-31-lipca-2026-r-znak-doos-wdsii420142025awt3  (BIP: 2026-07-31 00:00)
 -  [Nadleśnictwo Zdroje] Wykonanie dokumentacji projektowej dla zadań w Projekcie "Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu - mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich - kontynuacja (MRG3), współfinansowanych ze środków Programu Fundusze Europejskie na Infrastrukturę, Klimat i Środowisko 2021-2027 (FEnIKS) (III)
   https://www.gov.pl/web/nadlesnictwo-zdroje/wykonanie-dokumentacji-projektowej-dla-zadan-w-projekcie-kompleksowy-projekt-adaptacji-lasow-i-lesnictwa-do-zmian-klimatu---mala-retencja-oraz-przeciwdzialanie-erozji-wodnej-na-terenach-gorskich---kontynuacja-mrg3-wspolfinansowanych-ze-srodkow-programu-fundusze-europejskie-na-infrastrukture-klimat-i-srodowisko-2021-2027-feniks-iii  (BIP: ?)
-  📍 Nadl. Zdroje → leśn. Bobrowniki → oddz. 31a
+  📍 Nadl. Zdroje → leśn. Bobrowniki
 -  [Nadleśnictwo Złoty Potok] Wykaz Decyzji Nadleśniczego Nadleśnictwa Złoty Potok - stan na dzień 2026.07.29
   https://www.gov.pl/attachment/5cd666db-ae95-43ec-8df8-81dafcca2b6b  (BIP: 2026-07-30 07:52)
 -  [Nadleśnictwo Łagów] Wykaz zarządzeń i decyzji Nadleśniczego Nadleśnictwa Łagów wydanych w 2026 roku
@@ -358,33 +338,15 @@ Okno 7 dni · spraw 257 · publikacji 308 · obszary szczególne 4 · nieznanych
   https://www.gov.pl/attachment/0a58ae91-655e-4c4d-a4df-91c1135e3a5b  (BIP: 2026-07-31 12:16)
 -  [Nadleśnictwo Tuczno] WYKAZ ZARZĄDZEŃ NADLEŚNICZEGO NADLEŚNICTWA TUCZNO W 2026 R.
   https://www.gov.pl/attachment/b4710a62-a59e-45d8-aafc-29955d93141a  (BIP: 2026-07-30 10:32)
+-  [Nadleśnictwo Szubin] Wykaz_aktualnie_obowiazujacych_decyzji
+  https://www.gov.pl/attachment/76d36f3d-8dcb-4adb-a262-de504cadb2b2  (BIP: 2026-07-27 07:44)
+-  [Nadleśnictwo Kalisz Pomorski] Zarządzenie Nr 48.2026 z 15 lipca 2026 r. zmieniające do Regulaminu Organizacyjnego
+  https://www.gov.pl/attachment/34c3d156-464a-4fb2-9549-7a49be3f2174  (BIP: 2026-07-28 07:53)
+-  [Ministerstwo Klimatu i Środowiska] Renaturyzacja z bezzwrotnym wsparciem. Samorządy i NGOsy mogą sięgnąć po miliony
+  https://www.gov.pl/web/klimat/renaturyzacja-z-bezzwrotnym-wsparciem-aamorzady-i-ngosy-moga-siegnac-po-miliony  (BIP: ?)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
-- [Nadleśnictwo Węgliniec] Skrzynka E-Doręczeń
-- [Nadleśnictwo Trzebielino] Wydatkowanie środków na cele społecznie użyteczne 6.2026 Wydatkowanie środków na cele społecznie użyteczne
-- [Nadleśnictwo Sulechów] Ustawa o lasach DZ.U. z 2026 r. poz. 663
-- [Ministerstwo Klimatu i Środowiska] Prowadzisz mały sklep? Poznaj obowiązki w systemie kaucyjnym
-- [Ministerstwo Klimatu i Środowiska] Cyberbezpieczeństwo w sektorze gospodarowania odpadami
-- [Generalna Dyrekcja Ochrony Środowiska] Sukcesy RDOŚ w Bydgoszczy w ochronie ptaków siewkowych
-- [Generalna Dyrekcja Ochrony Środowiska] Projekt „Ochrona niedźwiedzia brunatnego poprzez minimalizowanie sytuacji konfliktowych z jego udziałem na terenie województwa podkarpackiego i małopolskiego” oficjalnie zainaugurowany przez RDOŚ w Rzeszowie
-- [Generalna Dyrekcja Ochrony Środowiska] 3 dni otwartych debat w Prowansji, wśród prelegentów Piotr Otawski, Generalny Dyrektor Ochrony Środowiska
-- [Generalna Dyrekcja Ochrony Środowiska] Ochrona przeciwpowodziowa Żuław Wiślanych a aktywność bobrów - spotkanie w GDOŚ
-- [RDOŚ Białystok] Posiedzenie Zespołu Lokalnej Współpracy
-- [RDOŚ Białystok] RDOŚ w Białymstoku konsultuje utworzenie i powiększenie rezerwatów o powierzchni niemal 1000 hektarów
-- [Nadleśnictwo Tuchola] Ustawa o lasach
-- [RDOŚ Bydgoszcz] Spacer wśród prastarych drzew. Trasa w rezerwacie cisów Jelenia Góra otwarta!
-- [RDOŚ Bydgoszcz] Konkurs artystyczny na plakat Dnia Krajobrazu 2026
-- [Nadleśnictwo Żołędowo] Dane teleadresowe biura nadleśnictwa 06 2026
-- [Nadleśnictwo Żołędowo] Dane teleadresowe leśnictw 06.2026
-- [RDOŚ Kraków] Polityka środowiskowa
-- [Nadleśnictwo Kaczory] Wydatkowanie środków na cele społecznie użyteczne w 2026 roku, stan na dzień 2026.07.21
-- [Nadleśnictwo Wejherowo] Wydatkowanie środków na cele społecznie użyteczne maj 2026 r.
-- [Nadleśnictwo Wejherowo] Wydatkowanie środków na cele społecznie użyteczne czerwiec 2026 r.
-- [RDOŚ Opole] Konferencja Polskiego Stowarzyszenia Energetyki Wiatrowej 2026
-- [Nadleśnictwo Grodzisk] Regulamin Organizacyjny Nadleśnictwa Grodzisk Regulamin_Organizacyjny_Nadleśnictwa_Grodzisk
-- [Ministerstwo Klimatu i Środowiska] Briefing prasowy z udziałem ministry klimatu i środowiska Pauliny Hennig-Kloski - otwarcie pierwszego budynku po kompleksowej modernizacji w ramach Programu modernizacji budynków wielorodzinnych na terenach wiejskich
-- [RDOŚ Warszawa] Dodatkowe dni wolne od pracy
 - [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
 - [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa
 - [Nadleśnictwo Maskulińskie] Załącznik nr 3 - projekt umowy
@@ -401,3 +363,27 @@ Okno 7 dni · spraw 257 · publikacji 308 · obszary szczególne 4 · nieznanych
 - [Nadleśnictwo Sarbia] Mapa działka ewidencyjna 672.2
 - [Nadleśnictwo Węgierska Górka] Ogłoszenie_o_naborze_na_staż_2026
 - [Nadleśnictwo Węgierska Górka] Załącznik_nr_1_-_podanie_o_przyjęcie_na_staż
+- [Nadleśnictwo Węgierska Górka] Załącznik_nr_2_-_oświadczenie_dotyczące_przetwarzania_danych_osobowych
+- [Nadleśnictwo Węgierska Górka] Załącznik_nr_3_-_oświadczenie_kandydata_o_nieodbyciu_stażu_w_latach_ubiegłych
+- [Nadleśnictwo Gryfice] Zamówienia publiczne poniżej kwoty 170 000 zł
+- [Nadleśnictwo Węgierska Górka] Polityka antykorupcyjna
+- [Nadleśnictwo Osusznica] Obwieszczenie o II pisemnym przetargu nieograniczonym na sprzedaż zbędnych środków trwałych oraz niskocennych składnikow majątku
+- [Nadleśnictwo Osusznica] Załącznik nr 1 II obwieszczenie
+- [Nadleśnictwo Osusznica] Załącznik nr 2 II obwieszczenie
+- [Nadleśnictwo Osusznica] Załącznik nr 3 II obwieszczenie
+- [RDLP Pile] Wstępne ogłoszenia informacyjne
+- [Nadleśnictwo Potrzebowice] zał. nr 1 Wykaz zbędnych środków trwałych i wyposażenia przetagr II
+- [Nadleśnictwo Syców] II przetarg na sprzedaż maszyn
+- [Nadleśnictwo Krzystkowice] Zmiana cennika detalicznego drewa i produktów użytkowania ubocznego w Nadleśnictwie Krzystkowice od 30.07.2026 roku
+- [Nadleśnictwo Krzystkowice] Załącznik nr 1 - Wykaz składników majątkowych przeznaczonych do sprzedaży
+- [Nadleśnictwo Cisna] Ogłoszenia o zmianie umowy 2026
+- [Nadleśnictwo Trzebież] Załącznik_nr_3_-_Przedmiar_robót
+- [Nadleśnictwo Trzebież] Załącznik_nr_4_-_Projekt_umowy
+- [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
+- [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa
+- [Nadleśnictwo Maskulińskie] Załącznik nr 3 - umowa
+- [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
+- [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa sytuacyjna Załącznik_nr_2_-_mapa
+- [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
+- [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa sytuacyjna
+- [Nadleśnictwo Rudka] Budowa zbiornika naziemnego w Gospodarstwie Szkółkarskim - postępowanie nr II

@@ -1,6 +1,6 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-02
+# Leśne Echo — wyciąg do analizy — 2026-08-03
 
-Okno 7 dni · spraw 280 · publikacji 348 · obszary szczególne 3 · nieznanych 78
+Okno 7 dni · spraw 273 · publikacji 337 · obszary szczególne 3 · nieznanych 76
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -23,10 +23,6 @@ Okno 7 dni · spraw 280 · publikacji 348 · obszary szczególne 3 · nieznanych
 
 ## P2 — okno wpływu
 
--  [Nadleśnictwo Łopuchówko] Ogłoszenie o przetargu na dzierżawę zbiornika wodnego
-  https://www.gov.pl/attachment/bb7b182b-22eb-4a5f-a149-8c857fe58dc2  (BIP: 2026-07-27 07:19)
--  [Nadleśnictwo Daleszyce] Informacja_o_kontrolach_przeprowadzonych_w_Nadleśnictwie_Daleszyce_w_okresie_od_1_stycznia_2026_r_do_22_lipca_2026_r
-  https://www.gov.pl/attachment/13e34820-eda6-4ced-9bb1-d43671ad6793  (BIP: 2026-07-27 07:53)
 -  [Nadleśnictwo Lubin] Plan urządzenia lasu na lata 2016-2025
   https://www.gov.pl/web/nadlesnictwo-lubin/pul-2016-2025  (BIP: 2026-07-20 14:26)
 -  [Nadleśnictwo Pieńsk] Uzasadnienie wraz z odpowiedzią na zgłoszone wnioski do PUL
@@ -124,23 +120,6 @@ Okno 7 dni · spraw 280 · publikacji 348 · obszary szczególne 3 · nieznanych
 
 ## P3 — sygnały
 
--  [Nadleśnictwo Drygały] Decyzja Nr 11/2026 Nadleśniczego Nadleśnictwa Drygały w sprawie jednostronnego przekazania - przejęcia majątku i dokumentów na stanowisku podleśniczego w Nadleśnictwie Drygały
-  https://www.gov.pl/attachment/e1156d34-eca9-4440-95bb-cbfd55c6cf79  (BIP: 2026-07-27 08:04)
-  📍 Nadl. Drygały → leśn. Lisuny
--  [Nadleśnictwo Gidle] Zarządzenie nr 1 z 2024 roku w sprawie przyjmowania i rozpatrywania skarg i wniosków
-  https://www.gov.pl/attachment/84414437-af5c-46db-8624-b313c0e0632a  (BIP: 2026-07-27 08:36)
--  [Nadleśnictwo Babimost] Wykaz wydanych zarządzeń Nadleśniczego Nadleśnictwa Babimost 2026 - stan na 22.07.2026 r.
-  https://www.gov.pl/attachment/df0dd58c-4e50-462a-b702-27933e4868c5  (BIP: 2026-07-27 08:37)
--  [Nadleśnictwo Daleszyce] Wykaz_Decyzji_Nadleśniczego_Nadleśnictwa_Daleszyce_wprowadzonych_od_dnia_01_stycznia_2026_roku_do_dnia_22_lipca_2026_roku
-  https://www.gov.pl/attachment/476ad24f-80ea-4583-95cd-7bef1857cc8f  (BIP: 2026-07-27 07:58)
--  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 23.07.2026 r. znak: WOO-I.420.11.2023.SK.31
-  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-23072026-r-znak-woo-i420112023sk31  (BIP: 2026-07-23 00:00)
--  [RDOŚ Kielce] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Kielcach z dnia 23.07.2026 r. znak: WOO-I.420.13.2025.SK.18
-  https://www.gov.pl/web/rdos-kielce/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-kielcach-z-dnia-23072026-r-znak-woo-i420132025sk18  (BIP: 2026-07-23 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 21 lipca 2026 r., znak: WSTS.670.46.2025.KO.13
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-21-lipca-2026-r-znak-wsts670462025ko13  (BIP: 2026-07-21 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 24 lipca 2026 r., znak: WOOŚ-II.420.86.2022.PT/CS.11
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-24-lipca-2026-r-znak-woos-ii420862022ptcs11  (BIP: 2026-07-24 00:00)
 -  [Nadleśnictwo Kańczuga] Plan_postępowań_2026_w_4
   https://www.gov.pl/attachment/ee6dacc3-c3cd-4cce-80f4-c54e6947b119  (BIP: 2026-07-27 11:54)
 -  [Nadleśnictwo Tuszyma] Zarządzenia i Decyzje 2026
@@ -344,12 +323,21 @@ Okno 7 dni · spraw 280 · publikacji 348 · obszary szczególne 3 · nieznanych
   https://www.gov.pl/attachment/34c3d156-464a-4fb2-9549-7a49be3f2174  (BIP: 2026-07-28 07:53)
 -  [Ministerstwo Klimatu i Środowiska] Renaturyzacja z bezzwrotnym wsparciem. Samorządy i NGOsy mogą sięgnąć po miliony
   https://www.gov.pl/web/klimat/renaturyzacja-z-bezzwrotnym-wsparciem-aamorzady-i-ngosy-moga-siegnac-po-miliony  (BIP: ?)
+-  [Nadleśnictwo Kamienna Góra] Wykaz zarządzeń 2025
+  https://www.gov.pl/attachment/b7f5eaa8-d7f7-4889-85d5-9052755d911c  (BIP: 2026-08-03 07:17)
+-  [Nadleśnictwo Krosno] Zarzadzenia_Nadleśniczego_Nadleśnictwa_Krosno_BIP_do_nr_42_2026_i_aneksy_do_zarządzeń
+  https://www.gov.pl/attachment/a597239c-0672-407b-91be-5f083a6faa3b  (BIP: 2026-08-03 08:09)
+-  [Nadleśnictwo Kolbuszowa] Zestawienie zarządzeń Nadleśniczego Nadleśnictwa Kolbuszowa - stan na 30 lipiec 2026 r.
+  https://www.gov.pl/attachment/6e489277-701a-4a72-ba71-2338694d3a4c  (BIP: 2026-08-03 07:27)
+-  [Nadleśnictwo Ustrzyki Dolne] Zarządzenia Nadleśniczego Nadleśnictwa Ustrzyki Dolne w 2026 r. 03.08.2026 r.
+  https://www.gov.pl/attachment/c76b6486-14af-4c4c-8cae-758295ee5a09  (BIP: 2026-08-03 08:26)
+-  [RDOŚ Kielce] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z dnia 27 lipca 2026 r. znak: DOOŚ-WDŚIII.420.33.2025.AL.14
+  https://www.gov.pl/web/rdos-kielce/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-dnia-27-lipca-2026-r-znak-doos-wdsiii420332025al14  (BIP: 2026-07-27 00:00)
+-  [Nadleśnictwo Czersk] Plan zamówień publicznych 2026 wersja 2
+  https://www.gov.pl/attachment/1b4a9d4e-78a2-4a3d-a2a6-d9ce276f3076  (BIP: 2026-08-03 07:31)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
-- [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
-- [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa
-- [Nadleśnictwo Maskulińskie] Załącznik nr 3 - projekt umowy
 - [Nadleśnictwo Rokita] Załącznik do ogłoszenia
 - [Nadleśnictwo Piaski] Ogłoszenie o pisemnym przetargu Dacia Duster
 - [Nadleśnictwo Piaski] Wycena nr 2026.07.06.AD samochód Dacia Duster
@@ -387,3 +375,6 @@ Okno 7 dni · spraw 280 · publikacji 348 · obszary szczególne 3 · nieznanych
 - [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
 - [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa sytuacyjna
 - [Nadleśnictwo Rudka] Budowa zbiornika naziemnego w Gospodarstwie Szkółkarskim - postępowanie nr II
+- [Nadleśnictwo Rudka] Termomodernizacja leśniczówki Pietkowo
+- [Nadleśnictwo Podanin] Załącznik_nr_3_-_RODO_do_przetargu
+- [Nadleśnictwo Bystrzyca Kłodzka] Wydatkowanie środków na cele społecznie użyteczne

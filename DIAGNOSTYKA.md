@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-03 07:11 UTC
+# Leśne Echo — diagnostyka — 2026-08-04 06:19 UTC
 
 ## Wersja reguł
 ```
@@ -13,12 +13,12 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7443
-  artykul         4004
+  dokument        7448
+  artykul         4008
 
 ── wg szczebla ──
-  nadlesnictwo      8601
-  rdos              1641
+  nadlesnictwo      8609
+  rdos              1642
   rdlp               670
   ministerstwo       362
   gdos               122
@@ -28,11 +28,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
      494×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
-     413×  elektroniczna skrzynka podawcza
+     414×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
-     394×  dane teleadresowe
+     395×  dane teleadresowe
           [RDOŚ Opole] Dane teleadresowe
-     333×  dostepnosc raport
+     334×  dostepnosc raport
           [Dyrekcja Generalna LP] Dostępność raport
      307×  statut panstwowego gospodarstwa
           [Dyrekcja Generalna LP] Statut Państwowego Gospodarstwa Leśnego Lasy Państwowe
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 59497 wierszy z 466 źródeł
+Korpus: 59597 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1947  Dyrekcja Generalna LP
-    1856  RDOŚ Kraków
+    1862  RDOŚ Kraków
      730  RDLP Toruniu
      689  RDOŚ Gorzów Wlkp.
      507  Ministerstwo Klimatu i Środowiska
-     482  Generalna Dyrekcja Ochrony Środowiska
+     486  Generalna Dyrekcja Ochrony Środowiska
      482  Nadleśnictwo Trzcianka
      455  RDOŚ Olsztyn
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     46592
-  rdos              6473
-  rdlp              3496
+  nadlesnictwo     46659
+  rdos              6500
+  rdlp              3498
   dglp              1947
   ministerstwo       507
-  gdos               482
+  gdos               486
 
 ```

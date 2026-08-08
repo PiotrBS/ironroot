@@ -1,6 +1,6 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-07
+# Leśne Echo — wyciąg do analizy — 2026-08-08
 
-Okno 7 dni · spraw 338 · publikacji 404 · obszary szczególne 9 · nieznanych 83
+Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych 89
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -38,6 +38,8 @@ Okno 7 dni · spraw 338 · publikacji 404 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/attachment/a05b7d5e-2cd1-477b-8882-e93d8333eefc  (BIP: 2026-07-30 14:13)
 -  [Nadleśnictwo Olkusz] Uzgodnienie Aneksu do PUL przez RDOŚ w Krakowie
   https://www.gov.pl/attachment/a2ccd95c-53c4-485a-a1f8-4fc1a853fb66  (BIP: 2026-08-05 22:04)
+-  [Nadleśnictwo Gryfino] PUL — decyzja zatwierdzająca — Nadleśnictwo Gryfino na lata
+  https://www.gov.pl/attachment/6f1a094a-7547-402b-a303-ecec887750c0  (BIP: 2026-08-07 10:51)
 
 ## P2 — okno wpływu
 
@@ -133,6 +135,16 @@ Okno 7 dni · spraw 338 · publikacji 404 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/web/nadlesnictwo-przymuszewo/informacja-o-kontrolach  (BIP: 2026-08-06 13:52)
 -  [Nadleśnictwo Lipusz] Zmiana w BIP: Informacja o kontrolach
   https://www.gov.pl/web/nadlesnictwo-lipusz/informacja-o-kontrolach  (BIP: 2026-08-06 08:27)
+-  [Nadleśnictwo Tuszyma] Obwieszczenie w sprawie zarządzeń dot. rezerwatów Bagno Przecławskie, Końskie Błota i Torfy
+  https://www.gov.pl/attachment/f25b163e-f798-4da5-898c-4fbdc6a90d0a  (BIP: 2026-08-07 12:53)
+-  [RDOŚ Poznań] Zmiana w BIP: PLANOWANE REZERWATY PRZYRODY Komunikat w sprawie rozpoczęcia konsultacji
+  https://www.gov.pl/web/rdos-poznan/planowane-rezerwaty-przyrody-komunikat-w-sprawie-rozpoczecia-konsultacji  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Udział społeczeństwa w sprawie pierwszej w Polsce Elektrowni Jądrowej
+  https://www.gov.pl/web/rdos-poznan/udzial-spoleczenstwa-w-sprawie-pierwszej-w-polsce-elektrowni-jadrowej  (BIP: ?)
+-  [Nadleśnictwo Korpele] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-korpele/informacja-o-kontrolach  (BIP: 2026-08-07 14:18)
+-  [Nadleśnictwo Jawor] Przetarg II na dzierżawę gruntu
+  https://www.gov.pl/web/nadlesnictwo-jawor/przetarg-ii-na-dzierzawe-gruntu  (BIP: 2024-02-16 15:03)
 
 ## P3 — sygnały
 
@@ -452,6 +464,55 @@ Okno 7 dni · spraw 338 · publikacji 404 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-5-sierpnia-2026-r-znak-woos420372026wk9  (BIP: 2026-08-05 00:00)
 -  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 6 sierpnia 2026 r., znak: WOOŚ.420.27.2026.WM.2
   https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-6-sierpnia-2026-r-znak-woos420272026wm2  (BIP: 2026-08-06 00:00)
+-  [Nadleśnictwo Zawadzkie] Wykaz obowiązujących Zarządzeń i Decyzji Nadleśniczego na dzień 07.08.2026
+  https://www.gov.pl/attachment/49d3bab8-4c4e-4e4b-91a1-6d96dc8bcaea  (BIP: 2026-08-07 14:03)
+-  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 18 czerwca 2026 r., publikowane w Dzienniku Urzędowym Województwa Pomorskiego, poz. 2623
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-18-czerwca-2026-r-publikowane-w-dzienniku-urzedowym-wojewodztwa-pomorskiego-poz-2623  (BIP: 2026-06-18 00:00)
+-  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 27 maja 2026 r., publikowane w Dzienniku Urzędowym Województwa Pomorskiego, poz. 2520
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-27-maja-2026-r-publikowane-w-dzienniku-urzedowym-wojewodztwa-pomorskiego-poz-2520  (BIP: 2026-05-27 00:00)
+-  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 27 maja 2026 r., publikowane w Dzienniku Urzędowym Województwa Pomorskiego, poz. 2521
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-27-maja-2026-r-publikowane-w-dzienniku-urzedowym-wojewodztwa-pomorskiego-poz-2521  (BIP: 2026-05-27 00:00)
+-  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 8 czerwca 2026 r., publikowane w Dzienniku Urzędowym Województwa Pomorskiego, poz. 2517
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-8-czerwca-2026-r-publikowane-w-dzienniku-urzedowym-wojewodztwa-pomorskiego-poz-2517  (BIP: 2026-06-08 00:00)
+-  [RDOŚ Gdańsk] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku z dnia 27 maja 2026 r., publikowane w Dzienniku Urzędowym Województwa Pomorskiego, poz. 2519
+  https://www.gov.pl/web/rdos-gdansk/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-z-dnia-27-maja-2026-r-publikowane-w-dzienniku-urzedowym-wojewodztwa-pomorskiego-poz-2519  (BIP: 2026-05-27 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-08-07 r. znak WOOŚ.420.29.2026.EGK.18
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-08-07-r-znak-woos420292026egk18  (BIP: 2026-08-07 00:00)
+-  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-08-06 r. znak WOOŚ.420.13.2024.AM.54
+  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-08-06-r-znak-woos420132024am54  (BIP: 2026-08-06 00:00)
+-  [Nadleśnictwo Czaplinek] Aktualne zarządzenia i decyzje Nadleśniczego Nadleśnictwa Czaplinek - stan na dzień 07.08.2026 r.
+  https://www.gov.pl/attachment/9e2b1fc6-d323-489b-89d3-9f15b704716a  (BIP: 2026-08-07 09:43)
+-  [Nadleśnictwo Sobibór] Decyzje Nadleśniczego Nadleśnictwa Sobibór sierpień 2026 Decyzje Nadleśniczego Nadleśnictwa Sobibór sierpień
+  https://www.gov.pl/attachment/5cbb93d5-4390-4705-9c31-15912d3a7d73  (BIP: 2026-08-07 08:31)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 7 sierpnia 2026 r., znak: WOOŚ-I.420.5.2026.KR.18
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-7-sierpnia-2026-r-znak-woos-i42052026kr18  (BIP: 2026-08-07 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 7 sierpnia 2026 r., znak: WOOŚ-I.420.87.2026.MBR.11
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-7-sierpnia-2026-r-znak-woos-i420872026mbr11  (BIP: 2026-08-07 00:00)
+-  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 7 sierpnia 2026 r., znak: WOOŚ-I.420.68.2026.AGO.14
+  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-7-sierpnia-2026-r-znak-woos-i420682026ago14  (BIP: 2026-08-07 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 7 sierpnia 2026 r. znak: WOOŚ.420.33.2026.MSA.3
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-7-sierpnia-2026-r-znak-woos420332026msa3  (BIP: 2026-08-07 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 7 sierpnia 2026 r., znak: WOOŚ.420.55.2023.SD.67
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-7-sierpnia-2026-r-znak-woos420552023sd67  (BIP: 2026-08-07 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 7 sierpnia 2026 r., znak: WOOŚ.420.22.2026.AM.13
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-7-sierpnia-2026-r-znak-woos420222026am13  (BIP: 2026-08-07 00:00)
+-  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 7 sierpnia 2026 r., znak WOOŚ.420.24.2026.MMI.11
+  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-7-sierpnia-2026-r-znak-woos420242026mmi11  (BIP: 2026-08-07 00:00)
+-  [Nadleśnictwo Świdwin] Wykaz Decyzji Nadleśniczego 07.08.2026
+  https://www.gov.pl/attachment/cc523f4a-d68e-42eb-bc8d-98c0ccfa9dbd  (BIP: 2026-08-07 13:58)
+-  [Nadleśnictwo Korpele] Zarządzenie nr 29/2026 z dnia 07.08.2026 r. w sprawie wprowadzenia Regulaminu Zakładowego Funduszu Świadczeń Socjalnych w Nadleśnictwie Korpele
+  https://www.gov.pl/attachment/edbd9ded-3cf3-47df-bac3-3088559517b0  (BIP: 2026-08-07 14:39)
+  📍 Nadl. Korpele → leśn. Dębówko → oddz. 3f
+-  [Nadleśnictwo Durowo] Zarządzenie nr 30 w sprawie organizacji przyjmowania i rozpatrywania skarg i wniosków w Nadleśnictwie Durowo.
+  https://www.gov.pl/attachment/ace2af54-8a17-4063-b5be-ea155e472beb  (BIP: 2026-08-07 08:16)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 7 sierpnia 2026 r., znak: DOOŚ-WDŚI.420.28.2025.PS.28
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-7-sierpnia-2026-r-znak-doos-wdsi420282025ps28  (BIP: 2026-08-07 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 7 sierpnia 2026 r., znak: DOOŚ-WDŚI.420.23.2024.KK.72
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-7-sierpnia-2026-r-znak-doos-wdsi420232024kk72  (BIP: 2026-08-07 00:00)
+-  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 7 sierpnia 2026 r., znak: DOOŚ-WDŚI.420.9.2026.PCh.20
+  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-7-sierpnia-2026-r-znak-doos-wdsi42092026pch20  (BIP: 2026-08-07 00:00)
+-  [Nadleśnictwo Kobiór] Zarządzenia i decyzje Nadleśniczego Nadleśnictwa Kobiór z 2026 roku - stan na 06.08.2026r
+  https://www.gov.pl/attachment/6c28da20-2696-4e3a-925c-388b221385d3  (BIP: 2026-08-07 10:50)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 

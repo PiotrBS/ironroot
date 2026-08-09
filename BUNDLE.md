@@ -1,12 +1,9 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-08
+# Leśne Echo — wyciąg do analizy — 2026-08-09
 
-Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych 89
+Okno 7 dni · spraw 493 · publikacji 555 · obszary szczególne 18 · nieznanych 142
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
-- ★★ [RDOŚ Bydgoszcz] Budowa urządzenia stabilizującego warunki hydrologiczne w obszarze Natura 2000 Błota Rakutowskie (WOA.082.6.2.2026.AA)
-  https://www.gov.pl/web/rdos-bydgoszcz/budowa-urzadzenia-stabilizujacego-warunki-hydrologiczne-w-obszarze-natura-2000-blota-rakutowskie-woa082622026aa  (BIP: ?)
-  🌲 Natura 2000 Błota Rakutowskie
 - ★★ [Generalna Dyrekcja Ochrony Środowiska] Plan ochrony dla obszaru Natura 2000 Ławica Słupska
   https://www.gov.pl/web/gdos/plan-ochrony-dla-obszaru-natura-2000-lawica-slupska  (BIP: 2026-07-27 00:00)
   🌲 Natura 2000 Ławica Słupska
@@ -31,50 +28,51 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
 - ★★ [RDOŚ Rzeszów] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska w Rzeszowie z dnia 21 lipca 2026 r. w sprawie ustanowienia planu ochrony dla rezerwatu przyrody "Torfy"
   https://www.gov.pl/web/rdos-rzeszow/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-w-rzeszowie-z-dnia-21-lipca-2026-r-w-sprawie-ustanowienia-planu-ochrony-dla-rezerwatu-przyrody-torfy  (BIP: 2026-07-21 00:00)
   🌲 Rezerwat Torfy
+- ★★ [RDOŚ Katowice] Aktualizacja - Konsultacje społeczne w sprawie propozycji utworzenia rezerwatu przyrody Głębokie Doły
+  https://www.gov.pl/web/rdos-katowice/konsultacje-spoleczne-w-sprawie-propozycji-utworzenia-rezerwatu-przyrody-glebokie-doly  (BIP: 2026-06-26 00:00)
+  🌲 Rezerwat Głębokie Doły
+- ★★ [RDOŚ Lublin] Spotkanie dotyczące rezerwatu przyrody "Warzewo"
+  https://www.gov.pl/web/rdos-lublin/spotkanie-dotyczace-rezerwatu-przyrody-warzewo  (BIP: 2026-08-04 00:00)
+  🌲 Rezerwat Warzewo
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Uroczyste ustanowienie rezerwatu przyrody Leśna Ostoja koło Promna im. Wielkiej Orkiestry Świątecznej Pomocy
+  https://www.gov.pl/web/rdos-poznan/uroczyste-ustanowienie-rezerwatu-przyrody-lesna-ostoja-kolo-promna-im-wielkiej-orkiestry-swiatecznej-pomocy  (BIP: ?)
+  🌲 Rezerwat Leśna Ostoja, ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Konferencja prasowa - Ustanowienie rezerwatu Leśna Ostoja koło Promna im. Wielkiej Orkiestry Świątecznej Pomocy
+  https://www.gov.pl/web/rdos-poznan/konferencja-prasowa---ustanowienie-rezerwatu-lesna-ostoja-kolo-promna-im-wielkiej-orkiestry-swiatecznej-pomocy  (BIP: ?)
+  🌲 ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w I spotkaniu Zespołów Lokalnej Współpracy dla obszarów Natura 2000 Ostoja Przemęcka PLH300041 i Dębowa Góra PLH300055
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-i-spotkaniu-zespolow-lokalnej-wspolpracy-dla-obszarow-natura-2000-ostoja-przemecka-plh300041-i-debowa-gora-plh300055  (BIP: ?)
+  🌲 Natura 2000 Ostoja Przemęcka PLH300041, ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w III spotkaniu Zespołów Lokalnej Współpracy dla obszarów Natura 2000 Lasy Żerkowsko-Czeszewskie PLH300053 oraz Ostoja Międzychodzko-Sierakowska PLH300032
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-iii-spotkaniu-zespolow-lokalnej-wspolpracy-dla-obszarow-natura-2000-lasy-zerkowsko-czeszewskie-plh300053-oraz-ostoja-miedzychodzko-sierakowska-plh300032  (BIP: ?)
+  🌲 Natura 2000 Lasy Żerkowsko-Czeszewskie PLH300053, ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Ostoja Międzychodzko - Sierakowska PLH300032
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-ostoja-miedzychodzko---sierakowska-plh300032  (BIP: ?)
+  🌲 Natura 2000 Ostoja Międzychodzko, ★ starodrzew / drzewostan naturalny
+- ★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Lasy Żerkowsko-Czeszewskie, PLH300053
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-lasy-zerkowsko-czeszewskie-plh300053  (BIP: ?)
+  🌲 Natura 2000 Lasy Żerkowsko-Czeszewskie
+- ★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Dolina Wełny PLH300043
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-dolina-welny-plh300043  (BIP: ?)
+  🌲 Natura 2000 Dolina Wełny PLH300043
+- ★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w I i II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Uroczyska Kujańskie PLH300052
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-i-i-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-uroczyska-kujanskie-plh300052  (BIP: ?)
+  🌲 Natura 2000 Uroczyska Kujańskie PLH300052
 
 ## P1 — zegar tyka
 
--  [Nadleśnictwo Manowo] PUL — decyzja zatwierdzająca — Nadleśnictwo Manowo
-  https://www.gov.pl/attachment/a05b7d5e-2cd1-477b-8882-e93d8333eefc  (BIP: 2026-07-30 14:13)
 -  [Nadleśnictwo Olkusz] Uzgodnienie Aneksu do PUL przez RDOŚ w Krakowie
   https://www.gov.pl/attachment/a2ccd95c-53c4-485a-a1f8-4fc1a853fb66  (BIP: 2026-08-05 22:04)
 -  [Nadleśnictwo Gryfino] PUL — decyzja zatwierdzająca — Nadleśnictwo Gryfino na lata
   https://www.gov.pl/attachment/6f1a094a-7547-402b-a303-ecec887750c0  (BIP: 2026-08-07 10:51)
+-  [Generalna Dyrekcja Ochrony Środowiska] Wytyczne w zakresie oceny oddziaływania na środowisko morskich farm wiatrowych
+  https://www.gov.pl/attachment/f19c3fad-b130-4c10-aea2-883f2b91ab66  (BIP: 2026-08-04 13:34)
+  📍 Generalna Dyrekcja Ochrony Środowiska → leśn. Natura
+-  [RDOŚ Poznań] Zmiana w BIP: Regionalna Komisja do spraw Ocen Oddziaływania na Środowisko
+  https://www.gov.pl/web/rdos-poznan/regionalna-komisja-do-spraw-ocen-oddzialywania-na-srodowisko  (BIP: ?)
 
 ## P2 — okno wpływu
 
--  [Nadleśnictwo Siewierz] Kontrole_zewnętrzne_i_wewnętrzne_wg_stanu_na_dzień_24072026__BIP_(002)
-  https://www.gov.pl/attachment/41271008-c912-4907-8a71-671bbfb0b8d8  (BIP: 2026-07-31 14:26)
--  [Nadleśnictwo Resko] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-resko/informacja-o-kontrolach  (BIP: 2026-07-30 11:52)
--  [Nadleśnictwo Brzeziny] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-brzeziny/informacja-o-kontrolach  (BIP: 2026-07-30 14:18)
-  📍 Nadl. Brzeziny → leśn. Zieleń
--  [Nadleśnictwo Manowo] Elaborat PUL na lata 2026-2035
-  https://www.gov.pl/attachment/f3feaf22-5dd3-4c2e-b434-6498d931015a  (BIP: 2026-07-30 14:13)
--  [Nadleśnictwo Manowo] Mapa siedlisk przyrodniczych i obszarów Natura 2000
-  https://www.gov.pl/attachment/d4d50948-5c1e-4110-a097-80980a26731c  (BIP: 2026-07-30 14:13)
--  [Nadleśnictwo Manowo] Podsumowanie projektu PUL N.Manowo_POnŚ
-  https://www.gov.pl/attachment/7adb63b8-b150-46e9-870a-84b50c9decde  (BIP: 2026-07-30 14:13)
--  [Nadleśnictwo Łąck] Wykaz kontroli zewnętrznych
-  https://www.gov.pl/attachment/60ab079c-c378-44aa-94b1-2922c28c5af7  (BIP: 2026-07-31 14:04)
--  [RDLP Olsztynie] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/regionalna-dyrekcja-lasow-panstwowych-w-olsztynie/informacja-o-kontrolach  (BIP: 2026-07-31 11:23)
--  [Nadleśnictwo Drygały] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-drygaly/informacja-o-kontrolach  (BIP: 2026-07-31 13:53)
-  📍 Nadl. Drygały → leśn. Borowe
--  [Nadleśnictwo Lidzbark] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-lidzbark/informacja-o-kontrolach  (BIP: 2026-07-30 08:22)
--  [Nadleśnictwo Łomża] Zmiana w BIP: Ochrona przyrody
-  https://www.gov.pl/web/nadlesnictwo-lomza/ochrona-przyrody  (BIP: 2026-07-31 14:22)
--  [Nadleśnictwo Łomża] Formy ochrony przyrody występujące w Nadleśnictwie Łomża
-  https://www.gov.pl/attachment/e46f8d1e-8865-40d6-90ea-91a3a903061b  (BIP: 2026-07-31 14:22)
--  [Nadleśnictwo Kwidzyn] Zmiana w BIP: Informacja o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-kwidzyn/informacja-o-kontrolach  (BIP: 2026-07-31 13:38)
--  [Nadleśnictwo Tuczno] WYKAZ KONTROLI W NADLEŚNICTWIE TUCZNO W 2026 R.
-  https://www.gov.pl/attachment/70579d59-cace-42dc-a63b-eaffde650cd9  (BIP: 2026-07-30 10:32)
--  [Nadleśnictwo Antonin] Zmiana w BIP: Ochrona przyrody
-  https://www.gov.pl/web/nadlesnictwo-antonin/ochrona-przyrody  (BIP: 2026-07-30 13:28)
 -  [Nadleśnictwo Torzym] Zmiana w BIP: Informacje o kontrolach
   https://www.gov.pl/web/nadlesnictwo-torzym/informacje-o-kontrolach  (BIP: 2026-07-31 12:16)
 -  [Nadleśnictwo Miłomłyn] Kontrole przeprowadzone w roku 2025.3
@@ -133,6 +131,9 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/attachment/414ef8ad-781d-451a-a97a-c20f13a11bbd  (BIP: 2026-08-06 07:29)
 -  [Nadleśnictwo Przymuszewo] Zmiana w BIP: Informacja o kontrolach
   https://www.gov.pl/web/nadlesnictwo-przymuszewo/informacja-o-kontrolach  (BIP: 2026-08-06 13:52)
+-  [Nadleśnictwo Drygały] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-drygaly/informacja-o-kontrolach  (BIP: 2026-08-06 11:30)
+  📍 Nadl. Drygały → leśn. Borowe
 -  [Nadleśnictwo Lipusz] Zmiana w BIP: Informacja o kontrolach
   https://www.gov.pl/web/nadlesnictwo-lipusz/informacja-o-kontrolach  (BIP: 2026-08-06 08:27)
 -  [Nadleśnictwo Tuszyma] Obwieszczenie w sprawie zarządzeń dot. rezerwatów Bagno Przecławskie, Końskie Błota i Torfy
@@ -145,98 +146,48 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/web/nadlesnictwo-korpele/informacja-o-kontrolach  (BIP: 2026-08-07 14:18)
 -  [Nadleśnictwo Jawor] Przetarg II na dzierżawę gruntu
   https://www.gov.pl/web/nadlesnictwo-jawor/przetarg-ii-na-dzierzawe-gruntu  (BIP: 2024-02-16 15:03)
+-  [Nadleśnictwo Jamy] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-jamy/informacje-o-kontrolach  (BIP: 2026-08-03 10:03)
+-  [RDOŚ Gdańsk] Zmiana w BIP: Tymczasowe cele ochrony dla obszarów Natura 2000
+  https://www.gov.pl/web/rdos-gdansk/tymczasowe-cele-ochrony-dla-obszarow-natura-2000  (BIP: ?)
+-  [Nadleśnictwo Szczytno] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-szczytno/informacje-o-kontrolach  (BIP: 2026-08-03 09:10)
+  📍 Nadl. Szczytno → oddz. 215b
+-  [RDOŚ Katowice] 70 rezerwatów przyrody w województwie śląskim. Powstały rezerwaty Bogdaniec i Psi Nos
+  https://www.gov.pl/web/rdos-katowice/70-rezerwatow-przyrody-w-wojewodztwie-slaskim-powstaly-rezerwaty-bogdaniec-i-psi-nos  (BIP: ?)
+-  [Nadleśnictwo Mielec] Informacja o kontrolach zewnętrznych przeprowadzonych w Nadleśnictwie Mielec w 2026
+  https://www.gov.pl/attachment/081f989b-edc9-489d-be53-4da2919cb7d6  (BIP: 2026-08-03 10:37)
+-  [Nadleśnictwo Ustrzyki Dolne] Kontrole przeprowadzone w Nadleśnictwie Ustrzyki Dolne w latach 2016-2026
+  https://www.gov.pl/attachment/d1830eef-ab55-4b50-a623-8802b92d3c1d  (BIP: 2026-08-03 08:26)
+-  [Nadleśnictwo Kamienna Góra] Kontrole wewnętrzne 2025
+  https://www.gov.pl/attachment/64c00a72-6ff7-40f4-b6fc-6b40b64bbfa7  (BIP: 2026-08-04 14:40)
+-  [RDOŚ Poznań] Zmiana w BIP: Formy ochrony przyrody
+  https://www.gov.pl/web/rdos-poznan/formy-ochrony-przyrody  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Ochrona gatunkowa roślin, zwierząt i grzybów
+  https://www.gov.pl/web/rdos-poznan/ochrona-gatunkowa-roslin-zwierzat-i-grzybow2  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Natura 2000
+  https://www.gov.pl/web/rdos-poznan/natura-2002  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Planowany Rezerwat Przyrody Nadgoplański Park Tysiąclecia
+  https://www.gov.pl/web/rdos-poznan/planowany-rezerwat-przyrody-nadgoplanski-park-tysiaclecia  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w spotkaniach Zespołów Lokalnej Współpracy w sprawie projektów planów zadań ochronnych dla obszarów Natura 2000 w województwie wielkopolskim
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-spotkaniach-zespolow-lokalnej-wspolpracy-w-sprawie-projektow-planow-zadan-ochronnych-dla-obszarow-natura-2000-w-wojewodztwie-wielkopolskim  (BIP: ?)
+-  [Nadleśnictwo Bytów] Kontrole_zewnętrzne_przeprowadzone_w_latach_2006-2026_(4)
+  https://www.gov.pl/attachment/55b7cfd1-1e5e-45c2-9def-171c7b070c8b  (BIP: 2026-08-03 14:51)
+-  [RDOŚ Poznań] Zmiana w BIP: Sporządzenie planów zadań ochronnych dla obszarów Natura 2000: Dolina Środkowej Warty PLB300002, Jezioro Kaliszańskie PLH300044, Jodły Ostrzeszowskie PLH300059 i Zamorze Pniewskie PLH300036
+  https://www.gov.pl/web/rdos-poznan/sporzadzenie-planow-zadan-ochronnych-dla-obszarow-natura-2000-dolina-srodkowej-warty-plb300002-jezioro-kaliszanskie-plh300044-jodly-ostrzeszowskie-plh300059-i-zamorze-pniewskie-plh300036  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Dostęp do danych geoprzestrzennych Dostęp do danych przestrzennych form ochrony przyrody
+  https://www.gov.pl/web/rdos-poznan/dostep-do-danych-geoprzestrzennych  (BIP: ?)
+-  [RDOŚ Rzeszów] Rozpoczynamy konsultacje społeczne dotyczące nowych rezerwatów przyrody
+  https://www.gov.pl/web/rdos-rzeszow/rozpoczynamy-konsultacje-spoleczne-dotyczace-nowych-rezerwatow-przyrody  (BIP: ?)
+-  [Ministerstwo Klimatu i Środowiska] Senat bez poprawek do nowelizacji ustawy Prawo ochrony środowiska
+  https://www.gov.pl/web/klimat/senat-bez-poprawek-do-nowelizacji-ustawy-prawo-ochrony-srodowiska  (BIP: ?)
+-  [RDOŚ Wrocław] Komunikat w sprawie wyników kontroli przedsięwzięcia pn. „Elektrownia Wodna Pilchowice I - modernizacja obiektów zbiornika wodnego”
+  https://www.gov.pl/web/rdos-wroclaw/komunikat-w-sprawie-wynikow  (BIP: ?)
+-  [Nadleśnictwo Łopuchówko] Wyniku z przebiegu przetargu ustnego na dzierżawę użytków rolnych
+  https://www.gov.pl/attachment/0695c46e-0176-4034-9721-ec608f4d1176  (BIP: 2026-08-08 17:29)
 
 ## P3 — sygnały
 
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 31 lipca 2026 r., znak: DOOŚ-WDŚI.420.35.2024.AKA.62
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-31-lipca-2026-r-znak-doos-wdsi420352024aka62  (BIP: 2026-07-31 00:00)
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 31 lipca 2026 r., znak: DOOŚ-WDŚZOO.420.27.2023.PS.124
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-31-lipca-2026-r-znak-doos-wdszoo420272023ps124  (BIP: 2026-07-31 00:00)
--  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 31 lipca 2026 r., znak: DOOŚ-WDŚII.420.14.2025.AWT.3
-  https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-31-lipca-2026-r-znak-doos-wdsii420142025awt3  (BIP: 2026-07-31 00:00)
--  [Nadleśnictwo Zdroje] Wykonanie dokumentacji projektowej dla zadań w Projekcie "Kompleksowy projekt adaptacji lasów i leśnictwa do zmian klimatu - mała retencja oraz przeciwdziałanie erozji wodnej na terenach górskich - kontynuacja (MRG3), współfinansowanych ze środków Programu Fundusze Europejskie na Infrastrukturę, Klimat i Środowisko 2021-2027 (FEnIKS) (III)
-  https://www.gov.pl/web/nadlesnictwo-zdroje/wykonanie-dokumentacji-projektowej-dla-zadan-w-projekcie-kompleksowy-projekt-adaptacji-lasow-i-lesnictwa-do-zmian-klimatu---mala-retencja-oraz-przeciwdzialanie-erozji-wodnej-na-terenach-gorskich---kontynuacja-mrg3-wspolfinansowanych-ze-srodkow-programu-fundusze-europejskie-na-infrastrukture-klimat-i-srodowisko-2021-2027-feniks-iii  (BIP: ?)
-  📍 Nadl. Zdroje → leśn. Bobrowniki
--  [Nadleśnictwo Złoty Potok] Wykaz Decyzji Nadleśniczego Nadleśnictwa Złoty Potok - stan na dzień 2026.07.29
-  https://www.gov.pl/attachment/5cd666db-ae95-43ec-8df8-81dafcca2b6b  (BIP: 2026-07-30 07:52)
--  [Nadleśnictwo Łagów] Wykaz zarządzeń i decyzji Nadleśniczego Nadleśnictwa Łagów wydanych w 2026 roku
-  https://www.gov.pl/attachment/47911767-322a-4f3f-845f-ea590f7ab665  (BIP: 2026-07-30 13:38)
--  [Nadleśnictwo Szprotawa] Decyzje Nadleśniczego Nadleśnictwa Szprotawa 2026r
-  https://www.gov.pl/attachment/70d6104b-b3d1-4851-bc25-586975882831  (BIP: 2026-07-31 14:48)
--  [Nadleśnictwo Torzym] Decyzje Nadleśniczego 2026 rok - 30.07.2026r.
-  https://www.gov.pl/attachment/495f9f71-c031-4328-9ba1-32edc92ac357  (BIP: 2026-07-31 12:19)
--  [Nadleśnictwo Wolsztyn] Zakaz wstępu do lasu
-  https://www.gov.pl/attachment/1fb56281-0d95-4f27-816b-784ea8369a91  (BIP: 2026-07-30 14:49)
--  [Nadleśnictwo Łosie] Wykaz obowiązujących aktów normatywnych na dzień 31.07.2026
-  https://www.gov.pl/attachment/42357e4c-b244-4079-96dc-a6cea20488a2  (BIP: 2026-07-31 15:02)
--  [Nadleśnictwo Piwniczna] Wykaz obowiązujących aktów normatywnych Nadleśnictwa Piwniczna wg stanu na 29.07.2026 r.
-  https://www.gov.pl/attachment/f15ab283-491c-42b0-8ab6-35453bdac74f  (BIP: 2026-07-30 09:21)
--  [Nadleśnictwo Dynów] Zarządzenia i Decyzje Nadleśniczego Nadleśnictwa Dynów wydane w 2026 roku.
-  https://www.gov.pl/attachment/4a959d72-df82-46bf-8598-3a5755d4555d  (BIP: 2026-07-31 07:30)
--  [Nadleśnictwo Oleszyce] ZARZĄDZENIA Nadleśniczego - stan na 30.07.2026r. ZARZĄDZENIA Nadleśniczego - stan na
-  https://www.gov.pl/attachment/a4d7c6c5-d74c-4885-b6e8-418dd5d22d49  (BIP: 2026-07-30 12:39)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 29 lipca 2026 r., znak: WOO.420.21.2025.AO.22,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-29-lipca-2026-r-znak-woo420212025ao22  (BIP: 2026-07-29 00:00)
--  [RDOŚ Bydgoszcz] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy z dnia 29 lipca 2026 r., znak: WOO.420.21.2025.AO.21,
-  https://www.gov.pl/web/rdos-bydgoszcz/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-bydgoszczy-z-dnia-29-lipca-2026-r-znak-woo420212025ao21  (BIP: 2026-07-29 00:00)
--  [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.43.2024.MC.28 z dnia 31.07.2026 r.
-  https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420432024mc28-z-dnia-31072026-r  (BIP: 2026-07-31 00:00)
--  [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.420.27.2026.AKL.8 z dnia 31.07.2026 r.
-  https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo420272026akl8-z-dnia-31072026-r  (BIP: 2026-07-31 00:00)
--  [RDOŚ Gdańsk] Zawiadomienie Regionalnego Dyrektora Ochrony Środowiska w Gdańsku znak RDOŚ-Gd-WOO.4222.1.2026.MŚB.4 z dnia 30.07.2026 r.
-  https://www.gov.pl/web/rdos-gdansk/zawiadomienie-regionalnego-dyrektora-ochrony-srodowiska-w-gdansku-znak-rdos-gd-woo422212026msb4-z-dnia-30072026-r  (BIP: 2026-07-30 00:00)
--  [RDOŚ Gorzów Wlkp.] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wielkopolskim z 30 lipca 2026 roku, znak: WOOŚ.420.37.2026.KS
-  https://www.gov.pl/web/rdos-gorzow-wielkopolski/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-gorzowie-wielkopolskim-z-30-lipca-2026-roku-znak-woos420372026ks  (BIP: 2026-07-30 00:00)
--  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-31 r. znak WOOŚ.420.49.2021.MP1.54
-  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-31-r-znak-woos420492021mp154  (BIP: 2026-07-31 00:00)
--  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-07-29 r. znak WOOŚ.420.20.2024.MP.35
-  https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-07-29-r-znak-woos420202024mp35  (BIP: 2026-07-29 00:00)
--  [Nadleśnictwo Czarne Człuchowskie] Rejestr decyzji Nadleśniczego Nadleśnictwa Czarne Człuchowskie lata 2014-2026 30.07.026 Rejestr decyzji Nadleśniczego Nadleśnictwa Czarne Człuchowskie lata 2014-2026
-  https://www.gov.pl/attachment/4163927d-c728-43c1-990e-d0c5fdaa59d7  (BIP: 2026-07-30 11:19)
--  [Nadleśnictwo Czarnobór] Wykaz Decyzji 30.07.2026
-  https://www.gov.pl/attachment/9ab9a0cf-90e0-46ce-8f2d-e3e5d9d00308  (BIP: 2026-07-30 10:12)
--  [Nadleśnictwo Damnica] Wykaz zarządzeń Nadleśniczego Nadleśnictwa Damnica od 1.01.2026r. do 28.07.2026r.
-  https://www.gov.pl/attachment/2159e08e-43a4-445b-a583-d1410c7f072e  (BIP: 2026-07-30 10:24)
--  [Nadleśnictwo Włodawa] Zarządzenie nr 21 z 04.04.2024 r. w sprawie organizacji przyjmowania i rozpatrywania skarg i wniosków w Nadleśnictwie Włodawa
-  https://www.gov.pl/attachment/03a88a20-99b5-4666-989a-5264b4b1c004  (BIP: 2026-07-30 09:37)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 30 lipca 2026r., znak: WOOŚ-I.420.31.2026.CS.12
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-30-lipca-2026r-znak-woos-i420312026cs12  (BIP: 2026-07-30 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 30 lipca 2026r., znak: WOOŚ-I.420.31.2026.CS.13
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-30-lipca-2026r-znak-woos-i420312026cs13  (BIP: 2026-07-30 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 30 lipca 2026 r., znak: WOOŚ-II.420.34.2019.MP.50
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-30-lipca-2026-r-znak-woos-ii420342019mp50  (BIP: 2026-07-30 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 31 lipca 2026 r., znak: WOOŚ-I.4220.469.2026.AK.5
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-31-lipca-2026-r-znak-woos-i42204692026ak5  (BIP: 2026-07-31 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 29 lipca 2026 r., znak: WOOŚ-II.420.14.2025.OŁN/KR.20
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-29-lipca-2026-r-znak-woos-ii420142025olnkr20  (BIP: 2026-07-29 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 29 lipca 2026 r., znak: WOOŚ-I.420.19.2026.CS.12
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-29-lipca-2026-r-znak-woos-i420192026cs12  (BIP: 2026-07-29 00:00)
--  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 30 lipca 2026r., znak: WOOŚ-I.420.62.2026.SK.13
-  https://www.gov.pl/web/rdos-warszawa/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-warszawie-z-dnia-30-lipca-2026r-znak-woos-i420622026sk13  (BIP: 2026-07-30 00:00)
--  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 29 lipca 2026 r., znak: WPN.6320.6.5.2026.BP
-  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-29-lipca-2026-r-znak-wpn6320652026bp  (BIP: 2026-07-29 00:00)
--  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 31 lipca 2026 r. znak: WOOŚ.420.28.2025.MSA.24
-  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-31-lipca-2026-r-znak-woos420282025msa24  (BIP: 2026-07-31 00:00)
--  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 31 lipca 2026 r. znak: WOOŚ.420.21.2026.MSA.13
-  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-31-lipca-2026-r-znak-woos420212026msa13  (BIP: 2026-07-31 00:00)
--  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 31 lipca 2026 r., znak: WOOŚ.420.60.2023.MT.77
-  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-31-lipca-2026-r-znak-woos420602023mt77  (BIP: 2026-07-31 00:00)
--  [RDOŚ Wrocław] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 29 lipca 2026 r., znak WPN.6320.6.4.2026.AH
-  https://www.gov.pl/web/rdos-wroclaw/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-29-lipca-2026-r-znak-wpn6320642026ah  (BIP: 2026-07-29 00:00)
--  [Nadleśnictwo Manowo] Mapa siedlisk walorów przyrodniczo kulturowych BDW
-  https://www.gov.pl/attachment/5cdac0b0-6b93-4465-8aaa-9d036f4c1354  (BIP: 2026-07-30 14:13)
--  [Nadleśnictwo Manowo] Zał. nr 2. Zarządzenie nr 26 Dyrektora RDLP w Szczecinku w sprawie powołania Zespołu Lokalnej Współpracy w N. Manowo
-  https://www.gov.pl/attachment/14c239d4-64c0-4b6c-af5c-8b92e36ecbf6  (BIP: 2026-07-30 14:13)
--  [RDLP Pile] Decyzje Dyrektora Regionalnej Dyrekcji Lasów Państwowych w Pile wydane w 2026 roku
-  https://www.gov.pl/attachment/66af62bc-d4a7-41c7-bd8f-03383a7fd3b3  (BIP: 2026-07-30 10:30)
--  [Nadleśnictwo Radziwiłłów] Decyzje 2026
-  https://www.gov.pl/attachment/5a51d418-0411-4647-8580-f0c7df026116  (BIP: 2026-07-31 15:01)
--  [Nadleśnictwo Osie] Wykaz_decyzji_29072026_rok
-  https://www.gov.pl/attachment/55246857-8284-4337-9a5d-cd246b3b3f9e  (BIP: 2026-07-30 12:09)
--  [Nadleśnictwo Kościerzyna] Decyzja nr 22/2026 w sprawie cen sprzedaży detalicznej drewna obowiązujących od 01.07.2026
-  https://www.gov.pl/attachment/0a58ae91-655e-4c4d-a4df-91c1135e3a5b  (BIP: 2026-07-31 12:16)
--  [Nadleśnictwo Tuczno] WYKAZ ZARZĄDZEŃ NADLEŚNICZEGO NADLEŚNICTWA TUCZNO W 2026 R.
-  https://www.gov.pl/attachment/b4710a62-a59e-45d8-aafc-29955d93141a  (BIP: 2026-07-30 10:32)
 -  [Nadleśnictwo Szubin] Wykaz_aktualnie_obowiazujacych_decyzji
   https://www.gov.pl/attachment/76d36f3d-8dcb-4adb-a262-de504cadb2b2  (BIP: 2026-07-27 07:44)
 -  [Nadleśnictwo Kalisz Pomorski] Zarządzenie Nr 48.2026 z 15 lipca 2026 r. zmieniające do Regulaminu Organizacyjnego
@@ -311,6 +262,8 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/attachment/41616486-9420-4649-9b20-dda94c3d123d  (BIP: 2026-08-04 13:47)
 -  [Nadleśnictwo Brzesko] WYKAZ ZARZĄDZEŃ I DECYZJI 2026 - stan na dzień 04.08.2026
   https://www.gov.pl/attachment/496df902-5b23-4672-9162-82c49c16a821  (BIP: 2026-08-05 07:29)
+-  [Nadleśnictwo Dynów] Zarządzenia i Decyzje Nadleśniczego Nadleśnictwa Dynów wydane w 2026 roku.
+  https://www.gov.pl/attachment/332a5472-0865-4d57-a9e3-d6e819e6e159  (BIP: 2026-08-05 07:22)
 -  [Nadleśnictwo Kańczuga] Plan__postępowań_2026_w_5
   https://www.gov.pl/attachment/8d5b5149-c806-4f38-aae8-2b7400af5a5f  (BIP: 2026-08-04 10:26)
 -  [Nadleśnictwo Kraśnik] Regulamin udostępnienia dróg leśnych do ruchu publicznego na terenie Nadleśncitwa Kraśnik
@@ -386,6 +339,8 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/web/rdos-gorzow-wielkopolski/zawiadomienia-generalnego-dyrektora-ochrony-srodowiska-z-3-sierpnia-2026-roku-znak-doos-wdsii420252025awt6  (BIP: 2026-08-03 00:00)
 -  [RDOŚ Katowice] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Katowicach z dnia 2026-08-05 r. znak WOOŚ.420.24.2026.AM.6
   https://www.gov.pl/web/rdos-katowice/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-katowicach-z-dnia-2026-08-05-r-znak-woos420242026am6  (BIP: 2026-08-05 00:00)
+-  [Nadleśnictwo Damnica] Wykaz Decyzji Nadleśniczego Nadleśnictwa Damnica wydanych od 01.01.2026r. do.05.08.2026r.
+  https://www.gov.pl/attachment/01205506-20f3-48df-9686-a3bcc3b88ad6  (BIP: 2026-08-05 12:34)
 -  [Nadleśnictwo Łupawa] Wykaz zarządzeń i decyzji obowiązujacych na dzień 05.08.2026
   https://www.gov.pl/attachment/f687e8a5-fa93-4db7-ba43-5a20ad8dd9ff  (BIP: 2026-08-05 15:09)
 -  [RDOŚ Warszawa] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Warszawie z dnia 4 sierpnia 2026 r., znak: WOOŚ-II.420.71.2025.AGO.36
@@ -502,7 +457,7 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/attachment/cc523f4a-d68e-42eb-bc8d-98c0ccfa9dbd  (BIP: 2026-08-07 13:58)
 -  [Nadleśnictwo Korpele] Zarządzenie nr 29/2026 z dnia 07.08.2026 r. w sprawie wprowadzenia Regulaminu Zakładowego Funduszu Świadczeń Socjalnych w Nadleśnictwie Korpele
   https://www.gov.pl/attachment/edbd9ded-3cf3-47df-bac3-3088559517b0  (BIP: 2026-08-07 14:39)
-  📍 Nadl. Korpele → leśn. Dębówko → oddz. 3f
+  📍 Nadl. Korpele → leśn. Dębówko
 -  [Nadleśnictwo Durowo] Zarządzenie nr 30 w sprawie organizacji przyjmowania i rozpatrywania skarg i wniosków w Nadleśnictwie Durowo.
   https://www.gov.pl/attachment/ace2af54-8a17-4063-b5be-ea155e472beb  (BIP: 2026-08-07 08:16)
 -  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska z 7 sierpnia 2026 r., znak: DOOŚ-WDŚI.420.28.2025.PS.28
@@ -513,26 +468,37 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
   https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-z-7-sierpnia-2026-r-znak-doos-wdsi42092026pch20  (BIP: 2026-08-07 00:00)
 -  [Nadleśnictwo Kobiór] Zarządzenia i decyzje Nadleśniczego Nadleśnictwa Kobiór z 2026 roku - stan na 06.08.2026r
   https://www.gov.pl/attachment/6c28da20-2696-4e3a-925c-388b221385d3  (BIP: 2026-08-07 10:50)
+-  [Nadleśnictwo Wisła] Zarządzenie w sprawie zmiany załącznika do regulaminu organizacyjnego 22_2026
+  https://www.gov.pl/attachment/94df0351-628b-47e1-a4f3-990aad5fd88f  (BIP: 2026-08-04 13:45)
+-  [Nadleśnictwo Warcino] Zarządzenie nr 51 2026 - zmiana regulaminu organizacyjnego
+  https://www.gov.pl/attachment/0ac3f77b-f73e-42f4-8337-0915b293cb69  (BIP: 2026-08-04 14:47)
+-  [Nadleśnictwo Dwukoły] Zarządzenie Nr 48/2026 z dnia 05.08.2026
+  https://www.gov.pl/attachment/4f7ae4a1-15d4-44da-ab71-decd1c6f5046  (BIP: ?)
+  📍 Nadl. Dwukoły → leśn. Nadleśnictwa
+-  [Nadleśnictwo Dynów] Zarządzenie nr 28/2026 Nadleśniczego Nadleśnictwa Dynów w sprawie Regulaminu Organizacyjnego.
+  https://www.gov.pl/attachment/817c20e8-d7e2-4a58-b366-e735b08b8d98  (BIP: 2026-08-05 07:22)
+-  [Nadleśnictwo Kołaczyce] Zarządzenie nr 16/2026 Nadleśniczego Nadleśnictwa Kołaczyce z dnia 05 03 2026 r zmieniające Zarządzenie nr 3/2026 w sprawie wprowadzenia Regulaminu organizacyjnego Nadleśnictwa Kołaczyce NK 012 2 2026 Zarządzenie nr 16_2026 Nadleśniczego Nadleśnictwa Kołaczyce z dnia 05 03 2026 r zmieniające Zarządzenie nr 3_2026 w sprawie wprowadzenia Regulaminu organizacyjnego Nadleśnictwa Kołaczyce NK 012 2
+  https://www.gov.pl/attachment/676a26a6-7382-4c35-90d3-3d885d19773c  (BIP: 2026-08-07 13:01)
+  📍 Nadl. Kołaczyce → leśn. Nadleśnctwa
+-  [RDOŚ Gdańsk] PLH220082 Stary Bukowiec
+  https://www.gov.pl/web/rdos-gdansk/plh220082-stary-bukowiec  (BIP: 2026-08-03 00:00)
+-  [RDOŚ Gdańsk] PLH220070 Jezioro Krąg
+  https://www.gov.pl/web/rdos-gdansk/plh220070-jezioro-krag  (BIP: 2026-08-03 00:00)
+-  [RDOŚ Gdańsk] PLH220083 Wielki Klincz
+  https://www.gov.pl/web/rdos-gdansk/plh220083-wielki-klincz  (BIP: 2026-08-03 00:00)
+-  [RDOŚ Gdańsk] PLH220080 Prokowo
+  https://www.gov.pl/web/rdos-gdansk/plh220080-prokowo  (BIP: 2026-08-03 00:00)
+-  [Nadleśnictwo Jabłonna] Zarządzenie nr 11 z dnia 30.03.2026 r. w sprawie wprowadzenia Regulaminu Organizacyjnego Nadleśnictwa Jabłonna
+  https://www.gov.pl/attachment/e675fdb0-5009-4ac3-8b4d-ebfc5e2f38bf  (BIP: 2026-08-05 09:08)
+-  [Nadleśnictwo Elbląg] Regulamin przyznawania darowizn finansowych Załącznik nr 1 do Zarządzenia 27_2026
+  https://www.gov.pl/attachment/eaba5d53-9afe-4cb6-b83e-b543210ad47c  (BIP: 2026-08-05 12:57)
+-  [Nadleśnictwo Bardo Śląskie] Zarządzenie nr 27/2026 ws. zmiany zarządzenia 21/2021 z dnia 24.05.2021 r. dot. wprowadzenia Regulaminu Organizacyjnego Nadleśnictwa Bardo
+  https://www.gov.pl/attachment/a877bfc9-617e-495e-9d42-42f39cbbecdd  (BIP: 2026-08-03 07:15)
+-  [Nadleśnictwo Białogard] Zarządzenie nr 34 z dnia 03.08.2026 w sprawie zmiany Regulaminu Organizacyjnego
+  https://www.gov.pl/attachment/c4767680-e3c0-444b-b3c5-00d07350ce44  (BIP: 2026-08-05 06:41)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
-- [Nadleśnictwo Syców] II przetarg na sprzedaż maszyn
-- [Nadleśnictwo Krzystkowice] Zmiana cennika detalicznego drewa i produktów użytkowania ubocznego w Nadleśnictwie Krzystkowice od 30.07.2026 roku
-- [Nadleśnictwo Krzystkowice] Załącznik nr 1 - Wykaz składników majątkowych przeznaczonych do sprzedaży
-- [Nadleśnictwo Cisna] Ogłoszenia o zmianie umowy 2026
-- [Nadleśnictwo Trzebież] Załącznik_nr_3_-_Przedmiar_robót
-- [Nadleśnictwo Trzebież] Załącznik_nr_4_-_Projekt_umowy
-- [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
-- [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa
-- [Nadleśnictwo Maskulińskie] Załącznik nr 3 - umowa
-- [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
-- [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa sytuacyjna Załącznik_nr_2_-_mapa
-- [Nadleśnictwo Maskulińskie] Załącznik nr 1 - opis przedmiotu przetargu
-- [Nadleśnictwo Maskulińskie] Załącznik nr 2 - mapa sytuacyjna
-- [Nadleśnictwo Rudka] Budowa zbiornika naziemnego w Gospodarstwie Szkółkarskim - postępowanie nr II
-- [Nadleśnictwo Rudka] Termomodernizacja leśniczówki Pietkowo
-- [Nadleśnictwo Podanin] Załącznik_nr_3_-_RODO_do_przetargu
-- [Nadleśnictwo Bystrzyca Kłodzka] Wydatkowanie środków na cele społecznie użyteczne
 - [Nadleśnictwo Świeradów Zdrój] Darowinzny udzielone w miesiącu czerwcu w roku 2024 przez Nadleśnictwo Świeradów
 - [Nadleśnictwo Świeradów Zdrój] Darowinzny udzielone w miesiącu kwietniu w roku 2024 przez Nadleśnictwo Świeradów
 - [Nadleśnictwo Wałbrzych] Skrzynka e-Doręczeń
@@ -556,3 +522,20 @@ Okno 7 dni · spraw 380 · publikacji 450 · obszary szczególne 9 · nieznanych
 - [Nadleśnictwo Chocianów] Wydatkowanie_środków_na_cele_społecznie_użyteczne_za_Lipiec_2026
 - [Nadleśnictwo Głogów] Regulamin organizacyjny 30.01.2026
 - [RDOŚ Poznań] Dane teleadresowe
+- [Ministerstwo Klimatu i Środowiska] 2,3 miliarda dowodów na skuteczność systemu kaucyjnego
+- [Ministerstwo Klimatu i Środowiska] Więcej energii dla elektromobilności. Powstaną nowe przyłącza dla stacji ładowania
+- [Ministerstwo Klimatu i Środowiska] Pierwszy stermomodernizowany budynek wielorodzinny na wsi. Niższe rachunki dla mieszkańców
+- [Ministerstwo Klimatu i Środowiska] Wiceminister Krzysztof Bolesta na nieformalnym posiedzeniu Rady UE ds. Środowiska w Dublinie
+- [Ministerstwo Klimatu i Środowiska] Wiceminister Krzysztof Galos, Główny Geolog Kraju, przewodniczył spotkaniu przedstawicieli służb geologicznych Polski i Kanady, poświęconemu perspektywom rozwoju współpracy dwustronnej w obszarze geologii oraz surowców mineralnych
+- [Ministerstwo Klimatu i Środowiska] Wiceminister Krzysztof Galos, Główny Geolog Kraju, spotkał się z Zastępcą Szefa Misji Ambasady Stanów Zjednoczonych w Polsce Stephanie Holmes, aby omówić perspektywy dwustronnej współpracy w obszarze geologii oraz surowców mineralnych
+- [RDOŚ Warszawa] 14 sierpnia 2026 r. urząd będzie nieczynny
+- [RDOŚ Warszawa] Decyzja środowiskowa dla Lotniska Chopina
+- [RDOŚ Warszawa] Komunikat w sprawie dostępu do siedziby Wydziału Spraw Terenowych w Radomiu
+- [Nadleśnictwo Grodziec] Regulamin organizacyjny Regulamin
+- [Nadleśnictwo Człuchów] wykaz leśnictw
+- [RDOŚ Wrocław] Przywracanie wypasu owiec na Śnieżniku
+- [Nadleśnictwo Potrzebowice] Ogłoszenie wyników
+- [RDOŚ Katowice] Rdestowiec - niezwykle silny przeciwnik. Zagrożenie dla przyrody i infrastruktury
+- [Nadleśnictwo Włodawa] Dane teleadresowe
+- [Nadleśnictwo Włodawa] Elektroniczna Skrzynka Podawcza
+- [Nadleśnictwo Włodawa] Dostępność raport

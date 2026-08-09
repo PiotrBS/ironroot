@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-08 04:39 UTC
+# Leśne Echo — diagnostyka — 2026-08-09 05:20 UTC
 
 ## Wersja reguł
 ```
@@ -13,36 +13,36 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7469
-  artykul         4014
+  dokument        7513
+  artykul         4040
 
 ── wg szczebla ──
-  nadlesnictwo      8633
-  rdos              1644
+  nadlesnictwo      8674
+  rdos              1661
   rdlp               670
-  ministerstwo       363
-  gdos               122
+  ministerstwo       370
+  gdos               127
   dglp                51
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     494×  wydatkowanie srodkow cele
+     500×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      414×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
-     395×  dane teleadresowe
+     396×  dane teleadresowe
           [RDOŚ Opole] Dane teleadresowe
      334×  dostepnosc raport
           [Dyrekcja Generalna LP] Dostępność raport
-     307×  statut panstwowego gospodarstwa
+     308×  statut panstwowego gospodarstwa
           [Dyrekcja Generalna LP] Statut Państwowego Gospodarstwa Leśnego Lasy Państwowe
-     213×  ustawa lasach
+     214×  ustawa lasach
           [RDLP Białymstoku] Ustawa o lasach
-      77×  wydatkowane srodki cele
+      80×  wydatkowane srodki cele
           [Nadleśnictwo Radomsko] Wydatkowane środki na cele społecznie użyteczne w kwietniu 2024r.
       74×  statut
           [RDLP Gdańsku] Statut PGL LP
-      71×  schemat organizacyjny
+      73×  schemat organizacyjny
           [RDLP Olsztynie] Załącznik nr 1 - Schemat Organizacyjny
       71×  regulamin organizacyjny
           [Nadleśnictwo Ełk] Regulamin Organizacyjny Nadleśnictwa Ełk
@@ -62,15 +62,15 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Piwniczna] Informacja o dokonanym wyborze na wolne stanowisko pracy w Nadleśnictwi
       35×  plan dzialalnosci regionalnej
           [RDOŚ Gorzów Wlkp.] Plan działalności Regionalnej Dyrekcji Ochrony Środowiska w Gorzowie Wielkop
+      31×  srodki przekazane cele
+          [Nadleśnictwo Lidzbark] Środki przekazane na cele społecznie użyteczne - rok 2024
       30×  wykaz lesnictw
           [Nadleśnictwo Krynki] Wykaz Leśnictw
-      30×  srodki przekazane cele
-          [Nadleśnictwo Lidzbark] Środki przekazane na cele społecznie użyteczne - rok 2024
       28×  zobacz szczegoly
           [Ministerstwo Klimatu i Środowiska] Zobacz szczegóły
       26×  ochrona danych osobowych
           [Nadleśnictwo Iława] Ochrona danych osobowych
-      23×  zestawienie udzielonego wsparcia
+      24×  zestawienie udzielonego wsparcia
           [Nadleśnictwo Sokołów] Zestawienie udzielonego wsparcia finansowego w 07.2024
       22×  oswiadczenie
           [RDLP Toruniu] oświadczenie zał nr 2
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 59958 wierszy z 466 źródeł
+Korpus: 60478 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-    1949  Dyrekcja Generalna LP
+    1951  Dyrekcja Generalna LP
     1869  RDOŚ Kraków
      731  RDLP Toruniu
-     692  RDOŚ Gorzów Wlkp.
-     509  Ministerstwo Klimatu i Środowiska
-     496  Generalna Dyrekcja Ochrony Środowiska
-     484  Nadleśnictwo Trzcianka
+     700  RDOŚ Gorzów Wlkp.
+     529  Ministerstwo Klimatu i Środowiska
+     512  Generalna Dyrekcja Ochrony Środowiska
+     485  Nadleśnictwo Trzcianka
      455  RDOŚ Olsztyn
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     46887
-  rdos              6599
-  rdlp              3518
-  dglp              1949
-  ministerstwo       509
-  gdos               496
+  nadlesnictwo     47218
+  rdos              6743
+  rdlp              3525
+  dglp              1951
+  ministerstwo       529
+  gdos               512
 
 ```

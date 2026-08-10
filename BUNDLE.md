@@ -1,12 +1,9 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-09
+# Leśne Echo — wyciąg do analizy — 2026-08-10
 
-Okno 7 dni · spraw 493 · publikacji 555 · obszary szczególne 18 · nieznanych 142
+Okno 7 dni · spraw 426 · publikacji 468 · obszary szczególne 17 · nieznanych 107
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
-- ★★ [Generalna Dyrekcja Ochrony Środowiska] Plan ochrony dla obszaru Natura 2000 Ławica Słupska
-  https://www.gov.pl/web/gdos/plan-ochrony-dla-obszaru-natura-2000-lawica-slupska  (BIP: 2026-07-27 00:00)
-  🌲 Natura 2000 Ławica Słupska
 - ★★ [RDOŚ Kraków] Udostępnienie rezerwatu przyrody "Madohora"
   https://www.gov.pl/web/rdos-krakow/udostepnienie-rezerwatu-przyrody-madohora  (BIP: ?)
   🌲 Rezerwat Madohora
@@ -73,27 +70,6 @@ Okno 7 dni · spraw 493 · publikacji 555 · obszary szczególne 18 · nieznanyc
 
 ## P2 — okno wpływu
 
--  [Nadleśnictwo Torzym] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-torzym/informacje-o-kontrolach  (BIP: 2026-07-31 12:16)
--  [Nadleśnictwo Miłomłyn] Kontrole przeprowadzone w roku 2025.3
-  https://www.gov.pl/attachment/9efcf054-35d1-46a8-9274-1fe2f7520c06  (BIP: 2026-07-27 10:30)
--  [Nadleśnictwo Bolewice] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-bolewice/informacje-o-kontrolach  (BIP: 2026-07-30 12:52)
-  📍 Nadl. Bolewice → leśn. Lewice
--  [Nadleśnictwo Szczebra] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-szczebra/informacje-o-kontrolach  (BIP: 2026-07-30 10:58)
--  [Nadleśnictwo Susz] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-susz/informacje-o-kontrolach  (BIP: 2026-07-30 09:53)
-  📍 Nadl. Susz → leśn. Szwalewo
--  [RDOŚ Kielce] Ogłoszenie o zakończeniu konsultacji społecznych - rezerwat „Cisów im. prof. Zygmunta Czubińskiego”
-  https://www.gov.pl/web/rdos-kielce/ogloszenie-o-zakonczeniu-konsultacji-spolecznych--rezerwat-cisow-im-prof-zygmunta-czubinskiego  (BIP: 2026-07-30 00:00)
--  [Nadleśnictwo Chotyłów] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-chotylow/informacje-o-kontrolach  (BIP: 2026-07-28 12:10)
-  📍 Nadl. Chotyłów → leśn. Kłoda
--  [Ministerstwo Klimatu i Środowiska] Sejm przyjął projekt nowelizacji ustawy Prawo ochrony środowiska
-  https://www.gov.pl/web/klimat/sejm-przyjal-projekt-nowelizacji-ustawy-prawo-ochrony-srodowiska  (BIP: ?)
--  [Nadleśnictwo Tomaszów] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-tomaszow/informacje-o-kontrolach  (BIP: 2026-07-28 14:34)
 -  [Nadleśnictwo Babimost] Wykaz kontroli przeprowadzonych w Nadleśnictwie Babimost przez jednostki wewnętrzne - stan na 31.07.2026 r.
   https://www.gov.pl/attachment/5e77a869-a263-4e57-a9b2-3f1644499600  (BIP: 2026-08-04 07:22)
 -  [Nadleśnictwo Gryfice] Zmiana w BIP: Informacja o kontrolach
@@ -148,6 +124,9 @@ Okno 7 dni · spraw 493 · publikacji 555 · obszary szczególne 18 · nieznanyc
   https://www.gov.pl/web/nadlesnictwo-jawor/przetarg-ii-na-dzierzawe-gruntu  (BIP: 2024-02-16 15:03)
 -  [Nadleśnictwo Jamy] Zmiana w BIP: Informacje o kontrolach
   https://www.gov.pl/web/nadlesnictwo-jamy/informacje-o-kontrolach  (BIP: 2026-08-03 10:03)
+-  [Nadleśnictwo Bolewice] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-bolewice/informacje-o-kontrolach  (BIP: 2026-08-06 14:33)
+  📍 Nadl. Bolewice → leśn. Lewice
 -  [RDOŚ Gdańsk] Zmiana w BIP: Tymczasowe cele ochrony dla obszarów Natura 2000
   https://www.gov.pl/web/rdos-gdansk/tymczasowe-cele-ochrony-dla-obszarow-natura-2000  (BIP: ?)
 -  [Nadleśnictwo Szczytno] Zmiana w BIP: Informacje o kontrolach
@@ -188,12 +167,6 @@ Okno 7 dni · spraw 493 · publikacji 555 · obszary szczególne 18 · nieznanyc
 
 ## P3 — sygnały
 
--  [Nadleśnictwo Szubin] Wykaz_aktualnie_obowiazujacych_decyzji
-  https://www.gov.pl/attachment/76d36f3d-8dcb-4adb-a262-de504cadb2b2  (BIP: 2026-07-27 07:44)
--  [Nadleśnictwo Kalisz Pomorski] Zarządzenie Nr 48.2026 z 15 lipca 2026 r. zmieniające do Regulaminu Organizacyjnego
-  https://www.gov.pl/attachment/34c3d156-464a-4fb2-9549-7a49be3f2174  (BIP: 2026-07-28 07:53)
--  [Ministerstwo Klimatu i Środowiska] Renaturyzacja z bezzwrotnym wsparciem. Samorządy i NGOsy mogą sięgnąć po miliony
-  https://www.gov.pl/web/klimat/renaturyzacja-z-bezzwrotnym-wsparciem-aamorzady-i-ngosy-moga-siegnac-po-miliony  (BIP: ?)
 -  [Nadleśnictwo Kamienna Góra] Wykaz zarządzeń 2025
   https://www.gov.pl/attachment/b7f5eaa8-d7f7-4889-85d5-9052755d911c  (BIP: 2026-08-03 07:17)
 -  [Nadleśnictwo Krosno] Zarzadzenia_Nadleśniczego_Nadleśnictwa_Krosno_BIP_do_nr_42_2026_i_aneksy_do_zarządzeń
@@ -496,46 +469,48 @@ Okno 7 dni · spraw 493 · publikacji 555 · obszary szczególne 18 · nieznanyc
   https://www.gov.pl/attachment/a877bfc9-617e-495e-9d42-42f39cbbecdd  (BIP: 2026-08-03 07:15)
 -  [Nadleśnictwo Białogard] Zarządzenie nr 34 z dnia 03.08.2026 w sprawie zmiany Regulaminu Organizacyjnego
   https://www.gov.pl/attachment/c4767680-e3c0-444b-b3c5-00d07350ce44  (BIP: 2026-08-05 06:41)
+-  [Nadleśnictwo Kudypy] Decyzje_2007--2026_r
+  https://www.gov.pl/attachment/d316d579-41dd-481c-8121-89f7d31fe49a  (BIP: 2026-08-09 21:36)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
-- [Nadleśnictwo Świeradów Zdrój] Darowinzny udzielone w miesiącu czerwcu w roku 2024 przez Nadleśnictwo Świeradów
-- [Nadleśnictwo Świeradów Zdrój] Darowinzny udzielone w miesiącu kwietniu w roku 2024 przez Nadleśnictwo Świeradów
-- [Nadleśnictwo Wałbrzych] Skrzynka e-Doręczeń
-- [Nadleśnictwo Limanowa] schemat organizacyjny
-- [Nadleśnictwo Łosie] Regulamin Organizacyjny Nadleśnictwa Łosie
-- [Ministerstwo Klimatu i Środowiska] II etap pilotażu wyznaczania lasów społecznych - Bydgoszcz i Toruń dołączają do procesu
-- [Ministerstwo Klimatu i Środowiska] https://www.gov.pl/attachment/fc7eef82-8771-44c4-a5b9-b88039956469
-- [Generalna Dyrekcja Ochrony Środowiska] Pierwsza w Polsce próba translokacji rybołowa na Ziemi Lubuskiej
-- [Nadleśnictwo Piwniczna] Aktualizacja Regulaminu Organizacyjnego Nadleśnictwa Piwniczna z dnia 28.07.2026 r.
-- [RDOŚ Bydgoszcz] 14 sierpnia 2026 r. Urząd będzie zamknięty
-- [Nadleśnictwo Solec Kujawski] Ustawa o lasach Dz. U. z 2026 r. poz. 663
-- [RDOŚ Gorzów Wlkp.] Na ratunek żółwiowi błotnemu
-- [RDOŚ Gorzów Wlkp.] Posiedzenie Regionalnej Rady Ochrony Przyrody
-- [RDOŚ Katowice] Informacja o pracach związanych z bezpieczeństwem w rezerwacie przyrody Las Murckowski
-- [RDOŚ Katowice] Niełatwa walka z rdestowcem - działania zaradcze w województwie śląskim
-- [Nadleśnictwo Łochów] Schemat Organizacyjny Nadleśnictwa Łochów
-- [RDOŚ Łódź] Wspólnie dla edukacji przyrodniczej - podpisano umowę na wydanie publikacji o grzybach
-- [Nadleśnictwo Starogard] Lipiec 2026r - Wydatkowanie środków na cele społecznie użyteczne
-- [RDOŚ Opole] Regionalny Dyrektor Ochrony Środowiska w Opolu objął patronatem honorowym VIII Polskie Sympozjum Herpetologiczne
-- [RDOŚ Opole] W dniu 14 sierpnia 2026 r. urząd jest nieczynny
-- [Nadleśnictwo Chocianów] Wydatkowanie_środków_na_cele_społecznie_użyteczne_za_Lipiec_2026
-- [Nadleśnictwo Głogów] Regulamin organizacyjny 30.01.2026
-- [RDOŚ Poznań] Dane teleadresowe
-- [Ministerstwo Klimatu i Środowiska] 2,3 miliarda dowodów na skuteczność systemu kaucyjnego
-- [Ministerstwo Klimatu i Środowiska] Więcej energii dla elektromobilności. Powstaną nowe przyłącza dla stacji ładowania
-- [Ministerstwo Klimatu i Środowiska] Pierwszy stermomodernizowany budynek wielorodzinny na wsi. Niższe rachunki dla mieszkańców
-- [Ministerstwo Klimatu i Środowiska] Wiceminister Krzysztof Bolesta na nieformalnym posiedzeniu Rady UE ds. Środowiska w Dublinie
-- [Ministerstwo Klimatu i Środowiska] Wiceminister Krzysztof Galos, Główny Geolog Kraju, przewodniczył spotkaniu przedstawicieli służb geologicznych Polski i Kanady, poświęconemu perspektywom rozwoju współpracy dwustronnej w obszarze geologii oraz surowców mineralnych
-- [Ministerstwo Klimatu i Środowiska] Wiceminister Krzysztof Galos, Główny Geolog Kraju, spotkał się z Zastępcą Szefa Misji Ambasady Stanów Zjednoczonych w Polsce Stephanie Holmes, aby omówić perspektywy dwustronnej współpracy w obszarze geologii oraz surowców mineralnych
-- [RDOŚ Warszawa] 14 sierpnia 2026 r. urząd będzie nieczynny
-- [RDOŚ Warszawa] Decyzja środowiskowa dla Lotniska Chopina
-- [RDOŚ Warszawa] Komunikat w sprawie dostępu do siedziby Wydziału Spraw Terenowych w Radomiu
-- [Nadleśnictwo Grodziec] Regulamin organizacyjny Regulamin
-- [Nadleśnictwo Człuchów] wykaz leśnictw
-- [RDOŚ Wrocław] Przywracanie wypasu owiec na Śnieżniku
 - [Nadleśnictwo Potrzebowice] Ogłoszenie wyników
 - [RDOŚ Katowice] Rdestowiec - niezwykle silny przeciwnik. Zagrożenie dla przyrody i infrastruktury
 - [Nadleśnictwo Włodawa] Dane teleadresowe
 - [Nadleśnictwo Włodawa] Elektroniczna Skrzynka Podawcza
 - [Nadleśnictwo Włodawa] Dostępność raport
+- [Nadleśnictwo Krynki] Załącznik nr 1 Wykaz gruntów do przetargu
+- [Nadleśnictwo Krynki] Załącznik nr 2 Oferta
+- [Nadleśnictwo Bardo Śląskie] Zarządzenia
+- [Nadleśnictwo Bardo Śląskie] Decyzje
+- [Nadleśnictwo Konin] Wyniki III przetargu na sprzedaz zbędnych środków trwałych oraz niskocwnnych składników majatku
+- [Nadleśnictwo Białogard] Decyzje Nadleśnictwa Białogard
+- [Nadleśnictwo Białogard] Ogłoszenie przetargowe
+- [Nadleśnictwo Gościno] Informacja o wyniku postępowania - negocjacja cenowa
+- [Nadleśnictwo Augustów] Protokół z z otwarcia ofert "Sprzedaż środka trwałego - Toyota Hilux" w dniu 04.08.2026 r. Znak:SA.234.1.2026
+- [Ministerstwo Klimatu i Środowiska] Kolejny krok w kierunku aktualizacji Polskiej Strategii Wodorowej - za nami warsztat ekspercki „Doliny i huby wodorowe”
+- [Nadleśnictwo Namysłów] Świadczenie usługi nadzoru nad przygotowaniem dokumentacji projektowej oraz usługi nadzoru inwestorskiego nad prowadzonymi robotami budowlanymi realizowanymi w Nadleśnictwie Namysłów - kontynuacja (MRN3).
+- [Nadleśnictwo Potrzebowice] Obwieszczenie o przetargu nr III
+- [Nadleśnictwo Potrzebowice] zał. nr 1 Wykaz zbędnych środków trwałych i wyposażenia przetagr III
+- [Nadleśnictwo Milicz] Prawo i organizacja
+- [Nadleśnictwo Milicz] Prawo i organizacja
+- [Nadleśnictwo Konin] Ogłoszenie o IV przetargu publicznym na sprzedaż zbędnych środków trwałych i niskocennych składników majątku Nadleśnictwa Konin
+- [Nadleśnictwo Konin] Wykaz zbędnych środków trwałych i nietrwałych przeznaczonych do sprzedaży IV
+- [Nadleśnictwo Lubsko] Mapa1
+- [Nadleśnictwo Lubsko] Mapa2
+- [Nadleśnictwo Leżajsk] Protokół przekazania środka trwałego - załącznik nr 1 do umowy sprzedaży
+- [Nadleśnictwo Leżajsk] Ogłoszenie o sprzedaży środków trwałych
+- [Nadleśnictwo Leżajsk] Opinia rzeczoznawcy na wózek widłowy BALKANCAR DV 1733
+- [Nadleśnictwo Leżajsk] Opinia rzeczoznawcy na przyczepę STIM P200
+- [Nadleśnictwo Augustów] Protokół po zakończeniu czynności przetargowych z dnia 06.08.2026 r.
+- [Nadleśnictwo Pomorze] Informacja_o_wyborze_ofert_ZG.270.18.2026
+- [Nadleśnictwo Mińsk] Dyżury specjalistów ds. lasów niepaństwowych Dyżury specjalistów ds. lasów
+- [Nadleśnictwo Nowa Sól] Skrócona wersja Standardów Ochrony Małoletnich
+- [Nadleśnictwo Pińczów] Protokół z przetargu nieograniczonego ogłoszony w dniu 29.07.2026r.
+- [Nadleśnictwo Bircza] Zbiór chronologiczny aktów normatywnych w Nadleśnictwie Bircza w 2026r Zbiór chronologiczny aktów normatywnych w Nadleśnictwie Bircza w
+- [RDOŚ Bydgoszcz] Czynna ochrona łąk, muraw kserotermicznych i torfowisk (WOA.261.57.2026.AM)
+- [RDOŚ Poznań] Zasady bezpieczeństwa podczas spotkania z żubrem
+- [Nadleśnictwo Legnica] Opracowanie dokumentacji projektowo – kosztorysowej związanej z adaptacją pomieszczenia gospodarczego na punkt zbiorczy sygnału z dostrzegalni przeciwpożarowej w Karczewiskach i Szczytnikach
+- [Nadleśnictwo Wisła] Schemat organizacyjny
+- [Nadleśnictwo Wisła] Wydatkowanie środków na cele społecznie użyteczne - lipiec 2026
+- [Nadleśnictwo Sulechów] Schemat organizacyjny Nadleśnictwa Sulechów

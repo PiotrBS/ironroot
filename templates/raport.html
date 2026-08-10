@@ -130,8 +130,14 @@
       <span class="muted">Brak danych o zdrowiu systemu w tym przebiegu.</span>
     {% endif %}
     {# E3c — mapa starych drzewostanów (GitHub renderuje GeoJSON interaktywnie) #}
-    {% if meta.stare_drzewostany and meta.mapa_url %}
-      <span class="sep">·</span>🗺️ <a href="{{ meta.mapa_url }}">mapa starych drzewostanów ({{ meta.stare_drzewostany }} wykrytych)</a>
+    {% if meta.stare_potwierdzone and meta.mapa_url %}
+      {# Bramkujemy POTWIERDZONYMI, nie wykrytymi: mapa istnieje niezależnie od
+         tego, czy bieżące okno przyniosło nowe wykrycia — inaczej znikała
+         z raportu na tygodnie. Podajemy obie liczby, bo to dwie różne rzeczy:
+         wykryto = odczyt z planu (poszlaka), potwierdzono = geometria z BDL. #}
+      <span class="sep">·</span>🗺️ <a href="{{ meta.mapa_url }}">mapa starych drzewostanów
+      ({{ meta.stare_potwierdzone }} potwierdzonych w BDL{% if meta.stare_drzewostany %},
+      {{ meta.stare_drzewostany }} wykrytych w tym oknie{% endif %})</a>
     {% endif %}
   </div>
 

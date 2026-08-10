@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leśne Echo — mapa starych drzewostanów</title>
+<link rel="stylesheet" href="leaflet.css">
+<style>
+  :root {
+    --tlo: #ffffff; --tekst: #16240f; --slabe: #5c6b52;
+    --ramka: #d8ded2; --akcent: #2f6b2a;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --tlo: #10160d; --tekst: #e7ece2; --slabe: #9aa891;
+            --ramka: #2b3626; --akcent: #86c07d; }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    display: flex; flex-direction: column;
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    background: var(--tlo); color: var(--tekst);
+  }
+  header {
+    padding: .7rem 1rem; border-bottom: 1px solid var(--ramka);
+    display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; align-items: baseline;
+  }
+  h1 { font-size: 1.05rem; margin: 0; font-weight: 650; }
+  h1 span { color: var(--akcent); }
+  #podpis { color: var(--slabe); font-size: .85rem; }
+  header a { color: var(--akcent); }
+  #mapa { flex: 1 1 auto; min-height: 0; background: #e9ebe6; }
+  .legenda, .leaflet-popup-content {
+    font: 13px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  .legenda {
+    background: rgba(255,255,255,.94); color: #16240f;
+    padding: .55rem .7rem; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,.3);
+  }
+  .legenda b { display: block; margin-bottom: .35rem; font-size: 12px;
+               text-transform: uppercase; letter-spacing: .04em; }
+  .legenda i { width: 14px; height: 14px; float: left; margin: 2px 6px 0 0;
+               opacity: .85; border: 1px solid #4a3b1e; }
+  .legenda div { clear: both; line-height: 1.7; }
+  .leaflet-popup-content b { color: #2f6b2a; }
+  .leaflet-popup-content table { border-collapse: collapse; margin-top: .3rem; }
+  .leaflet-popup-content td { padding: 1px 0; vertical-align: top; }
+  .leaflet-popup-content td:first-child { color: #5c6b52; padding-right: .6rem;
+                                          white-space: nowrap; }
+  .info { padding: 1.5rem; color: var(--slabe); }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Leśne Echo — <span>stare drzewostany</span></h1>
+  <div id="podpis">wczytuję dane…</div>
+</header>
+<div id="mapa"></div>
+<noscript><p class="info">Ta mapa wymaga JavaScriptu.
+  Same dane są zawsze dostępne w pliku <code>LATEST.geojson</code>.</p></noscript>
+
+<script src="leaflet.js"></script>
+<script>
+(function () {
+  "use strict";
+
+  // Wielokąty rysujemy na tle ORTOFOTOMAPY GUGiK i oficjalnego rysunku
+  // wydzieleń BDL. Sam GeoJSON na GitHubie pokazywał kształty na pustym tle —
+  // dane były dobre, ale nie dało się zobaczyć, że to naprawdę stary las.
+  var mapa = L.map("mapa", { center: [52.0, 19.3], zoom: 6, preferCanvas: true });
+
+  var osm = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19, attribution: "© <a href='https://www.openstreetmap.org/copyright'>OpenStreetMap</a>"
+  }).addTo(mapa);
+
+  var orto = L.tileLayer(
+    "https://mapy.geoportal.gov.pl/wss/service/PZGIK/ORTO/WMTS/StandardResolution" +
+    "?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTOFOTOMAPA&STYLE=default" +
+    "&FORMAT=image/jpeg&TILEMATRIXSET=EPSG:3857&TILEMATRIX=EPSG:3857:{z}" +
+    "&TILEROW={y}&TILECOL={x}",
+    { maxZoom: 19, attribution: "Ortofotomapa © GUGiK" });
+
+  var granice = L.tileLayer.wms("https://wfs.bdl.lasy.gov.pl/geoserver/BDL/wms", {
+    layers: "BDL:Leśnictwa", format: "image/png", transparent: true,
+    opacity: 0.55, attribution: "Bank Danych o Lasach"
+  });
+
+  var podklady = { "Mapa (OpenStreetMap)": osm, "Ortofotomapa (GUGiK)": orto };
+  var nakladki = { "Granice leśnictw (BDL)": granice };
+  var sterowanie = L.control.layers(podklady, nakladki, { collapsed: false }).addTo(mapa);
+  L.control.scale({ imperial: false }).addTo(mapa);
+
+  // Kolor rośnie z wiekiem: im starszy drzewostan, tym więcej do stracenia.
+  function kolor(w) {
+    return w >= 160 ? "#7f2704" : w >= 140 ? "#a63603" :
+           w >= 120 ? "#d94801" : w >= 110 ? "#f16913" : "#fd8d3c";
+  }
+
+  function wiersz(etykieta, wartosc) {
+    return wartosc === null || wartosc === undefined || wartosc === "" ? "" :
+      "<tr><td>" + etykieta + "</td><td>" + wartosc + "</td></tr>";
+  }
+
+  function dymek(p) {
+    var adres = [p.lesnictwo, p.oddzial, p.pododdzial].filter(Boolean).join("-");
+    var zrodlo = p.adres_z_planu === "opis taksacyjny"
+      ? "opis taksacyjny (najpewniejsze)" : (p.adres_z_planu || "—");
+    return "<b>" + (p.nadlesnictwo || "?") + " · oddz. " + adres + "</b>" +
+      "<table>" +
+        wiersz("gatunek", p.gatunek) +
+        wiersz("wiek (BDL)", p.wiek != null ? p.wiek + " lat" : null) +
+        wiersz("wiek z planu", p.wiek_z_planu != null ? p.wiek_z_planu + " lat" : null) +
+        wiersz("powierzchnia", p.powierzchnia_ha != null ? p.powierzchnia_ha + " ha" : null) +
+        wiersz("siedlisko", p.siedlisko) +
+        wiersz("ochronność", p.ochronnosc) +
+        wiersz("źródło adresu", zrodlo) +
+        (p.wiek_do_weryfikacji ? wiersz("uwaga", "wiek nietypowy — do weryfikacji") : "") +
+      "</table>" +
+      "<p style='margin:.45rem 0 0'><a href='https://www.bdl.lasy.gov.pl/portal/mapy' " +
+      "target='_blank' rel='noopener'>sprawdź w portalu BDL →</a></p>";
+  }
+
+  function legenda() {
+    var c = L.control({ position: "bottomright" });
+    c.onAdd = function () {
+      var d = L.DomUtil.create("div", "legenda");
+      var progi = [100, 110, 120, 140, 160];
+      var etyk = ["100–109 lat", "110–119", "120–139", "140–159", "160 i więcej"];
+      var html = "<b>Wiek drzewostanu</b>";
+      for (var i = 0; i < progi.length; i++) {
+        html += "<div><i style='background:" + kolor(progi[i]) + "'></i>" + etyk[i] + "</div>";
+      }
+      d.innerHTML = html;
+      return d;
+    };
+    c.addTo(mapa);
+  }
+
+  var podpis = document.getElementById("podpis");
+
+  fetch("LATEST.geojson", { cache: "no-cache" })
+    .then(function (r) {
+      if (!r.ok) { throw new Error("HTTP " + r.status); }
+      return r.json();
+    })
+    .then(function (dane) {
+      var cechy = dane.features || [];
+      var m = dane.meta || {};
+
+      if (!cechy.length) {
+        podpis.textContent = "Brak wydzieleń do pokazania — w ostatnim oknie " +
+          "nie potwierdzono żadnego starego drzewostanu.";
+        return;
+      }
+
+      var warstwa = L.geoJSON(dane, {
+        style: function (f) {
+          return { color: "#3b2a12", weight: 1, fillColor: kolor(f.properties.wiek || 0),
+                   fillOpacity: .68 };
+        },
+        onEachFeature: function (f, l) {
+          l.bindPopup(dymek(f.properties));
+          l.bindTooltip((f.properties.nadlesnictwo || "") + " " +
+                        f.properties.oddzial + f.properties.pododdzial +
+                        " · " + (f.properties.wiek || "?") + " lat");
+        }
+      }).addTo(mapa);
+
+      mapa.fitBounds(warstwa.getBounds(), { padding: [30, 30] });
+      legenda();
+
+      // Wydzielenie ma zwykle 1–3 ha, więc w widoku całego nadleśnictwa jest
+      // ledwie plamką i łatwo je przeoczyć. Poniżej zoomu 13 pokazujemy więc
+      // punkty — widać GDZIE szukać; po przybliżeniu wracają same wielokąty.
+      var punkty = L.layerGroup();
+      warstwa.eachLayer(function (l) {
+        L.circleMarker(l.getBounds().getCenter(), {
+          radius: 5, color: "#2b1f0d", weight: 1,
+          fillColor: kolor(l.feature.properties.wiek || 0), fillOpacity: .95
+        }).bindPopup(dymek(l.feature.properties)).addTo(punkty);
+      });
+      function przelaczPunkty() {
+        if (mapa.getZoom() < 13) { punkty.addTo(mapa); }
+        else if (mapa.hasLayer(punkty)) { mapa.removeLayer(punkty); }
+      }
+      mapa.on("zoomend", przelaczPunkty);
+      przelaczPunkty();
+
+      // Oficjalny rysunek wydzieleń BDL — tylko dla RDLP obecnych w danych,
+      // żeby nie ciągnąć kafli z całej Polski bez potrzeby.
+      var warstwy = {};
+      cechy.forEach(function (f) {
+        if (f.properties.warstwa_bdl) { warstwy[f.properties.warstwa_bdl] = 1; }
+      });
+      var nazwy = Object.keys(warstwy);
+      if (nazwy.length) {
+        sterowanie.addOverlay(
+          L.tileLayer.wms("https://wfs.bdl.lasy.gov.pl/geoserver/BDL/wms", {
+            layers: nazwy.join(","), format: "image/png", transparent: true,
+            opacity: 0.5, attribution: "Bank Danych o Lasach"
+          }), "Wydzielenia BDL (sąsiedztwo)");
+      }
+
+      var z_planow = m.adresow_z_planow;
+      podpis.innerHTML =
+        "<b>" + cechy.length + "</b> wydzieleń ≥100 lat potwierdzonych w BDL" +
+        (z_planow ? " (z " + z_planow + " adresów wyczytanych z planów)" : "") +
+        " · stan " + (m.wygenerowano_utc || "").slice(0, 10) +
+        " · okno " + (m.okno_dni || "?") + " dni · " +
+        "<a href='LATEST.geojson'>dane źródłowe</a>";
+    })
+    .catch(function (e) {
+      podpis.textContent = "Nie udało się wczytać danych mapy (" + e.message + ").";
+    });
+})();
+</script>
+</body>
+</html>

@@ -11,6 +11,60 @@ Format: zmiany od najnowszej wersji. Znacznik w kodzie: `LESNE_ECHO_VERSION` w `
 
 ---
 
+## [0.97 beta] — 2026-08-10
+
+**Mapa była gotowa, poprawna i niewidoczna. Teraz ma własną przeglądarkę.**
+
+Przegląd po 11 dniach produkcji (10 przebiegów, 0 błędów po naszej stronie)
+pokazał trzy rzeczy do naprawy — wszystkie dotyczyły tego, że *dobra praca
+nie docierała do czytelnika*.
+
+**1. Mapa zamarzła i zniknęła z raportu.** Link wstawiał się tylko przy
+świeżych wykryciach w oknie, a `cmd_geojson` przy pustym oknie kończył
+wcześniej i nie nadpisywał pliku. Efekt: od 29.07 do 10.08 żaden raport nie
+linkował mapy, a `LATEST.geojson` stał w miejscu 12 dni.
+- `mapa_stan()` — raport PYTA plik o jego stan, zamiast zgadywać z okna.
+- Link pojawia się, gdy mapa ma wielokąty; treść mówi prawdę w obu wariantach
+  („w tym oknie bez nowych wykryć; mapa pokazuje 42 z 29.07").
+- `OKNO_MAPY_AWARYJNE = 30` — puste okno 7 dni poszerzamy do 30 zamiast
+  zamarzać. Użyte okno ląduje w `meta.okno_dni`, więc plik mówi, co pokazuje.
+
+**2. Cisza wyglądała jak awaria.** W sierpniu E3b nie wyprodukowało ani
+jednego wieku. Wyglądało to na zerwany parser — a okazało się, że po prostu
+nie ukazał się żaden nowy opis taksacyjny (0 z 255 pozycji). Rozstrzygnięcie
+wymagało ręcznej sondy; czytelnik nie miał jak.
+- Kanarek w sekcji zdrowia: „Opisy taksacyjne: ostatni 2026-07-29 (12 dni
+  temu)" ze znakiem ✅/🟡/🔴. Cisza i awaria wyglądają teraz INACZEJ.
+
+**3. Najpewniejsze źródło danych leżało odłogiem.** W korpusie było 255
+opisów taksacyjnych, przeczytanych 10 — reszta ma `baseline`, więc stała na
+końcu kolejki i limit dzienny nigdy do niej nie dochodził. To dokument,
+na którym zgodność z BDL wynosi 97% (wobec 7% dla płaskiego tekstu).
+- `TAKSO_ZALEGLE_NA_PRZEBIEG = 3` — stała, mała pula na przebieg. Nadrabiamy
+  archiwum, nie odbierając miejsca świeżym sprawom; ile zostało, widać w logu.
+
+**Własna przeglądarka mapy — `mapa.html` (GitHub Pages).**
+Natywny podgląd GeoJSON na GitHubie rysował gołe wielokąty na pustym tle.
+Dane były dobre, widok bezużyteczny. Teraz:
+- podkład: OpenStreetMap albo **ortofotomapa GUGiK** (WMTS, EPSG:3857),
+- w tle **oficjalne warstwy BDL przez WMS** — granice leśnictw i sąsiednie
+  wydzielenia (warstwa dobierana z nowej właściwości `warstwa_bdl`),
+- kolor wielokąta rośnie z wiekiem, legenda, skala,
+- dymek: gatunek, wiek z BDL **i** z planu, powierzchnia, siedlisko,
+  źródło adresu, odnośnik do portalu BDL,
+- poniżej zoomu 13 wydzielenia (1–3 ha) pokazujemy jako punkty — inaczej
+  w skali nadleśnictwa są niewidoczne,
+- Leaflet 1.9.4 trzymamy u siebie (160 kB), nie z CDN.
+
+Zweryfikowane realnym renderem w Chrome: strona wczytuje dane, rysuje 42
+wielokąty, ortofotomapa i WMS BDL zwracają kafle.
+
+`meta` raportu rozdziela wreszcie dwie różne rzeczy: `stare_drzewostany`
+(odczyt z planu — poszlaka) i `stare_potwierdzone` (geometria z BDL — dowód).
+Szablon PDF bramkuje link potwierdzonymi i podaje obie liczby.
+
+Testy: 53 (nowe: `mapa_stan` na braku pliku i na pliku uszkodzonym, progi stałych).
+
 ## [0.96 beta] — 2026-07-29
 
 **Mapa wskazywała cudze wydzielenia. Naprawione u źródła.**

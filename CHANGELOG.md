@@ -11,6 +11,75 @@ Format: zmiany od najnowszej wersji. Znacznik w kodzie: `LESNE_ECHO_VERSION` w `
 
 ---
 
+## [0.98a] — 2026-08-11 · dogrywka harmonogramu, która nic nie kosztuje
+
+GitHub potrafi **porzucić `schedule` bez śladu** — 31.07 i 11.08 przebieg nie
+odbył się w ogóle, bez wpisu w historii Actions i bez związku z limitem minut
+(694 z 2000 wykorzystanych). Dwa zgubione dni w dwanaście.
+
+Drugi cron `37 9 * * *` ratuje dzień, gdy poranny przepadł. Rzecz w tym, żeby
+w dni normalne nie kosztował ani minuty i **nie liczył wszystkiego drugi raz**:
+
+- osobny mikrojob **`brama`** pyta API o jeden plik (`reports/<dziś>.md`)
+  i dopiero jego odpowiedź decyduje, czy ciężki job w ogóle wystartuje.
+  Sprawdzenie następuje ZANIM ktokolwiek sklonuje 180-megabajtowe repo,
+  postawi Pythona i puści testy;
+- `brama` ma własny warunek `github.event.schedule == '37 9 * * *'`, więc przy
+  porannym cronie i przy uruchomieniu ręcznym jest **pomijana — a job pominięty
+  kosztuje zero**. Płacimy jedną minutę rozliczeniową wyłącznie na ścieżce
+  dogrywki;
+- job główny rusza, gdy brama powiedziała „tak", została pominięta ALBO się
+  wywaliła. Odpuszcza tylko wtedy, gdy brama świadomie powiedziała „nie" —
+  awaria bramy nie ma prawa kosztować dnia.
+
+To zamyka też lukę pierwszej wersji strażnika: siedział w kroku „Pełny
+przebieg", więc **krok „Weryfikacja źródeł (poniedziałki)" nie był nim objęty**
+i w poniedziałki chodziłby po wszystkich 466 źródłach drugi raz. Teraz bramka
+jest na poziomie całego joba, więc obejmuje wszystko.
+
+Bilans: ~30 minut miesięcznie (1,5% przydziału) za ubezpieczenie od utraty dnia.
+
+Zweryfikowane: `bash -n` na skrypcie bramy, YAML sparsowany, macierz decyzji
+przejrzana dla czterech przypadków (poranek / dogrywka z raportem / dogrywka
+bez raportu / awaria bramy).
+
+## [0.98 beta] — 2026-08-11
+
+**Naprawa regresji z 0.97: job przekraczał 90 minut i cały dzienny raport przepadał.**
+
+Objaw z logu Actions: „The job has exceeded the maximum execution time of
+1h30m0s" → „The operation was canceled". Przebieg anulowany przed `publish`
+nie commituje NICZEGO — traci się cały dzień pracy.
+
+Pomiar czasów (health.jsonl → commit) pokazał, że zapas był iluzoryczny:
+
+| dzień | czas |
+|---|---|
+| zwykły | ~47 min |
+| niedziela (pełny obchód) | **78–82 min** z limitu 90 |
+
+Niedziele od tygodni chodziły na 90% limitu. 0.97 dołożyło do tego dwie
+rzeczy liczone CODZIENNIE: poszerzanie okna mapy (do 80 zapytań WFS ≈ 8 min)
+oraz trzy archiwalne opisy taksacyjne (ekstrakcja ze współrzędnych na
+800-stronicowym PDF jest kosztowna). To przelało czarę.
+
+- `MAPA_SWIEZA_DNI = 7` — okno poszerzamy tylko wtedy, gdy mapa NAPRAWDĘ się
+  zestarzała. Świeżej nie przeliczamy: pokazałaby to samo, a kosztuje pełny
+  przegląd BDL. Krok mapy schodzi z ~8 minut do zera na typowym dniu, nie
+  tracąc własności „mapa nie zamarza".
+- `timeout 900` na `scan-attachments` i `timeout 600` na `geojson` w workflow.
+  To DRUGI bezpiecznik obok `--minuty`: budżet wewnętrzny sprawdzany jest
+  między dokumentami, więc jeden wielki PDF potrafi go mocno przekroczyć.
+  Kroki są nieblokujące, więc pipeline zawsze dochodzi do `publish`.
+- `timeout-minutes: 90 → 120` — zapas na niedziele, które i bez naszych
+  zmian ocierały się o limit.
+
+Zasada, którą to utrwala: **żaden krok opcjonalny nie ma prawa kosztować
+raportu.** Lepszy raport bez świeżej mapy niż brak raportu.
+
+Uboczne: nadrabianie zaległości działa — dwa opisy taksacyjne Żmigrodu dały
+842 i 851 wydzieleń, w tym 29 drzewostanów ≥100 lat (dąb 170 lat).
+
 ## [0.97 beta] — 2026-08-10
 
 **Mapa była gotowa, poprawna i niewidoczna. Teraz ma własną przeglądarkę.**

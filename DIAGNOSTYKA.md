@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-10 05:31 UTC
+# Leśne Echo — diagnostyka — 2026-08-12 05:16 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7513
-  artykul         4040
+  dokument        7528
+  artykul         4041
 
 ── wg szczebla ──
-  nadlesnictwo      8674
+  nadlesnictwo      8690
   rdos              1661
   rdlp               670
   ministerstwo       370
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 60482 wierszy z 466 źródeł
+Korpus: 60645 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1951  Dyrekcja Generalna LP
-    1869  RDOŚ Kraków
-     731  RDLP Toruniu
-     700  RDOŚ Gorzów Wlkp.
+    1870  RDOŚ Kraków
+     732  RDLP Toruniu
+     705  RDOŚ Gorzów Wlkp.
      529  Ministerstwo Klimatu i Środowiska
-     512  Generalna Dyrekcja Ochrony Środowiska
+     518  Generalna Dyrekcja Ochrony Środowiska
      485  Nadleśnictwo Trzcianka
      455  RDOŚ Olsztyn
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     47221
-  rdos              6744
-  rdlp              3525
+  nadlesnictwo     47339
+  rdos              6778
+  rdlp              3530
   dglp              1951
   ministerstwo       529
-  gdos               512
+  gdos               518
 
 ```

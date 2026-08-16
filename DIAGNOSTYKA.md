@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-15 04:07 UTC
+# Leśne Echo — diagnostyka — 2026-08-16 04:49 UTC
 
 ## Wersja reguł
 ```
@@ -13,20 +13,20 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7541
-  artykul         4047
+  dokument        7564
+  artykul         4071
 
 ── wg szczebla ──
-  nadlesnictwo      8707
-  rdos              1663
+  nadlesnictwo      8730
+  rdos              1676
   rdlp               670
-  ministerstwo       370
-  gdos               127
+  ministerstwo       379
+  gdos               129
   dglp                51
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     500×  wydatkowanie srodkow cele
+     511×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      414×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
@@ -40,11 +40,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDLP Białymstoku] Ustawa o lasach
       80×  wydatkowane srodki cele
           [Nadleśnictwo Radomsko] Wydatkowane środki na cele społecznie użyteczne w kwietniu 2024r.
+      75×  schemat organizacyjny
+          [RDLP Olsztynie] Załącznik nr 1 - Schemat Organizacyjny
       74×  statut
           [RDLP Gdańsku] Statut PGL LP
-      73×  schemat organizacyjny
-          [RDLP Olsztynie] Załącznik nr 1 - Schemat Organizacyjny
-      71×  regulamin organizacyjny
+      72×  regulamin organizacyjny
           [Nadleśnictwo Ełk] Regulamin Organizacyjny Nadleśnictwa Ełk
       47×  skrzynka e-doreczen
           [RDLP Szczecinie] Skrzynka e-Doręczeń
@@ -173,7 +173,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 60904 wierszy z 466 źródeł
+Korpus: 61262 wierszy z 466 źródeł
 Źródeł zmapowanych: 466
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
@@ -181,19 +181,19 @@ Korpus: 60904 wierszy z 466 źródeł
 ── najwydajniejsze źródła ──
     1970  Dyrekcja Generalna LP
     1877  RDOŚ Kraków
-     732  RDLP Toruniu
-     713  RDOŚ Gorzów Wlkp.
-     530  Generalna Dyrekcja Ochrony Środowiska
-     529  Ministerstwo Klimatu i Środowiska
-     485  Nadleśnictwo Trzcianka
+     733  RDLP Toruniu
+     721  RDOŚ Gorzów Wlkp.
+     544  Ministerstwo Klimatu i Środowiska
+     534  Generalna Dyrekcja Ochrony Środowiska
+     486  Nadleśnictwo Trzcianka
      455  RDOŚ Olsztyn
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     47512
-  rdos              6823
-  rdlp              3540
+  nadlesnictwo     47707
+  rdos              6961
+  rdlp              3546
   dglp              1970
-  gdos               530
-  ministerstwo       529
+  ministerstwo       544
+  gdos               534
 
 ```

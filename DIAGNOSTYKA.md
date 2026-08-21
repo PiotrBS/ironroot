@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-20 04:15 UTC
+# Leśne Echo — diagnostyka — 2026-08-21 04:17 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7588
-  artykul         4078
+  dokument        7591
+  artykul         4081
 
 ── wg szczebla ──
-  nadlesnictwo      8760
+  nadlesnictwo      8766
   rdos              1676
   rdlp               670
   ministerstwo       380
@@ -78,14 +78,14 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDLP Warszawie] załącznik nr 1 - Kwestionariusz osobowy kandydata na pracownika LP referent / s
       19×  zestawienie
           [Nadleśnictwo Łopuchówko] Załącznik nr 1 - zestawienie
+      18×  informacja udzieleniu zamowienia
+          [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
       18×  zobacz wszystkie
           [Ministerstwo Klimatu i Środowiska] zobacz wszystkie
       18×  raport stanie zapewniania
           [RDOŚ Bydgoszcz] Raport o stanie zapewniania dostępności podmiotu publicznego
       17×  ogloszenie
           [Nadleśnictwo Brzeg] Ogłoszenie
-      17×  informacja udzieleniu zamowienia
-          [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
       17×  regulaminu organizacyjnego
           [Nadleśnictwo Gidle] Załącznik nr 2 do regulaminu organizacyjnego
       17×  zmiana regulaminu organizacyjnego
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 61523 wierszy z 466 źródeł
+Korpus: 61617 wierszy z 466 źródeł
 Źródeł zmapowanych: 464
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-    1977  Dyrekcja Generalna LP
-    1886  RDOŚ Kraków
+    1979  Dyrekcja Generalna LP
+    1889  RDOŚ Kraków
      734  RDLP Toruniu
      721  RDOŚ Gorzów Wlkp.
      550  Ministerstwo Klimatu i Środowiska
-     539  Generalna Dyrekcja Ochrony Środowiska
+     541  Generalna Dyrekcja Ochrony Środowiska
      486  Nadleśnictwo Trzcianka
      459  RDOŚ Wrocław
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     47893
-  rdos              7010
-  rdlp              3554
-  dglp              1977
+  nadlesnictwo     47971
+  rdos              7020
+  rdlp              3556
+  dglp              1979
   ministerstwo       550
-  gdos               539
+  gdos               541
 
 ```

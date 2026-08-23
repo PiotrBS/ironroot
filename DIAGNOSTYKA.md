@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-22 04:11 UTC
+# Leśne Echo — diagnostyka — 2026-08-23 04:49 UTC
 
 ## Wersja reguł
 ```
@@ -13,20 +13,20 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7597
-  artykul         4083
+  dokument        7618
+  artykul         4100
 
 ── wg szczebla ──
-  nadlesnictwo      8773
-  rdos              1676
-  rdlp               671
-  ministerstwo       380
+  nadlesnictwo      8793
+  rdos              1684
+  rdlp               672
+  ministerstwo       389
   gdos               129
   dglp                51
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     511×  wydatkowanie srodkow cele
+     526×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      414×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 61694 wierszy z 466 źródeł
+Korpus: 61891 wierszy z 466 źródeł
 Źródeł zmapowanych: 464
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1981  Dyrekcja Generalna LP
-    1891  RDOŚ Kraków
+    1895  RDOŚ Kraków
      735  RDLP Toruniu
-     721  RDOŚ Gorzów Wlkp.
-     550  Ministerstwo Klimatu i Środowiska
-     543  Generalna Dyrekcja Ochrony Środowiska
+     727  RDOŚ Gorzów Wlkp.
+     611  Ministerstwo Klimatu i Środowiska
+     546  Generalna Dyrekcja Ochrony Środowiska
      486  Nadleśnictwo Trzcianka
-     463  RDOŚ Wrocław
+     464  RDOŚ Wrocław
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     48021
-  rdos              7039
-  rdlp              3560
+  nadlesnictwo     48110
+  rdos              7079
+  rdlp              3564
   dglp              1981
-  ministerstwo       550
-  gdos               543
+  ministerstwo       611
+  gdos               546
 
 ```

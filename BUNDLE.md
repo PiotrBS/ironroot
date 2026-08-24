@@ -1,6 +1,6 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-23
+# Leśne Echo — wyciąg do analizy — 2026-08-24
 
-Okno 7 dni · spraw 247 · publikacji 293 · obszary szczególne 3 · nieznanych 81
+Okno 7 dni · spraw 246 · publikacji 292 · obszary szczególne 3 · nieznanych 81
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -16,8 +16,6 @@ Okno 7 dni · spraw 247 · publikacji 293 · obszary szczególne 3 · nieznanych
 
 ## P2 — okno wpływu
 
--  [Nadleśnictwo Sucha] Zmiana w BIP: Wykaz dokumentów zawierających informacje o środowisku
-  https://www.gov.pl/web/nadlesnictwo-sucha/wykaz-dokumentow-zawierajacych-informacje-o-srodowisku  (BIP: 2026-08-17 00:15)
 -  [Nadleśnictwo Suchedniów] Zmiana w BIP: Ochrona przyrody
   https://www.gov.pl/web/nadlesnictwo-suchedniow/ochrona-przyrody  (BIP: 2026-08-17 12:50)
 -  [Nadleśnictwo Suchedniów] Formy_ochrony_przyrody_w_Nadleśnictwie_Suchedniów
@@ -99,8 +97,6 @@ Okno 7 dni · spraw 247 · publikacji 293 · obszary szczególne 3 · nieznanych
 
 ## P3 — sygnały
 
--  [Nadleśnictwo Sucha] Wykaz zarządzeń i decyzji Nadleśniczego Nadleśnictwa Sucha na dzień 15.08.2026r
-  https://www.gov.pl/attachment/7db3b4b0-a300-4787-9cc6-34b46e2c76d6  (BIP: 2026-08-17 00:11)
 -  [Nadleśnictwo Złoty Potok] Wykaz Zarządzeń Nadleśniczego Nadleśnictwa Złoty Potok - stan na dzień 2026.08.17
   https://www.gov.pl/attachment/e8cd5a35-0723-42f6-96f3-2c2c80a55092  (BIP: 2026-08-17 07:45)
 -  [Nadleśnictwo Ośno Lubuskie] Decyzje 2026 rok
@@ -304,6 +300,8 @@ Okno 7 dni · spraw 247 · publikacji 293 · obszary szczególne 3 · nieznanych
   📍 Nadl. Złoty Potok → leśn. Gidelskie
 -  [RDOŚ Kraków] Testowanie metod zwalczania gatunków inwazyjnych
   https://www.gov.pl/web/rdos-krakow/testowanie-metod-zwalczania-gatunkow-inwazyjnych  (BIP: ?)
+-  [Nadleśnictwo Rudnik] Spis aktualnych zarządzeń i decyzji Nadleśniczego Nadleśnictwa Rudnik - stan na 31 lipca 2026 r.
+  https://www.gov.pl/attachment/4b3e7279-e605-4a92-8117-904e2dcc68c6  (BIP: 2026-08-23 22:06)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 

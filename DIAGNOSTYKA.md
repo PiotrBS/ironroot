@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-24 04:47 UTC
+# Leśne Echo — diagnostyka — 2026-08-25 04:15 UTC
 
 ## Wersja reguł
 ```
@@ -13,14 +13,14 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7620
-  artykul         4100
+  dokument        7631
+  artykul         4102
 
 ── wg szczebla ──
-  nadlesnictwo      8793
+  nadlesnictwo      8804
   rdos              1686
-  rdlp               672
-  ministerstwo       389
+  rdlp               673
+  ministerstwo       390
   gdos               129
   dglp                51
 
@@ -84,6 +84,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Ministerstwo Klimatu i Środowiska] zobacz wszystkie
       18×  raport stanie zapewniania
           [RDOŚ Bydgoszcz] Raport o stanie zapewniania dostępności podmiotu publicznego
+      17×  ogloszenie pisemnym przetargu
+          [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       17×  ogloszenie
           [Nadleśnictwo Brzeg] Ogłoszenie
       17×  regulaminu organizacyjnego
@@ -94,8 +96,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Bydgoszcz] Plan działalności Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy na 202
       16×  wniosek udzielenie informacji
           [RDLP Lublinie] Wniosek o udzielenie informacji
-      16×  ogloszenie pisemnym przetargu
-          [RDLP Szczecinku] Ogłoszenie_o__II_pisemnym_przetargu_nieograniczonym_-_X-2026r_-_EA23432026
       16×  ogloszenie wynikow przetargu
           [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       15×  przyroda roznorodnosc biologiczna
@@ -173,7 +173,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 61914 wierszy z 466 źródeł
+Korpus: 62027 wierszy z 466 źródeł
 Źródeł zmapowanych: 464
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
@@ -181,19 +181,19 @@ Korpus: 61914 wierszy z 466 źródeł
 ── najwydajniejsze źródła ──
     1981  Dyrekcja Generalna LP
     1895  RDOŚ Kraków
-     735  RDLP Toruniu
-     727  RDOŚ Gorzów Wlkp.
-     611  Ministerstwo Klimatu i Środowiska
-     546  Generalna Dyrekcja Ochrony Środowiska
-     486  Nadleśnictwo Trzcianka
-     464  RDOŚ Wrocław
+     750  RDLP Toruniu
+     729  RDOŚ Gorzów Wlkp.
+     613  Ministerstwo Klimatu i Środowiska
+     548  Generalna Dyrekcja Ochrony Środowiska
+     488  Nadleśnictwo Trzcianka
+     466  RDOŚ Wrocław
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     48130
-  rdos              7082
-  rdlp              3564
+  nadlesnictwo     48204
+  rdos              7096
+  rdlp              3585
   dglp              1981
-  ministerstwo       611
-  gdos               546
+  ministerstwo       613
+  gdos               548
 
 ```

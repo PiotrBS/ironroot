@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-25 04:15 UTC
+# Leśne Echo — diagnostyka — 2026-08-26 04:20 UTC
 
 ## Wersja reguł
 ```
@@ -13,14 +13,14 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7631
-  artykul         4102
+  dokument        7638
+  artykul         4106
 
 ── wg szczebla ──
-  nadlesnictwo      8804
-  rdos              1686
-  rdlp               673
-  ministerstwo       390
+  nadlesnictwo      8812
+  rdos              1687
+  rdlp               674
+  ministerstwo       391
   gdos               129
   dglp                51
 
@@ -72,7 +72,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Iława] Ochrona danych osobowych
       24×  zestawienie udzielonego wsparcia
           [Nadleśnictwo Sokołów] Zestawienie udzielonego wsparcia finansowego w 07.2024
-      22×  oswiadczenie
+      23×  oswiadczenie
           [RDLP Toruniu] oświadczenie zał nr 2
       20×  kwestionariusz osobowy kandydata
           [RDLP Warszawie] załącznik nr 1 - Kwestionariusz osobowy kandydata na pracownika LP referent / s
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 62027 wierszy z 466 źródeł
+Korpus: 62139 wierszy z 466 źródeł
 Źródeł zmapowanych: 464
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1981  Dyrekcja Generalna LP
-    1895  RDOŚ Kraków
-     750  RDLP Toruniu
+    1896  RDOŚ Kraków
+     765  RDLP Toruniu
      729  RDOŚ Gorzów Wlkp.
-     613  Ministerstwo Klimatu i Środowiska
-     548  Generalna Dyrekcja Ochrony Środowiska
+     615  Ministerstwo Klimatu i Środowiska
+     551  Generalna Dyrekcja Ochrony Środowiska
      488  Nadleśnictwo Trzcianka
-     466  RDOŚ Wrocław
+     472  RDOŚ Wrocław
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     48204
-  rdos              7096
-  rdlp              3585
+  nadlesnictwo     48269
+  rdos              7122
+  rdlp              3601
   dglp              1981
-  ministerstwo       613
-  gdos               548
+  ministerstwo       615
+  gdos               551
 
 ```

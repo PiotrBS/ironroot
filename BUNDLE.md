@@ -1,15 +1,9 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-29
+# Leśne Echo — wyciąg do analizy — 2026-08-30
 
-Okno 7 dni · spraw 289 · publikacji 380 · obszary szczególne 7 · nieznanych 89
+Okno 7 dni · spraw 331 · publikacji 414 · obszary szczególne 21 · nieznanych 85
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
-- ★★★ [Ministerstwo Klimatu i Środowiska] Zmiana w BIP: Obiekt Światowego Dziedzictwa Puszcza Białowieska
-  https://www.gov.pl/web/klimat/unesco-puszcza-bialowieska  (BIP: ?)
-  🌲 Puszcza Białowieska
-- ★★ [RDOŚ Łódź] Owce wracają na wapienne wzgórze — wypas w rezerwacie przyrody „Węże” i w obszarze Natura 2000 Załęczański Łuk Warty PLH100007
-  https://www.gov.pl/web/rdos-lodz/owce  (BIP: ?)
-  🌲 Natura 2000 Załęczański Łuk Warty PLH100007
 - ★★ [RDOŚ Wrocław] Zarządzenie Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 26 sierpnia 2026 r. w sprawie rezerwatu przyrody „Jodłowice"
   https://www.gov.pl/web/rdos-wroclaw/zarzadzenie-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-26-sierpnia-2026-r-w-sprawie-rezerwatu-przyrody-jodlowice  (BIP: 2026-08-26 00:00)
   🌲 Rezerwat Jodłowice
@@ -25,34 +19,66 @@ Okno 7 dni · spraw 289 · publikacji 380 · obszary szczególne 7 · nieznanych
 - ★★ [RDOŚ Wrocław] Zarządzenie nr 10.2026 Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu z dnia 4 sierpnia 2026 r. w sprawie ustanowienia zadań ochronnych dla rezerwatu przyrody „Głazy Krasnoludków”
   https://www.gov.pl/web/rdos-wroclaw/zarzadzenie-nr-102026-regionalnego-dyrektora-ochrony-srodowiska-we-wroclawiu-z-dnia-4-sierpnia-2026-r-w-sprawie-ustanowienia-zadan-ochronnych-dla-rezerwatu-przyrody-glazy-krasnoludkow  (BIP: 2026-08-04 00:00)
   🌲 Rezerwat Głazy Krasnoludków
+- ★★★ [RDOŚ Białystok] Pierwsze spotkanie Zespołu Lokalnej Współpracy - Puszcza i Ostoja Augustowska
+  https://www.gov.pl/web/rdos-bialystok/pierwsze-spotkanie-zespolu-lokalnej-wspolpracy--puszcza-i-ostoja-augustowska  (BIP: ?)
+  🌲 ★ starodrzew / drzewostan naturalny
+- ★★ [RDOŚ Katowice] Konsultacje społeczne w sprawie utworzenia rezerwatów przyrody Stary Bór, Bucznik i Rycerzowa
+  https://www.gov.pl/web/rdos-katowice/konsultacje-spoleczne-w-sprawie-utworzenia-rezerwatow-przyrody-stary-bor-bucznik-rycerzowa  (BIP: ?)
+  🌲 Rezerwat Stary Bór
+- ★★ [RDOŚ Kielce] Zaproszenie na briefing prasowy z okazji ustanowienia rezerwatów przyrody „Bór Ciekoty im. dr. Edwarda Bróża” i „Szynkarka” oraz powiększenia rezerwatu „Białe Ługi”
+  https://www.gov.pl/web/rdos-kielce/zaproszenie-na-briefing-prasowy-z-okazji-ustanowienia-rezerwatow-przyrody-bor-ciekoty-im-dr-edwarda-broza-i-szynkarka-oraz-powiekszenia-rezerwatu-biale-lugi  (BIP: 2026-06-25 00:00)
+  🌲 Rezerwat Bór Ciekoty im. dr. Edwarda Bróża
+- ★★ [RDOŚ Olsztyn] Zmiana w BIP: Nowy pomnik przyrody na terenie Welskiego Parku Krajobrazowego
+  https://www.gov.pl/web/rdos-olsztyn/nowy-pomnik-przyrody-na-terenie-welskiego-parku-krajobrazowego  (BIP: ?)
+  🌲 Park Krajobrazowy Welskiego
+- ★★★ [Ministerstwo Klimatu i Środowiska] Zmiana w BIP: Obiekt Światowego Dziedzictwa Puszcza Białowieska
+  https://www.gov.pl/web/klimat/unesco-puszcza-bialowieska  (BIP: ?)
+  🌲 Puszcza Białowieska
+- ★★ [RDOŚ Olsztyn] Zmiana w BIP: Rezerwaty przyrody Krutynia Dolna i Pierwos z nowym przebiegiem granic
+  https://www.gov.pl/web/rdos-olsztyn/rezerwaty-przyrody-krutynia-dolna-i-pierwos-z-nowym-przebiegiem-granic  (BIP: ?)
+  🌲 Rezerwat Krutynia Dolna
+- ★★★ [RDOŚ Olsztyn] Zmiana w BIP: Puszczański rezerwat przyrody Borki powiększony prawie trzykrotnie!
+  https://www.gov.pl/web/rdos-olsztyn/puszczanski-rezerwat-przyrody-borki-powiekszony-prawie-trzykrotnie  (BIP: ?)
+  🌲 Rezerwat Borki, ★ starodrzew / drzewostan naturalny
+- ★★ [RDOŚ Olsztyn] Zmiana w BIP: Olsztyński rezerwat przyrody Redykajny jeszcze większy!
+  https://www.gov.pl/web/rdos-olsztyn/olsztynski-rezerwat-przyrody-redykajny-jeszcze-wiekszy  (BIP: ?)
+  🌲 Rezerwat Redykajny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Uroczyste ustanowienie rezerwatu przyrody Leśna Ostoja koło Promna im. Wielkiej Orkiestry Świątecznej Pomocy
+  https://www.gov.pl/web/rdos-poznan/uroczyste-ustanowienie-rezerwatu-przyrody-lesna-ostoja-kolo-promna-im-wielkiej-orkiestry-swiatecznej-pomocy  (BIP: ?)
+  🌲 Rezerwat Leśna Ostoja, ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Konferencja prasowa - Ustanowienie rezerwatu Leśna Ostoja koło Promna im. Wielkiej Orkiestry Świątecznej Pomocy
+  https://www.gov.pl/web/rdos-poznan/konferencja-prasowa---ustanowienie-rezerwatu-lesna-ostoja-kolo-promna-im-wielkiej-orkiestry-swiatecznej-pomocy  (BIP: ?)
+  🌲 ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w I spotkaniu Zespołów Lokalnej Współpracy dla obszarów Natura 2000 Ostoja Przemęcka PLH300041 i Dębowa Góra PLH300055
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-i-spotkaniu-zespolow-lokalnej-wspolpracy-dla-obszarow-natura-2000-ostoja-przemecka-plh300041-i-debowa-gora-plh300055  (BIP: ?)
+  🌲 Natura 2000 Ostoja Przemęcka PLH300041, ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w III spotkaniu Zespołów Lokalnej Współpracy dla obszarów Natura 2000 Lasy Żerkowsko-Czeszewskie PLH300053 oraz Ostoja Międzychodzko-Sierakowska PLH300032
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-iii-spotkaniu-zespolow-lokalnej-wspolpracy-dla-obszarow-natura-2000-lasy-zerkowsko-czeszewskie-plh300053-oraz-ostoja-miedzychodzko-sierakowska-plh300032  (BIP: ?)
+  🌲 Natura 2000 Lasy Żerkowsko-Czeszewskie PLH300053, ★ starodrzew / drzewostan naturalny
+- ★★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Ostoja Międzychodzko - Sierakowska PLH300032
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-ostoja-miedzychodzko---sierakowska-plh300032  (BIP: ?)
+  🌲 Natura 2000 Ostoja Międzychodzko, ★ starodrzew / drzewostan naturalny
+- ★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Lasy Żerkowsko-Czeszewskie, PLH300053
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-lasy-zerkowsko-czeszewskie-plh300053  (BIP: ?)
+  🌲 Natura 2000 Lasy Żerkowsko-Czeszewskie
+- ★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Dolina Wełny PLH300043
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-dolina-welny-plh300043  (BIP: ?)
+  🌲 Natura 2000 Dolina Wełny PLH300043
+- ★★ [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w I i II spotkaniu Zespołu Lokalnej Współpracy dla obszaru Natura 2000 Uroczyska Kujańskie PLH300052
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-i-i-ii-spotkaniu-zespolu-lokalnej-wspolpracy-dla-obszaru-natura-2000-uroczyska-kujanskie-plh300052  (BIP: ?)
+  🌲 Natura 2000 Uroczyska Kujańskie PLH300052
+
+## P1 — zegar tyka
+
+-  [RDOŚ Olsztyn] Zmiana w BIP: Decyzja o środowiskowych uwarunkowaniach dla przebudowy toru wodnego na rzece Elbląg
+  https://www.gov.pl/web/rdos-olsztyn/decyzja-o-srodowiskowych-uwarunkowaniach-dla-przebudowy-toru-wodnego-na-rzece-elblag  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Wariant C budowy drogi S16 Mrągowo-Orzysz-Ełk - zaktualizowany raport o oddziaływaniu na środowisko
+  https://www.gov.pl/web/rdos-olsztyn/wariant-c-budowy-drogi-s16-mragowo-orzysz-elk--zaktualizowany-raport-o-oddzialywaniu-na-srodowisko  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Regionalna Komisja do spraw Ocen Oddziaływania na Środowisko
+  https://www.gov.pl/web/rdos-poznan/regionalna-komisja-do-spraw-ocen-oddzialywania-na-srodowisko  (BIP: ?)
 
 ## P2 — okno wpływu
 
--  [RDOŚ Opole] Nowy rezerwat przyrody w województwie opolskim
-  https://www.gov.pl/web/rdos-opole/nowy-rezerwat-przyrody-w-wojewodztwie-opolskim  (BIP: 2026-07-22 00:00)
--  [Nadleśnictwo Antonin] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-antonin/informacje-o-kontrolach  (BIP: 2026-08-20 11:33)
--  [Nadleśnictwo Czarnobór] KONTROLE ZEWNĘTRZNE 20.08.2026
-  https://www.gov.pl/attachment/f3f19b81-9a0d-4e93-86c4-7f1c7b7cec58  (BIP: 2026-08-20 13:41)
--  [Nadleśnictwo Sucha] Zmiana w BIP: Informacje o kontrolach
-  https://www.gov.pl/web/nadlesnictwo-sucha/informacje-o-kontrolach  (BIP: 2026-08-17 07:29)
--  [Nadleśnictwo Złoty Potok] Zestawienie kontroli zewnętrznych w 2026
-  https://www.gov.pl/attachment/17c26d43-d4d3-4eb4-9a36-be0a8eececd1  (BIP: 2026-08-17 10:58)
--  [Ministerstwo Klimatu i Środowiska] Zmiana w BIP: Konsultacje publiczne
-  https://www.gov.pl/web/klimat/konsultacje-publiczne  (BIP: ?)
--  [Ministerstwo Klimatu i Środowiska] Zmiana w BIP: Senat bez poprawek do nowelizacji ustawy Prawo ochrony środowiska
-  https://www.gov.pl/web/klimat/senat-bez-poprawek-do-nowelizacji-ustawy-prawo-ochrony-srodowiska  (BIP: ?)
--  [Generalna Dyrekcja Ochrony Środowiska] 70 rezerwatów przyrody w województwie śląskim. Powstały rezerwaty Bogdaniec i Psi Nos
-  https://www.gov.pl/web/gdos/70-rezerwatow-przyrody-w-wojewodztwie-slaskim-powstaly-rezerwaty-bogdaniec-i-psi-nos  (BIP: ?)
-- ★ [RDOŚ Białystok] Rejestr obszarów chronionego krajobrazu na terenie województwa podlaskiego - stan na dzień 17 sierpnia 2026 r.
-  https://www.gov.pl/attachment/e449dac6-4e0f-4d1a-b3e0-5950aa0ccb4a  (BIP: 2026-08-19 10:56)
-  🌲 forma ochrony przyrody
--  [Nadleśnictwo Brzozów] Rejestr kontroli 2026.08
-  https://www.gov.pl/attachment/d131c2d0-b811-4bd2-994d-1ebb23bc8a40  (BIP: 2026-08-20 09:44)
--  [RDOŚ Gorzów Wlkp.] Rozpoczynamy konsultacje społeczne planowanych do utworzenia nowych rezerwatów przyrody w województwie lubuskim
-  https://www.gov.pl/web/rdos-gorzow-wielkopolski/rozpoczynamy-konsultacje-spoleczne-planowanych-do-utworzenia-nowych-rezerwatow-przyrody-w-wojewodztwie-lubuskim2  (BIP: 2026-08-19 00:00)
--  [RDOŚ Łódź] 50 lat Parków Krajobrazowych w Polsce
-  https://www.gov.pl/web/rdos-lodz/jubileusz-50-lecia-parkow-krajobrazowych-w-polsce  (BIP: ?)
 -  [Nadleśnictwo Łosie] Ogłoszenie - przetarg nieograniczony na dzierżawę gruntów rolnych w miejscowości Izby
   https://www.gov.pl/attachment/8fbfd278-19de-4835-a4ba-2cfbcd0f9936  (BIP: 2026-08-24 07:48)
 -  [RDLP Białymstoku] Zmiana w BIP: Plan urządzenia lasu
@@ -121,22 +147,73 @@ Okno 7 dni · spraw 289 · publikacji 380 · obszary szczególne 7 · nieznanych
   https://www.gov.pl/attachment/513538bc-32f2-4366-9d1f-b4365116ab7a  (BIP: 2026-08-28 07:52)
 -  [Nadleśnictwo Sokołów] Informacja o kontrolach przeprowadzonych w Nadleśnictwie Sokołów w 2026 roku
   https://www.gov.pl/attachment/4bc3c812-0648-4cc0-957a-638f931cf0ba  (BIP: 2026-08-28 11:41)
+-  [Generalna Dyrekcja Ochrony Środowiska] To już 200-setny nowy rezerwat w Polsce - uroczyste ustanowienie nowego rezerwatu przyrody w Dolinie Rzeki Małej
+  https://www.gov.pl/web/gdos/to-juz-200-setny-nowy-rezerwat-w-polsce--uroczyste-ustanowienie-nowego-rezerwatu-przyrody-w-dolinie-rzeki-malej  (BIP: ?)
+-  [Nadleśnictwo Solec Kujawski] Kontrole zewnętrzne w Nadleśnictwie Solec Kujawski w 2026 roku
+  https://www.gov.pl/attachment/10b54f01-1109-4564-bba8-898dab1b70f5  (BIP: 2026-08-28 12:08)
+-  [RDOŚ Białystok] Ustanowiono plany zadań ochronnych dla dwóch obszarów Natura 2000
+  https://www.gov.pl/web/rdos-bialystok/ustanowiono-plany-zadan-ochronnych-dla-dwoch-obszarow-natura-2000  (BIP: ?)
+-  [Nadleśnictwo Pisz] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-pisz/informacje-o-kontrolach  (BIP: 2026-08-25 10:25)
+-  [RDOŚ Bydgoszcz] Rezerwaty przyrody województwa kujawsko-pomorskiego
+  https://www.gov.pl/web/rdos-bydgoszcz/rezerwaty-przyrody-wojewodztwa-kujawsko-pomorskiego  (BIP: ?)
+-  [RDOŚ Gorzów Wlkp.] Od 2024 roku w Polsce powstało 200 nowych rezerwatów przyrody
+  https://www.gov.pl/web/rdos-gorzow-wielkopolski/od-2024-roku-w-polsce-powstalo-200-nowych-rezerwatow-przyrody  (BIP: ?)
+-  [RDOŚ Katowice] Od 2024 r. powstał 200. nowy rezerwat przyrody w Polsce. Na Śląsku w tym czasie ochroną objęto blisko 800 hektarów
+  https://www.gov.pl/web/rdos-katowice/od-2024-powstal-200-nowy-rezerwat-przyrody-w-polsce-na-slasku-w-tym-czasie-ochrona-objeto-blisko-800-hektarow  (BIP: ?)
+-  [RDOŚ Lublin] Podsumowanie działań na rzecz tworzenia nowych rezerwatów przyrody od 2024 roku
+  https://www.gov.pl/web/rdos-lublin/podsumowanie-dzialan-na-rzecz-tworzenia-nowych-rezerwatow-przyrody-od-2024-roku  (BIP: 2026-08-26 00:00)
+-  [RDOŚ Lublin] Święto Parków Krajobrazowych Województwa Lubelskiego pod nazwą "W meandrach Bugu"
+  https://www.gov.pl/web/rdos-lublin/swieto-parkow-krajobrazowych-pod-nazwa-w-meandrach-bugu  (BIP: 2026-06-15 00:00)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Natura 2000
+  https://www.gov.pl/web/rdos-olsztyn/natura-2000  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Zmiany w sieci Natura 2000
+  https://www.gov.pl/web/rdos-olsztyn/zmiany-w-sieci-natura-2002  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Szacowanie szkód wyrządzonych przez gatunki chronione - za nami kolejne spotkania z rolnikami
+  https://www.gov.pl/web/rdos-olsztyn/szacowanie-szkod-wyrzadzonych-przez-gatunki-chronione--za-nami-kolejne-spotkania-z-rolnikami  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: „Sołdany” - 127. rezerwat przyrody w Warmińsko-Mazurskiem
+  https://www.gov.pl/web/rdos-olsztyn/soldany--127-rezerwat-przyrody-w-warminsko-mazurskiem  (BIP: ?)
+-  [Ministerstwo Klimatu i Środowiska] 200. nowy rezerwat przyrody od 2024 roku to Rezerwat Dolina Małej Rzeki w woj. mazowieckim
+  https://www.gov.pl/web/klimat/200-nowy-rezerwat-przyrody-od-2024-roku-to-rezerwat-dolina-malej-rzeki-w-woj-mazowieckim  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Zakończyliśmy kilkuletni monitoring w obszarach Natura 2000
+  https://www.gov.pl/web/rdos-olsztyn/zakonczylismy-kilkuletni-monitoring-w-obszarach-natura-2000  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Cztery torfowiskowe i jeden faunistyczny - nowe rezerwaty przyrody w województwie warmińsko-mazurskim
+  https://www.gov.pl/web/rdos-olsztyn/cztery-torfowiskowe-i-jeden-faunistyczny---nowe-rezerwaty-przyrody-w-wojewodztwie-warminsko-mazurskim  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: (Aktualizacja - Konsultacje społeczne zostały zakończone. Poznaj pierwszą część raportu). Ruszają konsultacje społeczne dla projektowanych rezerwatów przyrody w województwie warmińsko-mazurskim
+  https://www.gov.pl/web/rdos-olsztyn/ruszaja-konsultacje-spoleczne-dla-projektowanych-rezerwatow-przyrody-w-wojewodztwie-warminsko-mazurskim  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: „Za zasługi dla Parku Krajobrazowego Wysoczyzny Elbląskiej” - wyróżnienie dla Regionalnej Dyrekcji Ochrony Środowiska w Olsztynie
+  https://www.gov.pl/web/rdos-olsztyn/za-zaslugi-dla-parku-krajobrazowego-wysoczyzny-elblaskiej--wyroznienie-dla-regionalnej-dyrekcji-ochrony-srodowiska-w-olsztynie  (BIP: ?)
+-  [RDOŚ Olsztyn] Zmiana w BIP: Europejski Dzień Obszarów Natura 2000
+  https://www.gov.pl/web/rdos-olsztyn/europejski-dzien-obszarow-natura-2000  (BIP: ?)
+-  [RDOŚ Opole] Dwusetny rezerwat przyrody w Polsce. Podsumowujemy ochronę przyrody w regionie.
+  https://www.gov.pl/web/rdos-opole/dwusetny-rezerwat-przyrody-w-polsce-podsumowujemy-ochrone-przyrody-w-regionie  (BIP: 2026-08-26 00:00)
+-  [RDOŚ Poznań] Zmiana w BIP: Formy ochrony przyrody
+  https://www.gov.pl/web/rdos-poznan/formy-ochrony-przyrody  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Ochrona gatunkowa roślin, zwierząt i grzybów
+  https://www.gov.pl/web/rdos-poznan/ochrona-gatunkowa-roslin-zwierzat-i-grzybow2  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Natura 2000
+  https://www.gov.pl/web/rdos-poznan/natura-2002  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Planowany Rezerwat Przyrody Nadgoplański Park Tysiąclecia
+  https://www.gov.pl/web/rdos-poznan/planowany-rezerwat-przyrody-nadgoplanski-park-tysiaclecia  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Zaproszenie do uczestnictwa w spotkaniach Zespołów Lokalnej Współpracy w sprawie projektów planów zadań ochronnych dla obszarów Natura 2000 w województwie wielkopolskim
+  https://www.gov.pl/web/rdos-poznan/zaproszenie-do-uczestnictwa-w-spotkaniach-zespolow-lokalnej-wspolpracy-w-sprawie-projektow-planow-zadan-ochronnych-dla-obszarow-natura-2000-w-wojewodztwie-wielkopolskim  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Sporządzenie planów zadań ochronnych dla obszarów Natura 2000: Dolina Środkowej Warty PLB300002, Jezioro Kaliszańskie PLH300044, Jodły Ostrzeszowskie PLH300059 i Zamorze Pniewskie PLH300036
+  https://www.gov.pl/web/rdos-poznan/sporzadzenie-planow-zadan-ochronnych-dla-obszarow-natura-2000-dolina-srodkowej-warty-plb300002-jezioro-kaliszanskie-plh300044-jodly-ostrzeszowskie-plh300059-i-zamorze-pniewskie-plh300036  (BIP: ?)
+-  [RDOŚ Poznań] Zmiana w BIP: Dostęp do danych geoprzestrzennych Dostęp do danych przestrzennych form ochrony przyrody
+  https://www.gov.pl/web/rdos-poznan/dostep-do-danych-geoprzestrzennych  (BIP: ?)
+-  [RDOŚ Warszawa] Dwusetny mazowiecki rezerwat przyrody
+  https://www.gov.pl/web/rdos-warszawa/dwusetny-mazowiecki-rezerwat-przyrody  (BIP: 2026-08-28 00:00)
+-  [RDOŚ Warszawa] Nowy rezerwat przyrody w województwie mazowieckim
+  https://www.gov.pl/web/rdos-warszawa/nowy-rezerwat-przyrody-w-wojewodztwie-mazowieckim  (BIP: ?)
+-  [Nadleśnictwo Opoczno] Zmiana w BIP: Informacje o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-opoczno/informacje-o-kontrolach  (BIP: 2026-08-24 07:35)
+-  [Ministerstwo Klimatu i Środowiska] Konferencja prasowa ministry Pauliny Hennig-Kloski dotycząca ustanowienia 200. nowego rezerwatu przyrody od 2024 roku
+  https://www.gov.pl/web/klimat/konferencja-prasowa-ministry-pauliny-hennig-kloski-dotyczaca-ustanowienia-200-nowego-rezerwatu-przyrody-od-2024-roku  (BIP: 2026-08-26 00:00)
+-  [Ministerstwo Klimatu i Środowiska] Zmiana w BIP: Konsultacje publiczne
+  https://www.gov.pl/web/klimat/konsultacje-publiczne  (BIP: ?)
 
 ## P3 — sygnały
 
--  [Nadleśnictwo Białogard] Zarządzenie nr 40/2026 z 18.08.2026 w sprawie zaminy Regulaminu Organizacyjnego
-  https://www.gov.pl/attachment/fc94a86b-22f1-4fd1-b9a4-d3c08f676411  (BIP: 2026-08-20 08:24)
--  [RDOŚ Rzeszów] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Rzeszowie z dnia 13 sierpnia 2026 r., znak: WOOŚ.420.18.2.2026.BK.18, dla przedsięwzięcia pn. „Dostosowanie infrastruktury Lotniska Mielec EPML do wymagań certyfikacyjnych ICAO”
-  https://www.gov.pl/web/rdos-rzeszow/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-rzeszowie-z-dnia-13-sierpnia-2026-r-znak-woos4201822026bk18-dla-przedsiewziecia-pn-dostosowanie-infrastruktury-lotniska-mielec-epml-do-wymagan-certyfikacyjnych-icao  (BIP: 2026-08-13 00:00)
--  [RDOŚ Rzeszów] Obwieszczenie Regionalnego Dyrektora Ochrony Środowiska w Rzeszowie z dnia 13 sierpnia 2026 r., znak: WOOŚ.420.16.2.2026.PW.21, dla przedsięwzięcia pn. „Zagospodarowanie odwiertu Gnojnica-7K - KGZ Czarna Sędziszowska”
-  https://www.gov.pl/web/rdos-rzeszow/obwieszczenie-regionalnego-dyrektora-ochrony-srodowiska-w-rzeszowie-z-dnia-13-sierpnia-2026-r-znak-woos4201622026pw21-dla-przedsiewziecia-pn-zagospodarowanie-odwiertu-gnojnica-7k--kgz-czarna-sedziszowska  (BIP: 2026-08-13 00:00)
--  [Nadleśnictwo Wisła] Zarządzenie w sprawie wprowadzenia zmian w regulaminie organizacyjnym nr 50/2025
-  https://www.gov.pl/attachment/dd56e8b8-28d6-4891-a266-b4a5e517b0be  (BIP: 2026-08-20 08:26)
--  [Nadleśnictwo Złoty Potok] Zarządzenie 11/2026 zmieniające zarządzenie 13/2025 w sprawie wprowadzenia Regulaminu Organizacyjnego Nadleśńictwa Złoty Potok
-  https://www.gov.pl/attachment/8094abf4-0b2f-4587-b322-6a89b952c0d3  (BIP: 2026-08-20 14:10)
-  📍 Nadl. Złoty Potok → leśn. Gidelskie
--  [RDOŚ Kraków] Testowanie metod zwalczania gatunków inwazyjnych
-  https://www.gov.pl/web/rdos-krakow/testowanie-metod-zwalczania-gatunkow-inwazyjnych  (BIP: ?)
 -  [Nadleśnictwo Rudnik] Spis aktualnych zarządzeń i decyzji Nadleśniczego Nadleśnictwa Rudnik - stan na 31 lipca 2026 r.
   https://www.gov.pl/attachment/4b3e7279-e605-4a92-8117-904e2dcc68c6  (BIP: 2026-08-23 22:06)
 -  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska 21 sierpnia 2026 r., znak: DOOŚ-WDŚIII.420.26.2025.KP.21
@@ -370,46 +447,56 @@ Okno 7 dni · spraw 289 · publikacji 380 · obszary szczególne 7 · nieznanych
   https://www.gov.pl/attachment/49da7dd6-0e0e-4647-ab00-70e6b099b067  (BIP: 2026-08-28 12:02)
 -  [Nadleśnictwo Tuczno] WYKAZ DECYZJI NADLEŚNICZEGO NADLEŚNICTWA TUCZNO W 2026 R.
   https://www.gov.pl/attachment/eb1752ab-e6fa-4459-8d73-933935ddd8ba  (BIP: 2026-08-28 10:34)
+-  [RDOŚ Białystok] Szkolenie: „Inwazyjne Gatunki Obce roślin, co warto o nich wiedzieć”
+  https://www.gov.pl/web/rdos-bialystok/szkolenie-inwazyjne-gatunki-obce-roslin-co-warto-o-nich-wiedziec  (BIP: ?)
+-  [Nadleśnictwo Bardo Śląskie] Zarządzenie nr 28/2026 ws. zmiany zarządzenia 21/2021 z dnia 24.05.2021 r. dot. wprowadzenia Regulaminu Organizacyjnego Nadleśnictwa Bardo
+  https://www.gov.pl/attachment/36a11287-ac7b-4a53-a963-3031de2d1132  (BIP: 2026-08-25 14:47)
+-  [Nadleśnictwo Biłgoraj] Wykaz zarządzeń Nadleśniczego Nadleśnictwa Biłgoraj stan na dzień 27.08.2026 r
+  https://www.gov.pl/attachment/47fd6a59-7970-4781-a870-33b872fcf356  (BIP: 2026-08-27 09:03)
+-  [RDOŚ Opole] Informacja o publikacji Obwieszczenia Regionalnego Dyrektora Ochrony Środowiska w Opolu nr WPN.600.237.2025 z 22 lipca 2026 r.
+  https://www.gov.pl/web/rdos-opole/informacja-o-publikacji-obwieszczenia-regionalnego-dyrektora-ochrony-srodowiska-w-opolu-nr-wpn6002372025-z-22-lipca-2026-r  (BIP: 2026-07-22 00:00)
+-  [Nadleśnictwo Oborniki] Zarządzenie nr 43/2026 Nadleśniczwgo Nadleśnictwa Oborniki z dnia 19 sierpnia 2026r. w sprawie wprowadzenia Planu Równości Płci w Nadleśnictwie Oborniki
+  https://www.gov.pl/attachment/048f14bc-8257-423c-bef3-8417ebeeab46  (BIP: 2026-08-28 14:31)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 
-- [Ministerstwo Klimatu i Środowiska] Budujemy odporność klimatyczną
-- [Ministerstwo Klimatu i Środowiska] Zebraliśmy 3,2 mld opakowań kaucyjnych!
-- [Ministerstwo Klimatu i Środowiska] Zapisy na spotkania lokalne w ramach II etapu pilotażu wyznaczania lasów społecznych - Bydgoszcz i Toruń
-- [Ministerstwo Klimatu i Środowiska] Zapisy na spotkania lokalne w ramach II etapu pilotażu wyznaczania lasów społecznych - Bielsko-Biała i Warszawa
-- [Ministerstwo Klimatu i Środowiska] Ochrona przyrody i rozwój lokalny. Nowe wsparcie dla samorządów z parkami narodowymi i rezerwatami
-- [Ministerstwo Klimatu i Środowiska] 3,2 mld zebranych opakowań i początek prac nad wydłużeniem ważności bonu kaucyjnego
-- [Ministerstwo Klimatu i Środowiska] Polska i Kanada zacieśniają współpracę w obszarze surowców krytycznych
-- [Nadleśnictwo Bardo Śląskie] Dane teleadresowe Nadleśnictwa Bardo
-- [RDOŚ Opole] Centralne obchody Dnia Energetyka 2026
-- [RDLP Poznaniu] Jednostki organizacyjne nadzorowane przez RDLP w Poznaniu - 2026 r.
-- [Nadleśnictwo Łąck] Wydatkowanie środków na cele społecznie użyteczne
-- [Nadleśnictwo Radziwiłłów] Wydatkowanie środków na cele społecznie użyteczne
-- [Nadleśnictwo Wisła] Regulamin organizacyjny Nadleśnictwa Wisła
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_czerwiec 2024
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_sierpień 2024
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_październik 2024
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_listopad 2024
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_grudzień 2024
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_luty_2025
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społeczno_użyteczne_marzec_2025
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społeczno_użyteczne_maj_2025
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_lipiec_2025
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne-_sierpień_2025
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne__wrzesień_2025
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne_październik_2025
-- [Nadleśnictwo Wisła] Wydatkowanie_środków_na_cele_społecznie_użyteczne-_listopad_2025
-- [Nadleśnictwo Złoty Potok] Schemat Organizacyjny Nadleśnictwa Złoty Potok
-- [Ministerstwo Klimatu i Środowiska] Najnowsze dane obrazujące funkcjonowanie systemu kaucyjnego - zaproszenie na konferencję prasową wiceministry Anity Sowińskiej - nowy termin konferencji
-- [Nadleśnictwo Drygały] Wykaz obdarowanych maj 2026
-- [Ministerstwo Klimatu i Środowiska] Budujemy odporność klimatyczną
-- [RDOŚ Białystok] Ogłoszenie konkursu fotograficznego „Kadr na Naturę! Wakacyjny Konkurs dla Młodych Odkrywców”
-- [RDOŚ Białystok] Posiedzenie Regionalnej Rady Ochrony Przyrody
-- [RDOŚ Białystok] 14 sierpnia 2026 r. będzie dniem wolnym od pracy
-- [RDOŚ Białystok] INFORMACJA PRASOWA
-- [RDOŚ Katowice] Archiwum aktualności
-- [RDOŚ Kraków] Komunikat dotyczący nadchodzących upałów
-- [RDOŚ Łódź] Zagrożenie pożarowe w lasach. Uruchomiono specjalny numer alarmowy
 - [Ministerstwo Klimatu i Środowiska] Rejs szkoleniowy - kolejny krok w realizacji „Programu Rozpoznania Geologicznego Oceanów” - PRoGeO
 - [Nadleśnictwo Legnica] Zmiana treści OPZ oraz przedłużenie terminu składania
 - [Nadleśnictwo Krzystkowice] Załącznik nr 1 Wykaz składników majątkowych przeznaczonych do sprzedaży
+- [Nadleśnictwo Łosie] Zał. nr 1. Wykaz nieruchomości
+- [Nadleśnictwo Łosie] Zał. nr 2. Mapa z lokalizacją nieruchomości
+- [Nadleśnictwo Łosie] Ogłoszenie przetarg nieograniczony
+- [Nadleśnictwo Łosie] zał. nr 1. Wykaz nieruchomości
+- [Nadleśnictwo Łosie] Zał. nr 2. Mapa
+- [Nadleśnictwo Białogard] Zarządzenia Nadleśnictwa Białogard
+- [Nadleśnictwo Białogard] Decyzje Nadleśnictwa Białogard
+- [RDLP Gdańsku] Ogłoszenie o pisemnym przetargu publicznym na sprzedaż samochodu osobowego
+- [Nadleśnictwo Dojlidy] Oferta na zakup pługa LPZ z mechanizmem do wywyższania bruzdy (rok prod. 2002)
+- [Nadleśnictwo Maskulińskie] Ogłoszenie o wynikach przetargu
+- [RDOŚ Olsztyn] III Olsztyńska Noc Nietoperzy
+- [RDLP Toruniu] Protokół - Wstępne Konsultacje Rynkowe
+- [Nadleśnictwo Miradz] Budowa drogi dojazdowej do Szkółki Leśnej
+- [Nadleśnictwo Runowo] Załącznik nr 1 Kwestionariusz osobowy
+- [Nadleśnictwo Runowo] Załącznik nr 3 Zgoda na przetwarzanie danych osobowych
+- [Nadleśnictwo Runowo] Załącznik nr 4 Oświadczenie
+- [Ministerstwo Klimatu i Środowiska] Prekonsultacje dot. wdrożenia Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2026/1738 w sprawie wymogów w zakresie obiegu zamkniętego w odniesieniu do projektowania pojazdów oraz gospodarowania pojazdami wycofanymi z eksploatacji
+- [Nadleśnictwo Suwałki] Ogłoszenie_o_II_przetargu_pisemnym_nieograniczonym_na_sprzedaż_zbędnych_składników_majątkowych
+- [Nadleśnictwo Suwałki] Zał_1_-_Wykaz_składników_majątkowych_przeznaczonych_na_sprzedaż
+- [Nadleśnictwo Suwałki] Zał_3_-_Wzór_protokołu_przekazania
+- [Nadleśnictwo Opole] Budowa progów zatrzymujących wodę na rowach na terenie Nadleśnictwa Opole w formule zaprojektuj i wybuduj
+- [Nadleśnictwo Karnieszewice] 16 - INFORMACJA_O_UNIEWAŻANIENIU_POSTĘPOWANIA_II 16 -
+- [RDOŚ Wrocław] 6 - Petycja z dnia 20 lipca 2026 r. w sprawie przebudowy drogi gminnej w miejscowości Świerzna w gminie Oleśnica
+- [Ministerstwo Klimatu i Środowiska] Zmarł Czesław Śleziak, Minister Środowiska w latach 2003-2004
+- [Ministerstwo Klimatu i Środowiska] Bezpłatne warsztaty Śląskiego Centrum Klimatu
+- [Nadleśnictwo Srokowo] Informacja o przetwarzaniu danych osobowych
+- [Nadleśnictwo Rudka] Usługa geodezyjna świadczona na rzecz Nadleśnictwa Rudka polegająca na aktualizacji użytków
+- [Nadleśnictwo Rudka] Remont dachu budynku gospodarczego Leśnictwa Siemiony
+- [Nadleśnictwo Łochów] Zawiadomienie o rozstrzygnięciu postępowania
+- [Nadleśnictwo Kaczory] PROTOKÓŁ z II nieograniczonego przetargu ustnego na sprzeedaż zbędnych środków trwałych oraz wyposażenia
+- [Nadleśnictwo Kaczory] Protokół z przetargu ustnego nieograniczonego na sprzedaż zbędnego środka trwałego - samochód Suzuki Grand Vitara
+- [Nadleśnictwo Wronki] SA.234.2.2026 – Ogłoszenie o I przetargu
+- [Nadleśnictwo Wronki] SA.234.2.2026 – Załącznik nr 1 – Przedmiot przetargu
+- [Nadleśnictwo Wronki] SA.234.2.2026 – Załącznik nr 3 – RODO
+- [Nadleśnictwo Oleśnica Śląska] Decyzja Minister Klimatu i Środowiska o uznaniu lasów za ochronne
+- [Nadleśnictwo Kup] Ponowne wykorzystywanie
+- [Nadleśnictwo Brzózka] Załącznik_nr_1_Lista_niskocennych_składników_majątkowych_do_sprzedaży

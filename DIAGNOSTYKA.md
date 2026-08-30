@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-29 10:04 UTC
+# Leśne Echo — diagnostyka — 2026-08-30 09:52 UTC
 
 ## Wersja reguł
 ```
@@ -13,24 +13,24 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7656
-  artykul         4116
+  dokument        7665
+  artykul         4155
 
 ── wg szczebla ──
-  nadlesnictwo      8833
-  rdos              1689
+  nadlesnictwo      8839
+  rdos              1703
   rdlp               674
-  ministerstwo       396
-  gdos               129
-  dglp                51
+  ministerstwo       418
+  gdos               134
+  dglp                52
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     526×  wydatkowanie srodkow cele
+     528×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      414×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
-     396×  dane teleadresowe
+     397×  dane teleadresowe
           [RDOŚ Opole] Dane teleadresowe
      334×  dostepnosc raport
           [Dyrekcja Generalna LP] Dostępność raport
@@ -78,10 +78,10 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDLP Warszawie] załącznik nr 1 - Kwestionariusz osobowy kandydata na pracownika LP referent / s
       19×  zestawienie
           [Nadleśnictwo Łopuchówko] Załącznik nr 1 - zestawienie
+      19×  zobacz wszystkie
+          [Ministerstwo Klimatu i Środowiska] zobacz wszystkie
       18×  informacja udzieleniu zamowienia
           [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
-      18×  zobacz wszystkie
-          [Ministerstwo Klimatu i Środowiska] zobacz wszystkie
       18×  raport stanie zapewniania
           [RDOŚ Bydgoszcz] Raport o stanie zapewniania dostępności podmiotu publicznego
       17×  ogloszenie pisemnym przetargu
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 62454 wierszy z 466 źródeł
+Korpus: 62890 wierszy z 466 źródeł
 Źródeł zmapowanych: 464
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-    1991  Dyrekcja Generalna LP
+    1993  Dyrekcja Generalna LP
     1902  RDOŚ Kraków
      781  RDLP Toruniu
-     735  RDOŚ Gorzów Wlkp.
-     628  Ministerstwo Klimatu i Środowiska
-     553  Generalna Dyrekcja Ochrony Środowiska
+     748  RDOŚ Gorzów Wlkp.
+     705  Ministerstwo Klimatu i Środowiska
+     580  RDOŚ Olsztyn
+     562  Generalna Dyrekcja Ochrony Środowiska
      490  RDOŚ Wrocław
-     488  Nadleśnictwo Trzcianka
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     48451
-  rdos              7204
+  nadlesnictwo     48542
+  rdos              7461
   rdlp              3627
-  dglp              1991
-  ministerstwo       628
-  gdos               553
+  dglp              1993
+  ministerstwo       705
+  gdos               562
 
 ```

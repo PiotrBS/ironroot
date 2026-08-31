@@ -1,6 +1,6 @@
-# Leśne Echo — wyciąg do analizy — 2026-08-30
+# Leśne Echo — wyciąg do analizy — 2026-08-31
 
-Okno 7 dni · spraw 331 · publikacji 414 · obszary szczególne 21 · nieznanych 85
+Okno 7 dni · spraw 338 · publikacji 423 · obszary szczególne 21 · nieznanych 87
 
 ## ⭐ OBSZARY SZCZEGÓLNE
 
@@ -211,11 +211,15 @@ Okno 7 dni · spraw 331 · publikacji 414 · obszary szczególne 21 · nieznanyc
   https://www.gov.pl/web/klimat/konferencja-prasowa-ministry-pauliny-hennig-kloski-dotyczaca-ustanowienia-200-nowego-rezerwatu-przyrody-od-2024-roku  (BIP: 2026-08-26 00:00)
 -  [Ministerstwo Klimatu i Środowiska] Zmiana w BIP: Konsultacje publiczne
   https://www.gov.pl/web/klimat/konsultacje-publiczne  (BIP: ?)
+-  [RDOŚ Wrocław] 7 - Petycja z dnia 19 sierpnia 2026 r w sprawie odstąpienia od planów utworzenia rezerwatów przyrody na terenie Gminy Mieroszów oraz ponownej analizy zasadności ich utworzenia
+  https://www.gov.pl/attachment/3cc890c7-2139-4ac1-9be4-dec22242011f  (BIP: 2026-08-31 08:27)
+-  [Nadleśnictwo Tychowo] Ogłoszenie o przetargu ustnym nieograniczonym na sprzedaż nieruchomości
+  https://www.gov.pl/attachment/45321c5a-a640-4248-9fba-cef39d178a3d  (BIP: 2026-08-31 08:01)
+-  [Nadleśnictwo Kędzierzyn] Zmiana w BIP: Informacja o kontrolach
+  https://www.gov.pl/web/nadlesnictwo-kedzierzyn/informacja-o-kontrolach  (BIP: 2026-08-31 11:11)
 
 ## P3 — sygnały
 
--  [Nadleśnictwo Rudnik] Spis aktualnych zarządzeń i decyzji Nadleśniczego Nadleśnictwa Rudnik - stan na 31 lipca 2026 r.
-  https://www.gov.pl/attachment/4b3e7279-e605-4a92-8117-904e2dcc68c6  (BIP: 2026-08-23 22:06)
 -  [Generalna Dyrekcja Ochrony Środowiska] Zawiadomienie Generalnego Dyrektora Ochrony Środowiska 21 sierpnia 2026 r., znak: DOOŚ-WDŚIII.420.26.2025.KP.21
   https://www.gov.pl/web/gdos/zawiadomienie-generalnego-dyrektora-ochrony-srodowiska-21-sierpnia-2026-r-znak-doos-wdsiii420262025kp21  (BIP: 2026-08-24 00:00)
 -  [Nadleśnictwo Mirosławiec] Uregulowania wewnętrzne 2026 (stan na dzień 18.08.2026)
@@ -457,6 +461,10 @@ Okno 7 dni · spraw 331 · publikacji 414 · obszary szczególne 21 · nieznanyc
   https://www.gov.pl/web/rdos-opole/informacja-o-publikacji-obwieszczenia-regionalnego-dyrektora-ochrony-srodowiska-w-opolu-nr-wpn6002372025-z-22-lipca-2026-r  (BIP: 2026-07-22 00:00)
 -  [Nadleśnictwo Oborniki] Zarządzenie nr 43/2026 Nadleśniczwgo Nadleśnictwa Oborniki z dnia 19 sierpnia 2026r. w sprawie wprowadzenia Planu Równości Płci w Nadleśnictwie Oborniki
   https://www.gov.pl/attachment/048f14bc-8257-423c-bef3-8417ebeeab46  (BIP: 2026-08-28 14:31)
+-  [Nadleśnictwo Ustrzyki Dolne] Wstępne ogłoszenie informacyjne - wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Ustrzyki Dolne w roku 2027
+  https://www.gov.pl/attachment/c838e956-9f89-41e7-838a-6229851545c9  (BIP: 2026-08-31 11:09)
+-  [Nadleśnictwo Kędzierzyn] wniosek o udostępnienie informacji
+  https://www.gov.pl/attachment/3a3b8a96-0478-4ade-90ce-c5aae5d56d53  (BIP: 2026-08-31 10:49)
 
 ## Niesklasyfikowane — czy któreś powinno mieć regułę?
 

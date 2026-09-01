@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-08-31 10:07 UTC
+# Leśne Echo — diagnostyka — 2026-09-01 08:42 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7667
-  artykul         4155
+  dokument        7675
+  artykul         4157
 
 ── wg szczebla ──
-  nadlesnictwo      8841
+  nadlesnictwo      8851
   rdos              1703
   rdlp               674
   ministerstwo       418
@@ -26,7 +26,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     528×  wydatkowanie srodkow cele
+     529×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      414×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
@@ -80,6 +80,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Łopuchówko] Załącznik nr 1 - zestawienie
       19×  zobacz wszystkie
           [Ministerstwo Klimatu i Środowiska] zobacz wszystkie
+      18×  ogloszenie wynikow przetargu
+          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       18×  informacja udzieleniu zamowienia
           [Nadleśnictwo Prószków] informacja_o_udzieleniu_zamówienia_SA.270.1.1.2023
       18×  raport stanie zapewniania
@@ -96,8 +98,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Bydgoszcz] Plan działalności Regionalnego Dyrektora Ochrony Środowiska w Bydgoszczy na 202
       16×  wniosek udzielenie informacji
           [RDLP Lublinie] Wniosek o udzielenie informacji
-      16×  ogloszenie wynikow przetargu
-          [Nadleśnictwo Brzeg] Ogłoszenie wyników przetargu
       15×  przyroda roznorodnosc biologiczna
           [Generalna Dyrekcja Ochrony Środowiska] Przyroda i różnorodność biologiczna
       15×  informacja petycjach
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 62924 wierszy z 466 źródeł
+Korpus: 63014 wierszy z 466 źródeł
 Źródeł zmapowanych: 464
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
     1993  Dyrekcja Generalna LP
-    1902  RDOŚ Kraków
-     781  RDLP Toruniu
+    1908  RDOŚ Kraków
+     782  RDLP Toruniu
      748  RDOŚ Gorzów Wlkp.
      705  Ministerstwo Klimatu i Środowiska
      580  RDOŚ Olsztyn
-     562  Generalna Dyrekcja Ochrony Środowiska
-     492  RDOŚ Wrocław
+     565  Generalna Dyrekcja Ochrony Środowiska
+     494  RDOŚ Wrocław
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     48574
-  rdos              7463
-  rdlp              3627
+  nadlesnictwo     48643
+  rdos              7476
+  rdlp              3632
   dglp              1993
   ministerstwo       705
-  gdos               562
+  gdos               565
 
 ```

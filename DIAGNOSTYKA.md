@@ -1,4 +1,4 @@
-# Leśne Echo — diagnostyka — 2026-09-01 08:42 UTC
+# Leśne Echo — diagnostyka — 2026-09-02 08:05 UTC
 
 ## Wersja reguł
 ```
@@ -13,11 +13,11 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 ```
 
 ── wg rodzaju ──
-  dokument        7675
-  artykul         4157
+  dokument        7689
+  artykul         4159
 
 ── wg szczebla ──
-  nadlesnictwo      8851
+  nadlesnictwo      8867
   rdos              1703
   rdlp               674
   ministerstwo       418
@@ -26,7 +26,7 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ── 70 NAJCZĘSTSZYCH WZORCÓW (z nich piszemy reguły) ──
 
-     529×  wydatkowanie srodkow cele
+     530×  wydatkowanie srodkow cele
           [Nadleśnictwo Augustów] Wydatkowanie środków na cele społecznie użyteczne w sierpniu 2024 roku
      414×  elektroniczna skrzynka podawcza
           [RDOŚ Katowice] Elektroniczna Skrzynka Podawcza RDOŚ w Katowicach
@@ -122,6 +122,8 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [Nadleśnictwo Pomorze] Ogłoszenie o wyniku przetargu
       14×  zg.0172.05.2024
           [Nadleśnictwo Starogard] ZG.0172.05.2024 - załącznik 1
+      14×  ogloszenia
+          [Nadleśnictwo Rudziniec] Załacznik Nr 1 do ogłoszenia
       14×  wniosek udostepnienie
           [Nadleśnictwo Wisła] Wniosek o udostępnienie
       14×  plan urzadzania lasu
@@ -138,8 +140,6 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
           [RDOŚ Białystok] Gatunki niebezpieczne
       13×  raport stanie dostepnosci
           [Nadleśnictwo Lębork] Raport_o_stanie_dostępności_podmiotu_publicznego
-      13×  ogloszenia
-          [Nadleśnictwo Rudziniec] Załacznik Nr 1 do ogłoszenia
       13×  korzystanie srodkow zewnetrznych
           [Nadleśnictwo Gorlice] Korzystanie ze środków zewnętrznych w 2025 roku
       13×  wydatkowanie cele spolecznie
@@ -173,27 +173,27 @@ id reguł           : bilp, ciecia-sanitarne, decyzja-srodowiskowa, derogacje, f
 
 ```
 
-Korpus: 63014 wierszy z 466 źródeł
+Korpus: 63142 wierszy z 466 źródeł
 Źródeł zmapowanych: 464
 🔴 ŹRÓDŁA BEZ ANI JEDNEGO WIERSZA: 0
 
 
 ── najwydajniejsze źródła ──
-    1993  Dyrekcja Generalna LP
-    1908  RDOŚ Kraków
+    1996  Dyrekcja Generalna LP
+    1909  RDOŚ Kraków
      782  RDLP Toruniu
-     748  RDOŚ Gorzów Wlkp.
+     752  RDOŚ Gorzów Wlkp.
      705  Ministerstwo Klimatu i Środowiska
      580  RDOŚ Olsztyn
-     565  Generalna Dyrekcja Ochrony Środowiska
-     494  RDOŚ Wrocław
+     567  Generalna Dyrekcja Ochrony Środowiska
+     496  RDOŚ Wrocław
 
 ── wierszy wg szczebla ──
-  nadlesnictwo     48643
-  rdos              7476
-  rdlp              3632
-  dglp              1993
+  nadlesnictwo     48735
+  rdos              7496
+  rdlp              3643
+  dglp              1996
   ministerstwo       705
-  gdos               565
+  gdos               567
 
 ```
